@@ -39,8 +39,11 @@ export function ToolsProvider({ children }) {
 
         const matchesCategory =
           filters.category === 'all' ||
-          (tool.categories && tool.categories.some(cat => 
-            cat.toLowerCase() === filters.category.toLowerCase()
+          (tool.category && tool.category.toLowerCase() === filters.category.toLowerCase()) ||
+          (tool.categories && (
+            Array.isArray(tool.categories) 
+              ? tool.categories.some(cat => cat.toLowerCase() === filters.category.toLowerCase())
+              : tool.categories.toLowerCase() === filters.category.toLowerCase()
           ))
 
         const matchesPricing =
@@ -71,11 +74,48 @@ export function ToolsProvider({ children }) {
   const categories = useMemo(() => {
     const uniqueCategories = new Set()
     tools.forEach(tool => {
+      // Handle single category
+      if (tool.category) {
+        uniqueCategories.add(tool.category)
+      }
+      // Handle multiple categories
       if (tool.categories) {
-        tool.categories.forEach(category => uniqueCategories.add(category))
+        if (Array.isArray(tool.categories)) {
+          tool.categories.forEach(category => {
+            if (category) uniqueCategories.add(category)
+          })
+        } else if (typeof tool.categories === 'string') {
+          uniqueCategories.add(tool.categories)
+        }
       }
     })
-    return Array.from(uniqueCategories).sort()
+    return Array.from(uniqueCategories)
+      .filter(Boolean)
+      .sort((a, b) => a.localeCompare(b))
+  }, [tools])
+
+  // Get tools count by category
+  const categoryStats = useMemo(() => {
+    const stats = {}
+    tools.forEach(tool => {
+      const addToStats = (category) => {
+        if (category) {
+          stats[category] = (stats[category] || 0) + 1
+        }
+      }
+
+      if (tool.category) {
+        addToStats(tool.category)
+      }
+      if (tool.categories) {
+        if (Array.isArray(tool.categories)) {
+          tool.categories.forEach(addToStats)
+        } else if (typeof tool.categories === 'string') {
+          addToStats(tool.categories)
+        }
+      }
+    })
+    return stats
   }, [tools])
 
   // Get unique pricing options from tools
@@ -86,7 +126,9 @@ export function ToolsProvider({ children }) {
         uniquePricing.add(tool.pricing)
       }
     })
-    return Array.from(uniquePricing).sort()
+    return Array.from(uniquePricing)
+      .filter(Boolean)
+      .sort((a, b) => a.localeCompare(b))
   }, [tools])
 
   const value = {
@@ -98,7 +140,8 @@ export function ToolsProvider({ children }) {
     loadTools,
     getFilteredTools,
     categories,
-    pricingOptions
+    pricingOptions,
+    categoryStats
   }
 
   return (
