@@ -1,16 +1,7 @@
-import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import { useInView } from 'react-intersection-observer'
 import { Link } from 'react-router-dom'
-import { Swiper, SwiperSlide } from 'swiper/react'
-import { Autoplay, Pagination, Navigation } from 'swiper/modules'
-import { FiSearch, FiTrendingUp, FiStar } from 'react-icons/fi'
+import { FiSearch, FiGrid, FiTrendingUp, FiStar, FiArrowRight } from 'react-icons/fi'
 import { useTools } from '../contexts/ToolsContext'
-
-// Import Swiper styles
-import 'swiper/css'
-import 'swiper/css/pagination'
-import 'swiper/css/navigation'
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 20 },
@@ -22,268 +13,194 @@ const staggerContainer = {
   visible: {
     opacity: 1,
     transition: {
-      staggerChildren: 0.2
+      staggerChildren: 0.1
     }
   }
 }
 
-const categories = [
-  { name: 'Text Generation', icon: '✍️' },
-  { name: 'Image Generation', icon: '🎨' },
-  { name: 'Video Creation', icon: '🎥' },
-  { name: 'Code Assistant', icon: '💻' },
-  { name: 'Audio Generation', icon: '🎵' },
-  { name: '3D Modeling', icon: '🎮' },
-]
-
-const features = [
-  {
-    title: 'Discover AI Tools',
-    description: 'Explore the latest and most powerful AI tools across various categories',
-    icon: FiSearch
-  },
-  {
-    title: 'Compare & Choose',
-    description: 'Make informed decisions with detailed comparisons and user reviews',
-    icon: FiStar
-  },
-  {
-    title: 'Stay Updated',
-    description: 'Keep track of trending tools and new releases in the AI space',
-    icon: FiTrendingUp
-  }
-]
-
 export default function Home() {
   const { tools } = useTools()
-  const [trendingTools, setTrendingTools] = useState([])
-  const [ref, inView] = useInView({
-    triggerOnce: true,
-    threshold: 0.1
-  })
 
-  useEffect(() => {
-    // Get top 6 tools by rating
-    const sorted = [...tools].sort((a, b) => b.rating - a.rating).slice(0, 6)
-    setTrendingTools(sorted)
-  }, [tools])
+  // Get top rated tools
+  const topTools = [...tools]
+    .sort((a, b) => b.rating - a.rating)
+    .slice(0, 3)
+
+  // Get trending categories
+  const trendingCategories = [
+    { name: 'Text Generation', count: 156, trend: '+12%' },
+    { name: 'Image Generation', count: 89, trend: '+28%' },
+    { name: 'Code Assistant', count: 67, trend: '+15%' },
+    { name: 'ChatBots', count: 45, trend: '+20%' }
+  ]
 
   return (
-    <div className="bg-white">
-      {/* Hero Section */}
-      <div className="relative isolate overflow-hidden bg-gradient-to-b from-blue-100/20">
-        <motion.div
-          initial="hidden"
-          animate="visible"
-          variants={staggerContainer}
-          className="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40"
-        >
+    <div className="min-h-screen bg-white">
+      {/* Hero Section with Search */}
+      <div className="bg-gradient-to-br from-blue-50 via-indigo-50 to-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
           <motion.div
-            variants={fadeInUp}
-            className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8"
+            initial="hidden"
+            animate="visible"
+            variants={staggerContainer}
+            className="text-center max-w-4xl mx-auto"
           >
-            <div className="mt-24 sm:mt-32 lg:mt-16">
-              <a href="#trending" className="inline-flex space-x-6">
-                <span className="rounded-full bg-blue-600/10 px-3 py-1 text-sm font-semibold leading-6 text-blue-600 ring-1 ring-inset ring-blue-600/10">
-                  What's new
-                </span>
-                <span className="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-600">
-                  <span>Just shipped v1.0</span>
-                </span>
-              </a>
-            </div>
             <motion.h1
               variants={fadeInUp}
-              className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl"
+              className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600"
             >
               Discover the Best AI Tools
             </motion.h1>
             <motion.p
               variants={fadeInUp}
-              className="mt-6 text-lg leading-8 text-gray-600"
+              className="text-xl text-gray-600 mb-8"
             >
-              Explore our curated collection of cutting-edge AI tools. Find the perfect solution for your needs, compare features, and stay ahead in the AI revolution.
+              Your gateway to 1000+ AI tools across 50+ categories
             </motion.p>
+
+            {/* Search Bar */}
             <motion.div
               variants={fadeInUp}
-              className="mt-10 flex items-center gap-x-6"
+              className="flex items-center max-w-2xl mx-auto bg-white rounded-full shadow-lg p-2 mb-8"
             >
+              <div className="flex-1 flex items-center">
+                <FiSearch className="ml-4 text-gray-400 w-5 h-5" />
+                <input
+                  type="text"
+                  placeholder="Search AI tools..."
+                  className="w-full px-4 py-2 focus:outline-none text-gray-700"
+                />
+              </div>
               <Link
                 to="/tools"
-                className="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-all duration-300"
+                className="px-6 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors duration-300"
               >
-                Explore Tools
-              </Link>
-              <Link
-                to="/categories"
-                className="text-sm font-semibold leading-6 text-gray-900 hover:text-blue-600 transition-all duration-300"
-              >
-                View Categories <span aria-hidden="true">→</span>
+                Search
               </Link>
             </motion.div>
+
+            {/* Quick Stats */}
+            <motion.div
+              variants={fadeInUp}
+              className="grid grid-cols-3 gap-8 max-w-3xl mx-auto"
+            >
+              <div className="text-center">
+                <div className="text-3xl font-bold text-blue-600">1000+</div>
+                <div className="text-sm text-gray-600">AI Tools</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-purple-600">50+</div>
+                <div className="text-sm text-gray-600">Categories</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-green-600">24/7</div>
+                <div className="text-sm text-gray-600">Updates</div>
+              </div>
+            </motion.div>
           </motion.div>
-        </motion.div>
+        </div>
       </div>
 
-      {/* Categories Section */}
-      <motion.div
-        ref={ref}
-        initial="hidden"
-        animate={inView ? "visible" : "hidden"}
-        variants={staggerContainer}
-        className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8"
-      >
-        <motion.h2
-          variants={fadeInUp}
-          className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl text-center mb-16"
-        >
-          Explore by Category
-        </motion.h2>
-        <div className="grid grid-cols-2 gap-8 sm:grid-cols-3 lg:grid-cols-6">
-          {categories.map((category, index) => (
+      {/* Featured Tools Section */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="flex items-center justify-between mb-8">
+          <h2 className="text-2xl font-bold text-gray-900">Top Rated Tools</h2>
+          <Link
+            to="/tools"
+            className="flex items-center text-blue-600 hover:text-blue-700 transition-colors duration-300"
+          >
+            View All
+            <FiArrowRight className="ml-2" />
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {topTools.map((tool) => (
             <motion.div
-              key={category.name}
-              variants={fadeInUp}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              className="relative flex flex-col items-center justify-center p-6 rounded-xl bg-white shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer group"
+              key={tool.id}
+              whileHover={{ y: -5 }}
+              className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
             >
-              <span className="text-4xl mb-4 transform group-hover:scale-110 transition-transform duration-300">
-                {category.icon}
-              </span>
-              <h3 className="text-sm font-semibold text-gray-900 text-center">
-                {category.name}
-              </h3>
+              <div className="aspect-w-16 aspect-h-9 bg-gray-100">
+                <img
+                  src={tool.image || 'https://via.placeholder.com/400x225?text=AI+Tool'}
+                  alt={tool.name}
+                  className="object-cover w-full h-full"
+                />
+              </div>
+              <div className="p-6">
+                <div className="flex items-center justify-between mb-4">
+                  <h3 className="text-lg font-semibold text-gray-900">{tool.name}</h3>
+                  <div className="flex items-center">
+                    <FiStar className="text-yellow-400 w-5 h-5" />
+                    <span className="ml-1 text-sm text-gray-600">{tool.rating.toFixed(1)}</span>
+                  </div>
+                </div>
+                <p className="text-sm text-gray-600 line-clamp-2 mb-4">{tool.description}</p>
+                <Link
+                  to={`/tools/${tool.id}`}
+                  className="flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-300"
+                >
+                  Learn More
+                </Link>
+              </div>
             </motion.div>
           ))}
         </div>
-      </motion.div>
+      </div>
 
-      {/* Features Section */}
-      <div className="bg-blue-50 py-24 sm:py-32">
-        <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <motion.div
-            initial="hidden"
-            whileInView="visible"
-            viewport={{ once: true }}
-            variants={staggerContainer}
-            className="mx-auto max-w-2xl text-center"
-          >
-            <motion.h2
-              variants={fadeInUp}
-              className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+      {/* Trending Categories */}
+      <div className="bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-2xl font-bold text-gray-900">Trending Categories</h2>
+            <Link
+              to="/categories"
+              className="flex items-center text-blue-600 hover:text-blue-700 transition-colors duration-300"
             >
-              Everything you need to find the perfect AI tool
-            </motion.h2>
-            <motion.p
-              variants={fadeInUp}
-              className="mt-6 text-lg leading-8 text-gray-600"
-            >
-              Our platform helps you discover, compare, and choose the best AI tools for your needs.
-            </motion.p>
-          </motion.div>
-          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
-            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
-              {features.map((feature) => (
-                <motion.div
-                  key={feature.title}
-                  whileHover={{ y: -10 }}
-                  className="flex flex-col bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300"
-                >
-                  <dt className="text-base font-semibold leading-7 text-gray-900">
-                    <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600">
-                      <feature.icon className="h-6 w-6 text-white" aria-hidden="true" />
-                    </div>
-                    {feature.title}
-                  </dt>
-                  <dd className="mt-1 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                    <p className="flex-auto">{feature.description}</p>
-                  </dd>
-                </motion.div>
-              ))}
-            </dl>
+              All Categories
+              <FiArrowRight className="ml-2" />
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {trendingCategories.map((category) => (
+              <motion.div
+                key={category.name}
+                whileHover={{ y: -5 }}
+                className="bg-white rounded-2xl shadow-lg p-6 transition-all duration-300 hover:shadow-xl"
+              >
+                <div className="flex items-center justify-between mb-4">
+                  <div className="p-3 rounded-lg bg-blue-100 text-blue-600">
+                    <FiGrid className="w-6 h-6" />
+                  </div>
+                  <div className="flex items-center text-green-600">
+                    <FiTrendingUp className="w-4 h-4 mr-1" />
+                    {category.trend}
+                  </div>
+                </div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">{category.name}</h3>
+                <p className="text-sm text-gray-600">{category.count} tools</p>
+              </motion.div>
+            ))}
           </div>
         </div>
       </div>
 
-      {/* Trending Tools Section */}
-      <div id="trending" className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
-        <motion.div
-          initial="hidden"
-          whileInView="visible"
-          viewport={{ once: true }}
-          variants={staggerContainer}
-          className="text-center mb-16"
-        >
-          <motion.h2
-            variants={fadeInUp}
-            className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+      {/* CTA Section */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl shadow-xl p-8 text-white text-center">
+          <h2 className="text-3xl font-bold mb-4">Ready to Explore?</h2>
+          <p className="text-lg mb-8 opacity-90">
+            Start discovering the perfect AI tools for your needs
+          </p>
+          <Link
+            to="/tools"
+            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors duration-300"
           >
-            Trending AI Tools
-          </motion.h2>
-          <motion.p
-            variants={fadeInUp}
-            className="mt-4 text-lg text-gray-600"
-          >
-            Discover the most popular AI tools right now
-          </motion.p>
-        </motion.div>
-
-        <Swiper
-          modules={[Autoplay, Pagination, Navigation]}
-          spaceBetween={30}
-          slidesPerView={1}
-          autoplay={{
-            delay: 5000,
-            disableOnInteraction: false,
-          }}
-          pagination={{ clickable: true }}
-          navigation
-          breakpoints={{
-            640: { slidesPerView: 2 },
-            1024: { slidesPerView: 3 },
-          }}
-          className="pb-12"
-        >
-          {trendingTools.map((tool) => (
-            <SwiperSlide key={tool.id}>
-              <motion.div
-                whileHover={{ y: -10 }}
-                className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
-              >
-                <div className="aspect-w-16 aspect-h-9 bg-gray-100">
-                  <img
-                    src={tool.image}
-                    alt={tool.name}
-                    className="object-cover w-full h-full"
-                  />
-                </div>
-                <div className="p-6">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                    {tool.name}
-                  </h3>
-                  <p className="text-sm text-gray-600 mb-4 line-clamp-2">
-                    {tool.description}
-                  </p>
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center">
-                      <FiStar className="text-yellow-400 w-5 h-5" />
-                      <span className="ml-2 text-sm text-gray-600">
-                        {tool.rating.toFixed(1)}
-                      </span>
-                    </div>
-                    <Link
-                      to={`/tools/${tool.id}`}
-                      className="text-blue-600 hover:text-blue-500 text-sm font-medium"
-                    >
-                      Learn more →
-                    </Link>
-                  </div>
-                </div>
-              </motion.div>
-            </SwiperSlide>
-          ))}
-        </Swiper>
+            Browse All Tools
+          </Link>
+        </div>
       </div>
     </div>
   )
