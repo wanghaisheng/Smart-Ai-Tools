@@ -19,23 +19,44 @@ function App() {
     <Router>
       <ToolsProvider>
         <ErrorBoundary>
-          <div className="min-h-screen flex flex-col">
+          <div className="min-h-screen flex flex-col bg-gray-50">
             <Navbar />
-            <main className="flex-grow">
-              <Suspense fallback={
-                <div className="min-h-[400px] flex items-center justify-center">
-                  <LoadingSpinner size="large" />
+            <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+              <Suspense 
+                fallback={
+                  <div className="min-h-[60vh] flex items-center justify-center">
+                    <div className="text-center">
+                      <LoadingSpinner size="large" />
+                      <p className="mt-4 text-sm text-gray-500">Loading content...</p>
+                    </div>
+                  </div>
+                }
+              >
+                <div className="fade-in">
+                  <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/tools" element={<Tools />} />
+                    <Route path="/tools/:id" element={<ToolDetail />} />
+                    <Route path="/submit-tool" element={<SubmitTool />} />
+                    <Route path="/categories" element={<Categories />} />
+                    <Route path="/about" element={<About />} />
+                    <Route 
+                      path="*" 
+                      element={
+                        <div className="text-center py-16">
+                          <h2 className="text-2xl font-bold text-gray-900 mb-4">Page Not Found</h2>
+                          <p className="text-gray-600 mb-8">The page you're looking for doesn't exist.</p>
+                          <button
+                            onClick={() => window.history.back()}
+                            className="btn btn-primary"
+                          >
+                            Go Back
+                          </button>
+                        </div>
+                      } 
+                    />
+                  </Routes>
                 </div>
-              }>
-                <Routes>
-                  <Route path="/" element={<Home />} />
-                  <Route path="/tools" element={<Tools />} />
-                  <Route path="/tools/:id" element={<ToolDetail />} />
-                  <Route path="/submit-tool" element={<SubmitTool />} />
-                  <Route path="/categories" element={<Categories />} />
-                  <Route path="/about" element={<About />} />
-                  <Route path="*" element={<Navigate to="/" replace />} />
-                </Routes>
               </Suspense>
             </main>
             <Footer />
