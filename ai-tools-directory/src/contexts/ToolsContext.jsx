@@ -1,9 +1,9 @@
-import { createContext, useContext, useState, useCallback, useMemo } from 'react'
+import { createContext, useContext, useState, useCallback, useMemo, useEffect } from 'react'
 import toolsData from '../data/tools.json'
 
 const ToolsContext = createContext()
 
-export function ToolsProvider({ children }) {
+export const ToolsProvider = ({ children }) => {
   const [tools, setTools] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -28,6 +28,11 @@ export function ToolsProvider({ children }) {
       setLoading(false)
     }
   }, [])
+
+  // Load tools on mount
+  useEffect(() => {
+    loadTools()
+  }, [loadTools])
 
   const getFilteredTools = useCallback(() => {
     return tools
@@ -151,7 +156,7 @@ export function ToolsProvider({ children }) {
   )
 }
 
-export function useTools() {
+export const useTools = () => {
   const context = useContext(ToolsContext)
   if (!context) {
     throw new Error('useTools must be used within a ToolsProvider')
