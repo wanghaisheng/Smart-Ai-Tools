@@ -1,6 +1,6 @@
+import { Fragment } from 'react'
 import { Link } from 'react-router-dom'
-import { useState } from 'react'
-import { Dialog } from '@headlessui/react'
+import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
@@ -10,92 +10,78 @@ const navigation = [
   { name: 'About', href: '/about' },
 ]
 
-export default function Navbar() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+function classNames(...classes) {
+  return classes.filter(Boolean).join(' ')
+}
 
+export default function Navbar() {
   return (
-    <header className="bg-white shadow">
-      <nav className="container mx-auto px-4" aria-label="Global">
-        <div className="flex items-center justify-between py-6">
-          <div className="flex lg:flex-1">
-            <Link to="/" className="-m-1.5 p-1.5">
-              <span className="text-2xl font-bold text-primary-600">AI Tools Directory</span>
-            </Link>
-          </div>
-          <div className="flex lg:hidden">
-            <button
-              type="button"
-              className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
-              onClick={() => setMobileMenuOpen(true)}
-            >
-              <span className="sr-only">Open main menu</span>
-              <Bars3Icon className="h-6 w-6" aria-hidden="true" />
-            </button>
-          </div>
-          <div className="hidden lg:flex lg:gap-x-12">
-            {navigation.map((item) => (
-              <Link
-                key={item.name}
-                to={item.href}
-                className="text-sm font-semibold leading-6 text-gray-900 hover:text-primary-600"
-              >
-                {item.name}
-              </Link>
-            ))}
-          </div>
-          <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <Link
-              to="#"
-              className="rounded-md bg-primary-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
-            >
-              Submit Tool
-            </Link>
-          </div>
-        </div>
-      </nav>
-      <Dialog as="div" className="lg:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
-        <div className="fixed inset-0 z-10" />
-        <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
-          <div className="flex items-center justify-between">
-            <Link to="/" className="-m-1.5 p-1.5">
-              <span className="text-2xl font-bold text-primary-600">AI Tools</span>
-            </Link>
-            <button
-              type="button"
-              className="-m-2.5 rounded-md p-2.5 text-gray-700"
-              onClick={() => setMobileMenuOpen(false)}
-            >
-              <span className="sr-only">Close menu</span>
-              <XMarkIcon className="h-6 w-6" aria-hidden="true" />
-            </button>
-          </div>
-          <div className="mt-6 flow-root">
-            <div className="-my-6 divide-y divide-gray-500/10">
-              <div className="space-y-2 py-6">
-                {navigation.map((item) => (
-                  <Link
-                    key={item.name}
-                    to={item.href}
-                    className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    {item.name}
+    <Disclosure as="nav" className="bg-white shadow">
+      {({ open }) => (
+        <>
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="flex h-16 justify-between">
+              <div className="flex">
+                <div className="flex flex-shrink-0 items-center">
+                  <Link to="/" className="text-xl font-bold text-primary-600">
+                    AI Tools Directory
                   </Link>
-                ))}
+                </div>
+                <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+                  {navigation.map((item) => (
+                    <Link
+                      key={item.name}
+                      to={item.href}
+                      className="inline-flex items-center border-b-2 border-transparent px-1 pt-1 text-sm font-medium text-gray-500 hover:border-gray-300 hover:text-gray-700"
+                    >
+                      {item.name}
+                    </Link>
+                  ))}
+                </div>
               </div>
-              <div className="py-6">
+              <div className="hidden sm:ml-6 sm:flex sm:items-center">
                 <Link
-                  to="#"
-                  className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
-                  onClick={() => setMobileMenuOpen(false)}
+                  to="/submit-tool"
+                  className="rounded-md bg-primary-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
                 >
                   Submit Tool
                 </Link>
               </div>
+              <div className="-mr-2 flex items-center sm:hidden">
+                {/* Mobile menu button */}
+                <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-primary-500">
+                  <span className="sr-only">Open main menu</span>
+                  {open ? (
+                    <XMarkIcon className="block h-6 w-6" aria-hidden="true" />
+                  ) : (
+                    <Bars3Icon className="block h-6 w-6" aria-hidden="true" />
+                  )}
+                </Disclosure.Button>
+              </div>
             </div>
           </div>
-        </Dialog.Panel>
-      </Dialog>
-    </header>
+
+          <Disclosure.Panel className="sm:hidden">
+            <div className="space-y-1 pb-3 pt-2">
+              {navigation.map((item) => (
+                <Link
+                  key={item.name}
+                  to={item.href}
+                  className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-500 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700"
+                >
+                  {item.name}
+                </Link>
+              ))}
+              <Link
+                to="/submit-tool"
+                className="block w-full px-3 py-2 text-center text-sm font-semibold text-white bg-primary-600 hover:bg-primary-500"
+              >
+                Submit Tool
+              </Link>
+            </div>
+          </Disclosure.Panel>
+        </>
+      )}
+    </Disclosure>
   )
 }
