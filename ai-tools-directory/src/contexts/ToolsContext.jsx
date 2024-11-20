@@ -1,141 +1,108 @@
-import { createContext, useContext, useReducer, useEffect } from 'react'
+import { createContext, useContext, useState, useCallback, useMemo } from 'react'
+import toolsData from '../data/tools.json'
 
 const ToolsContext = createContext()
 
-// Sample initial data
-const initialTools = [
-  {
-    id: 1,
-    name: 'ChatGPT',
-    description: 'Advanced language model for natural conversations and content generation',
-    category: 'text-generation',
-    pricing: 'freemium',
-    rating: 4.8,
-    reviewCount: 1250,
-    image: 'https://example.com/chatgpt.png',
-    features: ['Natural language processing', 'Content generation', 'Code assistance'],
-    tags: ['AI', 'Language Model', 'Chatbot'],
-  },
-  {
-    id: 2,
-    name: 'DALL-E',
-    description: 'AI system that creates realistic images and art from natural language descriptions',
-    category: 'image-generation',
-    pricing: 'paid',
-    rating: 4.7,
-    reviewCount: 890,
-    image: 'https://example.com/dalle.png',
-    features: ['Image generation', 'Art creation', 'Design assistance'],
-    tags: ['AI', 'Image Generation', 'Art'],
-  },
-  {
-    id: 3,
-    name: 'GitHub Copilot',
-    description: 'AI-powered code completion and suggestion tool',
-    category: 'code-generation',
-    pricing: 'paid',
-    rating: 4.6,
-    reviewCount: 750,
-    image: 'https://example.com/copilot.png',
-    features: ['Code completion', 'Smart suggestions', 'Multiple language support'],
-    tags: ['AI', 'Coding', 'Development'],
-  },
-]
-
-const initialState = {
-  tools: [],
-  isLoading: true,
-  error: null,
-}
-
-const toolsReducer = (state, action) => {
-  switch (action.type) {
-    case 'FETCH_TOOLS_START':
-      return {
-        ...state,
-        isLoading: true,
-        error: null,
-      }
-    case 'FETCH_TOOLS_SUCCESS':
-      return {
-        ...state,
-        tools: action.payload,
-        isLoading: false,
-        error: null,
-      }
-    case 'FETCH_TOOLS_ERROR':
-      return {
-        ...state,
-        isLoading: false,
-        error: action.payload,
-      }
-    case 'ADD_TOOL':
-      return {
-        ...state,
-        tools: [...state.tools, action.payload],
-      }
-    case 'UPDATE_TOOL':
-      return {
-        ...state,
-        tools: state.tools.map((tool) =>
-          tool.id === action.payload.id ? action.payload : tool
-        ),
-      }
-    case 'DELETE_TOOL':
-      return {
-        ...state,
-        tools: state.tools.filter((tool) => tool.id !== action.payload),
-      }
-    default:
-      return state
-  }
-}
-
 export function ToolsProvider({ children }) {
-  const [state, dispatch] = useReducer(toolsReducer, initialState)
+  const [tools, setTools] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+  const [filters, setFilters] = useState({
+    search: '',
+    category: 'all',
+    pricing: 'all',
+    sort: 'rating-desc'
+  })
 
-  // Simulate fetching tools from an API
-  useEffect(() => {
-    const fetchTools = async () => {
-      dispatch({ type: 'FETCH_TOOLS_START' })
-      try {
-        // Simulate API delay
-        await new Promise((resolve) => setTimeout(resolve, 1000))
-        dispatch({ type: 'FETCH_TOOLS_SUCCESS', payload: initialTools })
-      } catch (error) {
-        dispatch({
-          type: 'FETCH_TOOLS_ERROR',
-          payload: 'Failed to fetch tools. Please try again later.',
-        })
-      }
+  const loadTools = useCallback(async () => {
+    try {
+      setLoading(true)
+      setError(null)
+      // Simulate API delay
+      await new Promise(resolve => setTimeout(resolve, 800))
+      setTools(toolsData)
+    } catch (err) {
+      setError('Failed to load tools. Please try again.')
+      console.error('Error loading tools:', err)
+    } finally {
+      setLoading(false)
     }
-
-    fetchTools()
   }, [])
 
-  const addTool = (tool) => {
-    dispatch({ type: 'ADD_TOOL', payload: { ...tool, id: Date.now() } })
-  }
+  const getFilteredTools = useCallback(() => {
+    return tools
+      .filter((tool) => {
+        const matchesSearch =
+          filters.search === '' ||
+          tool.name.toLowerCase().includes(filters.search.toLowerCase()) ||
+          tool.description.toLowerCase().includes(filters.search.toLowerCase())
 
-  const updateTool = (tool) => {
-    dispatch({ type: 'UPDATE_TOOL', payload: tool })
-  }
+        const matchesCategory =
+          filters.category === 'all' ||
+          (tool.categories && tool.categories.some(cat => 
+            cat.toLowerCase() === filters.category.toLowerCase()
+          ))
 
-  const deleteTool = (id) => {
-    dispatch({ type: 'DELETE_TOOL', payload: id })
+        const matchesPricing =
+          filters.pricing === 'all' ||
+          (tool.pricing && tool.pricing.toLowerCase() === filters.pricing.toLowerCase())
+
+        return matchesSearch && matchesCategory && matchesPricing
+      })
+      .sort((a, b) => {
+        switch (filters.sort) {
+          case 'rating-desc':
+            return b.rating - a.rating
+          case 'rating-asc':
+            return a.rating - b.rating
+          case 'reviews-desc':
+            return b.reviewCount - a.reviewCount
+          case 'name-asc':
+            return a.name.localeCompare(b.name)
+          case 'name-desc':
+            return b.name.localeCompare(a.name)
+          default:
+            return 0
+        }
+      })
+  }, [tools, filters])
+
+  // Get unique categories from tools
+  const categories = useMemo(() => {
+    const uniqueCategories = new Set()
+    tools.forEach(tool => {
+      if (tool.categories) {
+        tool.categories.forEach(category => uniqueCategories.add(category))
+      }
+    })
+    return Array.from(uniqueCategories).sort()
+  }, [tools])
+
+  // Get unique pricing options from tools
+  const pricingOptions = useMemo(() => {
+    const uniquePricing = new Set()
+    tools.forEach(tool => {
+      if (tool.pricing) {
+        uniquePricing.add(tool.pricing)
+      }
+    })
+    return Array.from(uniquePricing).sort()
+  }, [tools])
+
+  const value = {
+    tools,
+    loading,
+    error,
+    filters,
+    setFilters,
+    loadTools,
+    getFilteredTools,
+    categories,
+    pricingOptions
   }
 
   return (
-    <ToolsContext.Provider
-      value={{
-        tools: state.tools,
-        isLoading: state.isLoading,
-        error: state.error,
-        addTool,
-        updateTool,
-        deleteTool,
-      }}
-    >
+    <ToolsContext.Provider value={value}>
       {children}
     </ToolsContext.Provider>
   )

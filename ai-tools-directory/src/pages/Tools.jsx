@@ -1,104 +1,135 @@
-import { useState, useMemo } from 'react'
+import { useEffect, useState } from 'react'
 import { useTools } from '../contexts/ToolsContext'
 import ToolsFilter from '../components/ToolsFilter'
 import ToolCard from '../components/ToolCard'
 import LoadingSpinner from '../components/LoadingSpinner'
 
 export default function Tools() {
-  const { tools, isLoading, error } = useTools()
-  const [filters, setFilters] = useState({
-    search: '',
-    category: 'all',
-    pricing: 'all',
-    sort: 'rating-desc',
-  })
+  const { loading, error, loadTools, getFilteredTools, setFilters } = useTools()
+  const [currentPage, setCurrentPage] = useState(1)
+  const toolsPerPage = 12
 
-  const filteredTools = useMemo(() => {
-    return tools
-      .filter((tool) => {
-        const matchesSearch =
-          filters.search === '' ||
-          tool.name.toLowerCase().includes(filters.search.toLowerCase()) ||
-          tool.description.toLowerCase().includes(filters.search.toLowerCase())
+  useEffect(() => {
+    loadTools()
+  }, [loadTools])
 
-        const matchesCategory =
-          filters.category === 'all' || 
-          tool.category.toLowerCase() === filters.category.toLowerCase()
+  const filteredTools = getFilteredTools()
+  const totalPages = Math.ceil(filteredTools.length / toolsPerPage)
+  const currentTools = filteredTools.slice(
+    (currentPage - 1) * toolsPerPage,
+    currentPage * toolsPerPage
+  )
 
-        const matchesPricing =
-          filters.pricing === 'all' || 
-          tool.pricing.toLowerCase() === filters.pricing.toLowerCase()
+  const handleFilterChange = (filters) => {
+    setFilters(filters)
+    setCurrentPage(1) // Reset to first page when filters change
+  }
 
-        return matchesSearch && matchesCategory && matchesPricing
-      })
-      .sort((a, b) => {
-        switch (filters.sort) {
-          case 'rating-desc':
-            return b.rating - a.rating
-          case 'rating-asc':
-            return a.rating - b.rating
-          case 'reviews-desc':
-            return b.reviewCount - a.reviewCount
-          case 'name-asc':
-            return a.name.localeCompare(b.name)
-          case 'name-desc':
-            return b.name.localeCompare(a.name)
-          default:
-            return 0
-        }
-      })
-  }, [tools, filters])
-
-  if (isLoading) {
+  if (loading) {
     return (
-      <div className="min-h-[400px] flex items-center justify-center">
-        <LoadingSpinner size="large" />
+      <div className="min-h-[60vh] flex items-center justify-center">
+        <div className="text-center">
+          <LoadingSpinner size="large" />
+          <p className="mt-4 text-sm text-gray-500">Loading AI tools...</p>
+        </div>
       </div>
     )
   }
 
   if (error) {
     return (
-      <div className="min-h-[400px] flex items-center justify-center">
+      <div className="min-h-[60vh] flex items-center justify-center">
         <div className="text-center">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">Error</h2>
-          <p className="text-gray-600">{error}</p>
+          <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-red-100">
+            <svg
+              className="h-6 w-6 text-red-600"
+              fill="none"
+              viewBox="0 0 24 24"
+              strokeWidth="1.5"
+              stroke="currentColor"
+              aria-hidden="true"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+              />
+            </svg>
+          </div>
+          <h3 className="mt-2 text-sm font-semibold text-gray-900">Error loading tools</h3>
+          <p className="mt-1 text-sm text-gray-500">{error}</p>
+          <div className="mt-6">
+            <button
+              onClick={() => loadTools()}
+              className="btn btn-primary"
+            >
+              Try again
+            </button>
+          </div>
         </div>
       </div>
     )
   }
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="max-w-2xl mx-auto text-center mb-12">
-        <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-          AI Tools Directory
-        </h1>
-        <p className="mt-6 text-lg leading-8 text-gray-600">
-          Discover and compare the best AI tools to enhance your workflow and boost productivity.
-        </p>
-      </div>
+    <div className="fade-in">
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col gap-6">
+          {/* Header */}
+          <div className="sm:flex sm:items-center">
+            <div className="sm:flex-auto">
+              <h1 className="text-2xl font-semibold text-gray-900">AI Tools Directory</h1>
+              <p className="mt-2 text-sm text-gray-700">
+                Discover and compare {filteredTools.length} cutting-edge AI tools across various categories.
+              </p>
+            </div>
+          </div>
 
-      <ToolsFilter onFilterChange={setFilters} />
+          {/* Filters */}
+          <ToolsFilter onFilterChange={handleFilterChange} />
 
-      <div className="mb-6 text-sm text-gray-500">
-        {filteredTools.length} tools found
-      </div>
+          {/* Tools Grid */}
+          {currentTools.length > 0 ? (
+            <>
+              <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {currentTools.map((tool) => (
+                  <ToolCard key={tool.id} tool={tool} />
+                ))}
+              </div>
 
-      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {filteredTools.map((tool) => (
-          <ToolCard key={tool.id} tool={tool} />
-        ))}
-      </div>
-
-      {filteredTools.length === 0 && (
-        <div className="text-center py-12">
-          <h3 className="text-lg font-semibold text-gray-900">No tools found</h3>
-          <p className="mt-2 text-gray-500">
-            Try adjusting your filters or search term to find what you're looking for.
-          </p>
+              {/* Pagination */}
+              {totalPages > 1 && (
+                <div className="mt-8 flex items-center justify-center space-x-2">
+                  <button
+                    onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                    disabled={currentPage === 1}
+                    className="btn btn-secondary"
+                  >
+                    Previous
+                  </button>
+                  <span className="text-sm text-gray-700">
+                    Page {currentPage} of {totalPages}
+                  </span>
+                  <button
+                    onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                    disabled={currentPage === totalPages}
+                    className="btn btn-secondary"
+                  >
+                    Next
+                  </button>
+                </div>
+              )}
+            </>
+          ) : (
+            <div className="text-center py-12">
+              <h3 className="mt-2 text-sm font-semibold text-gray-900">No tools found</h3>
+              <p className="mt-1 text-sm text-gray-500">
+                Try adjusting your filters to find what you're looking for.
+              </p>
+            </div>
+          )}
         </div>
-      )}
+      </div>
     </div>
   )
 }
