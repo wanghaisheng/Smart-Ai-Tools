@@ -1,4 +1,4 @@
-import { createContext, useContext, useReducer } from 'react'
+import { createContext, useContext, useReducer, useEffect } from 'react'
 
 const ToolsContext = createContext()
 
@@ -42,12 +42,38 @@ const initialTools = [
   },
 ]
 
+const initialState = {
+  tools: [],
+  isLoading: true,
+  error: null,
+}
+
 const toolsReducer = (state, action) => {
   switch (action.type) {
-    case 'SET_TOOLS':
-      return { ...state, tools: action.payload }
+    case 'FETCH_TOOLS_START':
+      return {
+        ...state,
+        isLoading: true,
+        error: null,
+      }
+    case 'FETCH_TOOLS_SUCCESS':
+      return {
+        ...state,
+        tools: action.payload,
+        isLoading: false,
+        error: null,
+      }
+    case 'FETCH_TOOLS_ERROR':
+      return {
+        ...state,
+        isLoading: false,
+        error: action.payload,
+      }
     case 'ADD_TOOL':
-      return { ...state, tools: [...state.tools, action.payload] }
+      return {
+        ...state,
+        tools: [...state.tools, action.payload],
+      }
     case 'UPDATE_TOOL':
       return {
         ...state,
@@ -60,21 +86,32 @@ const toolsReducer = (state, action) => {
         ...state,
         tools: state.tools.filter((tool) => tool.id !== action.payload),
       }
-    case 'SET_LOADING':
-      return { ...state, isLoading: action.payload }
-    case 'SET_ERROR':
-      return { ...state, error: action.payload }
     default:
       return state
   }
 }
 
 export function ToolsProvider({ children }) {
-  const [state, dispatch] = useReducer(toolsReducer, {
-    tools: initialTools,
-    isLoading: false,
-    error: null,
-  })
+  const [state, dispatch] = useReducer(toolsReducer, initialState)
+
+  // Simulate fetching tools from an API
+  useEffect(() => {
+    const fetchTools = async () => {
+      dispatch({ type: 'FETCH_TOOLS_START' })
+      try {
+        // Simulate API delay
+        await new Promise((resolve) => setTimeout(resolve, 1000))
+        dispatch({ type: 'FETCH_TOOLS_SUCCESS', payload: initialTools })
+      } catch (error) {
+        dispatch({
+          type: 'FETCH_TOOLS_ERROR',
+          payload: 'Failed to fetch tools. Please try again later.',
+        })
+      }
+    }
+
+    fetchTools()
+  }, [])
 
   const addTool = (tool) => {
     dispatch({ type: 'ADD_TOOL', payload: { ...tool, id: Date.now() } })
@@ -88,14 +125,6 @@ export function ToolsProvider({ children }) {
     dispatch({ type: 'DELETE_TOOL', payload: id })
   }
 
-  const setLoading = (isLoading) => {
-    dispatch({ type: 'SET_LOADING', payload: isLoading })
-  }
-
-  const setError = (error) => {
-    dispatch({ type: 'SET_ERROR', payload: error })
-  }
-
   return (
     <ToolsContext.Provider
       value={{
@@ -105,8 +134,6 @@ export function ToolsProvider({ children }) {
         addTool,
         updateTool,
         deleteTool,
-        setLoading,
-        setError,
       }}
     >
       {children}

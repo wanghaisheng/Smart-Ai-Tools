@@ -4,48 +4,8 @@ import ToolsFilter from '../components/ToolsFilter'
 import ToolCard from '../components/ToolCard'
 import LoadingSpinner from '../components/LoadingSpinner'
 
-const tools = [
-  {
-    id: 1,
-    name: 'ChatGPT',
-    description: 'Advanced language model for natural conversations and content generation',
-    category: 'Text Generation',
-    pricing: 'Freemium',
-    rating: 4.8,
-    imageUrl: 'https://placeholder.com/400x300',
-    url: 'https://chat.openai.com',
-  },
-  {
-    id: 2,
-    name: 'DALL-E',
-    description: 'AI system that creates realistic images and art from natural language descriptions',
-    category: 'Image Generation',
-    pricing: 'Pay per use',
-    rating: 4.7,
-    imageUrl: 'https://placeholder.com/400x300',
-    url: 'https://labs.openai.com',
-  },
-  // Add more tools here
-]
-
-const filters = {
-  categories: [
-    { value: 'text-generation', label: 'Text Generation' },
-    { value: 'image-generation', label: 'Image Generation' },
-    { value: 'code-generation', label: 'Code Generation' },
-    { value: 'audio-speech', label: 'Audio & Speech' },
-  ],
-  pricing: [
-    { value: 'free', label: 'Free' },
-    { value: 'freemium', label: 'Freemium' },
-    { value: 'paid', label: 'Paid' },
-  ],
-}
-
 export default function Tools() {
-  const [selectedCategories, setSelectedCategories] = useState([])
-  const [selectedPricing, setSelectedPricing] = useState([])
-  const [searchQuery, setSearchQuery] = useState('')
+  const { tools, isLoading, error } = useTools()
   const [filters, setFilters] = useState({
     search: '',
     category: 'all',
@@ -62,10 +22,12 @@ export default function Tools() {
           tool.description.toLowerCase().includes(filters.search.toLowerCase())
 
         const matchesCategory =
-          filters.category === 'all' || tool.category === filters.category
+          filters.category === 'all' || 
+          tool.category.toLowerCase() === filters.category.toLowerCase()
 
         const matchesPricing =
-          filters.pricing === 'all' || tool.pricing === filters.pricing
+          filters.pricing === 'all' || 
+          tool.pricing.toLowerCase() === filters.pricing.toLowerCase()
 
         return matchesSearch && matchesCategory && matchesPricing
       })
@@ -87,8 +49,27 @@ export default function Tools() {
       })
   }, [tools, filters])
 
+  if (isLoading) {
+    return (
+      <div className="min-h-[400px] flex items-center justify-center">
+        <LoadingSpinner size="large" />
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-[400px] flex items-center justify-center">
+        <div className="text-center">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">Error</h2>
+          <p className="text-gray-600">{error}</p>
+        </div>
+      </div>
+    )
+  }
+
   return (
-    <div className="container py-8">
+    <div className="container mx-auto px-4 py-8">
       <div className="max-w-2xl mx-auto text-center mb-12">
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
           AI Tools Directory

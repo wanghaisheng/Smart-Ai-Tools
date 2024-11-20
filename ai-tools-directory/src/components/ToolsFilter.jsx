@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { MagnifyingGlassIcon, FunnelIcon } from '@heroicons/react/20/solid'
+import { MagnifyingGlassIcon } from '@heroicons/react/20/solid'
 
 const categories = [
   { id: 'all', name: 'All Categories' },
@@ -40,7 +40,7 @@ export default function ToolsFilter({ onFilterChange }) {
   }
 
   return (
-    <div className="bg-white shadow rounded-lg p-6 mb-8">
+    <div className="bg-white shadow rounded-lg p-6 mb-8 slide-in">
       {/* Search */}
       <div className="mb-6">
         <div className="relative">
