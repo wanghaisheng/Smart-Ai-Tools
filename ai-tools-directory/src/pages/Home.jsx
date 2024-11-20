@@ -1,113 +1,289 @@
+import { useState, useEffect } from 'react'
+import { motion } from 'framer-motion'
+import { useInView } from 'react-intersection-observer'
 import { Link } from 'react-router-dom'
+import { Swiper, SwiperSlide } from 'swiper/react'
+import { Autoplay, Pagination, Navigation } from 'swiper/modules'
+import { FiSearch, FiTrendingUp, FiStar } from 'react-icons/fi'
+import { useTools } from '../contexts/ToolsContext'
+
+// Import Swiper styles
+import 'swiper/css'
+import 'swiper/css/pagination'
+import 'swiper/css/navigation'
+
+const fadeInUp = {
+  hidden: { opacity: 0, y: 20 },
+  visible: { opacity: 1, y: 0 }
+}
+
+const staggerContainer = {
+  hidden: { opacity: 0 },
+  visible: {
+    opacity: 1,
+    transition: {
+      staggerChildren: 0.2
+    }
+  }
+}
 
 const categories = [
+  { name: 'Text Generation', icon: '✍️' },
+  { name: 'Image Generation', icon: '🎨' },
+  { name: 'Video Creation', icon: '🎥' },
+  { name: 'Code Assistant', icon: '💻' },
+  { name: 'Audio Generation', icon: '🎵' },
+  { name: '3D Modeling', icon: '🎮' },
+]
+
+const features = [
   {
-    name: 'Text Generation',
-    description: 'Create, edit, and enhance text content with AI',
-    href: '/categories/text-generation',
-    icon: (
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25H12" />
-      </svg>
-    ),
+    title: 'Discover AI Tools',
+    description: 'Explore the latest and most powerful AI tools across various categories',
+    icon: FiSearch
   },
   {
-    name: 'Image Generation',
-    description: 'Create and edit images using AI technology',
-    href: '/categories/image-generation',
-    icon: (
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
-      </svg>
-    ),
+    title: 'Compare & Choose',
+    description: 'Make informed decisions with detailed comparisons and user reviews',
+    icon: FiStar
   },
   {
-    name: 'Code Generation',
-    description: 'Generate and analyze code with AI assistance',
-    href: '/categories/code-generation',
-    icon: (
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
-      </svg>
-    ),
-  },
-  {
-    name: 'Audio & Speech',
-    description: 'Process and generate audio content using AI',
-    href: '/categories/audio-speech',
-    icon: (
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M12 18.75a6 6 0 006-6v-1.5m-6 7.5a6 6 0 01-6-6v-1.5m6 7.5v3.75m-3.75 0h7.5M12 15.75a3 3 0 01-3-3V4.5a3 3 0 116 0v8.25a3 3 0 01-3 3z" />
-      </svg>
-    ),
-  },
+    title: 'Stay Updated',
+    description: 'Keep track of trending tools and new releases in the AI space',
+    icon: FiTrendingUp
+  }
 ]
 
 export default function Home() {
+  const { tools } = useTools()
+  const [trendingTools, setTrendingTools] = useState([])
+  const [ref, inView] = useInView({
+    triggerOnce: true,
+    threshold: 0.1
+  })
+
+  useEffect(() => {
+    // Get top 6 tools by rating
+    const sorted = [...tools].sort((a, b) => b.rating - a.rating).slice(0, 6)
+    setTrendingTools(sorted)
+  }, [tools])
+
   return (
     <div className="bg-white">
-      {/* Hero section */}
-      <div className="relative isolate overflow-hidden bg-gradient-to-b from-primary-100/20">
-        <div className="mx-auto max-w-7xl pb-24 pt-10 sm:pb-32 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:px-8 lg:py-40">
-          <div className="px-6 lg:px-0 lg:pt-4">
-            <div className="mx-auto max-w-2xl">
-              <div className="max-w-lg">
-                <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                  Discover the Best AI Tools
-                </h1>
-                <p className="mt-6 text-lg leading-8 text-gray-600">
-                  Explore our comprehensive directory of AI tools and find the perfect solution for your needs. From text generation to image creation, we've got you covered.
-                </p>
-                <div className="mt-10 flex items-center gap-x-6">
-                  <Link
-                    to="/tools"
-                    className="rounded-md bg-primary-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600"
-                  >
-                    Explore Tools
-                  </Link>
-                  <Link to="/about" className="text-sm font-semibold leading-6 text-gray-900">
-                    Learn more <span aria-hidden="true">→</span>
-                  </Link>
-                </div>
-              </div>
+      {/* Hero Section */}
+      <div className="relative isolate overflow-hidden bg-gradient-to-b from-blue-100/20">
+        <motion.div
+          initial="hidden"
+          animate="visible"
+          variants={staggerContainer}
+          className="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40"
+        >
+          <motion.div
+            variants={fadeInUp}
+            className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8"
+          >
+            <div className="mt-24 sm:mt-32 lg:mt-16">
+              <a href="#trending" className="inline-flex space-x-6">
+                <span className="rounded-full bg-blue-600/10 px-3 py-1 text-sm font-semibold leading-6 text-blue-600 ring-1 ring-inset ring-blue-600/10">
+                  What's new
+                </span>
+                <span className="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-600">
+                  <span>Just shipped v1.0</span>
+                </span>
+              </a>
             </div>
+            <motion.h1
+              variants={fadeInUp}
+              className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl"
+            >
+              Discover the Best AI Tools
+            </motion.h1>
+            <motion.p
+              variants={fadeInUp}
+              className="mt-6 text-lg leading-8 text-gray-600"
+            >
+              Explore our curated collection of cutting-edge AI tools. Find the perfect solution for your needs, compare features, and stay ahead in the AI revolution.
+            </motion.p>
+            <motion.div
+              variants={fadeInUp}
+              className="mt-10 flex items-center gap-x-6"
+            >
+              <Link
+                to="/tools"
+                className="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-all duration-300"
+              >
+                Explore Tools
+              </Link>
+              <Link
+                to="/categories"
+                className="text-sm font-semibold leading-6 text-gray-900 hover:text-blue-600 transition-all duration-300"
+              >
+                View Categories <span aria-hidden="true">→</span>
+              </Link>
+            </motion.div>
+          </motion.div>
+        </motion.div>
+      </div>
+
+      {/* Categories Section */}
+      <motion.div
+        ref={ref}
+        initial="hidden"
+        animate={inView ? "visible" : "hidden"}
+        variants={staggerContainer}
+        className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8"
+      >
+        <motion.h2
+          variants={fadeInUp}
+          className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl text-center mb-16"
+        >
+          Explore by Category
+        </motion.h2>
+        <div className="grid grid-cols-2 gap-8 sm:grid-cols-3 lg:grid-cols-6">
+          {categories.map((category, index) => (
+            <motion.div
+              key={category.name}
+              variants={fadeInUp}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="relative flex flex-col items-center justify-center p-6 rounded-xl bg-white shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer group"
+            >
+              <span className="text-4xl mb-4 transform group-hover:scale-110 transition-transform duration-300">
+                {category.icon}
+              </span>
+              <h3 className="text-sm font-semibold text-gray-900 text-center">
+                {category.name}
+              </h3>
+            </motion.div>
+          ))}
+        </div>
+      </motion.div>
+
+      {/* Features Section */}
+      <div className="bg-blue-50 py-24 sm:py-32">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <motion.div
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            variants={staggerContainer}
+            className="mx-auto max-w-2xl text-center"
+          >
+            <motion.h2
+              variants={fadeInUp}
+              className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+            >
+              Everything you need to find the perfect AI tool
+            </motion.h2>
+            <motion.p
+              variants={fadeInUp}
+              className="mt-6 text-lg leading-8 text-gray-600"
+            >
+              Our platform helps you discover, compare, and choose the best AI tools for your needs.
+            </motion.p>
+          </motion.div>
+          <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+            <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
+              {features.map((feature) => (
+                <motion.div
+                  key={feature.title}
+                  whileHover={{ y: -10 }}
+                  className="flex flex-col bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300"
+                >
+                  <dt className="text-base font-semibold leading-7 text-gray-900">
+                    <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600">
+                      <feature.icon className="h-6 w-6 text-white" aria-hidden="true" />
+                    </div>
+                    {feature.title}
+                  </dt>
+                  <dd className="mt-1 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                    <p className="flex-auto">{feature.description}</p>
+                  </dd>
+                </motion.div>
+              ))}
+            </dl>
           </div>
         </div>
       </div>
 
-      {/* Categories section */}
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl lg:text-center">
-          <h2 className="text-base font-semibold leading-7 text-primary-600">Categories</h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            Browse by Category
-          </p>
-          <p className="mt-6 text-lg leading-8 text-gray-600">
-            Explore our curated collection of AI tools organized by category to find the perfect solution for your needs.
-          </p>
-        </div>
-        <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
-          <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-4">
-            {categories.map((category) => (
-              <div key={category.name} className="flex flex-col">
-                <dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
-                  <div className="h-10 w-10 flex items-center justify-center rounded-lg bg-primary-600 text-white">
-                    {category.icon}
-                  </div>
-                  {category.name}
-                </dt>
-                <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
-                  <p className="flex-auto">{category.description}</p>
-                  <p className="mt-6">
-                    <Link to={category.href} className="text-sm font-semibold leading-6 text-primary-600">
-                      Learn more <span aria-hidden="true">→</span>
-                    </Link>
+      {/* Trending Tools Section */}
+      <div id="trending" className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8">
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={staggerContainer}
+          className="text-center mb-16"
+        >
+          <motion.h2
+            variants={fadeInUp}
+            className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+          >
+            Trending AI Tools
+          </motion.h2>
+          <motion.p
+            variants={fadeInUp}
+            className="mt-4 text-lg text-gray-600"
+          >
+            Discover the most popular AI tools right now
+          </motion.p>
+        </motion.div>
+
+        <Swiper
+          modules={[Autoplay, Pagination, Navigation]}
+          spaceBetween={30}
+          slidesPerView={1}
+          autoplay={{
+            delay: 5000,
+            disableOnInteraction: false,
+          }}
+          pagination={{ clickable: true }}
+          navigation
+          breakpoints={{
+            640: { slidesPerView: 2 },
+            1024: { slidesPerView: 3 },
+          }}
+          className="pb-12"
+        >
+          {trendingTools.map((tool) => (
+            <SwiperSlide key={tool.id}>
+              <motion.div
+                whileHover={{ y: -10 }}
+                className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
+              >
+                <div className="aspect-w-16 aspect-h-9 bg-gray-100">
+                  <img
+                    src={tool.image}
+                    alt={tool.name}
+                    className="object-cover w-full h-full"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                    {tool.name}
+                  </h3>
+                  <p className="text-sm text-gray-600 mb-4 line-clamp-2">
+                    {tool.description}
                   </p>
-                </dd>
-              </div>
-            ))}
-          </dl>
-        </div>
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center">
+                      <FiStar className="text-yellow-400 w-5 h-5" />
+                      <span className="ml-2 text-sm text-gray-600">
+                        {tool.rating.toFixed(1)}
+                      </span>
+                    </div>
+                    <Link
+                      to={`/tools/${tool.id}`}
+                      className="text-blue-600 hover:text-blue-500 text-sm font-medium"
+                    >
+                      Learn more →
+                    </Link>
+                  </div>
+                </div>
+              </motion.div>
+            </SwiperSlide>
+          ))}
+        </Swiper>
       </div>
     </div>
   )
