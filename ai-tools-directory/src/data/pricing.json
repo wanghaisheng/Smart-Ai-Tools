@@ -1,0 +1,25 @@
+{
+  "pricing_rules": [
+    {
+      "type": "free",
+      "keywords": ["free", "github.com", "open-source", "opensource"],
+      "domains": ["github.com", "gitlab.com"]
+    },
+    {
+      "type": "freemium",
+      "keywords": ["freemium", "trial", "basic"],
+      "domains": []
+    },
+    {
+      "type": "paid",
+      "keywords": ["premium", "pro", "subscription"],
+      "domains": []
+    },
+    {
+      "type": "contact-for-price",
+      "keywords": ["enterprise", "business", "custom pricing"],
+      "domains": []
+    }
+  ],
+  "default_pricing": "freemium"
+}

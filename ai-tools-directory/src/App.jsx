@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Suspense, lazy } from 'react'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -11,7 +11,7 @@ const Home = lazy(() => import('./pages/Home'))
 const Tools = lazy(() => import('./pages/Tools'))
 const Categories = lazy(() => import('./pages/Categories'))
 const About = lazy(() => import('./pages/About'))
-const ToolDetail = lazy(() => import('./pages/ToolDetail'))
+const ToolDetails = lazy(() => import('./pages/ToolDetails'))
 const SubmitTool = lazy(() => import('./pages/SubmitTool'))
 
 function App() {
@@ -36,7 +36,7 @@ function App() {
                   <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/tools" element={<Tools />} />
-                    <Route path="/tools/:id" element={<ToolDetail />} />
+                    <Route path="/tool/:id" element={<ToolDetails />} />
                     <Route path="/submit-tool" element={<SubmitTool />} />
                     <Route path="/categories" element={<Categories />} />
                     <Route path="/about" element={<About />} />

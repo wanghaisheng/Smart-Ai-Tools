@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { useTools } from '../contexts/ToolsContext'
 import { FiSearch, FiFilter, FiStar, FiExternalLink } from 'react-icons/fi'
 import { useSearchParams } from 'react-router-dom'
+import ToolCard from '../components/ToolCard'
 
 const ITEMS_PER_PAGE = 28 // 4 tools per row × 7 rows
 const ITEMS_PER_ROW = 4
@@ -230,137 +231,64 @@ export default function Tools() {
           initial="hidden"
           animate="visible"
           variants={staggerContainer}
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
         >
           {paginatedTools.map((tool) => (
             <motion.div
               key={tool.id}
               variants={fadeInUp}
-              whileHover={{ y: -10 }}
-              className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
+              className="h-full"
             >
-              <div className="aspect-w-16 aspect-h-9 bg-gray-100">
-                <img
-                  src={tool.image || 'https://via.placeholder.com/400x225?text=AI+Tool'}
-                  alt={tool.name}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="p-6">
-                <div className="flex items-center justify-between mb-4">
-                  <h3 className="text-lg font-semibold text-gray-900 truncate">
-                    {tool.name}
-                  </h3>
-                  <div className="flex items-center">
-                    <FiStar className="text-yellow-400 w-5 h-5" />
-                    <span className="ml-1 text-sm text-gray-600">
-                      {tool.rating.toFixed(1)}
-                    </span>
-                  </div>
-                </div>
-                <p className="text-sm text-gray-600 line-clamp-2 mb-4">
-                  {tool.description}
-                </p>
-                <div className="flex flex-wrap gap-2 mb-4">
-                  {tool.categories.slice(0, 2).map((category) => (
-                    <span
-                      key={category}
-                      className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
-                    >
-                      {category}
-                    </span>
-                  ))}
-                  {tool.categories.length > 2 && (
-                    <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
-                      +{tool.categories.length - 2}
-                    </span>
-                  )}
-                </div>
-                <a
-                  href={tool.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-300"
-                >
-                  <FiExternalLink className="w-4 h-4 mr-2" />
-                  Visit Tool
-                </a>
-              </div>
+              <ToolCard tool={tool} />
             </motion.div>
           ))}
         </motion.div>
 
-        {/* Pagination */}
-        {totalPages > 1 && (
-          <div className="mt-12 flex justify-center">
-            <nav className="relative z-0 inline-flex rounded-md shadow-sm -space-x-px" aria-label="Pagination">
-              <button
-                onClick={() => handlePageChange(currentPage - 1)}
-                disabled={currentPage === 1}
-                className={`relative inline-flex items-center px-4 py-2 rounded-l-md border text-sm font-medium ${
-                  currentPage === 1
-                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                    : 'bg-white text-gray-700 hover:bg-gray-50'
-                }`}
-              >
-                Previous
-              </button>
-              
-              {[...Array(totalPages)].map((_, i) => {
-                const page = i + 1
-                if (
-                  page === 1 ||
-                  page === totalPages ||
-                  (page >= currentPage - 2 && page <= currentPage + 2)
-                ) {
-                  return (
-                    <button
-                      key={page}
-                      onClick={() => handlePageChange(page)}
-                      className={`relative inline-flex items-center px-4 py-2 border text-sm font-medium ${
-                        currentPage === page
-                          ? 'z-10 bg-blue-600 text-white border-blue-600'
-                          : 'bg-white text-gray-700 hover:bg-gray-50'
-                      }`}
-                    >
-                      {page}
-                    </button>
-                  )
-                } else if (
-                  page === currentPage - 3 ||
-                  page === currentPage + 3
-                ) {
-                  return (
-                    <span
-                      key={page}
-                      className="relative inline-flex items-center px-4 py-2 border border-gray-300 bg-white text-sm font-medium text-gray-700"
-                    >
-                      ...
-                    </span>
-                  )
-                }
-                return null
-              })}
-
-              <button
-                onClick={() => handlePageChange(currentPage + 1)}
-                disabled={currentPage === totalPages}
-                className={`relative inline-flex items-center px-4 py-2 rounded-r-md border text-sm font-medium ${
-                  currentPage === totalPages
-                    ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
-                    : 'bg-white text-gray-700 hover:bg-gray-50'
-                }`}
-              >
-                Next
-              </button>
-            </nav>
-          </div>
+        {/* No Results */}
+        {paginatedTools.length === 0 && (
+          <motion.div
+            initial="hidden"
+            animate="visible"
+            variants={fadeInUp}
+            className="text-center py-12"
+          >
+            <h3 className="text-lg font-medium text-gray-900">No tools found</h3>
+            <p className="mt-2 text-sm text-gray-500">
+              Try adjusting your search or filter criteria
+            </p>
+          </motion.div>
         )}
 
-        {/* Results Count */}
-        <div className="mt-4 text-center text-sm text-gray-600">
-          Showing {startIndex + 1} to {Math.min(startIndex + ITEMS_PER_PAGE, filteredTools.length)} of {filteredTools.length} tools
-        </div>
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <div className="mt-12">
+            <div className="flex items-center justify-between">
+              <div className="text-sm text-gray-700">
+                Showing <span className="font-medium">{startIndex + 1}</span> to{' '}
+                <span className="font-medium">
+                  {Math.min(startIndex + ITEMS_PER_PAGE, filteredTools.length)}
+                </span>{' '}
+                of <span className="font-medium">{filteredTools.length}</span> tools
+              </div>
+              
+              <nav className="flex items-center space-x-2">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+                  <button
+                    key={page}
+                    onClick={() => handlePageChange(page)}
+                    className={`px-4 py-2 text-sm font-medium rounded-md ${
+                      currentPage === page
+                        ? 'bg-blue-600 text-white'
+                        : 'text-gray-700 hover:bg-gray-50'
+                    }`}
+                  >
+                    {page}
+                  </button>
+                ))}
+              </nav>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   )

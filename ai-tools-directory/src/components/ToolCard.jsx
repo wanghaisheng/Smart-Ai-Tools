@@ -1,76 +1,85 @@
-import { Link } from 'react-router-dom'
-import { StarIcon } from '@heroicons/react/20/solid'
-
-function classNames(...classes) {
-  return classes.filter(Boolean).join(' ')
-}
+import { determinePricingTier, getPricingBadgeColor, formatPricingTier } from '../utils/pricingUtils';
+import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
+import { FiExternalLink } from 'react-icons/fi';
 
 export default function ToolCard({ tool }) {
   const {
     id,
     name,
     description,
-    category,
-    pricing,
-    rating,
-    reviews,
-    image,
-  } = tool
+    categories = [],
+    url,
+    image
+  } = tool;
+
+  const pricingTier = determinePricingTier(tool);
+  const badgeColor = getPricingBadgeColor(pricingTier);
+  const pricingDisplay = formatPricingTier(pricingTier);
 
   return (
-    <Link
-      to={`/tools/${id}`}
-      className="tool-card bg-white rounded-lg shadow overflow-hidden hover:shadow-lg transition-all duration-300"
-    >
-      <div className="aspect-w-16 aspect-h-9 bg-gray-200">
-        <img
-          src={image || 'https://via.placeholder.com/400x225'}
-          alt={name}
-          className="object-cover w-full h-full"
-        />
-      </div>
-      <div className="p-6">
-        <div className="flex items-start justify-between">
-          <div>
-            <h3 className="text-lg font-semibold text-gray-900">{name}</h3>
-            <p className="mt-1 text-sm text-gray-500">{category}</p>
-          </div>
-          <span className={classNames(
-            pricing === 'free' ? 'bg-green-100 text-green-800' :
-            pricing === 'freemium' ? 'bg-blue-100 text-blue-800' :
-            pricing === 'paid' ? 'bg-purple-100 text-purple-800' :
-            'bg-gray-100 text-gray-800',
-            'inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium'
-          )}>
-            {pricing.charAt(0).toUpperCase() + pricing.slice(1)}
+    <div className="h-full bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
+      {/* Image Section */}
+      {image && (
+        <div className="relative h-48 overflow-hidden rounded-t-xl">
+          <img
+            src={image || 'https://via.placeholder.com/400x225?text=AI+Tool'}
+            alt={name}
+            className="w-full h-full object-cover"
+          />
+        </div>
+      )}
+
+      {/* Content Section */}
+      <div className="p-5">
+        <div className="flex justify-between items-start gap-2 mb-3">
+          <h3 className="text-lg font-semibold text-gray-900 line-clamp-1">
+            {name}
+          </h3>
+          <span className={`shrink-0 px-2.5 py-1 text-xs font-medium rounded-full whitespace-nowrap ${badgeColor}`}>
+            {pricingDisplay}
           </span>
         </div>
-        
-        <p className="mt-4 text-sm text-gray-600 line-clamp-2">{description}</p>
-        
-        <div className="mt-4 flex items-center justify-between">
-          <div className="flex items-center">
-            <div className="flex items-center">
-              {[0, 1, 2, 3, 4].map((star) => (
-                <StarIcon
-                  key={star}
-                  className={classNames(
-                    rating > star ? 'text-yellow-400' : 'text-gray-200',
-                    'h-4 w-4 flex-shrink-0'
-                  )}
-                  aria-hidden="true"
-                />
-              ))}
-            </div>
-            <p className="ml-2 text-sm text-gray-500">
-              {reviews} {reviews === 1 ? 'review' : 'reviews'}
-            </p>
-          </div>
-          <div className="text-sm font-medium text-primary-600 hover:text-primary-500">
-            View details →
-          </div>
+
+        <p className="text-sm text-gray-600 line-clamp-2 min-h-[2.5rem] mb-4">
+          {description}
+        </p>
+
+        {/* Categories */}
+        <div className="flex flex-wrap gap-2 mb-4 min-h-[1.75rem]">
+          {categories.slice(0, 2).map((category, index) => (
+            <span
+              key={index}
+              className="px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded-full"
+            >
+              {category}
+            </span>
+          ))}
+          {categories.length > 2 && (
+            <span className="px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded-full">
+              +{categories.length - 2}
+            </span>
+          )}
+        </div>
+
+        {/* Actions */}
+        <div className="flex items-center justify-between pt-2 border-t border-gray-100">
+          <Link
+            to={`/tool/${id}`}
+            className="text-sm font-medium text-gray-600 hover:text-gray-900"
+          >
+            Details
+          </Link>
+          <a
+            href={url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center text-sm font-medium text-blue-600 hover:text-blue-800"
+          >
+            Visit <FiExternalLink className="ml-1" />
+          </a>
         </div>
       </div>
-    </Link>
-  )
+    </div>
+  );
 }
