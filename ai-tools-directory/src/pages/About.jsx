@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { FiDatabase, FiSearch, FiFilter, FiStar, FiUsers, FiTrendingUp } from 'react-icons/fi'
+import { FiUsers, FiTarget, FiHeart, FiGlobe } from 'react-icons/fi'
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 20 },
@@ -18,165 +18,186 @@ const staggerContainer = {
 
 const features = [
   {
-    name: 'Comprehensive Database',
-    description: 'Access our extensive collection of AI tools, carefully curated and regularly updated.',
-    icon: FiDatabase,
-    color: 'blue'
-  },
-  {
-    name: 'Advanced Search',
-    description: 'Find the perfect AI tool with our powerful search and filtering system.',
-    icon: FiSearch,
-    color: 'purple'
-  },
-  {
-    name: 'Detailed Categories',
-    description: 'Browse tools by categories to discover solutions for specific needs.',
-    icon: FiFilter,
-    color: 'pink'
-  },
-  {
-    name: 'User Reviews',
-    description: 'Make informed decisions with ratings and reviews from the community.',
-    icon: FiStar,
-    color: 'yellow'
+    name: 'Curated Collection',
+    description: 'We carefully select and verify each AI tool to ensure quality and reliability.',
+    icon: FiTarget,
   },
   {
     name: 'Community Driven',
-    description: 'Join a growing community of AI enthusiasts and professionals.',
+    description: 'Our platform thrives on user reviews, ratings, and contributions from the AI community.',
     icon: FiUsers,
-    color: 'green'
   },
   {
-    name: 'Trending Tools',
-    description: 'Stay updated with the latest and most popular AI tools.',
-    icon: FiTrendingUp,
-    color: 'red'
-  }
+    name: 'Always Up-to-Date',
+    description: 'We continuously update our directory with the latest AI tools and technologies.',
+    icon: FiGlobe,
+  },
+  {
+    name: 'User-Focused',
+    description: 'Our platform is designed with users in mind, making it easy to find the right AI tools.',
+    icon: FiHeart,
+  },
 ]
 
-const colorClasses = {
-  blue: 'bg-blue-100 text-blue-600',
-  purple: 'bg-purple-100 text-purple-600',
-  pink: 'bg-pink-100 text-pink-600',
-  yellow: 'bg-yellow-100 text-yellow-600',
-  green: 'bg-green-100 text-green-600',
-  red: 'bg-red-100 text-red-600'
-}
+const teamMembers = [
+  {
+    name: 'Sarah Johnson',
+    role: 'Founder & CEO',
+    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+  },
+  {
+    name: 'Michael Chen',
+    role: 'CTO',
+    image: 'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+  },
+  {
+    name: 'Emily Rodriguez',
+    role: 'Head of Content',
+    image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+  },
+]
 
 export default function About() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800">
       {/* Hero Section */}
-      <div className="bg-gradient-to-b from-blue-50 to-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-          <motion.div
-            initial="hidden"
-            animate="visible"
-            variants={staggerContainer}
-            className="text-center"
-          >
-            <motion.h1
-              variants={fadeInUp}
-              className="text-4xl font-bold text-gray-900 sm:text-5xl mb-6"
-            >
-              About AI Tools Directory
-            </motion.h1>
-            <motion.p
-              variants={fadeInUp}
-              className="mt-4 text-xl text-gray-600 max-w-3xl mx-auto"
-            >
-              Your comprehensive guide to discovering and comparing the latest AI tools and technologies.
-              We help you navigate the rapidly evolving landscape of artificial intelligence solutions.
-            </motion.p>
-          </motion.div>
-        </div>
-      </div>
-
-      {/* Features Grid */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <section className="px-4 pt-20 pb-16 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <motion.div
           initial="hidden"
           animate="visible"
           variants={staggerContainer}
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+          className="text-center"
         >
-          {features.map((feature) => (
-            <motion.div
-              key={feature.name}
-              variants={fadeInUp}
-              whileHover={{ y: -5 }}
-              className="bg-white rounded-2xl shadow-lg p-6 transition-all duration-300 hover:shadow-xl"
-            >
-              <div className={`p-3 rounded-lg ${colorClasses[feature.color]} w-fit`}>
-                <feature.icon className="w-6 h-6" />
-              </div>
-              <h3 className="mt-4 text-xl font-semibold text-gray-900">
-                {feature.name}
-              </h3>
-              <p className="mt-2 text-gray-600">
-                {feature.description}
-              </p>
-            </motion.div>
-          ))}
+          <motion.h1 
+            variants={fadeInUp}
+            className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl"
+          >
+            About AI Tools Directory
+          </motion.h1>
+          <motion.p
+            variants={fadeInUp}
+            className="max-w-2xl mx-auto mt-6 text-lg text-gray-600 dark:text-gray-300"
+          >
+            Discover the story behind our mission to make AI tools accessible to everyone. We're building the most comprehensive and user-friendly directory of AI tools.
+          </motion.p>
         </motion.div>
+      </section>
 
-        {/* Mission Statement */}
+      {/* Mission Section */}
+      <section className="py-16 bg-white dark:bg-gray-800/50">
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3 }}
-          className="mt-16 text-center max-w-4xl mx-auto"
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={staggerContainer}
+          className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8"
         >
-          <div className="bg-white rounded-2xl shadow-lg p-8">
-            <h2 className="text-2xl font-semibold text-gray-900 mb-6">
-              Our Mission
-            </h2>
-            <p className="text-gray-600 mb-6">
-              We believe in making artificial intelligence accessible to everyone. Our platform is designed
-              to help individuals and businesses discover the right AI tools for their needs, compare
-              different solutions, and stay updated with the latest developments in AI technology.
+          <motion.div variants={fadeInUp} className="max-w-3xl mx-auto text-center">
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Our Mission</h2>
+            <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
+              We believe in democratizing access to artificial intelligence. Our mission is to help people discover, compare, and implement AI tools that can transform their work and creativity.
             </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-              <div className="p-4">
-                <div className="text-3xl font-bold text-blue-600 mb-2">1000+</div>
-                <div className="text-gray-600">AI Tools Listed</div>
-              </div>
-              <div className="p-4">
-                <div className="text-3xl font-bold text-purple-600 mb-2">50+</div>
-                <div className="text-gray-600">Categories</div>
-              </div>
-              <div className="p-4">
-                <div className="text-3xl font-bold text-green-600 mb-2">24/7</div>
-                <div className="text-gray-600">Updates</div>
-              </div>
-            </div>
+          </motion.div>
+        </motion.div>
+      </section>
+
+      {/* Features Section */}
+      <section className="py-16">
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={staggerContainer}
+          className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8"
+        >
+          <div className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-4">
+            {features.map((feature) => (
+              <motion.div
+                key={feature.name}
+                variants={fadeInUp}
+                className="relative p-6 bg-white dark:bg-gray-800 rounded-2xl shadow-soft"
+              >
+                <div className="inline-flex items-center justify-center w-12 h-12 mb-4 text-primary-600 dark:text-primary-400 bg-primary-100 dark:bg-primary-900/30 rounded-xl">
+                  <feature.icon className="w-6 h-6" />
+                </div>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{feature.name}</h3>
+                <p className="mt-2 text-gray-600 dark:text-gray-300">{feature.description}</p>
+              </motion.div>
+            ))}
           </div>
         </motion.div>
+      </section>
 
-        {/* Contact Section */}
+      {/* Team Section */}
+      <section className="py-16 bg-white dark:bg-gray-800/50">
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4 }}
-          className="mt-16 text-center"
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={staggerContainer}
+          className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8"
         >
-          <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl shadow-lg p-8 text-white">
-            <h2 className="text-2xl font-semibold mb-4">
-              Get Involved
-            </h2>
-            <p className="mb-6">
-              Have a suggestion or want to contribute? We'd love to hear from you!
+          <div className="max-w-3xl mx-auto text-center">
+            <motion.h2
+              variants={fadeInUp}
+              className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl"
+            >
+              Meet Our Team
+            </motion.h2>
+            <motion.p
+              variants={fadeInUp}
+              className="mt-4 text-lg text-gray-600 dark:text-gray-300"
+            >
+              We're a passionate team dedicated to bringing you the best AI tools and resources.
+            </motion.p>
+          </div>
+
+          <motion.div
+            variants={staggerContainer}
+            className="grid grid-cols-1 gap-12 mt-12 sm:grid-cols-2 lg:grid-cols-3"
+          >
+            {teamMembers.map((member) => (
+              <motion.div
+                key={member.name}
+                variants={fadeInUp}
+                className="flex flex-col items-center p-6 bg-white dark:bg-gray-800 rounded-2xl shadow-soft"
+              >
+                <img
+                  className="w-32 h-32 rounded-full object-cover mb-4"
+                  src={member.image}
+                  alt={member.name}
+                />
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{member.name}</h3>
+                <p className="text-gray-600 dark:text-gray-300">{member.role}</p>
+              </motion.div>
+            ))}
+          </motion.div>
+        </motion.div>
+      </section>
+
+      {/* Contact Section */}
+      <section className="py-16">
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          variants={staggerContainer}
+          className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8"
+        >
+          <motion.div variants={fadeInUp} className="max-w-3xl mx-auto text-center">
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Get in Touch</h2>
+            <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
+              Have questions or suggestions? We'd love to hear from you.
             </p>
             <a
-              href="mailto:contact@aitoolsdirectory.com"
-              className="inline-block bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors duration-300"
+              href="mailto:contact@aitools.directory"
+              className="inline-flex items-center px-6 py-3 mt-8 text-base font-medium text-white bg-primary-600 rounded-lg shadow-sm hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
             >
               Contact Us
             </a>
-          </div>
+          </motion.div>
         </motion.div>
-      </div>
+      </section>
     </div>
   )
 }
