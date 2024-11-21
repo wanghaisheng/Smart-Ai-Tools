@@ -23,7 +23,7 @@ export default function Home() {
 
   // Get top rated tools
   const topTools = [...tools]
-    .sort((a, b) => b.rating - a.rating)
+    .sort((a, b) => b.rating.average - a.rating.average)
     .slice(0, 3)
 
   // Get trending categories
@@ -133,7 +133,7 @@ export default function Home() {
                   <h3 className="text-lg font-semibold text-gray-900">{tool.name}</h3>
                   <div className="flex items-center">
                     <FiStar className="text-yellow-400 w-5 h-5" />
-                    <span className="ml-1 text-sm text-gray-600">{tool.rating.toFixed(1)}</span>
+                    <span className="ml-1 text-sm text-gray-600">{tool.rating.average.toFixed(1)}</span>
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 line-clamp-2 mb-4">{tool.description}</p>

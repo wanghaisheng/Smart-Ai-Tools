@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000',  // Removed /api since it's added in the routes
+  baseURL: 'http://localhost:5000/api',  // Added /api to match server routes
   headers: {
     'Content-Type': 'application/json',
   },

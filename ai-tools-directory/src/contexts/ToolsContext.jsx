@@ -32,7 +32,7 @@ export const ToolsProvider = ({ children }) => {
         return
       }
 
-      const response = await api.get('/api/tools', {
+      const response = await api.get('/tools', {
         params: {
           category: filters.category !== 'all' ? filters.category : undefined,
           search: filters.search || undefined,
