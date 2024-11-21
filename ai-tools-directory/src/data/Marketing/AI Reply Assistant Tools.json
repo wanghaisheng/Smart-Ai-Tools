@@ -1,0 +1,2719 @@
+{
+  "tools": [
+    {
+      "name": "AutoResponder.ai",
+      "description": "AI-powered auto-replies for messengers like WhatsApp, Telegram etc! Customize messages, set schedules & tailor replies. Revolutionize your chat experience!",
+      "website": "https://www.autoresponder.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580623492992031.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 21:54:58",
+      "updatedAt": "2023-06-03 21:54:58"
+    },
+    {
+      "name": "Superhuman 2.0",
+      "description": "AI-powered email for high-performing teams and individuals",
+      "website": "https://superhuman.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016991343066580.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:30",
+      "updatedAt": "2024-07-05 16:56:30"
+    },
+    {
+      "name": "Wonderchat",
+      "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
+      "website": "https://wonderchat.io?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171510289377594248.png",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 11:05:16",
+      "updatedAt": "2023-06-03 11:05:16"
+    },
+    {
+      "name": "Reply.io",
+      "description": "Generate leads with multichannel sequences with unlimited mailboxes, convert website traffic into booked meetings, or hire sales AI SDRs to handle it for you \u2014 all within Reply.",
+      "website": "https://reply.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171751083786426968.png",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Advertising Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "AI Lead Generation",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "RIZZ AI",
+      "description": "AI dating assistant for personalized dating advice",
+      "website": "https://www.rizzai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135247744506665.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Dating Assistant",
+        "Pick-up Lines Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:43",
+      "updatedAt": "2024-07-19 09:27:43"
+    },
+    {
+      "name": "AI Review Reply Assistant",
+      "description": "AI Review Response Generator generates personalized responses to customer reviews for businesses.",
+      "website": "https://www.mara-solutions.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168266144854423858.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Reviews Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 13:59:12",
+      "updatedAt": "2023-04-28 13:59:12"
+    },
+    {
+      "name": "ParagraphAI",
+      "description": "ParagraphAI is an AI Writing Assistant that improves writing skills with grammar corrections and style suggestions.",
+      "website": "https://paragraphai.com?ref=odljogq",
+      "image": "https://cdn-images.toolify.ai/image/343672ca40cda5f4bf74dfbd5297a3bf.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "Winggg",
+      "description": "Winggg is an AI dating tool that makes dating easier with thoughtful communication features.",
+      "website": "https://winggg.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545781664543873.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Dating Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:43:07",
+      "updatedAt": "2023-05-30 22:43:07"
+    },
+    {
+      "name": "PowerIn",
+      "description": "Automatically reply to competitors on LinkedIn with AI.",
+      "website": "https://www.powerin.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605497395415349.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "WizAI - ChatGPT for WhatsApp & Instagram",
+      "description": "Smart chatbot for WhatsApp and Instagram.",
+      "website": "https://getwiz.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349942934769849.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:21",
+      "updatedAt": "2023-12-25 18:13:21"
+    },
+    {
+      "name": "Snowball",
+      "description": "AI-powered content creation for X/Twitter. Grow your audience effortlessly.",
+      "website": "https://snowball.club/?linkId=lp_392285&sourceId=wenhua-li&tenantId=snowball",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152560375304625.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:21",
+      "updatedAt": "2023-12-02 21:59:21"
+    },
+    {
+      "name": "Knowledge By EmailTree.ai",
+      "description": "EmailTree.ai is an AI email management platform that automates workflows and provides solutions for customer support.",
+      "website": "https://emailtree.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168337737038827097.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Workflow Management",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 20:50:06",
+      "updatedAt": "2023-05-06 20:50:06"
+    },
+    {
+      "name": "Rizz!",
+      "description": "Generate personalized and creative responses with the powerful AI model, Rizz! Keyboard.",
+      "website": "https://rizzai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476375882766325.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:37:39",
+      "updatedAt": "2023-05-22 20:37:39"
+    },
+    {
+      "name": "Aide",
+      "description": "Aide is an AI integration tool that enhances customer support operations with machine learning.",
+      "website": "https://aide.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/219609f9e74dadb2af79045e1cbee1e7.jpeg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Knowledge Management",
+        "AI Knowledge Base",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "Wallu",
+      "description": "Wallu is a Discord bot that automates support and provides answers to FAQs in multiple languages.",
+      "website": "https://wallubot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510521482645968.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:46:35",
+      "updatedAt": "2023-05-26 20:46:35"
+    },
+    {
+      "name": "TweetAI.com",
+      "description": "Boost sales & engagement on X",
+      "website": "https://TweetAI.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171186660436153625.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Twitter Assistant",
+        "AI Response Generator",
+        "AI Rewriter",
+        "AI Social Media Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:15",
+      "updatedAt": "2024-03-31 14:29:15"
+    },
+    {
+      "name": "Arsturn",
+      "description": "Create a customized ChatGPT for your website in just 1 minute with Arsturn, improving user engagement.",
+      "website": "https://www.arsturn.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440723564983321.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:46",
+      "updatedAt": "2023-05-18 18:53:46"
+    },
+    {
+      "name": "SuperReply",
+      "description": "An AI-powered email solution that offers personalized reply suggestions for any situation.",
+      "website": "https://superreply.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a82ec50e2459b7b94da6a1ab0b8ac75e.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Botly: AI chatbot for OnlyFans",
+      "description": "The fun, flirty, and friendly AI chatbot for OnlyFans. Boost earnings and save time with Botly.",
+      "website": "https://getbotly.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229732471398320.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Response Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:13",
+      "updatedAt": "2023-12-11 20:21:13"
+    },
+    {
+      "name": "Userdesk",
+      "description": "Build AI ChatBots trained on your data in minutes.",
+      "website": "https://userdesk.io?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169890952226151247.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "AI Lead Generation",
+        "AI Knowledge Base",
+        "Sales Assistant",
+        "Writing Assistants",
+        "AI Analytics Assistant",
+        "AI Response Generator",
+        "AI Knowledge Management",
+        "No-Code&Low-Code",
+        "AI CRM Assistant",
+        "AI Knowledge Graph",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-02 15:17:04",
+      "updatedAt": "2023-11-02 15:17:04"
+    },
+    {
+      "name": "Prompt Blaze",
+      "description": "Browser extension for chaining and executing AI prompts.",
+      "website": "https://www.promptblaze.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172835245478768725.png",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-08 09:55:40",
+      "updatedAt": "2024-10-08 09:55:40"
+    },
+    {
+      "name": "Tweeteasy",
+      "description": "Enhance your tweets effortlessly",
+      "website": "https://tweeteasy.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215010421924768.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:34",
+      "updatedAt": "2024-04-03 21:13:34"
+    },
+    {
+      "name": "Klart AI",
+      "description": "Klart AI is an AI Assistant that enhances collaboration and automates tasks for businesses.",
+      "website": "https://www.klartai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563081254879777.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 22:46:27",
+      "updatedAt": "2023-06-01 22:46:27"
+    },
+    {
+      "name": "Warmer.ai",
+      "description": "Warmer.ai is an AI email writer that boosts engagement and sales through personalized outreach.",
+      "website": "https://warmer.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/998ef5433e65148e0288c1b56afc5ec0.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "NoowAI",
+      "description": "Summary: NoowAI is a free online AI assistant that allows users to chat, ask questions, and get help without creating an account. It also provides an AI Art Shop for purchasing artwork.",
+      "website": "https://noowai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415982214260297.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:10:09",
+      "updatedAt": "2023-05-15 22:10:09"
+    },
+    {
+      "name": "Guest Guru",
+      "description": "An AI-powered chatbot for Airbnb hosts and short-term rentals, automating guest communication.",
+      "website": "https://guestguru.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349946725437759.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:22",
+      "updatedAt": "2023-12-25 18:13:22"
+    },
+    {
+      "name": "Beno.one",
+      "description": "AI-powered client outreach automation",
+      "website": "https://beno.one?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017000145562597.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "Writing Assistants",
+        "AI Lead Generation",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:32",
+      "updatedAt": "2024-07-05 16:56:32"
+    },
+    {
+      "name": "ReSponse CX",
+      "description": "Enhance CX with AI agents",
+      "website": "https://response.cx?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566209836085613.webp",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "Large Language Models (LLMs)",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:10",
+      "updatedAt": "2024-05-14 12:47:10"
+    },
+    {
+      "name": "AI Chat SMS",
+      "description": "AI Chat is a convenient conversational AI platform for personalized chatbot conversations in messaging apps.",
+      "website": "https://www.aichatsms.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426150743043943.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "AI Reply Assistant",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:24:36",
+      "updatedAt": "2023-05-17 02:24:36"
+    },
+    {
+      "name": "Stylo",
+      "description": "Stylo is an AI assistant that improves customer experience by offering support and recommendations.",
+      "website": "https://askstylo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476435170180275.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Customer Service Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Response Generator",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:05:07",
+      "updatedAt": "2023-05-22 22:05:07"
+    },
+    {
+      "name": "Ready to Send",
+      "description": "The Ready to Send Gmail add-on helps draft AI-powered email replies to save time and boost productivity.",
+      "website": "https://getreadytosend.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164901366454099.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "WhatGPT",
+      "description": "Enhance WhatsApp conversations with AI assistant WhatGPT for quick and concise answers.",
+      "website": "https://whatgpt.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580649874073282.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Advertising Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:25:50",
+      "updatedAt": "2023-06-03 22:25:50"
+    },
+    {
+      "name": "Onlyfans AI Chatbot - ChatPersona AI",
+      "description": "AI-powered personas for OnlyFans.",
+      "website": "https://chatpersona.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493967162008629.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:55",
+      "updatedAt": "2024-01-11 10:19:55"
+    },
+    {
+      "name": "typly",
+      "description": "Typly is an AI keyboard that suggests automated sentences for quick and effortless messaging.",
+      "website": "https://typly.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/fdc3eee8cb640079a0339d3d0ff71ae5.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Product Description Generator",
+        "AI Response Generator",
+        "AI Dating Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:37",
+      "updatedAt": "2023-03-07 16:48:37"
+    },
+    {
+      "name": "QuickwitAI",
+      "description": "QuickWit enhances communication and productivity with its co-pilot messaging features.",
+      "website": "https://www.quickwit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584438097192804.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:06:03",
+      "updatedAt": "2023-06-04 10:06:03"
+    },
+    {
+      "name": "AI Reply",
+      "description": "AI service for brand promotion on Reddit using automated engagement.",
+      "website": "https://ai-reply.work?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398621460307633.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "AI Reply Assistant",
+        "AI Lead Generation",
+        "AI Advertising Assistant",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:57",
+      "updatedAt": "2024-08-18 21:02:57"
+    },
+    {
+      "name": "Secure ChatGPT Email Writer for Gmail",
+      "description": "EmoGPT is an advanced email chatbot for Gmail that saves time and boosts personalization.",
+      "website": "https://emogpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577290425203111.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:14:10",
+      "updatedAt": "2023-06-03 14:14:10"
+    },
+    {
+      "name": "Luna",
+      "description": "Luna: AI-powered software to find and engage leads, boosting sales efforts.",
+      "website": "https://luna.ai?ref=wenhua37",
+      "image": "https://cdn-images.toolify.ai/image/f6df0e872129391c741ade45a860b18d.jpeg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "RedCom.ai",
+      "description": "Boost Reddit engagement with AI-powered comments",
+      "website": "https://redcom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171284461539574428.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Lead Generation",
+        "Large Language Models (LLMs)",
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 22:09:53",
+      "updatedAt": "2024-04-11 22:09:53"
+    },
+    {
+      "name": "Chatio.ai",
+      "description": "AI chatbot for small businesses, answering 80% of support questions automatically.",
+      "website": "https://www.chatio.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145450732919555.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "Translate",
+        "AI Advertising Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:14:00",
+      "updatedAt": "2023-12-02 02:14:00"
+    },
+    {
+      "name": "ReplyMind",
+      "description": "Generate authentic replies easily with ReplyMind, saving time and enhancing engagement on social media.",
+      "website": "https://replymind.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169330348289830504.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-29 18:03:04",
+      "updatedAt": "2023-08-29 18:03:04"
+    },
+    {
+      "name": "Emails, replies and posts with GPT-4",
+      "description": "Replix.ai is a tool that uses AI to enhance expression and optimize online presence.",
+      "website": "https://replix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529273382169415.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:51:30",
+      "updatedAt": "2023-05-29 00:51:30"
+    },
+    {
+      "name": "AIDuh",
+      "description": "AI-Responder for HostAway is a Chrome extension that helps hosts save time with AI-powered responses.",
+      "website": "https://aiduh.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/39e587396a9c6b8eb8ef7f129d2217ee.jpeg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Content Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:50",
+      "updatedAt": "2023-03-07 16:48:50"
+    },
+    {
+      "name": "GPT in WhatsApp with text and images",
+      "description": "PromptReply is an innovative AI WhatsApp assistant that enhances communication experience.",
+      "website": "https://www.promptreply.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577872794957090.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:51:36",
+      "updatedAt": "2023-06-03 15:51:36"
+    },
+    {
+      "name": "Arch",
+      "description": "AI email copilot condensing, suggesting, and drafting emails efficiently.",
+      "website": "https://arch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454295729047213.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Productivity Tools",
+        "Writing Assistants",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "Ghost AI",
+      "description": "GhostAI is an AI email assistant that improves email efficiency by understanding and composing on your behalf.",
+      "website": "https://www.ghostai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16833811115899240.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 21:52:35",
+      "updatedAt": "2023-05-06 21:52:35"
+    },
+    {
+      "name": "ChatsApp",
+      "description": "ChatsApp enables users to connect with ChatGPT, an AI assistant, on WhatsApp for enhanced communication.",
+      "website": "https://chatsapp.world?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545743333049093.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:36:17",
+      "updatedAt": "2023-05-30 22:36:17"
+    },
+    {
+      "name": "Chippy",
+      "description": "Browser extension to bring AI-powered ChatGPT to your online browsing.",
+      "website": "https://chippyai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169470841282502516.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:24",
+      "updatedAt": "2023-09-15 00:19:24"
+    },
+    {
+      "name": "MAILE for iPhone",
+      "description": "AI-powered app MAILE for iPhone makes email writing stress-free and efficient.",
+      "website": "https://www.maile.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543977016865809.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:41:48",
+      "updatedAt": "2023-05-30 17:41:48"
+    },
+    {
+      "name": "Reacti.ai - AI for Twitter Replies",
+      "description": "Revolutionizing Twitter & LinkedIn interactions with AI-powered replies.",
+      "website": "https://reacti.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577013968427627.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:28:31",
+      "updatedAt": "2023-06-03 13:28:31"
+    },
+    {
+      "name": "DialogAi",
+      "description": "Dialogai is an AI-powered chatbot in WhatsApp that transcribes voice messages, answers questions, and provides summaries.",
+      "website": "https://dialogai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374134472875553.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Large Language Models (LLMs)",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:37",
+      "updatedAt": "2023-05-11 01:55:37"
+    },
+    {
+      "name": "ShillBot",
+      "description": "AI-powered Twitter marketing automation.",
+      "website": "https://shillbot.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169910274327862025.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 20:58:25",
+      "updatedAt": "2023-11-04 20:58:25"
+    },
+    {
+      "name": "BestRegards AI",
+      "description": "Generate personalized and professional email responses with BestRegards Chrome extension.",
+      "website": "https://bestregards.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517330578121757.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:41:02",
+      "updatedAt": "2023-05-27 15:41:02"
+    },
+    {
+      "name": "ConversAI",
+      "description": "An AI chat assistant, ConversAI, enhances online communication with intelligent features.",
+      "website": "https://conversai.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ec90de63b033eb2bb3105f8d1274e2f1.jpeg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "Reply Boy - 1000\ud835\udd4f Your Twitter Views",
+      "description": "Grow your Twitter account with AI-generated replies.",
+      "website": "https://replyboy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185048286497136.jpg",
+      "category": "AI Ad Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Reply Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:58",
+      "updatedAt": "2023-12-06 16:13:58"
+    },
+    {
+      "name": "besuperhuman.ai",
+      "description": "Teaching AI to run computers for you",
+      "website": "https://www.besuperhuman.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145450094733521.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "Life Assistant",
+        "AI Email Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:14:00",
+      "updatedAt": "2023-12-02 02:14:00"
+    },
+    {
+      "name": "Flirt Like Pro",
+      "description": "Get witty replies from an AI-based flirting chatbot",
+      "website": "https://flirtlike.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120078176473665.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Dating Assistant",
+        "AI Chatbot",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:05",
+      "updatedAt": "2024-03-23 21:32:05"
+    },
+    {
+      "name": "ToMate",
+      "description": "Enhance communication with AI-powered responses.",
+      "website": "https://www.tomate.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605496346626424.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Content Generator",
+        "AI Chatbot",
+        "AI Advertising Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "Usechatgpt AI",
+      "description": "A website that allows users to use AI features with one click.",
+      "website": "https://www.usechatgpt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168611853187461170.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 15:06:11",
+      "updatedAt": "2023-04-28 15:06:11"
+    },
+    {
+      "name": "Chapa - Your AI Assistant powered by GPT",
+      "description": "Fast & smart AI companion",
+      "website": "https://chromewebstore.google.com/detail/chapa-your-ai-assistant-p/lhdjjndpipjcmlbkglbaphamfpjiiipo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679493935447973.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 16:43:49",
+      "updatedAt": "2024-05-20 16:43:49"
+    },
+    {
+      "name": "Cuely",
+      "description": "Cuely is an AI app that assists teams in task completion with efficiency and effectiveness.",
+      "website": "https://cuely.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529313943796907.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Response Generator",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:58:26",
+      "updatedAt": "2023-05-29 00:58:26"
+    },
+    {
+      "name": "Async for Gmail and Chrome",
+      "description": "Add voice notes to emails and work apps.",
+      "website": "https://chrome.google.com/webstore/detail/async-for-chrome/kmiikpmdncakkcadkabnlhifhccigpdh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679490239972903.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:13",
+      "updatedAt": "2023-11-11 17:32:13"
+    },
+    {
+      "name": "Scribix Ai - Instant Email Writing Extension",
+      "description": "AI-powered solution for fast, precise email composition",
+      "website": "https://chromewebstore.google.com/detail/scribix-ai-instant-email/lhgjmngaehilhmjhplnkmkficchofcco?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710033628308.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:51",
+      "updatedAt": "2024-07-06 22:44:51"
+    },
+    {
+      "name": "Zenn -Start FREE, No Credit Card, <1 min",
+      "description": "Zenn is a user-friendly AI extension that composes email replies in one click.",
+      "website": "https://zennai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578333369128984.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Translate",
+        "AI Chatbot",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:08:10",
+      "updatedAt": "2023-06-03 17:08:10"
+    },
+    {
+      "name": "PARQR",
+      "description": "Enhance student Piazza experience, streamline course management.",
+      "website": "https://chromewebstore.google.com/detail/parqr/ghpadgbcphnomjfjjpockklhcgahebji?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738101612831184.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Knowledge Management",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:10",
+      "updatedAt": "2024-06-03 10:16:10"
+    },
+    {
+      "name": "Fantaclaus",
+      "description": "AI-powered app for personalized YouTube comment replies.",
+      "website": "https://fantaclaus.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580635391339784.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Reply Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:00:47",
+      "updatedAt": "2023-06-03 22:00:47"
+    },
+    {
+      "name": "Ghostwrite",
+      "description": "Automated email writing with GhostWrite AI.",
+      "website": "https://chrome.google.com/webstore/detail/ghostwrite-chatgpt-email/fbjnnjochaopepfjpngghafgnafebkjh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679475524575477.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Writer",
+        "AI Email Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:33",
+      "updatedAt": "2023-03-07 16:48:33"
+    },
+    {
+      "name": "HowToReplyTo",
+      "description": "Find creative message replies with AI",
+      "website": "https://howtoreplyto.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/77ef1784bd4e9ffdec2e79ad8545f007.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:33",
+      "updatedAt": "2023-03-07 16:48:33"
+    },
+    {
+      "name": "WeInstaReply",
+      "description": "AI-powered automatic message responses for Microsoft Teams",
+      "website": "https://weinstareply.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096699336281284.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:24",
+      "updatedAt": "2024-07-14 22:21:24"
+    },
+    {
+      "name": "Aiapp.gg web extension",
+      "description": "Browser extension with AI enhancement",
+      "website": "https://chromewebstore.google.com/detail/aiappgg-web-extension/bfkjjpjjipjjbdaefiapikghkmfnoemd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776926990895503.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:56",
+      "updatedAt": "2024-06-07 22:06:56"
+    },
+    {
+      "name": "Claude AI Enhancer",
+      "description": "Enhance chat interaction with Claude.ai",
+      "website": "https://chromewebstore.google.com/detail/claude-ai-enhancer/ebkiphpekjokbjjpofnflnjhlchmhnmj?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:51",
+      "updatedAt": "2024-06-07 21:39:51"
+    },
+    {
+      "name": "Tappy - Your AI LinkedIn Comments Assistant",
+      "description": "Generate LinkedIn replies in one tap",
+      "website": "https://chromewebstore.google.com/detail/tappy-your-ai-linkedin-co/hbcdhdfokpdbnhfggebeeiokjjlfnffk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747583125774917.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:17",
+      "updatedAt": "2024-06-04 12:35:17"
+    },
+    {
+      "name": "Ellie",
+      "description": "Ellie is an AI email assistant powered by GPT-4 that crafts replies in your writing style.",
+      "website": "https://ellieai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4b2def9564b5a9e79ea6c7002978f59b.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "Mailr - AI Email Assistant",
+      "description": "Enhance email efficiency with AI.",
+      "website": "https://chromewebstore.google.com/detail/mailr-ai-email-assistant/nooogbcamojnhfkdnigljbjfjcpdfeic?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763898058229435.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:39",
+      "updatedAt": "2024-06-06 09:55:39"
+    },
+    {
+      "name": "PatronsAI",
+      "description": "Patreon users can enhance interaction with patrons using patronsAI's personalized reply suggestions.",
+      "website": "https://patronsai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168744664663163088.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-22 23:10:34",
+      "updatedAt": "2023-06-22 23:10:34"
+    },
+    {
+      "name": "LinkedIn ReplySensei",
+      "description": "AI replies for LinkedIn posts",
+      "website": "https://chromewebstore.google.com/detail/linkedin-replysensei/ldlhlpfgofakgdhajekackgbjjficigh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998288867100655.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:59",
+      "updatedAt": "2024-07-03 13:00:59"
+    },
+    {
+      "name": "Swift Reply",
+      "description": "Swift Reply uses ChatGPT and GPT-3.5 to generate personalized and natural comments for LinkedIn.",
+      "website": "https://swiftreply.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168372876182737532.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 22:25:57",
+      "updatedAt": "2023-05-10 22:25:57"
+    },
+    {
+      "name": "\u5c0f\u7ea2\u4e66AI\u52a9\u624b",
+      "description": "Enhance response efficiency with AI.",
+      "website": "https://chromewebstore.google.com/detail/\u5c0f\u7ea2\u4e66ai\u52a9\u624b/aeipfcbfnekejjdgjgafdjfjidlknaga?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998288181479966.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:58",
+      "updatedAt": "2024-07-03 13:00:58"
+    },
+    {
+      "name": "FutureWrite AI for Writing & More w/ ChatGPT",
+      "description": "AI-powered writing assistant for professionals.",
+      "website": "https://chromewebstore.google.com/detail/futurewrite-ai-for-writin/emdgdppbafhfembkbpokbbedmjpcbime?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763884464215701.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Twitter Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Email Writer",
+        "General Writing",
+        "Copywriting",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:48",
+      "updatedAt": "2024-06-06 09:53:48"
+    },
+    {
+      "name": "ChatGPT for Twitter",
+      "description": "Unleash boundless Twitter power with AI-generated, multilingual tweets.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-for-twitter/ihabhmefjiipbmppmjoleclimdeompdc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679482413907995.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:34:37",
+      "updatedAt": "2023-06-03 10:34:37"
+    },
+    {
+      "name": "OneShot - Hyper Personalizer",
+      "description": "AI Chrome Extension for personalized sales outreach and engagement.",
+      "website": "https://chromewebstore.google.com/detail/oneshot-hyper-personalize/gjbkaaflekcpeakkcoolahefhdmapgcp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147845560178296.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "Sales Assistant",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:05",
+      "updatedAt": "2024-11-13 14:14:05"
+    },
+    {
+      "name": "Keyboard AI\u30fbReplyAssistant",
+      "description": "AI-powered custom keyboard app for seamless messaging.",
+      "website": "https://apps.apple.com/us/app/keyboard-ai-replyassistant/id1664247219?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578522931576461.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Content Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Rubin Propel - Advanced",
+      "description": "Professional email writing tool with guided form",
+      "website": "https://chromewebstore.google.com/detail/rubin-propel-advanced/aekbjeemmbjiieebmopjlaojnnphineg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352860799933768.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "Letter Writer",
+        "Writing Assistants",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:39",
+      "updatedAt": "2024-08-13 13:56:39"
+    },
+    {
+      "name": "Mailwrite - AI Email Replies",
+      "description": "Enhance email productivity with reply suggestions.",
+      "website": "https://chromewebstore.google.com/detail/mailwrite-ai-email-replie/cibhknlofbcifmgfbffmkdebcnllmpka?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703941619330056.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Reply Assistant",
+        "AI Email Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:22",
+      "updatedAt": "2024-05-30 11:23:22"
+    },
+    {
+      "name": "ContextAI",
+      "description": "Instantly get AI-generated, contextually intelligent replies.",
+      "website": "https://chrome.google.com/webstore/detail/contextai/hkhajfdbimpdgollnljpaokdiklfcmpm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679476098274746.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Twitter Assistant",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:47",
+      "updatedAt": "2023-05-18 18:53:47"
+    },
+    {
+      "name": "Notaic",
+      "description": "AI email drafting assistant that replies in your voice.",
+      "website": "https://www.notaic.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007949046006773.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:44",
+      "updatedAt": "2024-10-28 09:37:44"
+    },
+    {
+      "name": "Icebreaker AI - LinkedIn Outreach Personalization",
+      "description": "Boost LinkedIn engagement with AI",
+      "website": "https://chromewebstore.google.com/detail/icebreaker-ai-linkedin-ou/hbljfhndaonplbgjbcdinloomapidmod?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687125165736910.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:44",
+      "updatedAt": "2024-05-28 12:40:44"
+    },
+    {
+      "name": "WritePanda - AI",
+      "description": "Professional content creation made easy.",
+      "website": "https://chromewebstore.google.com/detail/writepanda-ai/haaaebchamjnnglhdjgkdjmdieladcmk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738083425700176.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Paraphraser",
+        "AI Repurpose Assistant",
+        "AI Email Assistant",
+        "AI Rewriter",
+        "General Writing",
+        "AI Email Writer",
+        "AI Email Generator",
+        "Copywriting",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Email Marketing",
+        "AI Grammar Checker",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:32",
+      "updatedAt": "2024-06-03 10:13:32"
+    },
+    {
+      "name": "ReplyGPT",
+      "description": "Save time with AI-generated comments",
+      "website": "https://chromewebstore.google.com/detail/replygpt/hjebfjjlollikihnildcmomfkpiejoip?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687106230969818.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Facebook Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Paraphraser",
+        "General Writing",
+        "Copywriting",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:10",
+      "updatedAt": "2024-05-28 12:37:10"
+    },
+    {
+      "name": "ChatGPT Gmail AutoReply",
+      "description": "Enhance your Gmail experience with OpenAI's GPT-4 powered auto-reply suggestions.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-gmail-autoreply/mbkhbjghenglpaiapkkfgnclhpnigkff?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679489281147950.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-07 22:16:19",
+      "updatedAt": "2023-10-07 22:16:19"
+    },
+    {
+      "name": "Ask by Slite",
+      "description": "Instant answers with Al-powered assistant",
+      "website": "https://chromewebstore.google.com/detail/ask-by-slite/knnaldegackdplnkdpkhedkkpgpgjfga?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763884775130124.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Knowledge Base",
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:48",
+      "updatedAt": "2024-06-06 09:53:48"
+    },
+    {
+      "name": "FiverrFlow",
+      "description": "Boost Fiverr communication with AI extension",
+      "website": "https://chromewebstore.google.com/detail/fiverrflow/bhgbogcbgfkglncfafbeigkhjdjibnjd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687126970017895.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:46",
+      "updatedAt": "2024-05-28 12:40:46"
+    },
+    {
+      "name": "HostAway - AI-responder",
+      "description": "Automates guest response writing",
+      "website": "https://chromewebstore.google.com/detail/hostaway-ai-responder/jdimmnpkameldecjkakpmfeglelpgppe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738105193843073.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Response Generator",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:14",
+      "updatedAt": "2024-06-03 10:16:14"
+    },
+    {
+      "name": "GPTweet",
+      "description": "ChatGPT-powered Twitter networking extension.",
+      "website": "https://chrome.google.com/webstore/detail/gptweet-twitter-replies-w/dhjbdoaddaillhhngldldpklbogfblif?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543724185227288.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 16:59:45",
+      "updatedAt": "2023-05-30 16:59:45"
+    },
+    {
+      "name": "Soulreply - Your mental supporter",
+      "description": "AI-powered mental health support",
+      "website": "https://soulreply.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833027437116969.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "Mental Health",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:57",
+      "updatedAt": "2024-06-14 09:56:57"
+    },
+    {
+      "name": "ChatGPT Extension",
+      "description": "Browser extension for ChatGPT interaction",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-extension/ehigecokdaejpecogfefhmoemlapfjko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747568992647630.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "AI Chatbot",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:17",
+      "updatedAt": "2024-06-04 12:34:17"
+    },
+    {
+      "name": "Saywhat",
+      "description": "LinkedIn presence builder with AI content creation",
+      "website": "https://chromewebstore.google.com/detail/saywhat/kdmcdkanhnbdcmadgljmhdimdlfpgple?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481124366652530.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:13:48",
+      "updatedAt": "2024-08-28 10:13:48"
+    },
+    {
+      "name": "Jack's ChatGPT",
+      "description": "Fast and secure chat plugin",
+      "website": "https://chromewebstore.google.com/detail/jacks-chatgpt/dmmilkdjenemeobimpmadahinohmddjc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776759896128052.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:36",
+      "updatedAt": "2024-06-07 21:39:36"
+    },
+    {
+      "name": "MentionMaster",
+      "description": "Automated AI product promotion tool",
+      "website": "https://mentionmaster.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043215184184593.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI YouTube Assistant",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:05",
+      "updatedAt": "2024-07-08 17:48:05"
+    },
+    {
+      "name": "Autopest - Email follow-ups powered by A.I.",
+      "description": "Increase email productivity with AI-powered follow-up emails.",
+      "website": "https://chromewebstore.google.com/detail/autopest-email-follow-ups/lcjjjnbbdbpbellblghdmahjanmpggan?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763886479872140.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:49",
+      "updatedAt": "2024-06-06 09:53:49"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

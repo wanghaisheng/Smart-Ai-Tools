@@ -1,0 +1,3604 @@
+{
+  "tools": [
+    {
+      "name": "Midjourney",
+      "description": "The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Viggle Ai",
+      "description": "Viggle.ai, making any character move as you want.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "BlueWillow",
+      "description": "Our active text-to-image AI community powers your journey to generate the best art, images, and design.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Leonardo.Ai",
+      "description": "Leonardo.Ai is a generative AI platform for content creation. Create game assets, artwork, design elements, and more!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Domo AI",
+      "description": "/video, /gen, /real, /animate, /move, Every Tool for Every Creative Ideas",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pika",
+      "description": "Video on command.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Stable Audio",
+      "description": "Welcome to Stable Diffusion; the home of Stable Models and the Official Stability.AI Community! https://stability.ai/",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Stable Diffusion",
+      "description": "Welcome to Stable Diffusion; the home of Stable Models and the Official Stability.AI Community! https://stability.ai/",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Voicemod",
+      "description": "Official Voicemod Discord. Voice Changers, Soundboards, impressions, weekly giveaways, events and Voicemod PRO Rewards!\u2728",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Moonvalley",
+      "description": "The world's best AI Video text-to-video generator. Moonvalley is a groundbreaking new text-to-video generative AI model",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Applio",
+      "description": "A community for AI enthusiasts to learn, share, and collaborate.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Wombo",
+      "description": "The home of everything WOMBO Dream releated! Create, Share and Discuss the magic of AI. \ud83d\udc7d",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Openart",
+      "description": "OpenArt is an AI-native social platform, inventing a new paradigm and tools for expression and entertainment.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "JanitorAI",
+      "description": "Much chatbots, Such fun!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "MyShell",
+      "description": "The Open Ecosystem for AI Native Apps. Connect with fellow users, creators, and open-source AI researchers here!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Assisterr",
+      "description": "Data Layer for Decentralised AI Incentive-driven Network of Community-owned AI Models for Developers",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Luma AI",
+      "description": "Generate stunning video is seconds using Luma Dream Machine -> www.lumalabs.ai/dream-machine",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Playground AI",
+      "description": "Playground is a place to create any image from your imagination.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Kaiber.ai",
+      "description": "Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Aimlabs",
+      "description": "Official Discord Server for Aimlabs. Come start your aim training journey and improve at your favorite games!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Solidus Ai Tech",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "FakeYou",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Runwayml",
+      "description": "Runway is a community of researchers, artists, video editors, and good humans who are pushing creativity forward.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "starryai 2.0",
+      "description": "A bustling hub for creators and artists using starryai to expand their creative horizons.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "NightCafe Studio",
+      "description": "Create AI Art alongside like-minded individuals in the best generative art community. :)",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Spline",
+      "description": "Learn 3D and Spatial Design with Spline, share your work, get updates, and more!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Codeium",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Imagine Ai Art Generator",
+      "description": "An Official community server of Imagine AI to showcase art, get support and bring people of similar interests together.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Genmo AI",
+      "description": "Generative AI platform | Create immersive and interactive art with Genmo AI | https://genmo.ai",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "GPTsdex",
+      "description": "Official server for Quick QR Art Bot. Create Scannable QR Code Art for your brands in seconds by AI.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "QuickQR Art",
+      "description": "Official server for Quick QR Art Bot. Create Scannable QR Code Art for your brands in seconds by AI.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Customuse",
+      "description": "Customuse: Easy fun design server. Free tools for templates on Roblox, Zepeto, Minecraft, AR! AI for Roblox & Minecraft!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Alethea",
+      "description": "Join the AI Protocol Discord \u2014 where Decentralized AI evolves through community-driven innovation and collaboration!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Opus Clip AI",
+      "description": "Generative AI video editing tool that turns a long video into viral shorts in one click. Create and grow 10x faster.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "CrushOn.AI",
+      "description": "Welcome to CrushonAI Discord Server - The ultimate destination for chatting with your favorite AI characters, No Filter!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "InVideo",
+      "description": "This is where fans & users of invideoAI come together and make beautiful videos!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Maze Guru",
+      "description": "To be an art guru by texting! Maze Guru is an AI-powered platform that helps you create amazing artwork in seconds!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ElevenLabs",
+      "description": "Official ElevenLabs Discord - From realistic AI speech to dubbing, our audio tools make content universally accessible.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "PixAI - AI Art Generator",
+      "description": "Server for the platform: PixAI.art. We have free AI image generation for anime fans!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pygmalion AI",
+      "description": "This community server is dedicated to the PygmalionAI project, an open source conversational/roleplaying language model!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "StealthWriter",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "QnA3",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Salad - GPU Cloud",
+      "description": "The support and social community for Salad.com!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ChainGPT",
+      "description": "Unleash the power of Blockchain AI - Your personal expert in all crypto & blockchain-related topics.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ChainGPT",
+      "description": "Unleash the power of Blockchain AI - Your personal expert in all crypto & blockchain-related topics.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Yodayo AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Learn Prompting",
+      "description": "Learn how to use Generative AI effectively & safely! Largest Prompt Engineering Community in the World!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "NovelAI",
+      "description": "NovelAI: AI Storyteller & Img Gen, with freedom, privacy, and transparency in mind. AetherRoom: Create, Chat, Interact",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Lablab.ai",
+      "description": "We are community of makers, building and innovating with state-of-the-art in artificial Intelligence.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Angular.dev",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "tensor.art",
+      "description": "AI - Model Hosting Platform & Creative Inspiration Community",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Crayo AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Talent Protocol",
+      "description": "Smart resumes for the new internet.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "TubeBuddy",
+      "description": "Helping YouTubers be successful with a helpful creative suite of tools FREE and Paid. Grow with TubeBuddy Today!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "futureverse.com",
+      "description": "Futureverse is a technological and cultural foundation for the open metaverse.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Harmonai",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Getimg.ai",
+      "description": "The official server of getimg.ai - a suite of magical AI tools. Share your work, discuss, learn, and get inspired.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Wisdomise",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pikzels AI",
+      "description": "Viral Thumbnails & Titles in Seconds",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pikzels",
+      "description": "Viral Thumbnails & Titles in Seconds",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DressPlay",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Candy.ai",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Gemma Open Models by Google",
+      "description": "We're a global community of developers sharing knowledge & ideas. Enjoy your coding journey with us!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Avaturn ME",
+      "description": "Avaturn avatar creator community",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "RunDiffusion",
+      "description": "Learn all about generative Ai with RunDiffusion. Launch the most powerful apps the community has to offer!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "RunDiffusion",
+      "description": "Learn all about generative Ai with RunDiffusion. Launch the most powerful apps the community has to offer!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "FlowGPT",
+      "description": "World's Largest ChatGPT and educative Prompt Engineering Community - Learn Prompting now for LLM models & share methods!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Booom",
+      "description": "Playroom is home for Multiplayer and Discord games. Come join the community to",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Booom.ai",
+      "description": "Playroom is home for Multiplayer and Discord games. Come join the community to",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Promptchan AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "LTX Studio",
+      "description": "The official Discord server for LTX Studio -  the storytelling platform to give form to your imagination.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Mage",
+      "description": "Mage is a place to create, share, and discuss AI Art.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Captions",
+      "description": "Captions is your AI-powered creative studio. Learn more at captions.ai or search \"Captions\" in the App Store/Play Store.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pinokio",
+      "description": "Pinokio is a browser that lets you install, run, and programmatically control ANY application, automatically",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Laion",
+      "description": "Welcome to LAION, an open network to cultivate research on ML code, models, and datasets. 100% open. 100% free.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Kits AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "CSM",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Dubbing AI",
+      "description": "#1 Free AI voice changer! Join now to claim your free voice and many other giveaways!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Artflow ai",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pairrd",
+      "description": "Learn REAL Poker and make consistent Winnings. We know how to do it.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Meshy",
+      "description": "Create Stunning 3D Game Assets with AI. And share your experience with thousands of artists.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Juicychat AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Merch Dominator",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "QRBTF - AI QR Code Generator",
+      "description": "An AI R&D group, creator of QRBTF",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "alteredstatemachine.xyz",
+      "description": "The Root Network enables seamless user experience and asset interoperability across the open metaverse.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Swapface.org",
+      "description": "Welcome to the official server for Swapface.org most easy-to-use face swap app! Discover user showcases and seek help.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Nectar AI",
+      "description": "Nectar AI is the premier place to create your own AI Girlfriend for FREE!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Gencraft",
+      "description": "Welcome to Gencraft! Generate stunning images with V3, publish your art, and get featured on our trending feed!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Glif",
+      "description": "a generative AI sandbox. easily make and share no-code AI mini apps with text, image, audio and video workflows.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "RIDO Protocol",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Openfabric AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Replicate AI",
+      "description": "Run AI with an API. Deploy custom models at scale.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Chub",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Dezgo",
+      "description": "Welcome to the official AI Art Dezgo Discord !",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Recraft Image Model",
+      "description": "Generative AI design tool that lets users create and edit graphics in a uniform brand style. Create AI Images for free!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Recraft AI",
+      "description": "Generative AI design tool that lets users create and edit graphics in a uniform brand style. Create AI Images for free!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Careerflow",
+      "description": "The #1 Career Community! Engage with other job seekers, mentors, recruiters, and enthusiasts.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Careerflow",
+      "description": "The #1 Career Community! Engage with other job seekers, mentors, recruiters, and enthusiasts.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Dzine",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Groq",
+      "description": "Groq provides the world's fastest AI inference.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "haiper.ai",
+      "description": "Haiper AI video generator.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "LlamaIndex",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Merlin AI",
+      "description": "Our community is dedicated to anyone who is new to  AI to share some best practices around prompts, Images and workflows",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "MidReal",
+      "description": "Create personalized stories effortlessly with MidReal.ai",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "GPTGirlfriend",
+      "description": "Discover a world of AI and amazing personalities from all the characters that you know and love. GPTGirlfriend.Online",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Uberduck",
+      "description": "Talk about AI, voice synthesis, text to speech, other creative AI generation, and all things UBERDUCK!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "SpicyChat AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Headstarter",
+      "description": "Headstarter is building the #1 community for emerging software engineers.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "CryptoDo",
+      "description": "CryptoDo is the best constructor of smart contracts",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Aiva",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Charstar",
+      "description": "Official Discord server for Charstar",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DiffusionBee",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Img Upscaler",
+      "description": "Vertex AI Official Discord Server\uff01",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Imagetocartoon",
+      "description": "Vertex AI Official Discord Server\uff01",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "AI. Image Enlarger",
+      "description": "Vertex AI Official Discord Server\uff01",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Imagecolorizer",
+      "description": "Vertex AI Official Discord Server\uff01",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Dify.AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Tradytics",
+      "description": "Tradytics is an artificial intelligence driven trade ideas generation platform for retail traders.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Bot3 AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Fotor",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Weave",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Punky.Ai",
+      "description": "PUNKY is an AI-driven Discord Moderator using machine learning and seamless automation for intelligent community growth.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Coze",
+      "description": "Official community for Coze (www.coze.com), the AI chatbot builder. Connect and share your AI bots!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Eklipse.GG",
+      "description": "Eklipse.gg is the best place for FREE AI-generated gaming highlights with a free convert to TikTok/Reels/Shorts feature!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Rosebud",
+      "description": "Turn text into playable games using AI, collaborate with fellow developers, and share your games.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "TokkingHeads",
+      "description": "Turn text into playable games using AI, collaborate with fellow developers, and share your games.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "TokkingHeads",
+      "description": "Turn text into playable games using AI, collaborate with fellow developers, and share your games.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "PixelVibe by Rosebud AI",
+      "description": "Turn text into playable games using AI, collaborate with fellow developers, and share your games.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Kindroid",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Definity Legend A.I Game Builder",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Unhinged AI",
+      "description": "Unhinged.AI's official discord server!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Warp AI",
+      "description": "Warp is a blazingly fast, Rust-based terminal reimagined from the ground-up to work like a modern app.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Stability World AI",
+      "description": "Unlocking endless creative possibilities with Blockchain-Powered AI",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Scispace",
+      "description": "Building the world's largest community for science, research and academia.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "IMI Prompt",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "NSFWChatAI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Jeffrey C\u00e9lavie Astrology",
+      "description": "We are The Cool Kidz, the world\u2019s first NFT-powered street crew and NFTbook publisher.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Motionbear",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DiscordPal",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DiscordPal",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "RunPod",
+      "description": "We're a community of enthusiasts, engineers, and enterprises, all sharing insights on AI, Machine Learning and GPUs!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Phind",
+      "description": "phind.com is the AI Search Engine for Developers. Join for product discussion and feedback.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Distillery by FollowFox",
+      "description": "Distillery is a full-service generative art service built by FollowFox.AI",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Distillery by FollowFox",
+      "description": "Distillery is a full-service generative art service built by FollowFox.AI",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Nexlev - AI-Powered YouTube Niche Finder",
+      "description": "The #1 community for people doing Faceless YouTube or those who are running Faceless YouTube & Cashcow channels",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "move.ai",
+      "description": "Move AI makes it easy for anyone, anywhere to capture and create 3D animations.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ChatDOC",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "scenario.com",
+      "description": "Create amazing game assets with Scenario's AI-powered tools - fast, easy and creative!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Scenario",
+      "description": "Create amazing game assets with Scenario's AI-powered tools - fast, easy and creative!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Godmode",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Play AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Astria - Dreambooth API",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Astria",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Pollinations",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DSNR",
+      "description": "The official server of DSNR, a bot that offers a trained AI model for generating professional image-generation prompts.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "AI-Novel",
+      "description": "Official server for Tone Sphere and AI Novelist!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Dittin AI V2",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "CodiumAI",
+      "description": "CodiumAI - Get tests, findings, and suggestions right inside your IDE or Git platform, code smart, and stay confident!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Heurist Imagine",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Wonder Studio",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Chirpley",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "PromptHero",
+      "description": "Official Server for prompthero.com, a space to share AI art, prompts, ideas, resources, & prompt engineering techniques",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "HeyGen",
+      "description": "HeyGen's Official Discord Server",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Klap",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Open Interpreter",
+      "description": "A new way to use computers",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Nomi ai",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Getalpaca",
+      "description": "The official AlpacaML Community Discord",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Faraday.dev",
+      "description": "The official server for Backyard.ai \u2014 a creative platform for AI Characters.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Kuki AI",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Cascadeur",
+      "description": "The official Cascadeur software server. Discuss, ask technical questions and share your animations created in Cascadeur!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Cascadeur",
+      "description": "The official Cascadeur software server. Discuss, ask technical questions and share your animations created in Cascadeur!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Jan",
+      "description": "Homebrew is a research lab on building human-augmented AI and the core maintainers of open-source tools Jan & Cortex.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "arGPT for Monocle",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "FreedomGPT",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Vizard",
+      "description": "Join Vizard.ai's community for quick responses!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Swaap v2",
+      "description": "Swaap is the first AMM engineered for LPs. We enable anyone to access best in class market-making strategies.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Sudowrite",
+      "description": "Connect with a friendly community of forward-thinking authors, writers & AI enthusiasts. Experiment, learn, and share!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Sharesome AI",
+      "description": "Official 'Sharesome | Flame Token' Discord server.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Moemate",
+      "description": "moemate, the highly customisable AI-driven virtual companion that enriches your life. Engage in lively conversations, re",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "invocable.com",
+      "description": "Voiceflow is your community for builders of ChatGPT AI Agents, Bots, Assistants and Automation \u26a1",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Voiceflow ai",
+      "description": "Voiceflow is your community for builders of ChatGPT AI Agents, Bots, Assistants and Automation \u26a1",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Voiceflow ai",
+      "description": "Voiceflow is your community for builders of ChatGPT AI Agents, Bots, Assistants and Automation \u26a1",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Voiceflow ai",
+      "description": "Voiceflow is your community for builders of ChatGPT AI Agents, Bots, Assistants and Automation \u26a1",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Wirestock",
+      "description": "Leading platform for monetizing AI art, photos, and videos on various marketplaces - Wirestock.io.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Cheddar Flow",
+      "description": "Helping you uncover unusual options activity and shining light on dark pool trades. Follow the flow!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Vidyo.ai",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "fal.ai",
+      "description": "The official Discord server of Features & Labels, fal.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "The Digital Dogs",
+      "description": "AI Digital Dogs For Immersive-Realities. Your ideal companion across virtual worlds, social apps, games and more.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Vana",
+      "description": "-\ud83e\ude93\ud83d\udeaa Breaking data silos and putting the power of data and AI back in users' hands. \ud83e\ude93\ud83d\udeaa #decetralizeAI #userdata",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "OpenRouter",
+      "description": "Discover and use new LLMs",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Athena Search",
+      "description": "Advancing Humanity through open source AI research.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Quillbot Paraphraser",
+      "description": "Discord community devoted to the development of Quillbot.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Jenni",
+      "description": "A server dedicated to the jenni.ai service, and exclusive jenni.ai NFT's!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "AnythingLLM",
+      "description": null,
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Korus",
+      "description": "We're building the future of music and developing KORUS, your own personal music producer powered by Ai",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Diffus",
+      "description": "Home for Diffus Community! Create magical images with AI. https://diffus.graviti.com",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Diffus",
+      "description": "Home for Diffus Community! Create magical images with AI. https://diffus.graviti.com",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Diffus",
+      "description": "Home for Diffus Community! Create magical images with AI. https://diffus.graviti.com",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Diffus",
+      "description": "Home for Diffus Community! Create magical images with AI. https://diffus.graviti.com",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ]
+}

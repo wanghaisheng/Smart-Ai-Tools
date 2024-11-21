@@ -1,0 +1,1876 @@
+{
+  "tools": [
+    {
+      "name": "EverSQL",
+      "description": "AI-powered SQL query optimizer.",
+      "website": "https://eversql.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350403243166066.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:15",
+      "updatedAt": "2023-12-25 18:20:15"
+    },
+    {
+      "name": "Vanna AI",
+      "description": "Vanna is an AI-powered Python package that generates SQL for databases, acting as a business intelligence assistant.",
+      "website": "https://vanna.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253912646724669.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "SQLAI.ai",
+      "description": "AI platform for SQL query generation and optimization",
+      "website": "https://www.sqlai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052440552339005.jpg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:29",
+      "updatedAt": "2024-07-09 19:23:29"
+    },
+    {
+      "name": "Text2SQL.AI",
+      "description": "A user-friendly AI platform converts English instructions into SQL queries.",
+      "website": "https://text2sql.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485569975640937.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:28:01",
+      "updatedAt": "2023-05-23 23:28:01"
+    },
+    {
+      "name": "Ai2sql",
+      "description": "Effortlessly write SQL queries without knowing SQL.",
+      "website": "https://www.ai2sql.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7b384d7d5266b1ee767a8e3dd29f5301.jpeg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Code Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Tidb",
+      "description": "TiDB Cloud is a fully managed service that combines AI-generated SQL and Serverless HTAP for real-time analytics and elastic scaling.",
+      "website": "https://tidbcloud.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4dd9652e16378b18e7ccb92baa0eb6c4.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "BlazeSQL",
+      "description": "BlazeSQL lets you get data insights from SQL Databases without writing code. It connects an AI chatbot to your SQL Database, that can extract data to answer your questions, visualize the results, and generate SQL code for you.",
+      "website": "https://www.blazesql.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230668482379263.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SEO Assistant",
+        "Code Explanation",
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:33:07",
+      "updatedAt": "2024-07-30 10:33:07"
+    },
+    {
+      "name": "AI Query 2.0",
+      "description": "AI Query is a web tool that generates SQL queries using English prompts, without prior SQL knowledge.",
+      "website": "https://aiquery.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476362263280886.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:27:02",
+      "updatedAt": "2023-05-22 20:27:02"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Seek",
+      "description": "AI-powered database query tool helps businesses modernize analytics and overcome information barriers.",
+      "website": "https://www.seek.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/def37c0615d42745cbc939a6bed1e87c.jpeg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Channel",
+      "description": "Channel is a user-friendly data analytics platform that provides SQL-free data insights and visualizations.",
+      "website": "https://www.usechannel.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/cc2ae4f274512760e2477c3bc19d9d71.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Formularizer",
+      "description": "Formularizer is an AI platform that generates and explains formulas for various applications, saving time and increasing productivity.",
+      "website": "https://formularizer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804540494814005.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Response Generator",
+        "AI Spreadsheet",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:29:51",
+      "updatedAt": "2023-06-29 21:29:51"
+    },
+    {
+      "name": "text2sql",
+      "description": "Converts plain text to SQL queries with AI, making querying data easier.",
+      "website": "https://text2sql.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543742227815874.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:03:33",
+      "updatedAt": "2023-05-30 17:03:33"
+    },
+    {
+      "name": "Sheety",
+      "description": "Generate spreadsheet formulas using AI.",
+      "website": "https://sheety.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373316845167083.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SQL Query Builder",
+        "AI Spreadsheet"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:15",
+      "updatedAt": "2023-12-28 11:11:15"
+    },
+    {
+      "name": "LINQ Me Up",
+      "description": "Save time and boost productivity with LINQ Me Up's AI-powered SQL to LINQ conversion and LINQ query generation.",
+      "website": "https://www.linqmeup.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169487898260260965.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 23:41:55",
+      "updatedAt": "2023-09-16 23:41:55"
+    },
+    {
+      "name": "SQL CREATOR",
+      "description": "A web app that improves SQL query writing using AI and natural language processing.",
+      "website": "https://sql-creator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416198238449949.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:45:59",
+      "updatedAt": "2023-05-15 22:45:59"
+    },
+    {
+      "name": "snowBrain",
+      "description": "snowBrain is an AI platform that analyzes and extracts insights from snowflake data.",
+      "website": "https://snowbrain.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168909335759382230.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-12 00:35:46",
+      "updatedAt": "2023-07-12 00:35:46"
+    },
+    {
+      "name": "QueryCraft",
+      "description": "Summary: QueryCraft generates data science queries using AI.",
+      "website": "https://www.querycraft.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168344857780276561.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 16:36:30",
+      "updatedAt": "2023-05-07 16:36:30"
+    },
+    {
+      "name": "Magic Dash AI",
+      "description": "Simplify MongoDB analytics with AI-powered visualization.",
+      "website": "https://getmagicdashai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969529431086589.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Advertising Assistant",
+        "AI Charting",
+        "AI Analytics Assistant",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:15",
+      "updatedAt": "2023-11-11 17:32:15"
+    },
+    {
+      "name": "SQLPilot",
+      "description": "AI-powered SQL editor for efficient query writing",
+      "website": "https://sqlpilot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070126186207833.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:50",
+      "updatedAt": "2024-07-11 20:33:50"
+    },
+    {
+      "name": "AI2sql - the Chrome extension plugin",
+      "description": "Generate SQL quickly with AI",
+      "website": "https://chromewebstore.google.com/detail/ai2sql-the-chrome-extensi/igdjlakahlpaifjlfbhocmajhpmieomi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679947187647192.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SQL Query Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "EverSQL integrations: MySQL/PG Monitoring",
+      "description": "Query optimization tool for databases",
+      "website": "https://chromewebstore.google.com/detail/eversql-integrations-mysq/amihcpfgniggncfcljabdgcdbccbpiin?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679946697262820.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "OWOX: SQL AI Copilot for BigQuery",
+      "description": "Fast BigQuery data querying in Chrome",
+      "website": "https://chromewebstore.google.com/detail/owox-sql-ai-copilot-for-b/mhidmfjmihacbbiepmmkkkljmgnpemhn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679933799625508.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:35",
+      "updatedAt": "2024-05-23 22:00:35"
+    },
+    {
+      "name": "Pandalyst",
+      "description": "Write SQL queries in seconds.",
+      "website": "https://pandalyst.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839251044037522.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:19",
+      "updatedAt": "2024-02-20 09:27:19"
+    },
+    {
+      "name": "Kvery.io",
+      "description": "AI-powered SQL editor for automatic data visualization and API generation.",
+      "website": "https://kvery.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170731992452468092.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Knowledge Base",
+        "AI Analytics Assistant",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-07 23:30:51",
+      "updatedAt": "2024-02-07 23:30:51"
+    },
+    {
+      "name": "AskYourApp",
+      "description": "AI-powered tool enables Bubble.io users to interact with app databases using natural language.",
+      "website": "https://askyourapp.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003635049313762.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "AIHelperBot",
+      "description": "AIHelperBot is a free AI-powered tool that generates and optimizes SQL queries using advanced technology.",
+      "website": "https://www.sqlai.ai?aff=O0D1K",
+      "image": "https://cdn-images.toolify.ai/image/3c53105cf7a6afe4c46d18f394fc285b.jpeg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "Tantl",
+      "description": "Simplify SQL queries and access data warehouses with AI.",
+      "website": "https://www.tantl.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804569498406727.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:34:42",
+      "updatedAt": "2023-06-29 21:34:42"
+    },
+    {
+      "name": "Parse.dev",
+      "description": "\"Parse.dev is an AI tool that lets users access and analyze data without writing SQL queries.\"",
+      "website": "https://www.parse.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168605185251026625.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-06 19:43:32",
+      "updatedAt": "2023-06-06 19:43:32"
+    },
+    {
+      "name": "Avanty",
+      "description": "Avanty is an AI-enabled Chrome extension that enhances data analysts' efficiency in Metabase by streamlining SQL query tasks.",
+      "website": "https://avanty.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a01f612298abb4e57544e1e394abb2b9.jpeg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "SupaSQL",
+      "description": "Generate SQL queries using natural language with SupaSQL's AI assistance.",
+      "website": "https://supasql.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543622178598193.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 16:42:55",
+      "updatedAt": "2023-05-30 16:42:55"
+    },
+    {
+      "name": "SQLGPT",
+      "description": "The ultimate SQL querying and database management tool powered by AI.",
+      "website": "https://sqlgpt.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168546002148118983.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:19:32",
+      "updatedAt": "2023-05-30 23:19:32"
+    },
+    {
+      "name": "Excel Formularizer",
+      "description": "Formularizer is an AI platform that generates and explains formulas for various applications.",
+      "website": "https://excelformularizer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168482383252038814.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI SQL Query Builder",
+        "AI Spreadsheet"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 14:36:48",
+      "updatedAt": "2023-05-23 14:36:48"
+    },
+    {
+      "name": "ProbeAI",
+      "description": "ProbeAI is an AI Copilot for data analysts, offering support in SQL coding and error fixing.",
+      "website": "https://probeai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577754733794213.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Data Mining",
+        "AI Developer Tools",
+        "AI SQL Query Builder",
+        "Code Explanation",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:32:03",
+      "updatedAt": "2023-06-03 15:32:03"
+    },
+    {
+      "name": "SQLtoughAI",
+      "description": "An AI-powered tool for non-tech users to easily write complex SQL queries.",
+      "website": "https://sqltroughai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577962686333430.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:06:36",
+      "updatedAt": "2023-06-03 16:06:36"
+    },
+    {
+      "name": "Excel Formula Bot",
+      "description": "Formula Bot is an AI-powered tool for automating complex data analysis tasks.",
+      "website": "https://formulabot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168623968895642873.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Data Mining",
+        "AI Analytics Assistant",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "GPTExcel",
+      "description": "Generate or Explain Excel and Sheets formulas with AI.",
+      "website": "https://gptexcel.uk?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578330662713088.jpg",
+      "category": "AI Productivity Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Productivity Tools",
+        "AI Spreadsheet",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:08:07",
+      "updatedAt": "2023-06-03 17:08:07"
+    },
+    {
+      "name": "Outerbase",
+      "description": "Outerbase is an interface for collaborative data exploration and visualization, similar to Figma.",
+      "website": "https://www.outerbase.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168516827559293146.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 14:17:26",
+      "updatedAt": "2023-05-27 14:17:26"
+    },
+    {
+      "name": "InsightBaseAI",
+      "description": "InsightBase is an AI-powered analytics platform that enables businesses to ask questions and receive quick answers without coding or SQL.",
+      "website": "https://insightbase.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578415681372364.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI SQL Query Builder",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:21:55",
+      "updatedAt": "2023-06-03 17:21:55"
+    },
+    {
+      "name": "Shape",
+      "description": "Automated data analytics for ad-hoc data requests",
+      "website": "https://shape.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145444889111493.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder",
+        "AI Charting",
+        "AI API Design",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:13:59",
+      "updatedAt": "2023-12-02 02:13:59"
+    },
+    {
+      "name": "TableTalk",
+      "description": "AI-powered TableTalk enables natural language communication with your database.",
+      "website": "https://www.tabletalk.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/07bebc84dfb80726390d133c10487d51.jpeg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI SQL Query Builder",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:33",
+      "updatedAt": "2023-03-07 16:48:33"
+    },
+    {
+      "name": "PlasticDB",
+      "description": "PlasticDB uses AI to provide accurate and efficient answers from its database.",
+      "website": "https://plasticdb.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168771490324836636.jpg",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-26 01:40:44",
+      "updatedAt": "2023-06-26 01:40:44"
+    },
+    {
+      "name": "Quills.ai",
+      "description": "AI data assistant for effortless data access, analysis, and visualization.",
+      "website": "https://www.quills.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169909903743459567.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Charting",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 19:56:31",
+      "updatedAt": "2023-11-04 19:56:31"
+    },
+    {
+      "name": "ChatViz",
+      "description": "Powerful data visualization tool with ChatGPT",
+      "website": "https://chatviz.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592105928235196.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:44:02",
+      "updatedAt": "2024-05-17 12:44:02"
+    },
+    {
+      "name": "AskEdith Free Tier",
+      "description": "Analytics tool for building dashboards and reports by asking questions.",
+      "website": "https://www.askedith.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534827985296051.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:49",
+      "updatedAt": "2023-05-29 16:16:49"
+    },
+    {
+      "name": "AI Excel Bot",
+      "description": "Effortlessly generate Excel and Google Sheets formulas with AI Formula Wizard.",
+      "website": "https://aiexcelbot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494685387780688.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Product Description Generator",
+        "AI SQL Query Builder",
+        "AI Tutorial",
+        "AI Spreadsheet",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:46:54",
+      "updatedAt": "2023-05-25 00:46:54"
+    },
+    {
+      "name": "Sequel",
+      "description": "AI tool for natural language database interaction and insights.",
+      "website": "https://sequel.sh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709775057212630.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI SQL Query Builder",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:19",
+      "updatedAt": "2024-09-23 21:18:19"
+    },
+    {
+      "name": "Spice.ai",
+      "description": "Ready-to-use data and AI infrastructure for intelligent software.",
+      "website": "https://spice.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857324479341318.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "AI Developer Tools",
+        "AI Analytics Assistant",
+        "AI API Design",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Product Description Generator",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:33",
+      "updatedAt": "2023-10-29 17:53:33"
+    },
+    {
+      "name": "DevGPT",
+      "description": "DevKit is an essential toolkit for developers, offering AI assistance and various devtools.",
+      "website": "https://getdevkit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168398547131932271.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 21:43:09",
+      "updatedAt": "2023-05-13 21:43:09"
+    },
+    {
+      "name": "Findly",
+      "description": "Findly is an AI tool that integrates with Slack for data analysis and insights.",
+      "website": "https://findly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168130386442675144.jpg",
+      "category": "AI Charting",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Charting",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "OtterTune",
+      "description": "AI-powered database optimization for Amazon RDS and Aurora.",
+      "website": "https://ottertune.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169416697528839864.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-08 17:55:40",
+      "updatedAt": "2023-09-08 17:55:40"
+    },
+    {
+      "name": "DataLang",
+      "description": "Chat with databases for intuitive data exploration.",
+      "website": "https://datalang.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170617000090566342.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Data Mining",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:14",
+      "updatedAt": "2024-01-25 16:04:14"
+    },
+    {
+      "name": "AlgForce Copilot",
+      "description": "AI-powered External Brain for Data",
+      "website": "https://ai.algforce.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373328392198294.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Charting",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "AI Knowledge Graph"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:17",
+      "updatedAt": "2023-12-28 11:11:17"
+    },
+    {
+      "name": "SQL Builder",
+      "description": "Effortlessly generate, optimize & validate SQL queries with AI.",
+      "website": "https://sqlbuilder.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073032488064005.webp",
+      "category": "AI SQL Query Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:50",
+      "updatedAt": "2024-03-18 10:51:50"
+    },
+    {
+      "name": "AI Office Bot",
+      "description": "AI-powered formula generation and explanation for popular platforms and Creative Apps.",
+      "website": "https://aiofficebot.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/baddbbc233c4fdbc72e82dc449ffb6b6.jpeg",
+      "category": "Code Explanation",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Code Explanation",
+        "AI SQL Query Builder",
+        "AI Spreadsheet",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "nokori",
+      "description": "Nokori is a versatile platform for SaaS businesses, offering various features and tools.",
+      "website": "https://nokori.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168493978512656308.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI SQL Query Builder",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:48:47",
+      "updatedAt": "2023-05-24 22:48:47"
+    },
+    {
+      "name": "CleverCharts",
+      "description": "AI-powered platform for transforming data into actionable insights.",
+      "website": "https://cleverchartsai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170005799245487940.jpg",
+      "category": "AI Charting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Charting",
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-15 22:18:44",
+      "updatedAt": "2023-11-15 22:18:44"
+    },
+    {
+      "name": "SayData - Metabase ChatGPT",
+      "description": "Simplify data analysis with plain English queries",
+      "website": "https://chromewebstore.google.com/detail/saydata-metabase-chatgpt/jdokdmldgpllolnekoidpmjopibiejle?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703941191061464.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:21",
+      "updatedAt": "2024-05-30 11:23:21"
+    },
+    {
+      "name": "nextbi.ai",
+      "description": "A user-friendly BI tool generates reports from databases using natural language.",
+      "website": "https://nextbi.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168707899091775028.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Monitor & Report Builder",
+        "AI Advertising Assistant",
+        "AI SQL Query Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-18 17:02:56",
+      "updatedAt": "2023-06-18 17:02:56"
+    },
+    {
+      "name": "Latitude",
+      "description": "A data workspace for streamlined data analysis.",
+      "website": "https://latitude.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073351084942950.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Workflow Management",
+        "AI Charting",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Monitor & Report Builder",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 17:57:59",
+      "updatedAt": "2023-11-23 17:57:59"
+    },
+    {
+      "name": "Cabina.AI",
+      "description": "All-in-one AI Chats workspace: productivity, communication & education",
+      "website": "https://cabina.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714256271797645.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Copywriting",
+        "Text to Image",
+        "AI Blog Writer",
+        "Summarizer",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "General Writing",
+        "Transcription",
+        "Transcriber",
+        "Translate",
+        "AI Story Writing",
+        "AI Script Writing",
+        "Letter Writer",
+        "Captions or Subtitle",
+        "Handwriting",
+        "Paraphraser",
+        "AI Hashtag Assistant",
+        "Research Tool",
+        "AI Advertising Assistant",
+        "AI Twitter Assistant",
+        "AI Analytics Assistant",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Grammar Checker",
+        "AI Reviews Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "AI Email Generator",
+        "Design Assistant",
+        "AI Developer Docs",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "Large Language Models (LLMs)",
+        "AI SQL Query Builder",
+        "AI Thumbnail Maker",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Poem & Poetry Generator",
+        "AI Avatar Generator",
+        "AI Photography",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Icon Generator",
+        "AI YouTube Assistant",
+        "Code Explanation",
+        "AI Documents Assistant",
+        "AI PDF",
+        "AI Instagram Assistant",
+        "AI Ad Creative Assistant",
+        "AI Code Generator",
+        "AI Emoji Generator",
+        "AI Cover Generator",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Code Assistant",
+        "AI Speech Recognition",
+        "AI Creative Writing",
+        "AI Interior & Room Design",
+        "AI Graphic Design",
+        "AI Checker Essay",
+        "Text-to-Speech",
+        "AI Design Generator",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Education Assistant",
+        "AI Landing Page Builder",
+        "AI DevOps Assistant",
+        "AI Website Designer",
+        "Prompt",
+        "AI Productivity Tools",
+        "AI Files Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:52:16",
+      "updatedAt": "2024-09-24 09:52:16"
+    },
+    {
+      "name": "HogwartsAI",
+      "description": "Hogwarts AI is a fast dashboard building platform that uses AI to transform text into charts and summaries.",
+      "website": "https://tryhogwarts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882906792107250.jpg",
+      "category": "AI Charting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Charting",
+        "AI Product Description Generator",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "No-Code&Low-Code",
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "Dubo",
+      "description": "Boost productivity with AI-powered SQL editing",
+      "website": "https://dubo.gg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103101730511317.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "SQL Notes",
+      "description": "AI SQL knowledge base",
+      "website": "https://getdatascale.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421475754644764.webp",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:13",
+      "updatedAt": "2024-04-27 18:45:13"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

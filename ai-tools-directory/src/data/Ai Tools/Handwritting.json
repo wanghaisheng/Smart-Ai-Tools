@@ -1,0 +1,1350 @@
+{
+  "tools": [
+    {
+      "name": "Handwriting OCR",
+      "description": "Digitalize handwritten content accurately",
+      "website": "https://www.handwritingocr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421483737647793.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:14",
+      "updatedAt": "2024-04-27 18:45:14"
+    },
+    {
+      "name": "AI Story Generator",
+      "description": "Unleash Your Creativity with AI-Powered Storytelling",
+      "website": "https://storygenerate.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172429244937593476.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Bio Generator",
+        "Paraphraser",
+        "AI Poem & Poetry Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:08:45",
+      "updatedAt": "2024-08-22 10:08:45"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Pen2txt",
+      "description": "Effortlessly transform handwritten notes into digital text",
+      "website": "https://pen2txt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987809283454974.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:14",
+      "updatedAt": "2024-03-08 14:06:14"
+    },
+    {
+      "name": "HandtextAI",
+      "description": "AI tool for converting text to realistic handwritten notes.",
+      "website": "https://handtextai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007985671217065.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:54",
+      "updatedAt": "2024-10-28 09:41:54"
+    },
+    {
+      "name": "Kapi: Learn To Write Nepali",
+      "description": "Offline Nepali language-learning app with machine learning for writing practice.",
+      "website": "https://play.google.com/store/apps/details?id=com.susonsapkota.kapi&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534823850655967.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Handwriting",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:46",
+      "updatedAt": "2023-05-29 16:16:46"
+    },
+    {
+      "name": "Papper: Scan Handwritten Todos",
+      "description": "Convert handwritten notes into digital tasks and access pre-made checklists. Stay organized and productive with Papper.",
+      "website": "https://papper.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152561576709026.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Image Recognition",
+        "AI Image Scanning",
+        "AI Task Management",
+        "Handwriting",
+        "AI Productivity Tools",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:22",
+      "updatedAt": "2023-12-02 21:59:22"
+    },
+    {
+      "name": "Inky Notion",
+      "description": "Convert handwritten notes to Notion pages",
+      "website": "https://www.inkynotion.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839251295450632.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Handwriting",
+        "Transcriber",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:19",
+      "updatedAt": "2024-02-20 09:27:19"
+    },
+    {
+      "name": "hahaOCR",
+      "description": "Image text extraction tool",
+      "website": "https://chromewebstore.google.com/detail/hahaocr/lffahpofbpcpoonljkidnflmalbfellh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679955273117661.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:09",
+      "updatedAt": "2024-05-26 18:30:09"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "Handwriting Remover",
+      "description": "Remove handwriting from images & PDFs",
+      "website": "https://removehandwriting.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007943865474775.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Image Enhancer",
+        "AI Image Scanning",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:59",
+      "updatedAt": "2024-03-10 22:00:59"
+    },
+    {
+      "name": "Grabtext",
+      "description": "Extract and convert text from handwriting or photos",
+      "website": "https://grabtext.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170865842427638947.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-23 11:18:49",
+      "updatedAt": "2024-02-23 11:18:49"
+    },
+    {
+      "name": "GetSearchablePDF",
+      "description": "Bulk OCR PDFs with high accuracy and support for images and handwriting.",
+      "website": "https://getsearchablepdf.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839372860843688.jpg",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI PDF",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:46:44",
+      "updatedAt": "2024-02-20 09:46:44"
+    },
+    {
+      "name": "GradeLab",
+      "description": "AI tool for automated handwritten exam grading.",
+      "website": "https://gradelab.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007987317544903.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "Large Language Models (LLMs)",
+        "Handwriting",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:54",
+      "updatedAt": "2024-10-28 09:41:54"
+    },
+    {
+      "name": "Dear Ai",
+      "description": "A platform that uses AI to generate beautiful, thoughtful letters in just 30 seconds.",
+      "website": "https://dearai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218839676573833.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "Letter Writer",
+        "AI Advertising Assistant",
+        "Handwriting",
+        "Writing Assistants",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:19:20",
+      "updatedAt": "2023-08-16 20:19:20"
+    },
+    {
+      "name": "Math Handwriting API",
+      "description": "Converts handwritten math to LaTeX",
+      "website": "https://mathhandwrit.ing?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171507752758585118.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-07 18:24:39",
+      "updatedAt": "2024-05-07 18:24:39"
+    },
+    {
+      "name": "Wishgram",
+      "description": "Craft adorable handwritten wish cards for free.",
+      "website": "https://www.hostseba.com/aff.php?aff=836",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171072803097689411.webp",
+      "category": "AI Instagram Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Instagram Assistant",
+        "Handwriting",
+        "AI Photo & Image Generator",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:13",
+      "updatedAt": "2024-03-18 10:13:13"
+    },
+    {
+      "name": "Pic to Text",
+      "description": "Effortlessly extract text from images using OCR technology",
+      "website": "https://chromewebstore.google.com/detail/pic-to-text/epgkaemlokadgfheljdcejffjjnddflf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498583663519255.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "Handwriting",
+        "AI Image Recognition",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:43:51",
+      "updatedAt": "2024-08-30 10:43:51"
+    },
+    {
+      "name": "ARTROBOT",
+      "description": "Convert photos into artistic drawings using AI.",
+      "website": "https://www.artrobot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172440192041488538.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Graphic Design",
+        "Handwriting",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Image to Image",
+        "AI Customer Service Assistant",
+        "AI Illustration Generator",
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 16:31:05",
+      "updatedAt": "2024-08-23 16:31:05"
+    },
+    {
+      "name": "Sketch2scheme",
+      "description": "AI tool for converting hand-drawn diagrams into digital formats",
+      "website": "https://sketch2scheme.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208853065284465.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "AI Diagram Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "Drawing Prompts Generator by Chatgpt",
+      "description": "Drawing prompts generator using OpenAI API",
+      "website": "https://chromewebstore.google.com/detail/drawing-prompts-generator/cchiigklglgabbnknjkfamjjecccbdkf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027711270552912.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:53",
+      "updatedAt": "2024-07-06 22:44:53"
+    },
+    {
+      "name": "EasyJobs - Autofill job applications",
+      "description": "Automates job applications with user data.",
+      "website": "https://chromewebstore.google.com/detail/easyjobs-autofill-job-app/bgadbfbglghghbbiaifneokpapebncmk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763895283337649.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:36",
+      "updatedAt": "2024-06-06 09:55:36"
+    },
+    {
+      "name": "Disgraph",
+      "description": "Diagnoses and corrects writing issues effectively.",
+      "website": "https://chromewebstore.google.com/detail/disgraph/gkdpcaacfendpkolbbgjaikcnlpkkgpp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703942037479004.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "Handwriting",
+        "Writing Assistants",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:22",
+      "updatedAt": "2024-05-30 11:23:22"
+    },
+    {
+      "name": "Goodnotes",
+      "description": "AI note-taking app with realistic handwriting experience.",
+      "website": "https://goodnotes.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350402684769713.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Notes Assistant",
+        "Handwriting",
+        "AI Analytics Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:14",
+      "updatedAt": "2023-12-25 18:20:14"
+    },
+    {
+      "name": "Thetawise",
+      "description": "AI-powered math tutoring.",
+      "website": "https://thetawise.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171311382742861788.webp",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Chatbot",
+        "Homework Helper",
+        "AI Tutorial",
+        "Large Language Models (LLMs)",
+        "Handwriting",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 01:04:43",
+      "updatedAt": "2024-04-15 01:04:43"
+    },
+    {
+      "name": "Cabina.AI",
+      "description": "All-in-one AI Chats workspace: productivity, communication & education",
+      "website": "https://cabina.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714256271797645.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Copywriting",
+        "Text to Image",
+        "AI Blog Writer",
+        "Summarizer",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "General Writing",
+        "Transcription",
+        "Transcriber",
+        "Translate",
+        "AI Story Writing",
+        "AI Script Writing",
+        "Letter Writer",
+        "Captions or Subtitle",
+        "Handwriting",
+        "Paraphraser",
+        "AI Hashtag Assistant",
+        "Research Tool",
+        "AI Advertising Assistant",
+        "AI Twitter Assistant",
+        "AI Analytics Assistant",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Grammar Checker",
+        "AI Reviews Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "AI Email Generator",
+        "Design Assistant",
+        "AI Developer Docs",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "Large Language Models (LLMs)",
+        "AI SQL Query Builder",
+        "AI Thumbnail Maker",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Poem & Poetry Generator",
+        "AI Avatar Generator",
+        "AI Photography",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Icon Generator",
+        "AI YouTube Assistant",
+        "Code Explanation",
+        "AI Documents Assistant",
+        "AI PDF",
+        "AI Instagram Assistant",
+        "AI Ad Creative Assistant",
+        "AI Code Generator",
+        "AI Emoji Generator",
+        "AI Cover Generator",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Code Assistant",
+        "AI Speech Recognition",
+        "AI Creative Writing",
+        "AI Interior & Room Design",
+        "AI Graphic Design",
+        "AI Checker Essay",
+        "Text-to-Speech",
+        "AI Design Generator",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Education Assistant",
+        "AI Landing Page Builder",
+        "AI DevOps Assistant",
+        "AI Website Designer",
+        "Prompt",
+        "AI Productivity Tools",
+        "AI Files Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:52:16",
+      "updatedAt": "2024-09-24 09:52:16"
+    },
+    {
+      "name": "formNinja",
+      "description": "Automate web form filling with data extraction from physical files.",
+      "website": "https://chromewebstore.google.com/detail/formninja/pccgcmjpjifcoiipgkopokjmnghikhnl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398616450610703.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Transcription",
+        "Transcriber",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:34",
+      "updatedAt": "2024-08-18 21:02:34"
+    },
+    {
+      "name": "SnappySnail",
+      "description": "Save time by using AI to write and send snail mail letters in seconds",
+      "website": "https://snappysnail.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277165993119458.webp",
+      "category": "Letter Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Letter Writer",
+        "Handwriting",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:53:55",
+      "updatedAt": "2024-04-11 01:53:55"
+    },
+    {
+      "name": "Image2Text: Textify Images",
+      "description": "Convert handwritten notes and images into editable text effortlessly.",
+      "website": "https://apps.apple.com/us/app/image2text-textify-images/id6593661314?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172440194522790273.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Notes Assistant",
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 16:31:17",
+      "updatedAt": "2024-08-23 16:31:17"
+    },
+    {
+      "name": "Neurture",
+      "description": "An AI habit and behavioral change app.",
+      "website": "https://neurtureapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159307991252132.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Mental Health",
+        "AI Coaching",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "Moxo AI Answers - Image Scanner & Work Tutor",
+      "description": "Convert images to text",
+      "website": "https://chromewebstore.google.com/detail/moxo-ai-answers-image-sca/jpkodibkjgfffjbcaihboenceemgbelk?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:22",
+      "updatedAt": "2024-05-28 12:37:22"
+    },
+    {
+      "name": "ai4bd.com",
+      "description": "Sustainable AI products for business efficiency",
+      "website": "https://ai4bd.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208867549496391.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:58",
+      "updatedAt": "2024-07-27 21:54:58"
+    },
+    {
+      "name": "Dyslexico Chrome Extension",
+      "description": "Assistive writing tools for dyslexia",
+      "website": "https://chromewebstore.google.com/detail/dyslexico-chrome-extensio/fgnifglhlhnicjojihemnclnpfhjlpjh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171647285687971587.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Education Assistant",
+        "AI Grammar Checker",
+        "Handwriting",
+        "AI Productivity Tools",
+        "AI Checker Essay",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:36",
+      "updatedAt": "2024-05-23 22:00:36"
+    },
+    {
+      "name": "Doodle Collective",
+      "description": "Effortlessly create unique doodles.",
+      "website": "https://doodlecollective.gptconsole.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824303559500194.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Art Generator",
+        "Handwriting",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:41",
+      "updatedAt": "2024-06-13 09:42:41"
+    },
+    {
+      "name": "JPG IMAGE TO TEXT",
+      "description": "Convert image text to editable text.",
+      "website": "https://chromewebstore.google.com/detail/jpg-image-to-text/plbkipfnejekdmbblkeaphikigeemgia?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824294032964472.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:14",
+      "updatedAt": "2024-06-13 09:42:14"
+    },
+    {
+      "name": "drawing calculator",
+      "description": "Innovative mathematical expression drawing tool",
+      "website": "https://chromewebstore.google.com/detail/drawing-calculator/bjgengbpkpckhlakoeinhkahildbjdag?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738082056570269.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:30",
+      "updatedAt": "2024-06-03 10:13:30"
+    },
+    {
+      "name": "Picture To Text",
+      "description": "Convert images to text easily",
+      "website": "https://picturetotext.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171375556733337690.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Document Extraction",
+        "Handwriting",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-22 11:11:48",
+      "updatedAt": "2024-04-22 11:11:48"
+    },
+    {
+      "name": "@imagetotext.me",
+      "description": "Extract text from images accurately",
+      "website": "https://imagetotext.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241565084266687.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Scanning",
+        "AI Website Designer",
+        "Transcription",
+        "Transcriber",
+        "Handwriting",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:56",
+      "updatedAt": "2024-07-31 16:45:56"
+    },
+    {
+      "name": "Cardamore AI",
+      "description": "AI-powered hyper-personalized card generator",
+      "website": "https://cardamore.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245849475580717.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Illustration Generator",
+        "Handwriting",
+        "Writing Assistants",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:21",
+      "updatedAt": "2024-04-07 10:54:21"
+    },
+    {
+      "name": "Paknevis: AI-based Persian writing assistant",
+      "description": "AI writing assistant for Persian",
+      "website": "https://chromewebstore.google.com/detail/paknevis-ai-based-persian/pklcojlgnoaahjchjbiilfgjehinajmd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687109236079363.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "AI WORD",
+        "Writing Assistants",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:22",
+      "updatedAt": "2024-05-28 12:37:22"
+    },
+    {
+      "name": "Parseflow.io",
+      "description": "Automate data processing for businesses of all sizes.",
+      "website": "https://parseflow.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965767898417798.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:35",
+      "updatedAt": "2024-10-23 12:26:35"
+    },
+    {
+      "name": "Flashcard generator",
+      "description": "Efficient AI flashcard generator",
+      "website": "https://flashcard-generator.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230659790181686.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:28:32",
+      "updatedAt": "2024-07-30 10:28:32"
+    },
+    {
+      "name": "Zap Scribe",
+      "description": "Report Lions Club activities easily",
+      "website": "https://chromewebstore.google.com/detail/zap-scribe/illappiinldefhebnmhbhcacglafmiko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679933710003108.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Report Writing",
+        "Transcriber",
+        "Handwriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:35",
+      "updatedAt": "2024-05-23 22:00:35"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

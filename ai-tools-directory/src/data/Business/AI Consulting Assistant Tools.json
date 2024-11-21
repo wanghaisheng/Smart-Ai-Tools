@@ -1,0 +1,2237 @@
+{
+  "tools": [
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "Findr",
+      "description": "Private ChatGPT for your company, running on top of your business data.",
+      "website": "https://www.usefindr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172290821112159815.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "AI Productivity Tools",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 09:40:49",
+      "updatedAt": "2024-08-06 09:40:49"
+    },
+    {
+      "name": "Macky AI",
+      "description": "AI-powered consulting platform providing high-level insights from simple questions.",
+      "website": "https://macky.ai",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17018512222658005.png",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:38:06",
+      "updatedAt": "2023-12-06 16:38:06"
+    },
+    {
+      "name": "ProAI",
+      "description": "Tailored AI solutions for business growth.",
+      "website": "https://proai.co/custom-plan?ref=nzhkmmu",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171180603018960564.jpeg",
+      "category": "Marketing Plan Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Marketing Plan Generator",
+        "AI Consulting Assistant",
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "AI Roadmap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-30 21:41:57",
+      "updatedAt": "2024-03-30 21:41:57"
+    },
+    {
+      "name": "SalesCloser AI",
+      "description": "Build AI agents capable of handling phone calls, zoom calls, handling scheduling, and more. No coding required.",
+      "website": "https://salescloser.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481142935772812.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Accounting Assistant",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Knowledge Graph",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:21:29",
+      "updatedAt": "2024-08-28 10:21:29"
+    },
+    {
+      "name": "Uniplan.ai",
+      "description": "Ai-powered site offring tailored Business Plans",
+      "website": "https://uniplan.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172861104727089999.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "Marketing Plan Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-11 09:45:40",
+      "updatedAt": "2024-10-11 09:45:40"
+    },
+    {
+      "name": "Ace Interview - AI Interview Assistant",
+      "description": "Real-time AI Interview Assistant to Help you ace job interviews",
+      "website": "https://aceinterview.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498603863158647.jpg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Life Assistant",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Content Generator",
+        "Transcriber",
+        "Writing Assistants",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:53",
+      "updatedAt": "2024-08-30 10:48:53"
+    },
+    {
+      "name": "Plani.ai",
+      "description": "AI tool for generating actionable business tasks and plans.",
+      "website": "https://plani.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129911840625456.jpg",
+      "category": "Marketing Plan Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Marketing Plan Generator",
+        "AI Consulting Assistant",
+        "Digital Marketing Generator",
+        "AI Roadmap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:07",
+      "updatedAt": "2024-11-11 12:24:07"
+    },
+    {
+      "name": "PrepBuddy",
+      "description": "AI-driven consulting case prep",
+      "website": "https://prepbuddy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807213770373630.webp",
+      "category": "AI Interview Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Interview Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:14:44",
+      "updatedAt": "2024-06-11 10:14:44"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "SolveCube",
+      "description": "Hire expert teams and CXOs on demand with SolveCube's workforce platform.",
+      "website": "https://solvecube.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168544305919365723.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Recruiting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:45",
+      "updatedAt": "2023-05-29 16:16:45"
+    },
+    {
+      "name": "GoToMarket-AI",
+      "description": "Boost sales and brand recognition with AI-driven marketing strategies.",
+      "website": "https://www.gotomarket-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454277263316217.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Consulting Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Coaching"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:03",
+      "updatedAt": "2023-09-13 02:19:03"
+    },
+    {
+      "name": "Take Care",
+      "description": "Expert pharmacist guidance for all healthcare scenarios.",
+      "website": "https://www.takecare.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169340879872478663.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Customer Service Assistant",
+        "Healthcare"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-30 23:19:03",
+      "updatedAt": "2023-08-30 23:19:03"
+    },
+    {
+      "name": "Soratech",
+      "description": "Soratech helps businesses improve efficiency and scale faster through AI and automation.",
+      "website": "https://soratech.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959788684166239.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Workflow Management",
+        "AI Task Management",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
+    },
+    {
+      "name": "QWIP",
+      "description": "Get instant expert advice in various fields.",
+      "website": "https://apps.apple.com/us/app/qwip/id6446320830?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168546373343750349.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Large Language Models (LLMs)",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Legal Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-31 00:22:01",
+      "updatedAt": "2023-05-31 00:22:01"
+    },
+    {
+      "name": "ResumeReady",
+      "description": "Efficient resume building service using Word and ChatGPT.",
+      "website": "http://resumeready.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282396143889112.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Consulting Assistant",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI WORD"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:38",
+      "updatedAt": "2023-12-17 22:37:38"
+    },
+    {
+      "name": "AI Advantage",
+      "description": "AI Advantage is an Australian consulting firm that provides tailor-made AI solutions for businesses.",
+      "website": "https://aiadvantage.com.au?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168812876299531267.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-30 20:39:05",
+      "updatedAt": "2023-06-30 20:39:05"
+    },
+    {
+      "name": "Krecicki",
+      "description": "Krecicki specializes in analyzing sales calls using AI to improve closing techniques.",
+      "website": "https://krecicki.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545865750559819.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Speech Recognition",
+        "AI Video Recording",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Coaching"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:57:10",
+      "updatedAt": "2023-05-30 22:57:10"
+    },
+    {
+      "name": "Corvus Link",
+      "description": "Corvus Link uses AI and automation to bring transformational change to businesses.",
+      "website": "https://www.corvuslink.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882913995721272.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Product Description Generator",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "ChurchAi",
+      "description": "Get divine wisdom and guidance through Church AI's AI-driven website.",
+      "website": "https://churchai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528463536477186.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:36:45",
+      "updatedAt": "2023-05-28 22:36:45"
+    },
+    {
+      "name": "GPT-4 Consulting",
+      "description": "GPT-4 Consulting helps businesses integrate advanced AI model GPT-4 into workflows effectively.",
+      "website": "https://www.gpt4.consulting?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168397246655674899.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 18:07:13",
+      "updatedAt": "2023-05-13 18:07:13"
+    },
+    {
+      "name": "Accio",
+      "description": "The World\u2019s First AI-Powered B2B Sourcing Engine",
+      "website": "https://www.accio.com/?code=TOO&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173137532453088513.jpg",
+      "category": "AI Business Ideas Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-12 09:37:55",
+      "updatedAt": "2024-11-12 09:37:55"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "HireQuotient",
+      "description": "HireQuotient is a platform for non-tech hiring that automates the entire recruitment process.",
+      "website": "https://hirequotient.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248064788474434.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Recruiting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 11:44:41",
+      "updatedAt": "2023-04-26 11:44:41"
+    },
+    {
+      "name": "EcoReturns - AI-powered Returns",
+      "description": "Saara is AI software that improves returns management and customer satisfaction in e-commerce.",
+      "website": "https://saara.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168345271539742408.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 17:45:48",
+      "updatedAt": "2023-05-07 17:45:48"
+    },
+    {
+      "name": "width.ai",
+      "description": "Increase revenue and profitability with AI and ML consulting",
+      "website": "https://width.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277203293059903.webp",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:59:47",
+      "updatedAt": "2024-04-11 01:59:47"
+    },
+    {
+      "name": "Frictionless",
+      "description": "AI-enabled consulting platform for optimized growth planning.",
+      "website": "https://frictionlesshq.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350489975164648.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Advertising Assistant",
+        "AI Coaching",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-03 18:21:13",
+      "updatedAt": "2023-10-03 18:21:13"
+    },
+    {
+      "name": "GetSite",
+      "description": "Launch your business online",
+      "website": "https://www.getsite.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841400216628199.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Website Designer",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:46",
+      "updatedAt": "2024-02-20 15:25:46"
+    },
+    {
+      "name": "Criya",
+      "description": "AI generated websites, consulting offers, and scheduling appointments.",
+      "website": "https://criya.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349984613398959.jpg",
+      "category": "AI CRM Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI CRM Assistant",
+        "AI Website Designer",
+        "AI Consulting Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Coaching",
+        "AI Email Assistant",
+        "Marketing Plan Generator",
+        "AI Contract Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "temo",
+      "description": "Connect business owners with expert advisors.",
+      "website": "https://www.temo.co.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969516789489816.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:11",
+      "updatedAt": "2023-11-11 17:32:11"
+    },
+    {
+      "name": "MgrWorkbench.ai",
+      "description": "AI-powered MgrWorkbench simplifies business writing, improves performance management efficiency.",
+      "website": "https://www.mgrworkbench.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ea8d10fe35fbca3a72f1adbb69763d2e.jpeg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Balm.ai",
+      "description": "Revolutionizing mental health through AI therapy.",
+      "website": "https://www.balm.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169183567289674705.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Consulting Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-12 18:19:26",
+      "updatedAt": "2023-08-12 18:19:26"
+    },
+    {
+      "name": "Gitsul Group",
+      "description": "Gitsul Group offers AI-based strategies to transform business branding and digital marketing.",
+      "website": "https://gitsulgroup.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622707841346412.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:24:29",
+      "updatedAt": "2023-06-08 20:24:29"
+    },
+    {
+      "name": "Sarah AI",
+      "description": "Automate your business with AI.",
+      "website": "https://splenderai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171186663864027707.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:16",
+      "updatedAt": "2024-03-31 14:29:16"
+    },
+    {
+      "name": "B12.io",
+      "description": "AI-powered website builder for professional service providers.",
+      "website": "https://b12.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/940b6583bafa73d379284b2974e98718.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "AI App Builder",
+        "AI Consulting Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:32",
+      "updatedAt": "2023-03-07 16:48:32"
+    },
+    {
+      "name": "WonsultingAI",
+      "description": "Wonsulting helps non-traditional job seekers find dream jobs with coaching and resources.",
+      "website": "https://wonsulting.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168264896522388278.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Recruiting",
+        "Resume Builder",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 10:30:19",
+      "updatedAt": "2023-04-28 10:30:19"
+    },
+    {
+      "name": "Bizway",
+      "description": "Turn your ideas into action with Bizway.",
+      "website": "https://bizway.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745294174478358.jpg",
+      "category": "AI Business Ideas Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Business Ideas Generator",
+        "AI Roadmap Generator",
+        "AI Consulting Assistant",
+        "Marketing Plan Generator",
+        "AI Product Description Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:26",
+      "updatedAt": "2023-10-16 18:40:26"
+    },
+    {
+      "name": "Invisible Technologies Inc.",
+      "description": "Invisible Technologies provides advanced software solutions for communication and productivity.",
+      "website": "http://inv.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248903765532242.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:10:40",
+      "updatedAt": "2023-04-26 14:10:40"
+    },
+    {
+      "name": "Symanto Text Insights",
+      "description": "Symanto uses AI and psychology to provide businesses with customer insights for competitive advantage.",
+      "website": "https://www.symanto.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167932113614317770.png",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Consulting Assistant",
+        "AI Customer Service Assistant",
+        "AI Product Description Generator",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:40",
+      "updatedAt": "2023-03-07 16:48:40"
+    },
+    {
+      "name": "Dr.Tail",
+      "description": "Dr.Tail provides online veterinary advice, reducing the need for costly clinic visits.",
+      "website": "https://www.drtail.us?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545915181830292.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Consulting Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:04:21",
+      "updatedAt": "2023-05-30 23:04:21"
+    },
+    {
+      "name": "Olympia",
+      "description": "Streamline operations and scale businesses using AI-powered virtual staffing.",
+      "website": "https://olympia.chat?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169954784943186736.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-10 00:36:55",
+      "updatedAt": "2023-11-10 00:36:55"
+    },
+    {
+      "name": "AI Business Coach",
+      "description": "Success through clarity and accountability.",
+      "website": "https://www.business-coach.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170139565833995630.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-01 10:01:29",
+      "updatedAt": "2023-12-01 10:01:29"
+    },
+    {
+      "name": "Dairytech.ai",
+      "description": "Dairytech.ai provides dairy industry with technology and solutions to optimize supply chain management.",
+      "website": "https://www.dairytech.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485710774977892.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:51:25",
+      "updatedAt": "2023-05-23 23:51:25"
+    },
+    {
+      "name": "Palm",
+      "description": "Palm is an AI-powered platform for competencies and careers mapping and management.",
+      "website": "https://palm-app.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987689111723277.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "AI Consulting Assistant",
+        "AI Product Description Generator",
+        "AI Workflow Management",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:14:20",
+      "updatedAt": "2023-07-21 02:14:20"
+    },
+    {
+      "name": "Docue.AI",
+      "description": "Data insights from your internal data.",
+      "website": "https://docue.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169763975534378496.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-18 22:33:59",
+      "updatedAt": "2023-10-18 22:33:59"
+    },
+    {
+      "name": "Strangify",
+      "description": "Elevate emotional well-being with Strangify - a safe and supportive platform for venting, connecting, and healing.",
+      "website": "https://strangify.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228008678928144.jpg",
+      "category": "Mental Health",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Mental Health",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "nava ai",
+      "description": "Simplify immigration complexities with personalized AI assistance.",
+      "website": "https://www.trynava.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134150648371986.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "Generative AI: An Executive Guide",
+      "description": "An essential guide to leverage generative AI technologies and Large Language Models (LLMs) for creating value in organizations.",
+      "website": "https://executiveguide.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169711633168232309.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Presentation Generator",
+        "AI Consulting Assistant",
+        "AI Product Description Generator",
+        "AI Tutorial",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 21:11:34",
+      "updatedAt": "2023-10-12 21:11:34"
+    },
+    {
+      "name": "Adaptiv Me",
+      "description": "\"Adaptiv Me is an AI platform for personalized career mentoring and upskilling.\"",
+      "website": "https://www.adaptiv.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476385831399318.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Course",
+        "AI Coaching",
+        "AI Consulting Assistant",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:53:32",
+      "updatedAt": "2023-05-22 20:53:32"
+    },
+    {
+      "name": "Yana by CareFlick",
+      "description": "AI-powered companion for personalized caregiving.",
+      "website": "https://www.careflick.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253907659459403.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Voice Assistants",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "Gless AI",
+      "description": "Gless.ai specializes in NLP technologies, developing AI solutions for chatbots and virtual agents.",
+      "website": "https://gless.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098399356987786.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Knowledge Base",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "Moonbeam Exchange",
+      "description": "Data science platform for innovation ecosystem.",
+      "website": "https://moonbeam.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e3697e89b71c98482f9fae1b114bfb95.jpeg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:52",
+      "updatedAt": "2023-03-07 16:48:52"
+    },
+    {
+      "name": "Why the Click",
+      "description": "Understanding user behavior is crucial for refining your brand, product, or business.",
+      "website": "https://www.whytheclick.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063108782708735.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Consulting Assistant",
+        "AI Product Description Generator",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "Odyssei",
+      "description": "Odyssei is an AI platform connecting Gen-Z entrepreneurs with celebrity founders and experts.",
+      "website": "https://odyssei.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168343109983680029.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Consulting Assistant",
+        "AI Project Management",
+        "AI Product Description Generator",
+        "AI Team Collaboration",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 11:45:17",
+      "updatedAt": "2023-05-07 11:45:17"
+    },
+    {
+      "name": "ChatGPT in Privacy",
+      "description": "32AI is an online counseling service that uses AI to support mental health and well-being.",
+      "website": "https://32ai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416200540749432.jpg",
+      "category": "Mental Health",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Mental Health",
+        "AI Coaching",
+        "Healthcare",
+        "AI Chatbot",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:46:00",
+      "updatedAt": "2023-05-15 22:46:00"
+    },
+    {
+      "name": "editoReview.com",
+      "description": "Peer-review platform for AI interface",
+      "website": "https://editoReview.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350556115899913.webp",
+      "category": "AI Reviews Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reviews Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:27",
+      "updatedAt": "2024-04-19 13:44:27"
+    },
+    {
+      "name": "Naval AI",
+      "description": "AI chatbot Naval AI emulates the thinking and advice of entrepreneur Naval Ravikant.",
+      "website": "https://navalai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545659220459299.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Life Assistant",
+        "AI Coaching",
+        "AI Advertising Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:22:34",
+      "updatedAt": "2023-05-30 22:22:34"
+    },
+    {
+      "name": "Finology",
+      "description": "An AI-powered cash flow solution for small businesses to securely track and improve financial decisions.",
+      "website": "https://www.finology.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545824682649203.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:50:06",
+      "updatedAt": "2023-05-30 22:50:06"
+    },
+    {
+      "name": "RaqiAI",
+      "description": "RaqiAI is a service provider that helps businesses succeed through design, marketing, and coding.",
+      "website": "https://www.raqiai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837655881157051.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Consulting Assistant",
+        "AI Email Marketing",
+        "AI Graphic Design",
+        "AI Design Generator",
+        "AI Lead Generation",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:28:14",
+      "updatedAt": "2023-07-03 17:28:14"
+    },
+    {
+      "name": "Nuntium AI",
+      "description": "Save time and money with NuntiumAI's automated research and analysis",
+      "website": "https://www.nuntiumai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171033936432577043.webp",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Consulting Assistant",
+        "AI Knowledge Management",
+        "AI Knowledge Base",
+        "AI Lead Generation",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-13 22:14:11",
+      "updatedAt": "2024-03-13 22:14:11"
+    },
+    {
+      "name": "How About...? (\u5982\u4f55\uff1f)",
+      "description": "Ancient wisdom meets modern intelligence.",
+      "website": "https://www.ruhe.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373322997955690.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:16",
+      "updatedAt": "2023-12-28 11:11:16"
+    },
+    {
+      "name": "LLime",
+      "description": "Tailored AI assistants for enterprises",
+      "website": "https://llime.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857012537148830.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI CRM Assistant",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "AI Lead Generation",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 16:59:45",
+      "updatedAt": "2023-10-29 16:59:45"
+    },
+    {
+      "name": "Gotely",
+      "description": "Gotely is an AI-powered platform for strategic planning, optimizing resources and generating business strategies.",
+      "website": "https://gotely.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622709579705542.jpg",
+      "category": "AI Business Ideas Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Business Ideas Generator",
+        "AI Advertising Assistant",
+        "AI Consulting Assistant",
+        "AI Lead Generation",
+        "AI Project Management",
+        "AI Roadmap Generator",
+        "Large Language Models (LLMs)",
+        "AI Website Builder",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:24:31",
+      "updatedAt": "2023-06-08 20:24:31"
+    },
+    {
+      "name": "InterviewJarvis",
+      "description": "AI-powered interview preparation tool for tech jobs.",
+      "website": "https://interviewjarvis.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282405011465355.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Resume Builder",
+        "AI Advertising Assistant",
+        "AI Coaching",
+        "AI Consulting Assistant",
+        "AI Course",
+        "Cover Letter Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:42",
+      "updatedAt": "2023-12-17 22:37:42"
+    },
+    {
+      "name": "TechOctave",
+      "description": "Scythos offers subscription plans for users to access skilled designers and get design work easily.",
+      "website": "https://www.techoctave.com/?tracking_id=7LIM36PV",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168632499994799467.jpg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "AI Consulting Assistant",
+        "AI Website Designer",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-09 23:35:54",
+      "updatedAt": "2023-06-09 23:35:54"
+    },
+    {
+      "name": "One-Click GPT for Business",
+      "description": "Instant access to expert business advice.",
+      "website": "https://chromewebstore.google.com/detail/one-click-gpt-for-busines/lgcannchilipmpnhmnmlnblefamlfglk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679490623318282.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:29:00",
+      "updatedAt": "2023-12-07 11:29:00"
+    },
+    {
+      "name": "Subvention.app",
+      "description": "Subvention.app helps users find and apply for financial assistance programs they qualify for.",
+      "website": "https://subvention.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837644821040726.jpg",
+      "category": "AI Website Designer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Designer",
+        "AI Consulting Assistant",
+        "AI Product Description Generator",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:27:15",
+      "updatedAt": "2023-07-03 17:27:15"
+    },
+    {
+      "name": "Couple Care AI Counselling",
+      "description": "An AI powered app helping couples & singles with relationship problems.",
+      "website": "https://play.google.com/store/apps/details?id=com.arijit.couplecare&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582579979339696.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Mental Health",
+        "AI Product Description Generator",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "Purpose Quest",
+      "description": "AI reflection tool for self-awareness",
+      "website": "https://www.purpose-quest.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169988367745381023.jpg",
+      "category": "Life Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Life Assistant",
+        "Large Language Models (LLMs)",
+        "AI Consulting Assistant",
+        "Mental Health",
+        "AI Coaching"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-13 21:54:19",
+      "updatedAt": "2023-11-13 21:54:19"
+    },
+    {
+      "name": "Career.io",
+      "description": "AI-powered career-services platform for success.",
+      "website": "https://career.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350441952549479.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "Resume Builder",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:34",
+      "updatedAt": "2023-12-25 18:16:34"
+    },
+    {
+      "name": "Leonardo Labs",
+      "description": "We build AI assistants for business.",
+      "website": "https://leonardolaboratories.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169763974631684105.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Advertising Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Consulting Assistant",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-18 22:33:59",
+      "updatedAt": "2023-10-18 22:33:59"
+    },
+    {
+      "name": "Mai",
+      "description": "Mai Writer is an AI assistant for writing and marketing, helping users create diverse content and scale marketing efforts.",
+      "website": "https://www.maiwriter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578477480081784.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Blog Writer",
+        "AI Product Description Generator",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:32:36",
+      "updatedAt": "2023-06-03 17:32:36"
+    },
+    {
+      "name": "Smart waste classification",
+      "description": "Data collection and annotation consulting for neural network training.",
+      "website": "https://datadep.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426185735333401.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:29:44",
+      "updatedAt": "2023-05-17 02:29:44"
+    },
+    {
+      "name": "200+ ChatGPT Mega-Prompts for Business",
+      "description": "Ultimate ChatGPT mega-prompts to help you grow, optimize, and scale your business with AI.",
+      "website": "https://www.godofprompt.ai/business-mega-prompts?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172429246220884960.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "Prompt",
+        "E-commerce Assistant",
+        "AI Consulting Assistant",
+        "AI Email Generator",
+        "AI Project Management",
+        "AI Email Writer",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "Sales Assistant",
+        "Newsletter",
+        "Copywriting",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:09:47",
+      "updatedAt": "2024-08-22 10:09:47"
+    },
+    {
+      "name": "Lotus - The Online Therapist",
+      "description": "Lotus is an AI therapist offering mental health support and counseling online.",
+      "website": "https://lotustherapist.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804404188827434.jpg",
+      "category": "Life Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Life Assistant",
+        "Mental Health",
+        "AI Coaching",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:06:52",
+      "updatedAt": "2023-06-29 21:06:52"
+    },
+    {
+      "name": "Coach Me Up!",
+      "description": "CoachMeUp.AI is an AI career coaching app that offers personalized guidance and support.",
+      "website": "https://coachmeup.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168761921567674379.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Interview Assistant",
+        "Resume Builder",
+        "AI Chatbot",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-24 23:05:06",
+      "updatedAt": "2023-06-24 23:05:06"
+    },
+    {
+      "name": "Promptiz",
+      "description": "Promptiz is a website with curated chat prompts for limitless inspiration and discovery.",
+      "website": "https://promptiz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228009134163063.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Creative Writing",
+        "AI Accounting Assistant",
+        "AI Blog Writer",
+        "Novel",
+        "AI Poem & Poetry Generator",
+        "AI Book Writing",
+        "AI Consulting Assistant",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Operations As A Service",
+      "description": "Automate business processes for growth.",
+      "website": "https://datahivemind.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171072800922967817.webp",
+      "category": "AI Project Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Project Management",
+        "AI CRM Assistant",
+        "AI Lead Generation",
+        "AI Analytics Assistant",
+        "AI Workflow Management",
+        "AI Consulting Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:12",
+      "updatedAt": "2024-03-18 10:13:12"
+    },
+    {
+      "name": "Cabina.AI",
+      "description": "All-in-one AI Chats workspace: productivity, communication & education",
+      "website": "https://cabina.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714256271797645.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Copywriting",
+        "Text to Image",
+        "AI Blog Writer",
+        "Summarizer",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "General Writing",
+        "Transcription",
+        "Transcriber",
+        "Translate",
+        "AI Story Writing",
+        "AI Script Writing",
+        "Letter Writer",
+        "Captions or Subtitle",
+        "Handwriting",
+        "Paraphraser",
+        "AI Hashtag Assistant",
+        "Research Tool",
+        "AI Advertising Assistant",
+        "AI Twitter Assistant",
+        "AI Analytics Assistant",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Grammar Checker",
+        "AI Reviews Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "AI Email Generator",
+        "Design Assistant",
+        "AI Developer Docs",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "Large Language Models (LLMs)",
+        "AI SQL Query Builder",
+        "AI Thumbnail Maker",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Poem & Poetry Generator",
+        "AI Avatar Generator",
+        "AI Photography",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Icon Generator",
+        "AI YouTube Assistant",
+        "Code Explanation",
+        "AI Documents Assistant",
+        "AI PDF",
+        "AI Instagram Assistant",
+        "AI Ad Creative Assistant",
+        "AI Code Generator",
+        "AI Emoji Generator",
+        "AI Cover Generator",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Code Assistant",
+        "AI Speech Recognition",
+        "AI Creative Writing",
+        "AI Interior & Room Design",
+        "AI Graphic Design",
+        "AI Checker Essay",
+        "Text-to-Speech",
+        "AI Design Generator",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Education Assistant",
+        "AI Landing Page Builder",
+        "AI DevOps Assistant",
+        "AI Website Designer",
+        "Prompt",
+        "AI Productivity Tools",
+        "AI Files Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:52:16",
+      "updatedAt": "2024-09-24 09:52:16"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

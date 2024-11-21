@@ -1,0 +1,2798 @@
+{
+  "tools": [
+    {
+      "name": "FakeYou",
+      "description": "Generate realistic and natural speech with FakeYou using deep fake technology.",
+      "website": "https://fakeyou.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1fbc831ddaa20f2f8f6d1b2febbde10c.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Tools Directory",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:51",
+      "updatedAt": "2023-03-07 16:48:51"
+    },
+    {
+      "name": "Kits AI",
+      "description": "Transform your voice with AI artist voices. Create and train your own AI voice model.",
+      "website": "https://kits.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349963035176873.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:28",
+      "updatedAt": "2023-12-25 18:13:28"
+    },
+    {
+      "name": "Chatbit",
+      "description": "Custom AI chatbots trained on your data.",
+      "website": "https://chatbit.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120110597110036.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 22:19:46",
+      "updatedAt": "2024-03-23 22:19:46"
+    },
+    {
+      "name": "Voicemaker",
+      "description": "Voicemaker\u00ae converts text to human-like voices, offering various voice profiles and customization options.",
+      "website": "https://voicemaker.in?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4a6e1571bd273c3c09b371ba230e33fd.jpeg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "Vapi",
+      "description": "Build, test, and deploy voicebots in minutes.",
+      "website": "https://vapi.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103107648144840.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:47",
+      "updatedAt": "2024-03-21 22:22:47"
+    },
+    {
+      "name": "luzia.com",
+      "description": "AI-powered assistant for your daily tasks",
+      "website": "https://luzia.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171017735493103384.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Voice Assistants",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-12 01:15:38",
+      "updatedAt": "2024-03-12 01:15:38"
+    },
+    {
+      "name": "Hume AI",
+      "description": "Measure, understand, and improve human emotion with AI",
+      "website": "https://www.hume.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171169525804359044.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-29 15:18:19",
+      "updatedAt": "2024-03-29 15:18:19"
+    },
+    {
+      "name": "Synthflow.ai",
+      "description": "Build tailored AI agents without coding.",
+      "website": "https://synthflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171246051162476726.png",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 13:34:31",
+      "updatedAt": "2024-04-07 13:34:31"
+    },
+    {
+      "name": "voice-swap.ai",
+      "description": "Voice-Swap is an AI tool for transforming voices, offering remote collaborations and realistic demos.",
+      "website": "https://voice-swap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029491853151952.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Singing Generator",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:41",
+      "updatedAt": "2023-07-25 22:19:41"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "AI Mastering",
+      "description": "AI-powered audio mastering online.",
+      "website": "https://aimastering.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171656406087023543.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-24 23:23:26",
+      "updatedAt": "2024-05-24 23:23:26"
+    },
+    {
+      "name": "Air",
+      "description": "The ultimate AI assistant for sales and customer service, Air can have lifelike phone calls and autonomously handle tasks across multiple applications.",
+      "website": "https://air.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350452586390580.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Voice Assistants",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Deepdub",
+      "description": "Dubbing and voice over localization at scale.",
+      "website": "https://deepdub.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349987087870056.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Advertising Assistant",
+        "AI Speech Recognition",
+        "AI Animated Video",
+        "AI Lip Sync Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "superwhisper",
+      "description": "SuperWhisper is a voice-to-text app powered by AI for macOS.",
+      "website": "https://superwhisper.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029495520744070.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:42",
+      "updatedAt": "2023-07-25 22:19:42"
+    },
+    {
+      "name": "Audioread",
+      "description": "Audioread converts text into audio using AI voices for a smooth listening experience.",
+      "website": "https://audioread.com/?via=Wenhua",
+      "image": "https://cdn-images.toolify.ai/image/165dcf71969e5cf2d611a5af7de5772c.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:49",
+      "updatedAt": "2023-03-07 16:48:49"
+    },
+    {
+      "name": "Vocode",
+      "description": "Automate phone calls with AI",
+      "website": "https://vocode.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373310585014437.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:13",
+      "updatedAt": "2023-12-28 11:11:13"
+    },
+    {
+      "name": "Speechlab",
+      "description": "SpeechLab helps publishers and creators overcome language barriers and expand globally.",
+      "website": "https://speechlab.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863771079761562.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 18:01:02",
+      "updatedAt": "2023-07-06 18:01:02"
+    },
+    {
+      "name": "VOMO AI",
+      "description": "Convert voice to organized notes effortlessly.",
+      "website": "https://vomo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169547550977968646.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Large Language Models (LLMs)",
+        "Recording",
+        "Speech-to-Text",
+        "Transcription",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-23 21:26:56",
+      "updatedAt": "2023-09-23 21:26:56"
+    },
+    {
+      "name": "Belva",
+      "description": "Belva is an AI Phone Agent that streamlines communication by handling various tasks.",
+      "website": "https://belva.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003643057946854.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Customer Service Assistant",
+        "AI Scheduling",
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:42",
+      "updatedAt": "2023-07-22 22:31:42"
+    },
+    {
+      "name": "HeyMilo AI",
+      "description": "AI powered voice agents capable of two way conversational interviews.",
+      "website": "https://www.heymilo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172835230634385251.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Recruiting",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-08 09:55:06",
+      "updatedAt": "2024-10-08 09:55:06"
+    },
+    {
+      "name": "SalesCloser AI",
+      "description": "Build AI agents capable of handling phone calls, zoom calls, handling scheduling, and more. No coding required.",
+      "website": "https://salescloser.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481142935772812.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Accounting Assistant",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Knowledge Graph",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:21:29",
+      "updatedAt": "2024-08-28 10:21:29"
+    },
+    {
+      "name": "Sunoh.ai",
+      "description": "Save up to two hours a day on documentation time with Sunoh.ai - Your AI-Powered Medical Scribe.",
+      "website": "https://sunoh.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172312373177061088.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Mental Health",
+        "Healthcare",
+        "Recording",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-08 21:44:07",
+      "updatedAt": "2024-08-08 21:44:07"
+    },
+    {
+      "name": "Auidie Ai",
+      "description": "Advanced AI-based audiobook maker converts books into personalized high-quality audiobooks.",
+      "website": "https://audie.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485068398246688.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Book Writing",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:04:15",
+      "updatedAt": "2023-05-23 22:04:15"
+    },
+    {
+      "name": "Zefram",
+      "description": "Superhuman Sales Development Rep for B2B sales.",
+      "website": "https://zefram.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277164852621536.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Sales Assistant",
+        "AI CRM Assistant",
+        "AI Lead Generation",
+        "AI Analytics Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:53:55",
+      "updatedAt": "2024-04-11 01:53:55"
+    },
+    {
+      "name": "SoundHound",
+      "description": "Voice AI platform for a voice-enabled world.",
+      "website": "https://houndify.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349951895547322.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:24",
+      "updatedAt": "2023-12-25 18:13:24"
+    },
+    {
+      "name": "MeslAI",
+      "description": "Call AI clones of famous figures",
+      "website": "https://meslai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235946968630978.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "Solda AI",
+      "description": "AI sales reps for enterprise that close deals by voice and text",
+      "website": "https://solda.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147866442716189.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:20:25",
+      "updatedAt": "2024-11-13 14:20:25"
+    },
+    {
+      "name": "Voqul",
+      "description": "Change voice in recordings effortlessly.",
+      "website": "https://voqul.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349866580429837.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:54",
+      "updatedAt": "2023-12-25 18:00:54"
+    },
+    {
+      "name": "VoiceLine AI",
+      "description": "An AI-powered tool for documenting customer interactions, extracting key data points, and improving sales performance.",
+      "website": "https://getvoiceline.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518525520996892.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Sales Assistant",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:00:01",
+      "updatedAt": "2023-05-27 19:00:01"
+    },
+    {
+      "name": "Speaking AI",
+      "description": "Beta test for generative voice with natural-sounding quality.",
+      "website": "https://speaking.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686003713803052.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Ace Interview - AI Interview Assistant",
+      "description": "Real-time AI Interview Assistant to Help you ace job interviews",
+      "website": "https://aceinterview.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498603863158647.jpg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Life Assistant",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Content Generator",
+        "Transcriber",
+        "Writing Assistants",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:53",
+      "updatedAt": "2024-08-30 10:48:53"
+    },
+    {
+      "name": "Gobi",
+      "description": "Personal well-being assistant with science-backed practices",
+      "website": "https://joingobi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208852760490020.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Mental Health",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "DialogAi",
+      "description": "Dialogai is an AI-powered chatbot in WhatsApp that transcribes voice messages, answers questions, and provides summaries.",
+      "website": "https://dialogai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374134472875553.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Large Language Models (LLMs)",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:37",
+      "updatedAt": "2023-05-11 01:55:37"
+    },
+    {
+      "name": "Augmeta",
+      "description": "AI peers for product & eng managers",
+      "website": "https://augmeta.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172035849553039961.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-07 22:54:10",
+      "updatedAt": "2024-07-07 22:54:10"
+    },
+    {
+      "name": "Yana by CareFlick",
+      "description": "AI-powered companion for personalized caregiving.",
+      "website": "https://www.careflick.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253907659459403.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Voice Assistants",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "Inbox Narrator",
+      "description": "Inbox Narrator summarizes emails for voice assistants like Siri and Google Assistant.",
+      "website": "https://inboxnarrator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168373944670196556.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Newsletter",
+        "Summarizer",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:23:53",
+      "updatedAt": "2023-05-11 01:23:53"
+    },
+    {
+      "name": "Narrator: Audiobook Maker",
+      "description": "Turn eBooks into audiobooks with ease.",
+      "website": "https://narratorapp.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169849092299984144.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Book Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
+    },
+    {
+      "name": "ChatDox AI 2.0",
+      "description": "An AI-powered personal assistant for diverse data integration and multilingual communication.",
+      "website": "https://www.chatdox.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857003947859371.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "AI Speech Recognition",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 16:59:44",
+      "updatedAt": "2023-10-29 16:59:44"
+    },
+    {
+      "name": "Serenade for Chrome",
+      "description": "Code by speech, boost browsing productivity.",
+      "website": "https://chromewebstore.google.com/detail/serenade-for-chrome/bgfbijeikimjmdjldemlegooghdjinmj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763896787040594.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Speech Recognition",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:38",
+      "updatedAt": "2024-06-06 09:55:38"
+    },
+    {
+      "name": "Genji - AI Browser Assistant",
+      "description": "AI browser sidekick automates tasks.",
+      "website": "https://chromewebstore.google.com/detail/genji-ai-browser-assistan/jgoncjpgeegjhdecejnfnpjnfmhohgdf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020479394992.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:29",
+      "updatedAt": "2024-06-14 09:56:29"
+    },
+    {
+      "name": "Whisprlist",
+      "description": "AI task manager for voice command-driven productivity.",
+      "website": "https://whisprlist.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172924084271167687.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Task Management",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-18 16:40:24",
+      "updatedAt": "2024-10-18 16:40:24"
+    },
+    {
+      "name": "Mneme AI",
+      "description": "Offline AI assistant for personalized responses from notes and documents.",
+      "website": "https://apps.apple.com/us/app/mneme-ai-local-ai-assistant/id6670174487?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709757490754486.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Notes Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:27",
+      "updatedAt": "2024-09-23 21:17:27"
+    },
+    {
+      "name": "NoDial.io",
+      "description": "AI-powered voicebot agent for automated bookings and calls.",
+      "website": "https://nodial.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350558444189015.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:27",
+      "updatedAt": "2024-04-19 13:44:27"
+    },
+    {
+      "name": "Kai Copilot",
+      "description": "Browser extension for efficient cybersecurity management and questionnaire completion.",
+      "website": "https://chromewebstore.google.com/detail/kai-copilot/dchnpagpmnoggiekmojddeaflgjgdnad?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176289238011165.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:14:45",
+      "updatedAt": "2024-11-16 21:14:45"
+    },
+    {
+      "name": "LocalhostAI",
+      "description": "Seamless AI assistant for Chrome & Gemini Nano",
+      "website": "https://www.localhostai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824300772265797.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:37",
+      "updatedAt": "2024-06-13 09:42:37"
+    },
+    {
+      "name": "Clipboard TTS",
+      "description": "Streamlined reading for dyslexics.",
+      "website": "https://www.clipboardtts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262645917298221.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Voice Assistants",
+        "AI Productivity Tools",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:42",
+      "updatedAt": "2023-12-15 15:45:42"
+    },
+    {
+      "name": "HiCall: AI Call Assistant",
+      "description": "AI phone secretary for managing calls and screening spam.",
+      "website": "https://apps.apple.com/us/app/hicall-ai-call-assistant/id6476257066?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709758980367054.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:27",
+      "updatedAt": "2024-09-23 21:17:27"
+    },
+    {
+      "name": "Hold For Me",
+      "description": "AI assistant calling for you.",
+      "website": "https://holdforme.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357207676307627.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:23",
+      "updatedAt": "2023-09-01 20:40:23"
+    },
+    {
+      "name": "Neoform AI",
+      "description": "AI models for African dialects and bridging language barriers",
+      "website": "https://neoformai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052438975379300.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Customer Service Assistant",
+        "Large Language Models (LLMs)",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:28",
+      "updatedAt": "2024-07-09 19:23:28"
+    },
+    {
+      "name": "VoicBot, AI Chatbot with ultra Realistic Voice",
+      "description": "AI-powered voice assistant platform.",
+      "website": "https://soundscriptlabs.wixsite.com/soundscriptlabs/try-vocbot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170703844972038757.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-04 19:06:54",
+      "updatedAt": "2024-02-04 19:06:54"
+    },
+    {
+      "name": "NoteSense",
+      "description": "Convert spoken words to accurate notes and AI-driven reports.",
+      "website": "https://notesense.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169330339568193756.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Voice Assistants",
+        "AI Notes Assistant",
+        "AI Productivity Tools",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-29 18:03:03",
+      "updatedAt": "2023-08-29 18:03:03"
+    },
+    {
+      "name": "GabbyGPT",
+      "description": "GabbyGPT is an AI voice assistant for WhatsApp, enabling seniors to send voice notes and chat with an AI companion.",
+      "website": "https://www.gabbygpt.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440733160424767.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:49",
+      "updatedAt": "2023-05-18 18:53:49"
+    },
+    {
+      "name": "Message AI",
+      "description": "Mobile app for ChatGPT on iOS and macOS, syncing conversations through iCloud.",
+      "website": "https://apps.apple.com/us/app/message-ai/id6448740961?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476351254838208.jpg",
+      "category": "AI Productivity Tools",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Productivity Tools",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Large Language Models (LLMs)",
+        "Text-to-Speech",
+        "AI Chatbot",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 19:26:53",
+      "updatedAt": "2023-05-22 19:26:53"
+    },
+    {
+      "name": "Ibis",
+      "description": "Ibis enables users to communicate in their own language, overcoming language barriers.",
+      "website": "https://ibis.chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494125743932045.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:13:56",
+      "updatedAt": "2023-05-24 23:13:56"
+    },
+    {
+      "name": "Talk-to-ChatGPT",
+      "description": "Interact with ChatGPT AI using voice commands and receive spoken responses.",
+      "website": "https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517491553726607.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:08:24",
+      "updatedAt": "2023-05-27 16:08:24"
+    },
+    {
+      "name": "Voqal Assistant",
+      "description": "Vocal programming assistant for IntelliJ-based IDEs",
+      "website": "https://voqal.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262646499364467.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Code Assistant",
+        "AI Chatbot",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:42",
+      "updatedAt": "2023-12-15 15:45:42"
+    },
+    {
+      "name": "speakSync",
+      "description": "AI voice translation for 70+ languages.",
+      "website": "https://play.google.com/store/apps/details?id=com.necta.speaksync&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373331939904623.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Advertising Assistant",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:19",
+      "updatedAt": "2023-12-28 11:11:19"
+    },
+    {
+      "name": "Ascenscia",
+      "description": "AI voice assistant for scientific labs",
+      "website": "https://www.ascenscia.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070125715763233.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:50",
+      "updatedAt": "2024-07-11 20:33:50"
+    },
+    {
+      "name": "VoiceAI Chat",
+      "description": "Simple AI chat with text and voice input.",
+      "website": "https://apps.apple.com/app/id6445994863?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545864238780585.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "Large Language Models (LLMs)",
+        "Speech-to-Text",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:57:09",
+      "updatedAt": "2023-05-30 22:57:09"
+    },
+    {
+      "name": "ChatGPT - Lets talk",
+      "description": "Enhance ChatGPT with voice capabilities.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-lets-talk/ldkeljfcpadfpkfdloofmhamhkgdcpbo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679481789802403.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:24:34",
+      "updatedAt": "2023-05-30 23:24:34"
+    },
+    {
+      "name": "GPTOnCall",
+      "description": "GPTOnCall is an AI chatbot service that offers instant phone assistance and revolutionizes communication.",
+      "website": "https://gptoncall.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572063210271145.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI Advertising Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 23:43:12",
+      "updatedAt": "2023-06-02 23:43:12"
+    },
+    {
+      "name": "MacGaiver",
+      "description": "AI-powered macOS assistant for application help.",
+      "website": "https://www.macgaiver.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530650977314262.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:46",
+      "updatedAt": "2024-01-15 16:12:46"
+    },
+    {
+      "name": "PollySpeak - Text to Speech for iOS",
+      "description": "Overcome distractions and improve reading speed with PollySpeak.",
+      "website": "https://www.pollyspeak.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169470849970962250.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Text-to-Speech",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:25",
+      "updatedAt": "2023-09-15 00:19:25"
+    },
+    {
+      "name": "Zendial",
+      "description": "Streamline call automation with AI",
+      "website": "https://zendial.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566212537155753.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Response Generator",
+        "AI Reply Assistant",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:10",
+      "updatedAt": "2024-05-14 12:47:10"
+    },
+    {
+      "name": "Albert AI",
+      "description": "Use AI in Slack with Albert AI.",
+      "website": "https://albert-ai.bot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103102598696670.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "Async for Gmail and Chrome",
+      "description": "Add voice notes to emails and work apps.",
+      "website": "https://chrome.google.com/webstore/detail/async-for-chrome/kmiikpmdncakkcadkabnlhifhccigpdh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679490239972903.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:13",
+      "updatedAt": "2023-11-11 17:32:13"
+    },
+    {
+      "name": "NaviVoice: Voice Input Productivity Assistant",
+      "description": "Web browsing using voice commands",
+      "website": "https://chromewebstore.google.com/detail/navivoice-voice-input-pro/ncfjfikcnmcljbjjkobdpilhmnjbmgpk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738103280988800.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:12",
+      "updatedAt": "2024-06-03 10:16:12"
+    },
+    {
+      "name": "Speaktrackai",
+      "description": "Effortless meal tracking via WhatsApp chats.",
+      "website": "https://speaktrack.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477864776570754.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Life Assistant",
+        "AI Productivity Tools",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:43",
+      "updatedAt": "2024-01-09 13:35:43"
+    },
+    {
+      "name": "Speechforms",
+      "description": "Revolutionize form-filling with voice input.",
+      "website": "https://www.speechforms.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191985036887203.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI Forms & Surveys",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:59",
+      "updatedAt": "2023-12-07 11:28:59"
+    },
+    {
+      "name": "Aladdin lamp",
+      "description": "Wrist Q&A tool powered by advanced AI.",
+      "website": "https://apps.apple.com/us/app/aladdin-lamp/id6446077052?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168647181285054436.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 16:22:35",
+      "updatedAt": "2023-06-11 16:22:35"
+    },
+    {
+      "name": "Practice Spanish with Sheila",
+      "description": "AI-powered voice partner for practicing spoken Spanish.",
+      "website": "https://apps.apple.com/vn/app/practice-spanish-with-sheila/id6449444976?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168685010014060674.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 01:27:49",
+      "updatedAt": "2023-06-16 01:27:49"
+    },
+    {
+      "name": "TinyAI",
+      "description": "Your pocket genius for offline intelligence.",
+      "website": "https://apps.apple.com/us/app/tinyai/id6476256044?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170616988164798994.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:10",
+      "updatedAt": "2024-01-25 16:04:10"
+    },
+    {
+      "name": "Voice to Text - Transcribe Live",
+      "description": "Fast audio to text transcription and summarization.",
+      "website": "https://apps.apple.com/us/app/speechmate-voice-to-text/id6447562834?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003645196725388.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:42",
+      "updatedAt": "2023-07-22 22:31:42"
+    },
+    {
+      "name": "HiTalk.ai",
+      "description": "Language mentor revolutionized with AI tutors.",
+      "website": "https://www.hitalk.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315302959458160.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Course",
+        "AI Education Assistant",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:01",
+      "updatedAt": "2024-04-15 11:50:01"
+    },
+    {
+      "name": "Speakshift.ai",
+      "description": "SpeakShift uses real-time voice translation to connect people speaking different languages.",
+      "website": "https://speakshift.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063111175264823.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Voice Assistants",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "Loo.fm",
+      "description": "Harmon is an AI coach for emotional support.",
+      "website": "https://loo.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169107004977185249.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "Life Assistant",
+        "Mental Health",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-03 21:39:26",
+      "updatedAt": "2023-08-03 21:39:26"
+    },
+    {
+      "name": "ChatGPT Voice Assistant",
+      "description": "Easy voice-to-text with Voice2Text.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-voice-assistant/hpofmmlapeelmljmomdeapaoigofekpm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164897646948310.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "XBuddy",
+      "description": "Customize your virtual friend with XBuddy, your dream buddy by your side.",
+      "website": "https://apps.apple.com/app/xbuddy-ai/id6457063272?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220583824864379.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "Two Way Voice for ChatGPT",
+      "description": "Voice-based conversations with ChatGPT",
+      "website": "https://chromewebstore.google.com/detail/two-way-voice-for-chatgpt/jpcffejadencmkphckmkhcfcpimdacko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020352817651.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:28",
+      "updatedAt": "2024-06-14 09:56:28"
+    },
+    {
+      "name": "AutoCalls.ai - AI Phone Communications",
+      "description": "Revolutionizing phone communication with advanced AI agents.",
+      "website": "https://autocalls.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885294997788924.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:33:57",
+      "updatedAt": "2023-11-01 23:33:57"
+    },
+    {
+      "name": "Paradot",
+      "description": "Paradot is a platform that creates unique AI beings for users to interact with.",
+      "website": "https://www.paradot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577712980998638.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:24:51",
+      "updatedAt": "2023-06-03 15:24:51"
+    },
+    {
+      "name": "Personal Cybersecurity Assistant",
+      "description": "Clear, actionable advice to improve online security",
+      "website": "https://personalcybersecurity.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170731993727808517.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-07 23:30:52",
+      "updatedAt": "2024-02-07 23:30:52"
+    },
+    {
+      "name": "VNSplit",
+      "description": "Receive AI summaries of voice notes instead of listening to whole messages with VNSplit.",
+      "website": "https://vnsplit.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416125654669500.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Recording",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:33:56",
+      "updatedAt": "2023-05-15 22:33:56"
+    },
+    {
+      "name": "Had-a Call | AI Calling Platform",
+      "description": "Empower customer outreach with AI agents",
+      "website": "https://hadacall.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592106488677671.webp",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "Text-to-Speech",
+        "AI Voice Chat Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI CRM Assistant",
+        "AI Chatbot",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:44:02",
+      "updatedAt": "2024-05-17 12:44:02"
+    },
+    {
+      "name": "Moemate",
+      "description": "Customizable AI studio with lifelike characters and spoken conversations.",
+      "website": "https://www.moemate.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857327164850306.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Voice Cloning",
+        "AI Reply Assistant",
+        "AI Voice Assistants",
+        "AI Anime & Cartoon Generator",
+        "AI Anime Art",
+        "AI Character",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:34",
+      "updatedAt": "2023-10-29 17:53:34"
+    },
+    {
+      "name": "Krisp",
+      "description": "Krisp is a noise-canceling app for online calls, trusted by global brands.",
+      "website": "https://krisp.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4661724519aeb1215051d80995973235.jpeg",
+      "category": "AI Noise Cancellation",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Noise Cancellation",
+        "AI Meeting Assistant",
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Productivity Tools",
+        "AI Voice Assistants",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Easy-Peasy.AI",
+      "description": "Easy-Peasy.AI is an AI tool that helps users generate original content faster and improve writing skills.",
+      "website": "https://easy-peasy.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171427498124315083.webp",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Chatbot",
+        "Text to Image",
+        "AI Voice Assistants",
+        "Transcription",
+        "Copywriting",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Dola AI",
+      "description": "AI calendar assistant for efficient scheduling",
+      "website": "https://heydola.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172294108096922831.jpg",
+      "category": "AI Task Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Task Management",
+        "AI Meeting Assistant",
+        "AI Scheduling",
+        "Writing Assistants",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 18:44:00",
+      "updatedAt": "2024-08-06 18:44:00"
+    },
+    {
+      "name": "Dola: AI Calendar Assistant",
+      "description": "Free, reliable, 10x faster. 250K+ users on WhatsApp!",
+      "website": "https://heydola.com/?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171947590496973891.png",
+      "category": "Life Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Life Assistant",
+        "AI Scheduling",
+        "AI Chatbot",
+        "AI Task Management",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:14",
+      "updatedAt": "2024-03-18 10:13:14"
+    },
+    {
+      "name": "Freed AI Medical Scribe",
+      "description": "AI medical scribe for clinicians.",
+      "website": "https://getfreed.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745292558340345.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:26",
+      "updatedAt": "2023-10-16 18:40:26"
+    },
+    {
+      "name": "Voiceflow ai",
+      "description": "Voiceflow is a platform for teams to build and launch chat and voice assistants together.",
+      "website": "https://voiceflow.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267085665188485.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 16:34:51",
+      "updatedAt": "2023-04-28 16:34:51"
+    },
+    {
+      "name": "Poly ai ai",
+      "description": "PolyAI offers customer-led voice assistants to businesses, enabling consistent brand experience and data-driven opportunities.",
+      "website": "https://poly.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/5ae8f2e24aa37c9ec0d84f6a65fd3744.jpeg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "Bland AI",
+      "description": "Bland AI automates tasks and improves efficiency using machine learning.",
+      "website": "https://bland.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164901099803449.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "AI API Design",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Dubverse",
+      "description": "Dubverse is an AI-powered platform that enables creators to dub videos in multiple languages quickly.",
+      "website": "https://dubverse.ai/?ref=n2iwztm&utm_source=affiliate",
+      "image": "https://cdn-images.toolify.ai/image/80328a27b361fb607f0e9e23174133f1.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:45",
+      "updatedAt": "2023-03-07 16:48:45"
+    },
+    {
+      "name": "SoundVerse AI",
+      "description": "AI-powered audio creation platform.",
+      "website": "https://www.soundverse.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169409381543769765.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "AI Product Description Generator",
+        "AI Voice Assistants",
+        "Large Language Models (LLMs)",
+        "Text-to-Music",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
+    },
+    {
+      "name": "Wellsaidlabs",
+      "description": "WellSaid Labs is a popular AI voice platform for creating real-time voiceovers.",
+      "website": "https://wellsaidlabs.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/77ae3dfc14c7b6239de18b285d3139c7.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Content Generator",
+        "AI Voice Cloning",
+        "AI Voice Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "Aisera",
+      "description": "Automate enterprise workflows with generative AI.",
+      "website": "https://aisera.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170574414123052140.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Voice Assistants",
+        "AI Knowledge Management",
+        "AI Knowledge Base",
+        "AI Search Engine",
+        "AI Productivity Tools",
+        "AI Customer Service Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-20 18:12:11",
+      "updatedAt": "2024-01-20 18:12:11"
+    },
+    {
+      "name": "Altered",
+      "description": "Altered provides AI voice changer software for professional voice-driven performances.",
+      "website": "https://altered.ai?fpr=toolify32",
+      "image": "https://cdn-images.toolify.ai/image/c7bdefd8a146fe09e2a1a47f0b6170b6.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Product Description Generator",
+        "AI Voice Changer",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:54",
+      "updatedAt": "2023-03-07 16:48:54"
+    },
+    {
+      "name": "Personal.ai",
+      "description": "Personal.ai offers an AI model using data, facts, and opinions to create interactive experiences.",
+      "website": "https://www.personal.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/cee6ec3dbc67e98086ce4478392a2faf.jpeg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "Buddy's Curriculum",
+      "description": "Your child's personal AI English tutor",
+      "website": "https://buddy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350465544045404.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "AI Tutorial",
+        "Game"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:42",
+      "updatedAt": "2023-12-25 18:16:42"
+    },
+    {
+      "name": "StrideQ",
+      "description": "Automated phone ordering for restaurants.",
+      "website": "https://strideq.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349901723828125.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Product Description Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:19",
+      "updatedAt": "2023-12-25 18:02:19"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    }
+  ]
+}

@@ -1,0 +1,2607 @@
+{
+  "tools": [
+    {
+      "name": "Gptzero me",
+      "description": "GPTZero detects AI models in text to bring transparency, distinguishing human written content.",
+      "website": "https://gptzero.me/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168354660803933464.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 20:04:43",
+      "updatedAt": "2023-05-08 20:04:43"
+    },
+    {
+      "name": "Copyleaks",
+      "description": "Copyleaks: AI platform instantly detects plagiarism & authenticates human/AI content.",
+      "website": "https://copyleaks.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/dbcd76778cdb8629066e99106312c744.jpeg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Plagiarism Checker",
+        "AI Tools Directory",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Undetectable.ai",
+      "description": "AI Content Solutions transforms AI-generated content into high-quality writing, aligning it with your brand.",
+      "website": "https://undetectable.ai?fpr=bglbr",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545598150807201.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:20",
+      "updatedAt": "2023-05-30 22:12:20"
+    },
+    {
+      "name": "StealthWriter",
+      "description": "Protects AI-generated text from detection.",
+      "website": "https://stealthwriter.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528462630388629.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Rewriter",
+        "AI Content Generator",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:36:45",
+      "updatedAt": "2023-05-28 22:36:45"
+    },
+    {
+      "name": "WriteHuman",
+      "description": "Undetectable AI that bypasses AI detection and tracking.",
+      "website": "https://writehuman.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170657875935816782.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Rewriter",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-30 10:02:27",
+      "updatedAt": "2024-01-30 10:02:27"
+    },
+    {
+      "name": "BypassGPT",
+      "description": "Outsmart vigilant AI detectors with credible and undetectable AI content.",
+      "website": "https://bypassgpt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530655714452150.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Rewriter",
+        "Paraphraser",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:48",
+      "updatedAt": "2024-01-15 16:12:48"
+    },
+    {
+      "name": "BypassGPT AI",
+      "description": "Bypass AI detection effortlessly.",
+      "website": "https://www.bypassgpt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651780075318761.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Rewriter",
+        "AI Content Generator",
+        "Paraphraser",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:51:58",
+      "updatedAt": "2024-01-29 16:51:58"
+    },
+    {
+      "name": "Originality",
+      "description": "Advanced AI tool detects plagiarism, improves content quality, ensures originality.",
+      "website": "https://originality.ai/?lmref=7SxLhA",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476418544098865.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Plagiarism Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:00:53",
+      "updatedAt": "2023-05-22 22:00:53"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Conch AI",
+      "description": "AI-powered writing and research assistant",
+      "website": "https://getconch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841403315386866.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "Homework Helper",
+        "AI Education Assistant",
+        "Research Tool",
+        "AI Detector",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "General Writing",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:47",
+      "updatedAt": "2024-02-20 15:25:47"
+    },
+    {
+      "name": "GPTinf",
+      "description": "AI detector bypassing tool for undetectable content.",
+      "website": "https://www.gptinf.com?fpr=toolify40",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350398857236635.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:12",
+      "updatedAt": "2023-12-25 18:20:12"
+    },
+    {
+      "name": "Phrasly",
+      "description": "Transform AI-generated content into human-like text.",
+      "website": "https://phrasly.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349926877543273.jpg",
+      "category": "AI Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Rewriter",
+        "Paraphraser",
+        "AI Content Generator",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:28",
+      "updatedAt": "2023-12-25 18:09:28"
+    },
+    {
+      "name": "AI Detector by ContentDetector.AI",
+      "description": "A free AI content detector, ChatGPT plagiarism checker, and word counter.",
+      "website": "https://contentdetector.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959792960026546.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Tools Directory",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
+    },
+    {
+      "name": "Detecting-AI.com",
+      "description": "A reliable tool for detecting and flagging AI-generated text to keep content AI-free.",
+      "website": "https://detecting-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168647174868112369.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 16:22:12",
+      "updatedAt": "2023-06-11 16:22:12"
+    },
+    {
+      "name": "Winston AI",
+      "description": "AI content detector and plagiarism checker.",
+      "website": "https://gowinston.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517220750714460.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:23:01",
+      "updatedAt": "2023-05-27 15:23:01"
+    },
+    {
+      "name": "Humanize AI Text ai",
+      "description": "Convert AI text to natural, human-like language.",
+      "website": "https://www.humanizeaitext.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686002879617029.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Large Language Models (LLMs)",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "BypassAI ai",
+      "description": "Convert AI to human text with the best ChatGPT bypasser.",
+      "website": "https://www.pixpa.com?via=wenhua75&fp_sid=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651798528236917.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:55:56",
+      "updatedAt": "2024-01-29 16:55:56"
+    },
+    {
+      "name": "AI UNDETECT",
+      "description": "Bypass AI detectors with undetectable AI writing.",
+      "website": "https://www.aiundetect.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169703664018927064.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Rewriter",
+        "AI Repurpose Assistant",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-11 23:03:51",
+      "updatedAt": "2023-10-11 23:03:51"
+    },
+    {
+      "name": "ZeroGPT Plus",
+      "description": "Check content authenticity with AI",
+      "website": "https://www.zerogpt.plus?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566225034820939.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:44",
+      "updatedAt": "2024-05-14 12:49:44"
+    },
+    {
+      "name": "Free AI Content Detector",
+      "description": "Free AI text analysis tool.",
+      "website": "https://tryleap.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833782065470759.webp",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Detector",
+        "Writing Assistants",
+        "AI Rewriter",
+        "Paraphraser",
+        "General Writing",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 12:06:29",
+      "updatedAt": "2024-06-14 12:06:29"
+    },
+    {
+      "name": "Semihuman.Ai",
+      "description": "Rewrite AI content into human-like text",
+      "website": "https://samwell.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103102682515114.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Rewriter",
+        "AI Content Generator",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "AI or Not",
+      "description": "AI detection for images, audio & KYC",
+      "website": "https://www.aiornot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542259882639384.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Image Recognition",
+        "AI Analytics Assistant",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:21",
+      "updatedAt": "2024-05-11 18:14:21"
+    },
+    {
+      "name": "ZeroGPT.CC",
+      "description": "ZeroGPT.cc accurately detects AI-generated text using ML algorithms and NLP techniques.",
+      "website": "https://zerogpt.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578026818846705.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:17:29",
+      "updatedAt": "2023-06-03 16:17:29"
+    },
+    {
+      "name": "Uncheck AI",
+      "description": "Tool to make AI text undetectable by humanizing it.",
+      "website": "https://uncheck.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172906478055966698.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-16 16:08:02",
+      "updatedAt": "2024-10-16 16:08:02"
+    },
+    {
+      "name": "AI Detect",
+      "description": "Detect AI writing probability.",
+      "website": "https://www.aidetect.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171625496821271141.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:28:17",
+      "updatedAt": "2024-05-21 09:28:17"
+    },
+    {
+      "name": "Stealthly AI Humanizer",
+      "description": "AI text humanizer for undetectable content",
+      "website": "https://stealthly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172118724453843728.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-17 11:37:06",
+      "updatedAt": "2024-07-17 11:37:06"
+    },
+    {
+      "name": "Any Summary",
+      "description": "AnySummary is an AI-powered tool for summarizing text, audio, and video files.",
+      "website": "https://www.anysummary.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577933443631878.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:01:46",
+      "updatedAt": "2023-06-03 16:01:46"
+    },
+    {
+      "name": "HumanizerPro AI",
+      "description": "AI Humanizer: Free Tool to Transform AI Text to Human",
+      "website": "https://humanizerpro.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172329487968062182.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Letter Writer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 21:01:35",
+      "updatedAt": "2024-08-10 21:01:35"
+    },
+    {
+      "name": "CleverSpinner - AI Humanizer & Paraphrasing Tool",
+      "description": "AI content rewriter, spinner, and humanizer",
+      "website": "https://cleverspinner.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171984719033950992.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Rewriter",
+        "AI SEO Assistant",
+        "Paraphraser",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-01 23:23:21",
+      "updatedAt": "2024-07-01 23:23:21"
+    },
+    {
+      "name": "ZeroGPT.Tools",
+      "description": "AI plagiarism checker",
+      "website": "https://zerogpt.tools?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171444418664416033.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-30 10:33:46",
+      "updatedAt": "2024-04-30 10:33:46"
+    },
+    {
+      "name": "AI Detector",
+      "description": "AI detection with advanced algorithms.",
+      "website": "https://ai-detector.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350554936723211.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:27",
+      "updatedAt": "2024-04-19 13:44:27"
+    },
+    {
+      "name": "HideMyAI",
+      "description": "Make AI content undetectable and humanlike.",
+      "website": "https://hidemy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349951040891292.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:24",
+      "updatedAt": "2023-12-25 18:13:24"
+    },
+    {
+      "name": "Rephrasy",
+      "description": "Rephrasy - AI Text Humanizer and AI Detector",
+      "website": "https://rephrasy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135267460462111.jpg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:50:20",
+      "updatedAt": "2024-07-19 09:50:20"
+    },
+    {
+      "name": "AICheatCheck",
+      "description": "AI Checker detects and prevents cheating in education using state-of-the-art technology.",
+      "website": "https://www.aicheatcheck.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517405396889743.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Education Assistant",
+        "Essay Writer",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:53:17",
+      "updatedAt": "2023-05-27 15:53:17"
+    },
+    {
+      "name": "AI Content Detector",
+      "description": "Detects AI-generated content for free using advanced algorithms.",
+      "website": "https://seoroast.co/tools/ai-content-detector?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025398048874753.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:18:23",
+      "updatedAt": "2024-10-30 10:18:23"
+    },
+    {
+      "name": "AI to Human",
+      "description": "AI to Human Text Converter transforms AI-generated text into human-written content.",
+      "website": "https://aitohuman.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295770810548853.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Content Detector",
+        "AI Tools Directory",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "bodyguard.ai",
+      "description": "AI content moderation & audience analysis",
+      "website": "https://bodyguard.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172118503555049049.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-17 10:55:22",
+      "updatedAt": "2024-07-17 10:55:22"
+    },
+    {
+      "name": "AI Detector Writer",
+      "description": "Free tool for analyzing and detecting AI-generated content.",
+      "website": "https://aidetectorwriter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328706053956514.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:50:49",
+      "updatedAt": "2024-08-10 18:50:49"
+    },
+    {
+      "name": "AI Checker Tool",
+      "description": "Free website uses AI to detect plagiarism and check content originality efficiently.",
+      "website": "https://aicheckertool.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003639433759556.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Plagiarism Checker",
+        "AI Content Generator",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "Loti",
+      "description": "Loti helps people protect their privacy by identifying and removing non-consensual intimate content.",
+      "website": "https://goloti.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485570070406823.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Image Recognition",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:28:01",
+      "updatedAt": "2023-05-23 23:28:01"
+    },
+    {
+      "name": "AI Humanizer",
+      "description": "Transform AI-generated text into human-like text.",
+      "website": "https://ai-humanizer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103098497191798.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:26:44",
+      "updatedAt": "2024-03-21 22:26:44"
+    },
+    {
+      "name": "AI Bypass",
+      "description": "The Ultimate AI Bypass Tool for beating AI Detection.",
+      "website": "https://aibypass.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282403615808941.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Rewriter",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:42",
+      "updatedAt": "2023-12-17 22:37:42"
+    },
+    {
+      "name": "Lasso Moderation",
+      "description": "\"AI-powered Lasso platform safeguards brands, eliminates harmful content, ensures user safety.\"",
+      "website": "https://www.lassomoderation.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563000195364675.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Advertising Assistant",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 22:33:07",
+      "updatedAt": "2023-06-01 22:33:07"
+    },
+    {
+      "name": "sounder.ai",
+      "description": "Maximize audio advertising potential with AI-driven insights",
+      "website": "https://sounder.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277171688300334.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Podcast Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Content Detector",
+        "Sales Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:53:56",
+      "updatedAt": "2024-04-11 01:53:56"
+    },
+    {
+      "name": "AI-Spy",
+      "description": "Identify AI-generated audio from human audio, creating a genuine internet.",
+      "website": "https://ai-spy.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029492680745707.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:41",
+      "updatedAt": "2023-07-25 22:19:41"
+    },
+    {
+      "name": "Moderate Kit",
+      "description": "Community moderation automation tool",
+      "website": "https://www.moderatekit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171617106452926402.webp",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 10:09:58",
+      "updatedAt": "2024-05-20 10:09:58"
+    },
+    {
+      "name": "AI Detector & Plagiarism Scan",
+      "description": "Detect AI-generated content.",
+      "website": "https://textdetector.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315307378715345.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:03",
+      "updatedAt": "2024-04-15 11:50:03"
+    },
+    {
+      "name": "Pixlyze",
+      "description": "AI image authenticity in seconds",
+      "website": "https://pixlyze.itsvg.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763945153211489.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:57:30",
+      "updatedAt": "2024-06-06 09:57:30"
+    },
+    {
+      "name": "ZeroTrusted.ai",
+      "description": "AI privacy and security with Zero Trust",
+      "website": "https://www.zerotrusted.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103103970550504.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:47",
+      "updatedAt": "2024-03-21 22:22:47"
+    },
+    {
+      "name": "StendjalGPT",
+      "description": "AI tool StendhalGPT detects and verifies AI-generated content for authentication.",
+      "website": "https://stendhalgpt.fr?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494688727055591.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:46:55",
+      "updatedAt": "2023-05-25 00:46:55"
+    },
+    {
+      "name": "Censorfy - AI Content Moderation",
+      "description": "AI platform for automating content moderation.",
+      "website": "https://www.censorfy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007977271683587.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:48",
+      "updatedAt": "2024-10-28 09:39:48"
+    },
+    {
+      "name": "Layly - AI",
+      "description": "AI-based deepfake detection tool.",
+      "website": "https://www.layly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094114442179347.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:25:11",
+      "updatedAt": "2024-03-20 21:25:11"
+    },
+    {
+      "name": "GPT-Zero",
+      "description": "Detect AI-generated content accurately.",
+      "website": "https://gpt-zero.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493964248967332.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Tools Directory",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:54",
+      "updatedAt": "2024-01-11 10:19:54"
+    },
+    {
+      "name": "AI Bypasser",
+      "description": "The leading AI humanizer tool that transforms your AI content so it won't be detected by AI detectors such as Originality.ai, GptZero, etc.",
+      "website": "https://aibypasser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230667640517581.jpg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Writing Assistants",
+        "AI SEO Assistant",
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:34:03",
+      "updatedAt": "2024-07-30 10:34:03"
+    },
+    {
+      "name": "CaliberAI",
+      "description": "CaliberAI is an AI platform that protects online brands from risky content through fine-tuning LLMs.",
+      "website": "https://caliberai.net?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0fac81266070f60eac7c97727859f0cb.jpeg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:47",
+      "updatedAt": "2023-03-07 16:48:47"
+    },
+    {
+      "name": "Content Guardian",
+      "description": "Confidently detect AI-generated content",
+      "website": "https://www.contentguardian.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067726776237949.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Content Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:31",
+      "updatedAt": "2024-03-17 20:07:31"
+    },
+    {
+      "name": "Skeptic Reader",
+      "description": "Detect logical fallacies and bias",
+      "website": "https://www.skepticreader.domesticstreamers.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067755127090213.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:11:21",
+      "updatedAt": "2024-03-17 20:11:21"
+    },
+    {
+      "name": "SpamCheck.ai",
+      "description": "Secure content with advanced spam detection",
+      "website": "https://spamcheck.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421475737231893.webp",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:13",
+      "updatedAt": "2024-04-27 18:45:13"
+    },
+    {
+      "name": "Omniparsr",
+      "description": "OmniParser | Revolutionary AI Screen & Comic Analysis Tool",
+      "website": "http://omniparser.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147869940392297.jpg",
+      "category": "AI Manga & Comic",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Manga & Comic",
+        "AI Image Scanning",
+        "AI Developer Tools",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI Content Detector",
+        "Fun Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:24:54",
+      "updatedAt": "2024-11-13 14:24:54"
+    },
+    {
+      "name": "AIHumanizer",
+      "description": "Transforms AI text into human-like, undetectable content.",
+      "website": "https://ai-humanizer.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147857734590386.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "Paraphraser",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:35",
+      "updatedAt": "2024-11-13 14:14:35"
+    },
+    {
+      "name": "UncovAI Extension",
+      "description": "Efficient AI text detection",
+      "website": "https://chromewebstore.google.com/detail/uncovai-extension/ljcoghbmlcdlpadiggapnbchdpahkbic?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998287010742305.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:56",
+      "updatedAt": "2024-07-03 13:00:56"
+    },
+    {
+      "name": "Detect GPT",
+      "description": "Identify AI-generated content on webpages.",
+      "website": "https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679475495211002.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "PordaAi - RealTime HaramBlur",
+      "description": "AI tool to blur haram content in media.",
+      "website": "https://chromewebstore.google.com/detail/pordaai-realtime-haramblu/ofhlminijomemliahkjjbgcbfoimjiaj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176289018509775.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "Religion",
+        "NSFW",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:14:44",
+      "updatedAt": "2024-11-16 21:14:44"
+    },
+    {
+      "name": "Pangram Labs AI Detection",
+      "description": "Detects AI-generated writing with high accuracy.",
+      "website": "https://chromewebstore.google.com/detail/pangram-labs-ai-detection/eakpippijmmohmdlpgcjnipolcgciaga?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129931535162501.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:13",
+      "updatedAt": "2024-11-11 12:25:13"
+    },
+    {
+      "name": "Itswrittenbyai",
+      "description": "Detects AI-generated texts for authenticity and originality.",
+      "website": "https://www.itswrittenbyai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129911174190871.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:07",
+      "updatedAt": "2024-11-11 12:24:07"
+    },
+    {
+      "name": "BitMind",
+      "description": "Chrome tool for identifying AI-generated images",
+      "website": "https://chromewebstore.google.com/detail/bitmind/ejlhmbdnjjlifeeelpnlkkechnmojnhg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965749085133564.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Image Recognition",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Content Detector",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Banner Generator",
+        "AI Background Remover",
+        "AI Photo Restoration",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Illustration Generator",
+        "AI Pattern Generator",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:31",
+      "updatedAt": "2024-10-23 12:24:31"
+    },
+    {
+      "name": "SeyftAI",
+      "description": "Real-time content moderation for text, images, and videos.",
+      "website": "https://seyftai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947682360444950.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:41",
+      "updatedAt": "2024-10-21 10:10:41"
+    },
+    {
+      "name": "essayget.com",
+      "description": "AI tools for content detection, humanization, and essay writing.",
+      "website": "https://essayget.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714258043119593.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:45",
+      "updatedAt": "2024-09-24 09:47:45"
+    },
+    {
+      "name": "Create Your Own Personalized AI - SIRIUS",
+      "description": "A customizable AI chatbot for creativity and learning.",
+      "website": "https://play.google.com/store/apps/details?id=com.apptoic.sirius&hl=en&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172587894638604854.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 18:48:33",
+      "updatedAt": "2024-09-09 18:48:33"
+    },
+    {
+      "name": "Leap AI Detector",
+      "description": "AI content detector for verifying the authenticity of text",
+      "website": "https://chromewebstore.google.com/detail/leap-ai-detector/kppilbpdemgllpkldmbcjaohnafabgad?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481124145006871.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:13:48",
+      "updatedAt": "2024-08-28 10:13:48"
+    },
+    {
+      "name": "Concurrence AI",
+      "description": "AI community management platform",
+      "website": "https://www.concurrence.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230652292256476.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Customer Service Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:28:31",
+      "updatedAt": "2024-07-30 10:28:31"
+    },
+    {
+      "name": "Noodle4 AI - Content review assistant.",
+      "description": "AI-powered UGC & Influencer content review",
+      "website": "https://www.noodle4.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171498122295438207.webp",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-06 15:39:12",
+      "updatedAt": "2024-05-06 15:39:12"
+    },
+    {
+      "name": "Aithenticate",
+      "description": "Bridge between tech & transparency",
+      "website": "https://aithenticate.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171507755776946127.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-07 18:24:40",
+      "updatedAt": "2024-05-07 18:24:40"
+    },
+    {
+      "name": "DiverseTalent.ai Bias Checker",
+      "description": "Diverse talent connection platform with bias checking extension",
+      "website": "https://chromewebstore.google.com/detail/diversetalentai-bias-chec/knknoepefghebgfhppoklpnjjiefdjjp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153170830110203.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:14:51",
+      "updatedAt": "2024-07-21 11:14:51"
+    },
+    {
+      "name": "Cannypen",
+      "description": "AI content creation and editing tool",
+      "website": "https://cannypen.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070130173245029.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:51",
+      "updatedAt": "2024-07-11 20:33:51"
+    },
+    {
+      "name": "AI Image Detector by IsItAI.com",
+      "description": "Image detection and classification using AI",
+      "website": "https://chromewebstore.google.com/detail/ai-image-detector-by-isit/dmabdcmpcggmdaebhjdceabpjifdpaop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710454264553.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "AI Content Detector - Copyleaks",
+      "description": "Accurately identify human and AI-generated text.",
+      "website": "https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679496629090479.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:32:45",
+      "updatedAt": "2024-05-21 09:32:45"
+    },
+    {
+      "name": "ChadGuard",
+      "description": "Block unproductive websites",
+      "website": "https://chromewebstore.google.com/detail/chadguard/oogpehhghgfaeojjbflgeemilhkhgbhe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747581466788721.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "NSFW",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:16",
+      "updatedAt": "2024-06-04 12:35:16"
+    },
+    {
+      "name": "SEOByAI",
+      "description": "Boost marketing with free AI tools",
+      "website": "https://chromewebstore.google.com/detail/seobyai/mlcpfemlipgbgoaioabdhilcifidegoo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776924398958248.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:52",
+      "updatedAt": "2024-06-07 22:06:52"
+    },
+    {
+      "name": "DecEptioner- Humanize AI Text Like A Pro!",
+      "description": "AI-powered rewriting tool to avoid false positives",
+      "website": "https://chromewebstore.google.com/detail/deceptioner-humanize-ai-t/gjdagipcejlhebcgbmehlkpkbifoiijl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776766825559549.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:12",
+      "updatedAt": "2024-06-07 21:40:12"
+    },
+    {
+      "name": "AI Image Detector & Fake Picture Check Online",
+      "description": "AI Image Detection Chrome Extension.",
+      "website": "https://chromewebstore.google.com/detail/ai-image-detector-fake-pi/nmflclgfbnfdehadicpkelolcmaphmng?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776766338804130.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:12",
+      "updatedAt": "2024-06-07 21:40:12"
+    },
+    {
+      "name": "Genaios",
+      "description": "Empower users to verify content's origin and accuracy",
+      "website": "https://chromewebstore.google.com/detail/genaios/mojmfndakphphinkoipadfghpahoppfe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776762163067491.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:50",
+      "updatedAt": "2024-06-07 21:39:50"
+    },
+    {
+      "name": "Stop Porn",
+      "description": "Blocks pornographic images on web pages using local classification.",
+      "website": "https://chromewebstore.google.com/detail/stop-porn/lgeeknnfhpdeeablfecidikckleghkof?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176290173798150.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "NSFW",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:14:46",
+      "updatedAt": "2024-11-16 21:14:46"
+    },
+    {
+      "name": "ChatGPT Academic Monitor",
+      "description": "Preserves academic integrity.",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-academic-monitor/kmplbafkncfjcmalicegdjbjiidjndjd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763911918460796.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:38",
+      "updatedAt": "2024-06-06 09:56:38"
+    },
+    {
+      "name": "Ai Detector - Detecting-ai.com",
+      "description": "Detect text authenticity online",
+      "website": "https://chromewebstore.google.com/detail/ai-detector-detecting-aic/lgmmmecfimbpafdmfokijpobpokkgdhl?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:48",
+      "updatedAt": "2024-06-06 09:53:48"
+    },
+    {
+      "name": "SyntheticEye AI Detector",
+      "description": "Empowers users to identify AI-generated images",
+      "website": "https://chromewebstore.google.com/detail/syntheticeye-ai-detector/jhnehjooeiopekmlgcpmdmliifccjhlj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785149333529523.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:01",
+      "updatedAt": "2024-06-08 20:58:01"
+    },
+    {
+      "name": "Hive AI Detector",
+      "description": "Detect AI-generated content for free",
+      "website": "https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747587811275786.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:36",
+      "updatedAt": "2024-06-04 12:35:36"
+    },
+    {
+      "name": "Deep Find",
+      "description": "Detect and highlight AI-generated content.",
+      "website": "https://chromewebstore.google.com/detail/deep-find/cclfpdaaigpkmanodiklhaammanpchdk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785150976188260.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:03",
+      "updatedAt": "2024-06-08 20:58:03"
+    },
+    {
+      "name": "AI Content Detector for ChatGPT - Sapling.ai",
+      "description": "Detect AI-generated content online.",
+      "website": "https://chromewebstore.google.com/detail/ai-content-detector-for-c/gbcfdjgipmpinkahpiambcikjkijimhi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815761210542402.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:48",
+      "updatedAt": "2024-06-12 09:59:48"
+    },
+    {
+      "name": "MalwareAI Browser Security",
+      "description": "AI-powered malware detection for Chrome",
+      "website": "https://chromewebstore.google.com/detail/malwareai-browser-securit/fjbjbkoepflddmlieaicfhelkdmkbcdb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747582588526658.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:17",
+      "updatedAt": "2024-06-04 12:35:17"
+    },
+    {
+      "name": "GPTrue or False",
+      "description": "Detect GPT-2 generated text.",
+      "website": "https://chromewebstore.google.com/detail/gptrue-or-false/bikcfchmnacmfhneafnpfekgfhckplfj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747581670290034.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:16",
+      "updatedAt": "2024-06-04 12:35:16"
+    },
+    {
+      "name": "twitter cleaner",
+      "description": "Enhancing social media safety",
+      "website": "https://chromewebstore.google.com/detail/twitter-cleaner/fccidpgmnhpololkdelogpggpfkjemal?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703943558419693.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "ScanGPT",
+      "description": "Locate GPT-generated text on any site",
+      "website": "https://chromewebstore.google.com/detail/scangpt/goaaajgmfpnfebljepkcdmlmjfpeamko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020193153216.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Plagiarism Checker",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:28",
+      "updatedAt": "2024-06-14 09:56:28"
+    },
+    {
+      "name": "Percent Human: Detect ChatGPT AI Content",
+      "description": "AI plagiarism detection",
+      "website": "https://chromewebstore.google.com/detail/percent-human-detect-chat/ifdhkdemnklbblchhconnhlcgggedcaj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687130413076219.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:48",
+      "updatedAt": "2024-05-28 12:40:48"
+    },
+    {
+      "name": "KnowBias",
+      "description": "AI app infers biases in online content.",
+      "website": "https://chromewebstore.google.com/detail/knowbias/dbjdfohhgmjeaniijifmcdepegmgpkio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703924489479487.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:19",
+      "updatedAt": "2024-05-30 11:20:19"
+    },
+    {
+      "name": "CheatScrub GPT Detector",
+      "description": "AI content detector",
+      "website": "https://chromewebstore.google.com/detail/cheatscrub-gpt-detector/hfnblhmefiejojklijjpoieggfilmfoa?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927039270832.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Essay Writer",
+        "Papers",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:23",
+      "updatedAt": "2024-05-30 11:20:23"
+    },
+    {
+      "name": "SafeGaze - Blur Haram Images",
+      "description": "Enhances browser safety",
+      "website": "https://chromewebstore.google.com/detail/safegaze-blur-haram-image/aaddkkmpkpcnchdggomfaehpagbekalb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703929010104707.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:25",
+      "updatedAt": "2024-05-30 11:20:25"
+    },
+    {
+      "name": "AI Content Detector Extension",
+      "description": "AI content and ChatGPT Plagiarism detector",
+      "website": "https://chromewebstore.google.com/detail/ai-content-detector/oijepnjgfeoldfanaobmnkiigpfcgodo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703930066232075.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:26",
+      "updatedAt": "2024-05-30 11:20:26"
+    },
+    {
+      "name": "CatchGPT",
+      "description": "AI Text and Image Detection",
+      "website": "https://chromewebstore.google.com/detail/catchgpt/kaodldigfljjcdeghjccakdjiehlgbig?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747575443315681.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:52",
+      "updatedAt": "2024-06-04 12:34:52"
+    },
+    {
+      "name": "AI Detector for ChatGPT & more - Winston AI",
+      "description": "Trusted AI detector for ChatGPT content",
+      "website": "https://chromewebstore.google.com/detail/ai-detector-for-chatgpt-m/cdbldfdikpkmfcnpidikieafacjkchbg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815761278365655.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:48",
+      "updatedAt": "2024-06-12 09:59:48"
+    },
+    {
+      "name": "ChatGPT and AI Detector by ZeroGPT.cc",
+      "description": "Accurate AI text detector",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-and-ai-detector-b/gddmfhjpdhmbbgkkggjhnmlfckniodnp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747568667489421.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:17",
+      "updatedAt": "2024-06-04 12:34:17"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

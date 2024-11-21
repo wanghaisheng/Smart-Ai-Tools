@@ -1,0 +1,2845 @@
+{
+  "tools": [
+    {
+      "name": "Klaviyo",
+      "description": "Intelligent marketing automation for faster growth.",
+      "website": "https://www.klaviyo.com/partner/signup?utm_source=001Nu00000B49T3IAJ&utm_medium=partner",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349964871879944.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:28",
+      "updatedAt": "2023-12-25 18:13:28"
+    },
+    {
+      "name": "Superhuman 2.0",
+      "description": "AI-powered email for high-performing teams and individuals",
+      "website": "https://superhuman.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016991343066580.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:30",
+      "updatedAt": "2024-07-05 16:56:30"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Superhuman",
+      "description": "Superhuman streamlines email management, saves time, and boosts productivity with AI-powered features.",
+      "website": "https://superhuman.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/2d394267f286d8527d72eb47a5cd403a.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Instantly",
+      "description": "A cold email software, Instantly.ai, helps users scale outreach campaigns with unlimited accounts and smart AI.",
+      "website": "https://instantly.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/441bc049e8fe526a26a93d9dc0dc75fc.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Email Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "Shortwave AI Email Assistant 2.0",
+      "description": "AI-powered tool for email management and productivity enhancement.",
+      "website": "https://www.shortwave.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656303917202524.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "Summarizer",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:14",
+      "updatedAt": "2024-09-17 16:47:14"
+    },
+    {
+      "name": "ActiveCampaign AI",
+      "description": "Marketing automation with predictive AI",
+      "website": "https://www.activecampaign.com/?_r=63I3V5K7",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172209084297587388.jpg",
+      "category": "AI CRM Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI CRM Assistant",
+        "Digital Marketing Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "Newsletter",
+        "AI Landing Page Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 22:34:56",
+      "updatedAt": "2024-07-27 22:34:56"
+    },
+    {
+      "name": "ChatGPT Writer",
+      "description": "AI-powered ChatGPT Writer helps users write effortlessly and improve their text effectively.",
+      "website": "https://chatgptwriter.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/78db4dc7945e52ed2055faab8c46a6a4.jpeg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "Lavender",
+      "description": "Lavender is an AI Sales Email Coach that improves email performance using AI technology.",
+      "website": "https://www.lavender.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/cb878d2547420a005906757cfbce1401.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "Pipl.ai",
+      "description": "pipl.ai: helps users send cold emails at scale with outbound email automation.",
+      "website": "https://pipl.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4e2b36de7212787699f845cf6aa3ffc3.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:57",
+      "updatedAt": "2023-03-07 16:48:57"
+    },
+    {
+      "name": "ParagraphAI",
+      "description": "ParagraphAI is an AI Writing Assistant that improves writing skills with grammar corrections and style suggestions.",
+      "website": "https://paragraphai.com?ref=odljogq",
+      "image": "https://cdn-images.toolify.ai/image/343672ca40cda5f4bf74dfbd5297a3bf.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "Smartwriter",
+      "description": "AI-powered SmartWriter creates personalized cold emails and LinkedIn messages, automating outreach and boosting conversion rates.",
+      "website": "https://www.smartwriter.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a1b3f263eeb4e8e84b7c5627611baf62.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:47",
+      "updatedAt": "2023-03-07 16:48:47"
+    },
+    {
+      "name": "AI Email Assistant AImReply",
+      "description": "Boost Email productivity with our AI Email Assistant",
+      "website": "https://aimreply.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170139544520179630.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-01 09:58:25",
+      "updatedAt": "2023-12-01 09:58:25"
+    },
+    {
+      "name": "Lyne.ai",
+      "description": "A.I. powered sales personalization at scale.",
+      "website": "https://lyne.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349973364478627.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Reply Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:30",
+      "updatedAt": "2023-12-25 18:13:30"
+    },
+    {
+      "name": "PolitePost",
+      "description": "PolitePost.net uses AI to enhance email professionalism and workplace suitability.",
+      "website": "https://politepost.net?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a050631d1c28ab23299ffa320b72b084.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Rewriter",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "mailvio.com",
+      "description": "Influencer email marketing made easy",
+      "website": "https://paykstrt.com/47223/153495",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000171519038072.webp",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Analytics Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:31",
+      "updatedAt": "2024-03-10 00:27:31"
+    },
+    {
+      "name": "tryellie.com",
+      "description": "AI Email Assistant that replies as if you wrote them.",
+      "website": "https://tryellie.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349854980671079.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Advertising Assistant",
+        "Cover Letter Generator",
+        "AI Customer Service Assistant",
+        "AI Email Marketing",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:48",
+      "updatedAt": "2023-12-25 18:00:48"
+    },
+    {
+      "name": "Autobound.ai",
+      "description": "AI-powered platform for hyper-personalized outreach.",
+      "website": "https://autobound.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350458393370810.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Sales Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:39",
+      "updatedAt": "2023-12-25 18:16:39"
+    },
+    {
+      "name": "Knowledge By EmailTree.ai",
+      "description": "EmailTree.ai is an AI email management platform that automates workflows and provides solutions for customer support.",
+      "website": "https://emailtree.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168337737038827097.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Workflow Management",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 20:50:06",
+      "updatedAt": "2023-05-06 20:50:06"
+    },
+    {
+      "name": "Emaildojo",
+      "description": "Emaildojo offers tools to improve email effectiveness and ensure deliverability and authenticity.",
+      "website": "https://emaildojo.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517557218785740.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:19:10",
+      "updatedAt": "2023-05-27 16:19:10"
+    },
+    {
+      "name": "AI Mail Assistant",
+      "description": "Revolutionize Gmail with advanced AI tech.",
+      "website": "https://www.chatgptservices.app/?ref=7Y9bKMfTuOnyY",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580611864967197.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Product Description Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Translate",
+        "AI Productivity Tools",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 20:51:08",
+      "updatedAt": "2023-06-03 20:51:08"
+    },
+    {
+      "name": "GenPage",
+      "description": "Personalized landing pages for cold email leads",
+      "website": "https://genpage.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315308991505786.webp",
+      "category": "AI Lead Generation",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lead Generation",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Landing Page Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:03",
+      "updatedAt": "2024-04-15 11:50:03"
+    },
+    {
+      "name": "Warmer.ai",
+      "description": "Warmer.ai is an AI email writer that boosts engagement and sales through personalized outreach.",
+      "website": "https://warmer.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/998ef5433e65148e0288c1b56afc5ec0.jpeg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Summ",
+      "description": "AI tool for summarizing emails and improving productivity.",
+      "website": "https://www.summ.email?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656305084897417.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "Summarizer",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:14",
+      "updatedAt": "2024-09-17 16:47:14"
+    },
+    {
+      "name": "Salient",
+      "description": "A platform that automates personalized and relevant outreach emails to optimize cold outbound engagement.",
+      "website": "https://www.trysalient.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4a92cc443dcbe6b8a7c5a499d02929dd.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "wuko",
+      "description": "Wuko.ai enhances reading experience with email-based insights.",
+      "website": "https://wuko.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168546029532336918.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:24:33",
+      "updatedAt": "2023-05-30 23:24:33"
+    },
+    {
+      "name": "AI Mailer",
+      "description": "Cutting-edge email tool using GPT for high-quality emails.",
+      "website": "https://ai-mailer.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/82a455fc9024d4f126e877ab03d492c6.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "Birdseye",
+      "description": "AI email marketing platform for Shopify stores.",
+      "website": "https://birdseyeglobal.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656305849966513.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:14",
+      "updatedAt": "2024-09-17 16:47:14"
+    },
+    {
+      "name": "Warmest.ai",
+      "description": "Warmest is an AI email assistant that saves time by writing personalized draft emails.",
+      "website": "https://warmest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543894631559027.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "Writing Assistants",
+        "AI Chatbot",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:28:55",
+      "updatedAt": "2023-05-30 17:28:55"
+    },
+    {
+      "name": "Sixty",
+      "description": "Stay in touch without wasting time.",
+      "website": "https://www.sixty.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169849096158620252.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Scheduling",
+        "AI Productivity Tools",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Workflow Management",
+        "AI Task Management",
+        "AI Email Writer",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
+    },
+    {
+      "name": "VoiceType",
+      "description": "VoiceType is an AI assistant that writes emails using voice commands.",
+      "website": "https://voicetype.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3290354bc071c376a0a9f8bcdb86961f.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Ready to Send",
+      "description": "The Ready to Send Gmail add-on helps draft AI-powered email replies to save time and boost productivity.",
+      "website": "https://getreadytosend.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164901366454099.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "MailGenerator",
+      "description": "Innovative AI email generator.",
+      "website": "https://mailgenerator.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171491526159690450.webp",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-05 21:54:20",
+      "updatedAt": "2024-05-05 21:54:20"
+    },
+    {
+      "name": "Secure ChatGPT Email Writer for Gmail",
+      "description": "EmoGPT is an advanced email chatbot for Gmail that saves time and boosts personalization.",
+      "website": "https://emogpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577290425203111.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:14:10",
+      "updatedAt": "2023-06-03 14:14:10"
+    },
+    {
+      "name": "Overlap",
+      "description": "Professional networking platform with trusted email intros",
+      "website": "https://www.moreoverlap.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230608646206191.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:20:58",
+      "updatedAt": "2024-07-30 10:20:58"
+    },
+    {
+      "name": "Angry Email Translator",
+      "description": "\"Angry Email is an efficient online tool for managing emails effectively.\"",
+      "website": "https://angryemailtranslator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804499093045609.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:21:56",
+      "updatedAt": "2023-06-29 21:21:56"
+    },
+    {
+      "name": "Luna",
+      "description": "Luna: AI-powered software to find and engage leads, boosting sales efforts.",
+      "website": "https://luna.ai?ref=wenhua37",
+      "image": "https://cdn-images.toolify.ai/image/f6df0e872129391c741ade45a860b18d.jpeg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "LaterOn.email",
+      "description": "Newsletters aggregator & summarizer",
+      "website": "https://lateron.email?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350552015044672.webp",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "Newsletter",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:26",
+      "updatedAt": "2024-04-19 13:44:26"
+    },
+    {
+      "name": "heyLibby",
+      "description": "HeyLibby.ai is a virtual assistant that uses AI to communicate with leads, qualify them, and book appointments.",
+      "website": "https://heylibby.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253914585928776.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Email Assistant",
+        "AI Lead Generation",
+        "AI Scheduling",
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "Unspam.io",
+      "description": "AI-driven tool for Founders & CEOs to filter unsolicited emails.",
+      "website": "https://unspam.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548529174195700.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:53:57",
+      "updatedAt": "2024-01-17 17:53:57"
+    },
+    {
+      "name": "Addy AI",
+      "description": "An A.I. email assistant that drafts your emails in seconds with customizable style and tone.",
+      "website": "https://addy-ai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1b3845d34b344c86aafc8c8c9acfdd9e.jpeg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "QuickMail AI",
+      "description": "Email assistant for efficient email generation with AI.",
+      "website": "https://www.quickmailai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172372336774900279.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "Letter Writer",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 20:02:27",
+      "updatedAt": "2024-08-15 20:02:27"
+    },
+    {
+      "name": "Arch",
+      "description": "AI email copilot condensing, suggesting, and drafting emails efficiently.",
+      "website": "https://arch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454295729047213.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Productivity Tools",
+        "Writing Assistants",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "Letty",
+      "description": "Compose perfect emails faster with Letty.",
+      "website": "https://www.useletty.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170015652698206588.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-17 01:41:08",
+      "updatedAt": "2023-11-17 01:41:08"
+    },
+    {
+      "name": "IntelliMail",
+      "description": "IntelliMail generates emails for you, saving time and effort.",
+      "website": "https://www.intellimail.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494311578226536.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Letter Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:44:42",
+      "updatedAt": "2023-05-24 23:44:42"
+    },
+    {
+      "name": "Zama",
+      "description": "Boost conversions with an engaging inbox experience!",
+      "website": "https://www.zama.agency?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120080846270584.webp",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "E-commerce Assistant",
+        "AI Email Generator",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:06",
+      "updatedAt": "2024-03-23 21:32:06"
+    },
+    {
+      "name": "MAILE for iPhone",
+      "description": "AI-powered app MAILE for iPhone makes email writing stress-free and efficient.",
+      "website": "https://www.maile.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543977016865809.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:41:48",
+      "updatedAt": "2023-05-30 17:41:48"
+    },
+    {
+      "name": "MINMEI, your dedicated AI agent",
+      "description": "Transform articles into engaging posts",
+      "website": "https://minmei.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839245656897841.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Chatbot",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:17",
+      "updatedAt": "2024-02-20 09:27:17"
+    },
+    {
+      "name": "EzMail.AI",
+      "description": "EzMail.AI is a Chrome extension that uses ChatGPT to generate emails and messages for Gmail.",
+      "website": "https://www.ezmail.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517844525035538.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Reply Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:07:14",
+      "updatedAt": "2023-05-27 17:07:14"
+    },
+    {
+      "name": "Boost Inbox",
+      "description": "Gradually increase email sending to ensure inbox delivery.",
+      "website": "https://boostinbox.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969516751585297.jpg",
+      "category": "AI Email Marketing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:11",
+      "updatedAt": "2023-11-11 17:32:11"
+    },
+    {
+      "name": "Magneo Education Student Engagement Platform",
+      "description": "Magneo is an AI-driven communication platform designed to deliver the right information to students exactly when they need it, streamlining their admission, retention, and enrollment processes. With 24/7/365 support, Magneo empowers school staff to provide continuous, reliable assistance to students.",
+      "website": "https://www.magneosolutions.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398632980768643.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI CRM Assistant",
+        "AI Reviews Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:07:18",
+      "updatedAt": "2024-08-18 21:07:18"
+    },
+    {
+      "name": "Email 5",
+      "description": "Transformative, private email in decentralized, spam-free environment.",
+      "website": "https://email5.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969524233356015.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:13",
+      "updatedAt": "2023-11-11 17:32:13"
+    },
+    {
+      "name": "InboxIgniter",
+      "description": "An AI-backed mailbox warm up tool.",
+      "website": "https://www.inboxigniter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100874123016540.jpg",
+      "category": "AI Email Marketing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:40",
+      "updatedAt": "2023-11-26 22:24:40"
+    },
+    {
+      "name": "TextX AI",
+      "description": "Revolutionary email writing assistant.",
+      "website": "https://play.google.com/store/apps/details?id=com.dogabayram.TextX&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548306884790260.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "AI Email Writer",
+        "AI Email Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:17:37",
+      "updatedAt": "2024-01-17 17:17:37"
+    },
+    {
+      "name": "Aiomi: AI Assistant",
+      "description": "AI Assistant for diverse emails",
+      "website": "https://chromewebstore.google.com/detail/aiomi-ai-assistant/ajkchgjnimijmafickfpiddcgaandkjh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703922577894162.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Writing Assistants",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "Letter Writer",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:18",
+      "updatedAt": "2024-05-30 11:20:18"
+    },
+    {
+      "name": "MailReact : Interactive Email Platform",
+      "description": "AI tool for creating interactive email templates.",
+      "website": "https://www.mailreact.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172602007886294354.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-11 09:58:49",
+      "updatedAt": "2024-09-11 09:58:49"
+    },
+    {
+      "name": "ChatGPT For Gmail",
+      "description": "Enhance your Gmail experience with AI-powered features.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-for-gmail/iaclcidolgjnpblhdalmildokfdmidlj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679482985219000.jpg",
+      "category": "AI Email Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Writer",
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Productivity Tools",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 20:51:10",
+      "updatedAt": "2023-06-03 20:51:10"
+    },
+    {
+      "name": "WriteAI.tech",
+      "description": "WriteAI.tech is an AI-powered platform that simplifies content creation and enhances business success.",
+      "website": "https://writeai.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837668445601903.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "Sales Assistant",
+        "AI Content Generator",
+        "Prompt",
+        "Large Language Models (LLMs)",
+        "AI Email Generator",
+        "AI Email Assistant",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant",
+        "Writing Assistants",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "AI Blog Writer",
+        "Copywriting",
+        "General Writing",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "AI Rewriter",
+        "AI Email Writer",
+        "Paraphraser",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Creative Writing",
+        "AI Story Writing",
+        "Essay Writer",
+        "Summarizer",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:30:37",
+      "updatedAt": "2023-07-03 17:30:37"
+    },
+    {
+      "name": "Slik Prospector",
+      "description": "LinkedIn email finder tool",
+      "website": "https://chromewebstore.google.com/detail/slik-prospector/hombkmjjoapdaclgaaioldnljmhhliai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738100160130850.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "Sales Assistant",
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:08",
+      "updatedAt": "2024-06-03 10:16:08"
+    },
+    {
+      "name": "Uvoh",
+      "description": "AI-powered writing tool for fast and efficient content creation.",
+      "website": "https://uvoh.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349861678713049.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Writing Assistants",
+        "General Writing",
+        "Copywriting",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:50",
+      "updatedAt": "2023-12-25 18:00:50"
+    },
+    {
+      "name": "Aiapp.gg web extension",
+      "description": "Browser extension with AI enhancement",
+      "website": "https://chromewebstore.google.com/detail/aiappgg-web-extension/bfkjjpjjipjjbdaefiapikghkmfnoemd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776926990895503.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:56",
+      "updatedAt": "2024-06-07 22:06:56"
+    },
+    {
+      "name": "Upmail - AI Email Writer",
+      "description": "AI email assistant that generates flawless replies.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-upmail-chatgpt-r%C3%A9/nogahbecbglmaiohfkbbocolbhbgdjko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679489139305708.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-02 21:41:35",
+      "updatedAt": "2023-10-02 21:41:35"
+    },
+    {
+      "name": "GATE AI",
+      "description": "AI-powered templates for transforming email campaigns.",
+      "website": "https://gateai.email?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965780970064893.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:38",
+      "updatedAt": "2024-10-23 12:26:38"
+    },
+    {
+      "name": "Mighty",
+      "description": "Boost sales outreach with personalized emails",
+      "website": "https://chromewebstore.google.com/detail/mighty/impaalobgpinahhmcbmlfkiklpljiknl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679496036950118.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "Sales Assistant",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 16:43:52",
+      "updatedAt": "2024-05-20 16:43:52"
+    },
+    {
+      "name": "Inquiry Assist",
+      "description": "Enhance form operation efficiency",
+      "website": "https://chromewebstore.google.com/detail/inquiry-assist/oaefgonljjamdngmmdjjajfnbgjibahm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763912563440090.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Forms & Surveys",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:38",
+      "updatedAt": "2024-06-06 09:56:38"
+    },
+    {
+      "name": "DUANG AI TAB-sidebar(Chat GPT\u3001Gemini\u3001copilot) Use AI Anywhere",
+      "description": "AI tool for learning & writing",
+      "website": "https://chromewebstore.google.com/detail/duang-ai-tab-sidebarchat/dgibopjlhadjeeefelilffmjdpjkelji?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807154511774386.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:11",
+      "updatedAt": "2024-06-11 10:05:11"
+    },
+    {
+      "name": "Neuramail",
+      "description": "Chrome plugin for generating personalized email drafts effortlessly.",
+      "website": "https://chromewebstore.google.com/detail/neuramail/bhpkpmbnfibhdkeckpgfiindihphaimf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129933291635146.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "Sales Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:14",
+      "updatedAt": "2024-11-11 12:25:14"
+    },
+    {
+      "name": "WAAP",
+      "description": "WAAP helps save time by providing pre-made email templates for scheduling.",
+      "website": "https://www.waap-app.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063114189063401.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "Ellie",
+      "description": "Ellie is an AI email assistant powered by GPT-4 that crafts replies in your writing style.",
+      "website": "https://ellieai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4b2def9564b5a9e79ea6c7002978f59b.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "OwlU",
+      "description": "AI email organizer for efficient sorting and response templates.",
+      "website": "https://owlu.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172924084812383296.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Response Generator",
+        "Summarizer",
+        "AI Reply Assistant",
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-18 16:40:24",
+      "updatedAt": "2024-10-18 16:40:24"
+    },
+    {
+      "name": "AI Mail Tools",
+      "description": "Streamline and enhance email communication.",
+      "website": "https://chromewebstore.google.com/detail/ai-mail-tools/pbnmokdmfagcgminbpaldmapkgieochk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687132664438316.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "AI Email Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:38",
+      "updatedAt": "2024-05-28 12:41:38"
+    },
+    {
+      "name": "Browser GPT",
+      "description": "Summary: BrowserGPT is a Chrome extension enabling direct access to ChatGPT in the browser for various tasks.",
+      "website": "https://www.browsergpt.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169269264065901740.jpg",
+      "category": "AI Browsers Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Browsers Builder",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Chatbot",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-22 16:23:10",
+      "updatedAt": "2023-08-22 16:23:10"
+    },
+    {
+      "name": "Politemail Pro",
+      "description": "AI email generator for professional and courteous emails",
+      "website": "https://www.pmailpro.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208856670008973.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:56",
+      "updatedAt": "2024-07-27 21:54:56"
+    },
+    {
+      "name": "TraceMail Extension",
+      "description": "Enhance email tracking with ease",
+      "website": "https://chromewebstore.google.com/detail/tracemail-extension/lmcanagafhobepkahilencodhcfalnmp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776919447862061.jpg",
+      "category": "AI Email Marketing",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:28",
+      "updatedAt": "2024-06-07 22:06:28"
+    },
+    {
+      "name": "Email Finder Powered By AI | Ful.io",
+      "description": "Efficient lead list building tool",
+      "website": "https://chromewebstore.google.com/detail/email-finder-powered-by-a/lhcmmncnljldcdeeheclgfidlgllgfhc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763883623292308.jpg",
+      "category": "AI Lead Generation",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Lead Generation",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Email Generator",
+        "Sales Assistant",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:47",
+      "updatedAt": "2024-06-06 09:53:47"
+    },
+    {
+      "name": "Compozee - ChatGPT Email Writer",
+      "description": "AI assistant for improved email writing",
+      "website": "https://chromewebstore.google.com/detail/compozee-chatgpt-email-wr/efdaknaaolieooijnaeohnbcafcogmco?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738086718461659.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "Writing Assistants",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:38",
+      "updatedAt": "2024-06-03 10:13:38"
+    },
+    {
+      "name": "Fluvi Assistant",
+      "description": "One-click customer support email responses",
+      "website": "https://chromewebstore.google.com/detail/fluvi-assistant/nnaieiccadoegdkekhkjpggcdgpfgkcl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776761782666024.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "AI Productivity Tools",
+        "Letter Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:39",
+      "updatedAt": "2024-06-07 21:39:39"
+    },
+    {
+      "name": "AI Email Labeler",
+      "description": "The AI Email Labeler categorizes emails in your inbox using AI-powered ChatGPT.",
+      "website": "https://www.emaillabeler.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416198183242710.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:45:59",
+      "updatedAt": "2023-05-15 22:45:59"
+    },
+    {
+      "name": "Checkget AI",
+      "description": "Perform tasks effortlessly without copying and pasting.",
+      "website": "https://chrome.google.com/webstore/detail/checkget-smart-assistant/flekfdobikapenebblekbdjbgbhlhbni?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679482392490073.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Tools",
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 23:49:05",
+      "updatedAt": "2023-06-02 23:49:05"
+    },
+    {
+      "name": "Mailyr",
+      "description": "Mailyr is an AI-powered email writing tool for easy composing.",
+      "website": "https://getmailyr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576944599178947.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "General Writing",
+        "Letter Writer",
+        "Writing Assistants",
+        "AI Email Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:17:01",
+      "updatedAt": "2023-06-03 13:17:01"
+    },
+    {
+      "name": "Inkwell",
+      "description": "Craft intuitive emails effortlessly",
+      "website": "https://chromewebstore.google.com/detail/inkwell/hcihipemljmelpmmdpilkfpbhnogcdob?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747572650263960.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Email Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:38",
+      "updatedAt": "2024-06-04 12:34:38"
+    },
+    {
+      "name": "BaruaAI",
+      "description": "Barua AI generates persuasive sales emails tailored to your audience to boost conversions.",
+      "website": "https://baruaai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476392668164552.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "Sales Assistant",
+        "Copywriting",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:59:14",
+      "updatedAt": "2023-05-22 20:59:14"
+    },
+    {
+      "name": "Avghuman: Email Writer, EmailGPT for Gmail",
+      "description": "Craft emails effortlessly with AI.",
+      "website": "https://chromewebstore.google.com/detail/avghuman-email-writer-ema/fhhjkcknipekfbgajimljkmogjdgeeeo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679947966818162.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Email Writer",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "Raply.AI - ChatGPT Email Assistant AI",
+      "description": "AI-powered email enhancement",
+      "website": "https://chromewebstore.google.com/detail/raplyai-chatgpt-email-ass/ofmanmcabclefldfoofnpbmddeadochi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763897627445683.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:39",
+      "updatedAt": "2024-06-06 09:55:39"
+    },
+    {
+      "name": "Buzz Mail",
+      "description": "AI-powered email writing efficiency.",
+      "website": "https://workspace.google.com/marketplace/app/buzz_mail/650469784389?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510376843800935.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Workspace"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:22:35",
+      "updatedAt": "2023-05-26 20:22:35"
+    },
+    {
+      "name": "Gmail AI Assistant - GmailPT",
+      "description": "Boost email productivity",
+      "website": "https://chromewebstore.google.com/detail/gmail-ai-assistant-gmailp/modmncddmdnbkonjhkeijjjmeedkhifi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703911958884396.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:30",
+      "updatedAt": "2024-05-30 11:18:30"
+    },
+    {
+      "name": "tidyhire",
+      "description": "Recruiter's sourcing assistant",
+      "website": "https://chromewebstore.google.com/detail/tidyhire/adkamkdaglbaejnfobbahegfiinjonme?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998286419113593.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Recruiting",
+        "Writing Assistants",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:56",
+      "updatedAt": "2024-07-03 13:00:56"
+    },
+    {
+      "name": "EmailGenius\u2014ChatGPT for Gmail",
+      "description": "AI-powered email writing assistant",
+      "website": "https://chromewebstore.google.com/detail/emailgenius\u2014chatgpt-for-g/fiobiagmnhhaeoeejglkimpgdkpdjobb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687127423645032.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "Copywriting",
+        "Writing Assistants",
+        "Letter Writer",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:46",
+      "updatedAt": "2024-05-28 12:40:46"
+    },
+    {
+      "name": "AIT Contacts Extractor for Gmail\u2122",
+      "description": "Effortlessly extract contact information from email messages.",
+      "website": "https://workspace.google.com/marketplace/app/ait_contacts_extractor_for_gmail/821716939565?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517627084803615.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Workspace"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Document Extraction",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:30:40",
+      "updatedAt": "2023-05-27 16:30:40"
+    },
+    {
+      "name": "Email Writer - AI Email CHATGPT iOS APP",
+      "description": "AI-powered iOS app for writing emails",
+      "website": "https://apps.apple.com/ae/app/email-writer-ai-email-writer/id1671425399?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517630877578192.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Productivity Tools",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:30:43",
+      "updatedAt": "2023-05-27 16:30:43"
+    },
+    {
+      "name": "Mato.ai: Write Relevant B2B Sales Outreach",
+      "description": "Sales email automation from LinkedIn",
+      "website": "https://chromewebstore.google.com/detail/matoai-write-relevant-b2b/dgllhmcgnfaiemgnjmbdgfeapohjnkop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703920558445780.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "Sales Assistant",
+        "AI Email Writer",
+        "AI Response Generator",
+        "AI Lead Generation",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:39",
+      "updatedAt": "2024-05-30 11:18:39"
+    },
+    {
+      "name": "Into Gmail",
+      "description": "AI extension for easy email composition",
+      "website": "https://chromewebstore.google.com/detail/into-gmail/adcfjjelnhpmgldpodkdknapjlcdcnce?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747585597241134.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Grammar Checker",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:33",
+      "updatedAt": "2024-06-04 12:35:33"
+    },
+    {
+      "name": "Rubin Propel - Advanced",
+      "description": "Professional email writing tool with guided form",
+      "website": "https://chromewebstore.google.com/detail/rubin-propel-advanced/aekbjeemmbjiieebmopjlaojnnphineg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352860799933768.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "Letter Writer",
+        "Writing Assistants",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:39",
+      "updatedAt": "2024-08-13 13:56:39"
+    },
+    {
+      "name": "Free AI Email Writer Generator -AIFreebox",
+      "description": "AI email generation tool",
+      "website": "https://chromewebstore.google.com/detail/free-ai-email-writer-gene/dpfnnpemkjfkbdgfgfpklepibnmlldmo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687125773381972.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:45",
+      "updatedAt": "2024-05-28 12:40:45"
+    },
+    {
+      "name": "AIMailman",
+      "description": "AI-powered platform for creating accurate and impactful email templates surpassing human capabilities.",
+      "website": "https://aimailman.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987339079750316.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Email Writer",
+        "Letter Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "AIKeyboard",
+      "description": "Typing assistant integrated into iOS keyboard.",
+      "website": "https://apps.apple.com/us/app/id6449086737?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168707900976171775.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Email Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-18 17:03:02",
+      "updatedAt": "2023-06-18 17:03:02"
+    },
+    {
+      "name": "Scribix Ai - Instant Email Writing Extension",
+      "description": "AI-powered solution for fast, precise email composition",
+      "website": "https://chromewebstore.google.com/detail/scribix-ai-instant-email/lhgjmngaehilhmjhplnkmkficchofcco?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710033628308.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "AI Email Writer",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:51",
+      "updatedAt": "2024-07-06 22:44:51"
+    },
+    {
+      "name": "EchoEmail-AI Email Write Generator",
+      "description": "AI-powered email assistant for effortless communication.",
+      "website": "https://chromewebstore.google.com/detail/ai-email-generation/pmkpficfmpbandkpncpgfpoahhphmbdf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679493088052821.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "AI Email Writer",
+        "AI Email Marketing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:57",
+      "updatedAt": "2024-03-26 22:11:57"
+    },
+    {
+      "name": "ChatGPT AI Email Writer",
+      "description": "AI-powered email completion and suggestion tool for Gmail.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-ai-email-writer/fenfplbdbhdaifehnplebempchjmbmlb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679481488088971.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:36:16",
+      "updatedAt": "2023-05-30 22:36:16"
+    },
+    {
+      "name": "AI Email Pro",
+      "description": "Email writing assistant with GPT-3",
+      "website": "https://chromewebstore.google.com/detail/ai-email-pro/bdgjefjbbfbkilhacamiofdanofdldlb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703944220577961.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "Writing Assistants",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Email Marketing",
+        "AI Response Generator",
+        "Letter Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:25",
+      "updatedAt": "2024-05-30 11:23:25"
+    },
+    {
+      "name": "Zenisort",
+      "description": "AI email assistant for efficient email organization",
+      "website": "https://zenisort.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061183231883480.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:06",
+      "updatedAt": "2024-07-10 19:40:06"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

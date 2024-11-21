@@ -1,0 +1,904 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "description": "Engaging AI conversations and task automation.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:10:13",
+      "updatedAt": "2024-11-09 11:10:13"
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "An AI search engine utilizing large language models and search engines.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 00:15:50",
+      "updatedAt": "2024-11-09 00:15:50"
+    },
+    {
+      "name": "Gemini & Gemini Advanced",
+      "description": "Direct access to Google's AI models on your phone.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 12:26:58",
+      "updatedAt": "2024-11-09 12:26:58"
+    },
+    {
+      "name": "Adobe",
+      "description": "Leading company providing creative, marketing, and document management solutions.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:14:18",
+      "updatedAt": "2024-11-09 11:14:18"
+    },
+    {
+      "name": "DeepL",
+      "description": "DeepL is a highly accurate translator that translates texts and documents instantly.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 01:29:46",
+      "updatedAt": "2024-11-09 01:29:46"
+    },
+    {
+      "name": "Claude 2",
+      "description": "The AI assistant named Claude, called Anthropic, offers various capabilities and services.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 06:12:36",
+      "updatedAt": "2024-11-09 06:12:36"
+    },
+    {
+      "name": "Freepik AI Image Generator",
+      "description": "Real-time AI image generator",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 17:09:03",
+      "updatedAt": "2024-11-09 17:09:03"
+    },
+    {
+      "name": "JanitorAI",
+      "description": "Create NSFW fictional chatbot characters with different personalities using Janitor AI.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 05:58:16",
+      "updatedAt": "2024-11-09 05:58:16"
+    },
+    {
+      "name": "Salesforce Einstein",
+      "description": "Unifying data, AI, CRM, development, and security into a comprehensive platform.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:17:09",
+      "updatedAt": "2024-11-09 11:17:09"
+    },
+    {
+      "name": "Pika",
+      "description": "Create motion videos from your ideas.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 09:35:53",
+      "updatedAt": "2024-11-09 09:35:53"
+    },
+    {
+      "name": "Intuit",
+      "description": "Global Fintech platform powering financial confidence for individuals and businesses.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:14:59",
+      "updatedAt": "2024-11-09 11:14:59"
+    },
+    {
+      "name": "SpicyChat AI",
+      "description": "Create and interact with AI characters using SpicyChat AI.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:18:18",
+      "updatedAt": "2024-11-09 11:18:18"
+    },
+    {
+      "name": "Salesforce Einstein 1 Platform for Application Development",
+      "description": "A platform for efficient and collaborative software application development.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:34:33",
+      "updatedAt": "2024-11-09 10:34:33"
+    },
+    {
+      "name": "Submagic",
+      "description": "Generate amazing captions with emojis for short-form content",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 05:57:22",
+      "updatedAt": "2024-11-09 05:57:22"
+    },
+    {
+      "name": "Shutterstock",
+      "description": "Stock images, photos, vectors, video, and music.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:16:33",
+      "updatedAt": "2024-11-09 11:16:33"
+    },
+    {
+      "name": "Quillbot Paraphraser",
+      "description": "An online tool for rewriting text.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 00:16:20",
+      "updatedAt": "2024-11-09 00:16:20"
+    },
+    {
+      "name": "Notion AI",
+      "description": "Notion is a versatile workspace that integrates wiki, docs, and project management.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 00:06:47",
+      "updatedAt": "2024-11-09 00:06:47"
+    },
+    {
+      "name": "Poly AI",
+      "description": "AI Roleplay: Secure, Free Chat, No Limits!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 21:02:51",
+      "updatedAt": "2024-11-09 21:02:51"
+    },
+    {
+      "name": "Kimi Chat",
+      "description": "An intelligent assistant with unlimited memory power.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 13:50:29",
+      "updatedAt": "2024-11-09 13:50:29"
+    },
+    {
+      "name": "Gamma AI",
+      "description": "Gamma App is an AI-powered tool that creates stunning presentations, webpages, and documents effortlessly.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 04:22:16",
+      "updatedAt": "2024-11-09 04:22:16"
+    },
+    {
+      "name": "TurboScribe",
+      "description": "Unlimited AI transcription with 99.8% accuracy in 98+ languages.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:24:08",
+      "updatedAt": "2024-11-09 10:24:08"
+    },
+    {
+      "name": "ZeroGPT",
+      "description": "ZeroGPT is a powerful, accurate AI tool for detecting chatGPT content, OpenAI-generated text, and plagiarism.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 03:31:32",
+      "updatedAt": "2024-11-09 03:31:32"
+    },
+    {
+      "name": "Gauthmath",
+      "description": "Free math homework help with accurate answers.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:15:29",
+      "updatedAt": "2024-11-09 11:15:29"
+    },
+    {
+      "name": "lenso.ai",
+      "description": "AI-powered reverse image search tool",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 18:18:20",
+      "updatedAt": "2024-11-09 18:18:20"
+    },
+    {
+      "name": "GrapixAI",
+      "description": "GPU rental and service",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 16:51:38",
+      "updatedAt": "2024-11-09 16:51:38"
+    },
+    {
+      "name": "Miro",
+      "description": "Summary: Miro helps distributed teams collaborate and co-create efficiently across different locations.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 01:37:06",
+      "updatedAt": "2024-11-09 01:37:06"
+    },
+    {
+      "name": "Shop: Your AI-Powered Shopping Assistant",
+      "description": "AI-powered shopping assistant and mobile app for convenient and personalized online shopping.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:02:43",
+      "updatedAt": "2024-11-09 11:02:43"
+    },
+    {
+      "name": "AutoResponder.ai",
+      "description": "AI-powered auto-replies for messengers like WhatsApp, Telegram etc! Customize messages, set schedules & tailor replies. Revolutionize your chat experience!",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 04:55:22",
+      "updatedAt": "2024-11-09 04:55:22"
+    },
+    {
+      "name": "WifeAPP",
+      "description": "Chat and video chat with customizable AI Girlfriends",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 15:46:39",
+      "updatedAt": "2024-11-09 15:46:39"
+    },
+    {
+      "name": "Remove.bg",
+      "description": "A free tool - remove.bg - can automatically remove image backgrounds with one click.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 01:24:15",
+      "updatedAt": "2024-11-09 01:24:15"
+    },
+    {
+      "name": "EasySBC",
+      "description": "Solutions, AI, Ratings, and Database for FC 24 Squad Building Challenges.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:59:43",
+      "updatedAt": "2024-11-09 10:59:43"
+    },
+    {
+      "name": "DeepAI",
+      "description": "AI tools for creative people.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:57:42",
+      "updatedAt": "2024-11-09 10:57:42"
+    },
+    {
+      "name": "SeducedAI",
+      "description": "SeducedAI generates high-quality AI porn content for users' sexual fantasies.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 05:54:47",
+      "updatedAt": "2024-11-09 05:54:47"
+    },
+    {
+      "name": "napkin",
+      "description": "Transform text into visuals for effective business storytelling.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 21:06:10",
+      "updatedAt": "2024-11-09 21:06:10"
+    },
+    {
+      "name": "SpoiledChild\u2122",
+      "description": "Intelligent skincare & hair products for anti-aging.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:14:25",
+      "updatedAt": "2024-11-09 11:14:25"
+    },
+    {
+      "name": "Poe",
+      "description": "AI-powered platform for instant question answering and interactive conversations.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 00:11:30",
+      "updatedAt": "2024-11-09 00:11:30"
+    },
+    {
+      "name": "Publer",
+      "description": "Publer is a convenient tool for scheduling and analyzing social media posts on multiple platforms.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 01:35:36",
+      "updatedAt": "2024-11-09 01:35:36"
+    },
+    {
+      "name": "PicLumen AI Image Generator",
+      "description": "Best free ai image generator online with no restrictions",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 19:23:04",
+      "updatedAt": "2024-11-09 19:23:04"
+    },
+    {
+      "name": "TTSMaker",
+      "description": "A free online text-to-speech tool with over 200 AI voices and support for multiple languages.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 00:33:00",
+      "updatedAt": "2024-11-09 00:33:00"
+    },
+    {
+      "name": "Transkriptor",
+      "description": "Convert audio and video to text with Transkriptor's powerful AI.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:23:24",
+      "updatedAt": "2024-11-09 10:23:24"
+    },
+    {
+      "name": "MyShell",
+      "description": "Create personalized chatbots with MyShell platform, powered by AI and Web3. Share and customize with friends.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 02:34:11",
+      "updatedAt": "2024-11-09 02:34:11"
+    },
+    {
+      "name": "Meta AI",
+      "description": "AI assistant for tasks and image creation",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 15:28:19",
+      "updatedAt": "2024-11-09 15:28:19"
+    },
+    {
+      "name": "Hugging Face",
+      "description": "AI community building the future",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 10:48:53",
+      "updatedAt": "2024-11-09 10:48:53"
+    },
+    {
+      "name": "WebsCrypto",
+      "description": "Crypto news hub",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 16:51:54",
+      "updatedAt": "2024-11-09 16:51:54"
+    },
+    {
+      "name": "PicWish",
+      "description": "AI-powered image processing tool",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 11:12:54",
+      "updatedAt": "2024-11-09 11:12:54"
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "Semantic Scholar is a free AI research tool that helps scholars find relevant scientific literature.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 03:20:01",
+      "updatedAt": "2024-11-09 03:20:01"
+    },
+    {
+      "name": "CrushOn.AI",
+      "description": "Unbounded conversations and authentic interactions.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 07:45:37",
+      "updatedAt": "2024-11-09 07:45:37"
+    },
+    {
+      "name": "Chatpdf",
+      "description": "AI-powered service ChatPDF allows users to chat with any PDF, providing instant answers and better understanding.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 01:33:41",
+      "updatedAt": "2024-11-09 01:33:41"
+    },
+    {
+      "name": "Gptzero me",
+      "description": "GPTZero detects AI models in text to bring transparency, distinguishing human written content.",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 02:04:21",
+      "updatedAt": "2024-11-09 02:04:21"
+    },
+    {
+      "name": "AI Face Swap",
+      "description": "Online AI face swapping by uploading your photo",
+      "website": "",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-09 13:14:54",
+      "updatedAt": "2024-11-09 13:14:54"
+    }
+  ]
+}

@@ -10,12 +10,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Pick-up Lines Generator",
+        "AI Dating Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-13 10:54:38",
+      "updatedAt": "2024-09-13 10:54:38"
     },
     {
       "name": "ChatGPT Famous Resumes",
@@ -28,12 +35,20 @@
         "Website",
         "Freemium"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "AI Content Generator",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:38:30",
+      "updatedAt": "2023-05-23 23:38:30"
     },
     {
       "name": "AI STUDIOS",
@@ -45,12 +60,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
     },
     {
       "name": "LongShot AI",
@@ -65,12 +91,34 @@
         "Paid",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Response Generator",
+        "Copywriting",
+        "AI Email Generator",
+        "AI Repurpose Assistant",
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Email Writer",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "General Writing",
+        "Summarizer",
+        "Paraphraser",
+        "AI Bio Generator",
+        "AI Rewriter",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Blog Writer"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:06:53",
+      "updatedAt": "2023-04-28 17:06:53"
     },
     {
       "name": "PouncerAI",
@@ -82,12 +130,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
     },
     {
       "name": "LoveGenius",
@@ -99,12 +153,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 21:26:17",
+      "updatedAt": "2023-05-27 21:26:17"
     },
     {
       "name": "AI Story Generator",
@@ -116,12 +176,27 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Handwriting",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Bio Generator",
+        "Paraphraser",
+        "AI Poem & Poetry Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:08:45",
+      "updatedAt": "2024-08-22 10:08:45"
     },
     {
       "name": "Life Story AI",
@@ -133,12 +208,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Book Writing",
+        "AI Gift Ideas",
+        "AI Bio Generator",
+        "AI Product Description Generator",
+        "AI Story Writing",
+        "Life Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-20 10:37:59",
+      "updatedAt": "2023-12-20 10:37:59"
     },
     {
       "name": "Applyish",
@@ -150,30 +237,50 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "AI Advertising Assistant",
+        "Resume Builder",
+        "AI Recruiting"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:19:30",
+      "updatedAt": "2023-05-30 23:19:30"
     },
     {
-      "name": "Rolemantic AI",
-      "description": "NSFW AI Chat and Image Generation",
-      "website": "https://rolemantic.ai/?via=toolify83",
-      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
       "category": "NSFW",
       "pricing": "Unknown",
       "features": [
-        "Website",
-        "Free"
+        "Website"
       ],
-      "tags": [],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
     },
     {
       "name": "CoverLetterGPT",
@@ -185,12 +292,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:01:48",
+      "updatedAt": "2023-06-03 16:01:48"
     },
     {
       "name": "TweetStorm.ai",
@@ -203,12 +317,25 @@
         "Website",
         "Freemium"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "Domain Name Generator",
+        "AI Hashtag Assistant",
+        "Bio Link",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "AI Advertising Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 14:52:13",
+      "updatedAt": "2023-05-23 14:52:13"
     },
     {
       "name": "WingAI: Your AI Wingman",
@@ -220,12 +347,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:39",
+      "updatedAt": "2023-11-23 16:50:39"
     },
     {
       "name": "AI Social Bio",
@@ -238,12 +373,20 @@
         "Free",
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
     },
     {
       "name": "InMagic AI",
@@ -255,12 +398,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Business Ideas Generator",
+        "AI Content Generator",
+        "AI Instagram Assistant",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "Bio Link"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 20:58:46",
+      "updatedAt": "2023-12-17 20:58:46"
     },
     {
       "name": "Call Sign Generator",
@@ -272,12 +426,17 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
     },
     {
       "name": "Ace Interview - AI Interview Assistant",
@@ -289,12 +448,34 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Life Assistant",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Content Generator",
+        "Transcriber",
+        "Writing Assistants",
+        "AI Meeting Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:53",
+      "updatedAt": "2024-08-30 10:48:53"
     },
     {
       "name": "Threads Bio",
@@ -306,12 +487,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
     },
     {
       "name": "Pikup AI",
@@ -324,12 +511,18 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Pick-up Lines Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 20:18:42",
+      "updatedAt": "2023-05-10 20:18:42"
     },
     {
       "name": "Wized.ai",
@@ -341,12 +534,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-19 21:35:47",
+      "updatedAt": "2023-10-19 21:35:47"
     },
     {
       "name": "IntroAI",
@@ -358,12 +558,17 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 19:39:00",
+      "updatedAt": "2023-05-26 19:39:00"
     },
     {
       "name": "PickMyLine",
@@ -375,12 +580,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "Pick-up Lines Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:42:53",
+      "updatedAt": "2023-05-30 23:42:53"
     },
     {
       "name": "Hot Reach AI",
@@ -394,12 +606,21 @@
         "Free Trial",
         "Paid"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Email Generator",
+        "AI Response Generator",
+        "AI Email Marketing"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:30",
+      "updatedAt": "2023-03-07 16:48:30"
     },
     {
       "name": "DatingbyAI",
@@ -411,12 +632,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:19:11",
+      "updatedAt": "2023-05-27 16:19:11"
     },
     {
       "name": "TwitterBio",
@@ -429,12 +657,19 @@
         "Free",
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Twitter Assistant",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
     },
     {
       "name": "Gpt twit-bot",
@@ -447,12 +682,18 @@
         "Free",
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Twitter Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
     },
     {
       "name": "AI Dating Bio Generator",
@@ -465,12 +706,19 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "Bio Link"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 13:11:46",
+      "updatedAt": "2023-05-07 13:11:46"
     },
     {
       "name": "ImgInsight",
@@ -483,12 +731,21 @@
         "Website",
         "Freemium"
       ],
-      "tags": [],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Bio Generator",
+        "Quotes Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 21:43:08",
+      "updatedAt": "2023-05-13 21:43:08"
     },
     {
       "name": "WriteMyBio",
@@ -501,12 +758,18 @@
         "Website",
         "Paid"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 23:59:16",
+      "updatedAt": "2023-05-17 23:59:16"
     },
     {
       "name": "Song Words",
@@ -519,12 +782,22 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Poem & Poetry Generator",
+        "Quotes Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:27:04",
+      "updatedAt": "2023-05-22 20:27:04"
     },
     {
       "name": "PippinsHelp",
@@ -537,12 +810,18 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Cover Letter Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:05:06",
+      "updatedAt": "2023-05-22 22:05:06"
     },
     {
       "name": "Headshot AI",
@@ -554,12 +833,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:23:00",
+      "updatedAt": "2023-05-27 15:23:00"
     },
     {
       "name": "Beige Flags",
@@ -571,12 +857,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:30:40",
+      "updatedAt": "2023-05-27 16:30:40"
     },
     {
       "name": "Sparkz.AI",
@@ -588,12 +881,19 @@
       "features": [
         "App"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 22:06:11",
+      "updatedAt": "2023-05-29 22:06:11"
     },
     {
       "name": "Jetvise",
@@ -605,12 +905,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Cover Generator",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Landing Page Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:22:35",
+      "updatedAt": "2023-05-30 22:22:35"
     },
     {
       "name": "Nameverse AI",
@@ -622,12 +932,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "AI Product Description Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:30:48",
+      "updatedAt": "2023-06-01 23:30:48"
     },
     {
       "name": "Profile Crafter",
@@ -639,12 +957,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Bio Generator",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 20:51:09",
+      "updatedAt": "2023-06-03 20:51:09"
     },
     {
       "name": "InstaCaptain - AI Caption Tool",
@@ -656,12 +981,19 @@
       "features": [
         "App"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Hashtag Assistant",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 21:21:05",
+      "updatedAt": "2023-06-03 21:21:05"
     },
     {
       "name": "LinkedIn Summary Generator",
@@ -673,12 +1005,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 21:45:10",
+      "updatedAt": "2023-06-03 21:45:10"
     },
     {
       "name": "Caption & Hashtag Generator",
@@ -690,12 +1028,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Banner Generator",
+        "AI Bio Generator",
+        "AI Hashtag Assistant",
+        "AI Instagram Assistant",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:11:46",
+      "updatedAt": "2023-06-04 10:11:46"
     },
     {
       "name": "Affirm",
@@ -707,12 +1057,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Response Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-06 19:43:28",
+      "updatedAt": "2023-06-06 19:43:28"
     },
     {
       "name": "Icebreaker AI",
@@ -724,12 +1080,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Bio Generator",
+        "AI Advertising Assistant",
+        "AI Response Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:33:36",
+      "updatedAt": "2023-06-29 21:33:36"
     },
     {
       "name": "Listpro",
@@ -741,12 +1107,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Cover Generator",
+        "AI Product Description Generator",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "Cover Letter Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
     },
     {
       "name": "Simplebio",
@@ -758,12 +1136,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:04:13",
+      "updatedAt": "2023-07-21 02:04:13"
     },
     {
       "name": "SkillOk",
@@ -775,12 +1161,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
     },
     {
       "name": "Social Media Bio Generator",
@@ -792,12 +1187,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:24",
+      "updatedAt": "2023-09-01 20:40:24"
     },
     {
       "name": "Hai",
@@ -809,12 +1211,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Dating Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
     },
     {
       "name": "WeAreHiring.AI",
@@ -826,12 +1237,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Recruiting"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:27",
+      "updatedAt": "2023-10-16 18:40:27"
     },
     {
       "name": "AI Twin: Your Digital Self",
@@ -843,12 +1261,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "AI Response Generator",
+        "Bio Link",
+        "AI Advertising Assistant",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
     },
     {
       "name": "Coffee Chat AI",
@@ -860,12 +1289,17 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:21:22",
+      "updatedAt": "2023-11-11 17:21:22"
     },
     {
       "name": "WooWell",
@@ -877,12 +1311,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "Bio Link",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 20:25:36",
+      "updatedAt": "2023-11-29 20:25:36"
     },
     {
       "name": "Make Me Epic",
@@ -894,12 +1336,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Profile Picture Generator",
+        "AI Tutorial",
+        "Fun Tools",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "AI Selfie & Portrait"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:15",
+      "updatedAt": "2023-12-11 20:21:15"
     },
     {
       "name": "Luppa AI",
@@ -911,12 +1365,54 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
     },
     {
       "name": "Hello Hiring Manager",
@@ -928,12 +1424,25 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "Cover Letter Generator",
+        "AI Bio Generator",
+        "AI Cover Generator",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Letter Writer",
+        "AI Recruiting",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 22:06:10",
+      "updatedAt": "2023-05-29 22:06:10"
     },
     {
       "name": "Otto - your personal biographer",
@@ -945,12 +1454,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Story Writing"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-07 18:24:39",
+      "updatedAt": "2024-05-07 18:24:39"
     },
     {
       "name": "Seapik AI",
@@ -962,12 +1478,33 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Blog Writer",
+        "AI Product Description Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "AI Bio Generator",
+        "General Writing",
+        "Papers",
+        "Essay Writer",
+        "AI Background Remover",
+        "AI Story Writing",
+        "AI Creative Writing",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "Copywriting",
+        "Text to Image",
+        "AI Photo & Image Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:33:57",
+      "updatedAt": "2024-03-20 21:33:57"
     },
     {
       "name": "bioloGPT",
@@ -979,12 +1516,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Knowledge Graph",
+        "Research Tool",
+        "AI Knowledge Base"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 17:44:09",
+      "updatedAt": "2024-08-30 17:44:09"
     },
     {
       "name": "ResumeFromSpace",
@@ -996,12 +1541,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "AI Cover Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:48",
+      "updatedAt": "2023-12-15 15:45:48"
     },
     {
       "name": "ProRes.ai",
@@ -1013,12 +1566,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "AI Bio Generator",
+        "AI Content Generator",
+        "Cover Letter Generator",
+        "AI Recruiting",
+        "Writing Assistants"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-18 19:10:24",
+      "updatedAt": "2023-11-18 19:10:24"
     },
     {
       "name": "ResumeGlow",
@@ -1030,12 +1593,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "Cover Letter Generator",
+        "AI Bio Generator",
+        "AI Cover Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:12",
+      "updatedAt": "2023-12-25 18:02:12"
     },
     {
       "name": "storly.ai",
@@ -1048,12 +1619,21 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Advertising Assistant",
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:48",
+      "updatedAt": "2023-05-18 18:53:48"
     },
     {
       "name": "Upcat",
@@ -1066,12 +1646,21 @@
         "Freemium",
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Cover Letter Generator",
+        "AI Bio Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
     },
     {
       "name": "ResuFit",
@@ -1083,12 +1672,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Cover Generator",
+        "Cover Letter Generator",
+        "AI Product Description Generator",
+        "Resume Builder",
+        "Writing Assistants"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:36:45",
+      "updatedAt": "2023-05-28 22:36:45"
     },
     {
       "name": "Recovery From Ego Death",
@@ -1100,12 +1700,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Bio Link",
+        "AI Bio Generator",
+        "Mental Health",
+        "AI Creative Writing"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:47",
+      "updatedAt": "2024-03-21 22:22:47"
     },
     {
       "name": "Profile Pro",
@@ -1117,12 +1725,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "AI Background Generator",
+        "AI Advertising Assistant",
+        "AI Selfie & Portrait"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 21:47:03",
+      "updatedAt": "2023-05-28 21:47:03"
     },
     {
       "name": "Growfol",
@@ -1134,12 +1752,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Social Media Assistant",
+        "Large Language Models (LLMs)",
+        "AI Bio Generator",
+        "AI Content Generator",
+        "Bio Link",
+        "AI Hashtag Assistant",
+        "AI Repurpose Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:19",
+      "updatedAt": "2024-11-16 21:15:19"
     },
     {
       "name": "Pleasureye",
@@ -1151,12 +1780,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Ad Generator",
+        "AI Blog Writer",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:55",
+      "updatedAt": "2024-07-31 16:45:55"
     },
     {
       "name": "AutoProfile: Personal Profiles",
@@ -1168,12 +1806,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "Resume Builder",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "Bio Link",
+        "AI Lead Generation"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
     },
     {
       "name": "Charm Check",
@@ -1185,12 +1835,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Dating Assistant",
+        "AI Bio Generator",
+        "AI Chatbot",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
     },
     {
       "name": "Finding Words",
@@ -1203,12 +1861,19 @@
         "Free",
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Writing Assistants",
+        "AI Bio Generator",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:29",
+      "updatedAt": "2023-03-07 16:48:29"
     },
     {
       "name": "IQuit.ai",
@@ -1224,12 +1889,22 @@
         "Contact for Pricing",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Email Generator",
+        "AI Email Writer",
+        "Letter Writer",
+        "AI Bio Generator",
+        "AI Content Generator",
+        "Cover Letter Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
     },
     {
       "name": "Poems For My People",
@@ -1241,12 +1916,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Poem & Poetry Generator",
+        "AI Bio Generator",
+        "AI Creative Writing",
+        "AI Story Writing",
+        "General Writing",
+        "Writing Assistants"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:47",
+      "updatedAt": "2023-05-30 17:44:47"
     },
     {
       "name": "Date AI",
@@ -1258,12 +1943,18 @@
       "features": [
         "App"
       ],
-      "tags": [],
+      "tags": [
+        "AI Dating Assistant",
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:24:27",
+      "updatedAt": "2023-06-01 23:24:27"
     },
     {
       "name": "Travisnine",
@@ -1275,12 +1966,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "AI Advertising Assistant",
+        "AI Lead Generation"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 11:05:14",
+      "updatedAt": "2023-06-03 11:05:14"
     },
     {
       "name": "Abra Jobs",
@@ -1292,12 +1993,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Recruiting",
+        "AI Bio Generator",
+        "AI Code Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 21:02:47",
+      "updatedAt": "2023-07-17 21:02:47"
     },
     {
       "name": "fanster.ai",
@@ -1309,12 +2018,25 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Bio Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Hashtag Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
     },
     {
       "name": "ikolinks",
@@ -1326,12 +2048,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Bio Link",
+        "AI Bio Generator",
+        "AI Advertising Assistant",
+        "AI Analytics Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
     },
     {
       "name": "AI Merged Dating Profile Photos",
@@ -1343,12 +2073,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Dating Assistant",
+        "AI Profile Picture Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-07 22:16:19",
+      "updatedAt": "2023-10-07 22:16:19"
     },
     {
       "name": "UpdateYourResume",
@@ -1360,12 +2097,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Cover Generator",
+        "Cover Letter Generator",
+        "AI Bio Generator",
+        "AI Email Generator",
+        "AI Email Writer",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 20:25:36",
+      "updatedAt": "2023-11-29 20:25:36"
     },
     {
       "name": "EstateText",
@@ -1377,12 +2125,25 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 10:50:25",
+      "updatedAt": "2024-01-02 10:50:25"
     },
     {
       "name": "twittmad.com",
@@ -1394,12 +2155,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Bio Link",
+        "AI Bio Generator",
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Website Designer",
+        "AI SEO Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:58",
+      "updatedAt": "2024-03-10 22:00:58"
     },
     {
       "name": "Mana | Accelerate Job Applications with AI",
@@ -1411,12 +2182,22 @@
       "features": [
         "Browser Extension"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Letter Writer",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Email Writer"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:22",
+      "updatedAt": "2024-05-30 11:23:22"
     },
     {
       "name": "MemoHugs",
@@ -1428,12 +2209,18 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Avatar Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:25",
+      "updatedAt": "2024-07-05 16:56:25"
     },
     {
       "name": "Resume Trick",
@@ -1445,12 +2232,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Bio Generator",
+        "AI Cover Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-06 23:50:52",
+      "updatedAt": "2023-09-06 23:50:52"
     },
     {
       "name": "Secta Labs",
@@ -1462,12 +2257,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Art Generator",
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:43",
+      "updatedAt": "2024-05-14 12:49:43"
     },
     {
       "name": "Postli",
@@ -1479,12 +2283,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "Writing Assistants",
+        "AI Bio Generator",
+        "AI Poster Generator",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 17:57:59",
+      "updatedAt": "2023-11-23 17:57:59"
     },
     {
       "name": "Behired",
@@ -1496,12 +2310,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Interview Assistant",
+        "Cover Letter Generator",
+        "AI Recruiting",
+        "AI Advertising Assistant",
+        "AI Bio Generator",
+        "Resume Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-07 20:32:04",
+      "updatedAt": "2023-07-07 20:32:04"
     },
     {
       "name": "Appkina.com",
@@ -1514,12 +2338,21 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "AI Content Generator",
+        "AI Bio Generator",
+        "Cover Letter Generator",
+        "AI Landing Page Builder"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:46:00",
+      "updatedAt": "2023-05-15 22:46:00"
     },
     {
       "name": "Leaves - Life Stories",
@@ -1531,12 +2364,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Bio Generator",
+        "AI Book Writing",
+        "AI Advertising Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:29",
+      "updatedAt": "2023-12-25 18:13:29"
     },
     {
       "name": "MemoryLane",
@@ -1548,12 +2389,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Book Writing",
+        "Bio Link",
+        "AI Chatbot",
+        "Life Assistant",
+        "Large Language Models (LLMs)",
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-29 17:45:18",
+      "updatedAt": "2024-05-29 17:45:18"
     },
     {
       "name": "Heartstring.ai",
@@ -1565,12 +2416,20 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Bio Generator",
+        "AI Poem & Poetry Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-04 11:48:12",
+      "updatedAt": "2024-01-04 11:48:12"
     },
     {
       "name": "Convert Text to Emoji with AI",
@@ -1582,12 +2441,23 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Emoji Generator",
+        "AI Advertising Assistant",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Bio Generator",
+        "AI Cover Generator",
+        "AI Logo Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-02 15:17:04",
+      "updatedAt": "2023-11-02 15:17:04"
     },
     {
       "name": "Inspiro",
@@ -1599,12 +2469,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "Quotes Generator",
+        "AI Bio Generator",
+        "AI Poem & Poetry Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:50:41",
+      "updatedAt": "2023-06-03 16:50:41"
     },
     {
       "name": "Pawsome Namer",
@@ -1616,12 +2495,19 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Bio Generator",
+        "AI Advertising Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
     },
     {
       "name": "Meet Millie",
@@ -1635,12 +2521,23 @@
         "Free Trial",
         "Paid"
       ],
-      "tags": [],
+      "tags": [
+        "AI Chatbot",
+        "AI Dating Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Pick-up Lines Generator",
+        "AI Bio Generator",
+        "AI Coaching"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:32",
+      "updatedAt": "2023-03-07 16:48:32"
     },
     {
       "name": "Weesify",
@@ -1653,12 +2550,22 @@
         "Website",
         "Freemium"
       ],
-      "tags": [],
+      "tags": [
+        "AI Analytics Assistant",
+        "Bio Link",
+        "AI Content Generator",
+        "AI Bio Generator",
+        "AI SEO Assistant",
+        "AI Social Media Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 19:26:52",
+      "updatedAt": "2023-05-22 19:26:52"
     },
     {
       "name": "Opener",
@@ -1671,12 +2578,20 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "AI Dating Assistant",
+        "AI Response Generator",
+        "AI Advertising Assistant",
+        "AI Bio Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 13:22:04",
+      "updatedAt": "2023-05-23 13:22:04"
     },
     {
       "name": "CV Blurb",
@@ -1689,12 +2604,20 @@
         "Website",
         "Freemium"
       ],
-      "tags": [],
+      "tags": [
+        "AI Recruiting",
+        "Resume Builder",
+        "AI Bio Generator",
+        "Cover Letter Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:46:54",
+      "updatedAt": "2023-05-25 00:46:54"
     },
     {
       "name": "Social Genie AI",
@@ -1706,12 +2629,21 @@
       "features": [
         "App"
       ],
-      "tags": [],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "AI Advertising Assistant",
+        "AI Bio Generator",
+        "AI Content Generator"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:34:51",
+      "updatedAt": "2023-05-27 16:34:51"
     },
     {
       "name": "PerfectResume.app",
@@ -1723,12 +2655,22 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "Resume Builder",
+        "AI Content Generator",
+        "AI Cover Generator",
+        "Cover Letter Generator",
+        "AI Bio Generator",
+        "AI Interview Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:07:16",
+      "updatedAt": "2023-05-27 17:07:16"
     },
     {
       "name": "TweetRadar",
@@ -1740,12 +2682,21 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Twitter Assistant",
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Bio Generator",
+        "AI Advertising Assistant"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
     },
     {
       "name": "SmallTalks",
@@ -1757,12 +2708,24 @@
       "features": [
         "Website"
       ],
-      "tags": [],
+      "tags": [
+        "AI Dating Assistant",
+        "AI Analytics Assistant",
+        "Bio Link",
+        "AI Bio Generator",
+        "AI Lead Generation",
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "AI Email Marketing"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 17:55:33",
+      "updatedAt": "2023-08-25 17:55:33"
     },
     {
       "name": "SERP API",
@@ -1775,12 +2738,17 @@
         "Website",
         "Free"
       ],
-      "tags": [],
+      "tags": [
+        "Web Scraping"
+      ],
       "submittedBy": "000000000000000000000000",
-      "status": "approved",
+      "status": "pending",
       "rating": {
-        "average": 0
-      }
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
     }
   ]
 }

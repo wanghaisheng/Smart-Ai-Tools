@@ -1,0 +1,586 @@
+{
+  "tools": [
+    {
+      "name": "Alethea",
+      "description": "Alethea AI combines Generative AI and Blockchain to develop interactive AI characters.",
+      "website": "https://alethea.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/883c020865e7791325027a936275eabf.jpeg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Content Generator",
+        "AI Tools Directory",
+        "Blockchain",
+        "NFTs",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Itoka MuseEngine",
+      "description": "Itoka is a platform for sharing and streaming music.",
+      "website": "https://www.itoka.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543993894203476.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Blockchain",
+        "NFTs",
+        "Web3",
+        "AI Content Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "AI Roadmap Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:48",
+      "updatedAt": "2023-05-30 17:44:48"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "LIKN",
+      "description": "LIKN is a Web3 protocol for converting, trading and authenticating NFTs from Web2 content.",
+      "website": "https://www.likn.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517982825360696.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "Blockchain",
+        "Web3",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:29:34",
+      "updatedAt": "2023-05-27 17:29:34"
+    },
+    {
+      "name": "Aimons.xyz AI-generated creatures",
+      "description": "Generate AiMon creatures and mint them as NFTs on aimons.xyz.",
+      "website": "https://www.aimons.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543858093573892.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:21:39",
+      "updatedAt": "2023-05-30 17:21:39"
+    },
+    {
+      "name": "Generative BCG \"Prompt Monsters\"",
+      "description": "AI-driven blockchain game with unique monsters.",
+      "website": "https://prompt-monsters.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168387148082219550.png",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Game",
+        "Blockchain",
+        "NFTs",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 22:25:58",
+      "updatedAt": "2023-05-10 22:25:58"
+    },
+    {
+      "name": "NFTngine",
+      "description": "NFTngine is a user-friendly platform for minting AI-generated NFT images.",
+      "website": "https://nftngine.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477137557369253.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "NFTs",
+        "No-Code&Low-Code",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:17",
+      "updatedAt": "2023-05-23 00:02:17"
+    },
+    {
+      "name": "Track Trade",
+      "description": "Track Trade enables profitable NFT trading with TradeSage's data-driven insights and email alerts.",
+      "website": "https://tracktradecrypto.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518523698760452.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "AI Advertising Assistant",
+        "AI Trading Bot Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:00:00",
+      "updatedAt": "2023-05-27 19:00:00"
+    },
+    {
+      "name": "BlockBot",
+      "description": "Decentralized AI bots marketplace powered by blockchain technology.",
+      "website": "https://www.blockbot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534822625465379.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Blockchain",
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:46",
+      "updatedAt": "2023-05-29 16:16:46"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "OpenNFT",
+      "description": "Open NFT enables easy creation of custom NFTs without coding skills.",
+      "website": "https://www.open-nft.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545567333958210.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "NFTs",
+        "AI Profile Picture Generator",
+        "Web3",
+        "AI Website Builder",
+        "AI Website Designer",
+        "Design Assistant",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:07:27",
+      "updatedAt": "2023-05-30 22:07:27"
+    },
+    {
+      "name": "Nifty NFT",
+      "description": "Nifty-NFT enables users to create personalized NFT art using AI.",
+      "website": "https://nifty-nft.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563000856094221.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "NFTs",
+        "AI Profile Picture Generator",
+        "AI Tattoo Generator",
+        "Design Assistant",
+        "Image to Image",
+        "Photo & Image Editor",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 22:33:08",
+      "updatedAt": "2023-06-01 22:33:08"
+    },
+    {
+      "name": "Worlds Beyond",
+      "description": "Customizable metaverse with AAA graphics lets owners create unique multiplayer experiences.",
+      "website": "https://worldsbeyondnft.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168917906511076583.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 00:22:49",
+      "updatedAt": "2023-07-13 00:22:49"
+    },
+    {
+      "name": "Maester",
+      "description": "AI-powered platform for discovering dApps",
+      "website": "https://www.maester.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096688435352623.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:20:58",
+      "updatedAt": "2024-07-14 22:20:58"
+    },
+    {
+      "name": "NFT Collection Generator with AI",
+      "description": "Unleash your creativity with unlimited NFT collections.",
+      "website": "https://www.ainftgenerator.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170281799291991253.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "NFTs",
+        "AI Art Generator",
+        "AI Avatar Generator",
+        "AI Illustration Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 20:58:48",
+      "updatedAt": "2023-12-17 20:58:48"
+    },
+    {
+      "name": "Apexgo",
+      "description": "Check NFT rarities instantly",
+      "website": "https://chromewebstore.google.com/detail/apexgo/jkckaekilfdidedahoooefmmkhcfneae?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767788231578.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:14",
+      "updatedAt": "2024-06-07 21:40:14"
+    },
+    {
+      "name": "sketchar.io",
+      "description": "AI mobile drawing app with 10M+ creators",
+      "website": "https://sketchar.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230614650821349.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "NFTs",
+        "AI Photo & Image Generator",
+        "AI Design Generator",
+        "Web3",
+        "AI Illustration Generator",
+        "AI Graphic Design",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:20:59",
+      "updatedAt": "2024-07-30 10:20:59"
+    },
+    {
+      "name": "Korus",
+      "description": "AI-powered music creation platform.",
+      "website": "https://korus.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170303992079685617.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "AI Product Description Generator",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-20 10:37:59",
+      "updatedAt": "2023-12-20 10:37:59"
+    },
+    {
+      "name": "Sirens Gallery",
+      "description": "NFT project raises funds for Ukraine's humanitarian crisis.",
+      "website": "https://sirens.gallery?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168249073581151815.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:33:40",
+      "updatedAt": "2023-04-26 14:33:40"
+    },
+    {
+      "name": "Pixelmind",
+      "description": "AI-powered platform for creating and collecting NFTs.",
+      "website": "https://pixelmind.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349929636675515.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Profile Picture Generator",
+        "Image to Image",
+        "Photo & Image Editor",
+        "Text to Image",
+        "NFTs",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:29",
+      "updatedAt": "2023-12-25 18:09:29"
+    },
+    {
+      "name": "Definity Legend A.I Game Builder",
+      "description": "Game builder, no coding, under 5 minutes",
+      "website": "https://www.definitylegend.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170039404571867422.jpg",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Game",
+        "Blockchain",
+        "NFTs",
+        "Web3",
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "AI Roadmap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-19 19:40:33",
+      "updatedAt": "2023-11-19 19:40:33"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

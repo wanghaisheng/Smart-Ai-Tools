@@ -1,0 +1,2530 @@
+{
+  "tools": [
+    {
+      "name": "Perplexity AI",
+      "description": "An AI search engine utilizing large language models and search engines.",
+      "website": "https://www.perplexity.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3ea5defa13eec237374d9f7eceadc105.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "Semantic Scholar is a free AI research tool that helps scholars find relevant scientific literature.",
+      "website": "https://www.semanticscholar.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510379868323166.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:22:36",
+      "updatedAt": "2023-05-26 20:22:36"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "\u79d8\u5854AI",
+      "description": "\u6ca1\u6709\u5e7f\u544a\uff0c\u76f4\u8fbe\u7ed3\u679c\u3002",
+      "website": "https://metaso.cn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171241316157756739.png",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-06 22:20:22",
+      "updatedAt": "2024-04-06 22:20:22"
+    },
+    {
+      "name": "iAsk Ai Generative Ai Search Engine",
+      "description": "iAsk.Ai is a free AI search engine that provides instant and accurate answers without storing user data.",
+      "website": "https://iAsk.Ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804484124012471.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:20:28",
+      "updatedAt": "2023-06-29 21:20:28"
+    },
+    {
+      "name": "Consensus",
+      "description": "Consensus uses AI to find insights in research papers.",
+      "website": "https://consensus.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a71777d4176e43184d0a8374d9b10c00.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Felo",
+      "description": "Multilingual AI search engine for global knowledge",
+      "website": "https://felo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135267494694817.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:50:19",
+      "updatedAt": "2024-07-19 09:50:19"
+    },
+    {
+      "name": "Phind",
+      "description": "Find development solutions using natural language.",
+      "website": "https://phind.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f4b48764abf0924103d83c5afe8ad579.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Glean",
+      "description": "Glean is a search solution for teams to find information and important knowledge.",
+      "website": "https://www.glean.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7a12a3f2bcc98423972ea1517bcca214.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:50",
+      "updatedAt": "2023-03-07 16:48:50"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Globe Explorer",
+      "description": "Explore topics and provide feedback on Globe Explorer",
+      "website": "https://explorer.globe.engineer?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172269619891435074.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Search Engine",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-03 22:49:29",
+      "updatedAt": "2024-08-03 22:49:29"
+    },
+    {
+      "name": "Pinecone",
+      "description": "Pinecone is a fast vector database for searching similar items in milliseconds.",
+      "website": "https://www.pinecone.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0be42815cf74bb132cbab523626a53b2.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Frase",
+      "description": "Frase is a powerful SEO tool that helps users create content that ranks on Google.",
+      "website": "https://www.frase.io/?via=toolify38",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169150730377437974.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Search Engine",
+        "AI SEO Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Flim",
+      "description": "Find perfect images for creative ideas.",
+      "website": "https://flim.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349998262518982.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Search Engine",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:52",
+      "updatedAt": "2023-12-25 18:14:52"
+    },
+    {
+      "name": "Everypixel",
+      "description": "Everypixel uses AI to find and provide affordable licensed images from 50+ sources.",
+      "website": "https://www.everypixel.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/535d7dba28f74c00f1b098da7e898f96.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "MediSearch",
+      "description": "MediSearch is a reliable search engine for science-based medical answers.",
+      "website": "https://medisearch.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416201226217214.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Search Engine",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:46:00",
+      "updatedAt": "2023-05-15 22:46:00"
+    },
+    {
+      "name": "Bagoodex",
+      "description": "AI Web Search & Chat",
+      "website": "https://bagoodex.io/chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172601976925472680.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-11 09:59:11",
+      "updatedAt": "2024-09-11 09:59:11"
+    },
+    {
+      "name": "Komo Search",
+      "description": "Komo Search: private, ad-free AI search engine.",
+      "website": "https://komo.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0e2c68c78aa08ef0d39b89e47078de69.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:32",
+      "updatedAt": "2023-03-07 16:48:32"
+    },
+    {
+      "name": "NeevaAI",
+      "description": "Neeva: AI-powered search engine with personalized and ad-free results.",
+      "website": "https://neeva.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/466a415531809589be2a955ef9fc1f16.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "ThinkAny",
+      "description": "AI search engine for efficient and accurate information retrieval.",
+      "website": "https://thinkany.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120085429295940.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:07",
+      "updatedAt": "2024-03-23 21:32:07"
+    },
+    {
+      "name": "LongShot AI",
+      "description": "LongShot is a comprehensive tool designed to generate high-quality, factually accurate content which is optimized for search engines using advanced features.",
+      "website": "https://longShot.ai?deal=toolify79",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267278506345437.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "Copywriting",
+        "AI Email Generator",
+        "AI Repurpose Assistant",
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Email Writer",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "General Writing",
+        "Summarizer",
+        "Paraphraser",
+        "AI Bio Generator",
+        "AI Rewriter",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:06:53",
+      "updatedAt": "2023-04-28 17:06:53"
+    },
+    {
+      "name": "Tapesearch",
+      "description": "A search engine for podcast transcripts, finding specific information efficiently.",
+      "website": "https://www.tapesearch.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476435340739309.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:05:07",
+      "updatedAt": "2023-05-22 22:05:07"
+    },
+    {
+      "name": "AlphaResearch",
+      "description": "AlphaResearch is an AI-powered platform for investors to search through company documents and gain insights.",
+      "website": "https://alpharesearch.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/eec1b5b5c53010a50fe694345deb5b50.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Qatalog",
+      "description": "Qatalog is an AI-powered workplace search and knowledge intelligence solution for enterprise.",
+      "website": "https://qatalog.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c0bb19932097759d49afeb9f59287ffb.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:48",
+      "updatedAt": "2023-03-07 16:48:48"
+    },
+    {
+      "name": "Otherweb",
+      "description": "The first information-centered platform for news, web search, and podcasts.",
+      "website": "https://otherweb.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168249061033865453.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:31:00",
+      "updatedAt": "2023-04-26 14:31:00"
+    },
+    {
+      "name": "MixPeek",
+      "description": "Mixpeek is an intelligent file store with powerful search capabilities.",
+      "website": "https://mixpeek.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/74849829d4b05400eb26189a08b58fb1.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "Zevi.ai",
+      "description": "Zevi boosts sales by providing AI-powered site search for businesses.",
+      "website": "https://www.zevi.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9de517fac4f8c7821777b2c1daac7778.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "\u535a\u67e5AI\u641c\u7d22",
+      "description": "Ad-free answer engine",
+      "website": "https://bochaai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171369967702567709.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-21 19:47:45",
+      "updatedAt": "2024-04-21 19:47:45"
+    },
+    {
+      "name": "Maimovie",
+      "description": "Maimovie is an AI-powered movie search engine that offers personalized recommendations.",
+      "website": "https://maimovie.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529313370904157.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:58:26",
+      "updatedAt": "2023-05-29 00:58:26"
+    },
+    {
+      "name": "StockGPT",
+      "description": "StockGPT is an AI-powered search tool with SP500 earnings call transcripts.",
+      "website": "https://www.askstockgpt.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/900380db856e154dc757b599e76fbf9f.jpeg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "AI Search Engine",
+        "Research Tool",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "PodQuest",
+      "description": "AI-driven engine for discovering podcasts tailored to user interests.",
+      "website": "https://www.podquest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007979950714366.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:53",
+      "updatedAt": "2024-10-28 09:41:53"
+    },
+    {
+      "name": "GoSearch",
+      "description": "Enterprise search with instant answers",
+      "website": "https://www.gosearch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170528273942621718.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Knowledge Management",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 09:38:27",
+      "updatedAt": "2024-01-15 09:38:27"
+    },
+    {
+      "name": "Dashworks ai",
+      "description": "AI that unlocks your company's internal knowledge.",
+      "website": "https://www.dashworks.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16826683733377443.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Search Engine",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Workflow Management",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 15:54:22",
+      "updatedAt": "2023-04-28 15:54:22"
+    },
+    {
+      "name": "Nuclia",
+      "description": "Nuclia is an AI-powered platform that indexes unstructured data and provides accurate search and answers.",
+      "website": "https://nuclia.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/de6bf14bdde1a5c2033ce472e4ea69b5.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI API Design",
+        "AI Knowledge Base",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "Keymate.AI",
+      "description": "AI search plugin and web app powered by GPT-4.",
+      "website": "https://keymate.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349961643770308.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:27",
+      "updatedAt": "2023-12-25 18:13:27"
+    },
+    {
+      "name": "Searcholic - AI Powered Search Engine",
+      "description": "AI-powered search engine, Searcholic, helps users find and access digital content easily.",
+      "website": "https://www.searcholic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584442289751565.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "AI Search Engine",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:06:07",
+      "updatedAt": "2023-06-04 10:06:07"
+    },
+    {
+      "name": "Frank",
+      "description": "Your personal AI assistant for fast and easy search and content creation.",
+      "website": "https://franks.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517653138173954.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Content Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:34:52",
+      "updatedAt": "2023-05-27 16:34:52"
+    },
+    {
+      "name": "SpaceSerp - Powerful SERP API",
+      "description": "Real-time search results and brand monitoring with AI-powered data extraction.",
+      "website": "https://spaceserp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485368440402346.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Advertising Assistant",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:51",
+      "updatedAt": "2023-05-23 22:53:51"
+    },
+    {
+      "name": "Klu",
+      "description": "Klu is a smart search tool that integrates with cloud-based apps, making information easily accessible for teams.",
+      "website": "https://klu.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168581262225186940.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Search Engine",
+        "AI Productivity Tools",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 01:16:40",
+      "updatedAt": "2023-06-04 01:16:40"
+    },
+    {
+      "name": "Yoit",
+      "description": "Summary: Yoit is a fashion search engine that helps users find specific fashion items.",
+      "website": "https://www.yoit.style?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169021346063565071.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Clothing Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-24 23:43:21",
+      "updatedAt": "2023-07-24 23:43:21"
+    },
+    {
+      "name": "Fathom Podcast Player",
+      "description": "Revolutionizing podcast search with AI technology.",
+      "website": "https://fathom.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485337933749388.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:49:12",
+      "updatedAt": "2023-05-23 22:49:12"
+    },
+    {
+      "name": "SnowSEO",
+      "description": "SEO platform for boosting rankings and driving organic growth.",
+      "website": "https://snowseo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007955948356737.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:46",
+      "updatedAt": "2024-10-28 09:37:46"
+    },
+    {
+      "name": "Keywrds.ai",
+      "description": "Uncover dream keywords with Keywrds.ai, an AI-powered research tool.",
+      "website": "https://keywrds.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1290a3f833fc6f127712838c562f5033.jpeg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Search Engine",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "NPI Lookup",
+      "description": "Free AI-powered NPI Lookup tool.",
+      "website": "https://www.npilookup.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146237752820308.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Healthcare"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:29:25",
+      "updatedAt": "2024-03-26 22:29:25"
+    },
+    {
+      "name": "31Memorize",
+      "description": "Smart English vocabulary learning",
+      "website": "https://31memorize.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171664396457251340.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:32:28",
+      "updatedAt": "2024-05-25 21:32:28"
+    },
+    {
+      "name": "LMGTFY + GPT = LetMeGPT",
+      "description": "A website combining LMGTFY and ChatGPT allows users to search using GPT-3.",
+      "website": "https://letmegpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168481566976905065.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 12:20:52",
+      "updatedAt": "2023-05-23 12:20:52"
+    },
+    {
+      "name": "yoursearch.ai",
+      "description": "AI-powered search engine yoursearch.ai offers ad-free, superior search results in your messenger.",
+      "website": "https://yoursearch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580592161371721.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:53:17",
+      "updatedAt": "2023-06-03 17:53:17"
+    },
+    {
+      "name": "Adbot - Your Search Ads Specialist",
+      "description": "Adbot saves time by automating Google Ads management with AI technology.",
+      "website": "https://myadbot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510117118212949.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Digital Marketing Generator",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 19:39:00",
+      "updatedAt": "2023-05-26 19:39:00"
+    },
+    {
+      "name": "aoyo.ai",
+      "description": "AI search using RAG technology",
+      "website": "https://aoyo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477859896276249.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "Locus",
+      "description": "Locus is a smart search tool that helps users find information on web pages using natural language.",
+      "website": "https://locusextension.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517590393709258.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:24:45",
+      "updatedAt": "2023-05-27 16:24:45"
+    },
+    {
+      "name": "Prefind.ai",
+      "description": "Smart AI search engine powered by GPT-4 and Claude-3 Opus.",
+      "website": "https://www.prefind.ai/download?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171082109895215388.png",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 22:18:26",
+      "updatedAt": "2024-03-18 22:18:26"
+    },
+    {
+      "name": "CrowdView",
+      "description": "CrowdView is a search engine for finding relevant discussions on various topics.",
+      "website": "https://crowdview.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7bd2d381079e2954aa30607ebf4212d6.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "FindAMeal",
+      "description": "Discover your next favorite restaurant with AI.",
+      "website": "https://findameal.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170528274998134098.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 09:38:27",
+      "updatedAt": "2024-01-15 09:38:27"
+    },
+    {
+      "name": "GooGPT",
+      "description": "GPTGO is a search engine that combines Google search technology and ChatGPT for intelligent responses.",
+      "website": "https://googpt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545710589429217.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:30:50",
+      "updatedAt": "2023-05-30 22:30:50"
+    },
+    {
+      "name": "Ares",
+      "description": "Real-time diverse search results",
+      "website": "https://api.traversaal.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831828562948113.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Analytics Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:28",
+      "updatedAt": "2024-02-19 12:50:28"
+    },
+    {
+      "name": "SEO Central",
+      "description": "Boost your website's ranking with automated keyword and content generation.",
+      "website": "https://seocentral.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169650925712045710.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-05 20:34:04",
+      "updatedAt": "2023-10-05 20:34:04"
+    },
+    {
+      "name": "yourchat.ai",
+      "description": "Free AI messenger yourchat.ai allows direct chatting with German AI program ChatGPT, providing answers, advice, and entertainment without registration.",
+      "website": "https://yourchat.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667468664785255.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 00:44:14",
+      "updatedAt": "2023-06-14 00:44:14"
+    },
+    {
+      "name": "ModernQuery",
+      "description": "Enhance website search and add ChatGPT conversational search with no coding.",
+      "website": "https://www.modernquery.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357216377514203.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:24",
+      "updatedAt": "2023-09-01 20:40:24"
+    },
+    {
+      "name": "Skm.ai",
+      "description": "Unstructured data to deep understanding.",
+      "website": "https://skm.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169530355754525611.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-21 21:39:07",
+      "updatedAt": "2023-09-21 21:39:07"
+    },
+    {
+      "name": "Tagistaan",
+      "description": "Free SEO tool for high ranked keywords",
+      "website": "https://chromewebstore.google.com/detail/tagistaan/dgkmdainpjphbdicfabajkghdbfofkkh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998287777849074.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI SEO Assistant",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:57",
+      "updatedAt": "2024-07-03 13:00:57"
+    },
+    {
+      "name": "Rapidfinder - stop the search",
+      "description": "AI-powered web search companion.",
+      "website": "https://chromewebstore.google.com/detail/rapidfinder-stop-the-sear/kngfbfkeophogpmnbbeopkciijipnmmi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703926895298595.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:22",
+      "updatedAt": "2024-05-30 11:20:22"
+    },
+    {
+      "name": "SavvyScout",
+      "description": "AI tool for automatic flight search and email notifications.",
+      "website": "https://savvyscout.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947676339685564.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:40",
+      "updatedAt": "2024-10-21 10:10:40"
+    },
+    {
+      "name": "Deepfind",
+      "description": "Privacy-focused AI search engine for accurate answers.",
+      "website": "https://www.deepfind.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172528008081256486.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Video Search",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-02 20:27:13",
+      "updatedAt": "2024-09-02 20:27:13"
+    },
+    {
+      "name": "GPT Search",
+      "description": "Efficient search for ChatGPT chat history.",
+      "website": "https://chromewebstore.google.com/detail/gpt-search/glhkbfoibolghhfikadjikgfmaknpelb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738101017515946.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:09",
+      "updatedAt": "2024-06-03 10:16:09"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "ChatMap-AI",
+      "description": "AI map search tool for location search.",
+      "website": "https://www.chatmap-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804495568381665.jpg",
+      "category": "AI Maps Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Maps Generator",
+        "AI Search Engine",
+        "AI Trip Planner"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:21:34",
+      "updatedAt": "2023-06-29 21:21:34"
+    },
+    {
+      "name": "Intelligent Search",
+      "description": "Generate optimal search queries using natural language processing.",
+      "website": "https://chrome.google.com/webstore/detail/plfnpfcnlnijmckecpkljbjafdieceml?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679485276255878.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:21:42",
+      "updatedAt": "2023-06-29 21:21:42"
+    },
+    {
+      "name": "ChatGPT Butler Chrome Extension",
+      "description": "Enhance browsing with ChatGPT AI.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-butler/noljdmdeocajdcldiifhoeeiibeecckb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882912190020558.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Search Engine",
+        "AI Ad Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "RankRaven",
+      "description": "Monitor your brand's performance on AI search engines with RankRaven, an AI SERP tracking tool.",
+      "website": "https://rankraven.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924962075182787.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "ISearch",
+      "description": "Instantly find photos based on your criteria.",
+      "website": "https://play.google.com/store/apps/details?id=com.image.isearch&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987329067829727.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI App Builder",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "AI Prompt Search",
+      "description": "A website providing prompts for AI models in multiple languages and various topics.",
+      "website": "https://www.aipromptsearch.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169010635820609759.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Search Engine",
+        "Prompt",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 17:58:54",
+      "updatedAt": "2023-07-23 17:58:54"
+    },
+    {
+      "name": "LinkedIn AI Automation",
+      "description": "AI tool for targeted post search and connecting",
+      "website": "https://chromewebstore.google.com/detail/linkedin-ai-automation/mnkdcfdccjmcflbmlfhnfhjhhchfhpma?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679936223788599.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "SearchGPTool",
+      "description": "AI-powered search with advanced features",
+      "website": "https://searchgptool.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172277752613873925.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-04 21:18:31",
+      "updatedAt": "2024-08-04 21:18:31"
+    },
+    {
+      "name": "MeaningIn.Chat",
+      "description": "MeaningIn.Chat is a website that explains chat symbols, emojis, and internet slang.",
+      "website": "https://www.meaningin.chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169149133197311323.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Content Detector",
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-08 18:41:16",
+      "updatedAt": "2023-08-08 18:41:16"
+    },
+    {
+      "name": "Simplist",
+      "description": "A simplified and efficient new tab page with AI for browsing and searching.",
+      "website": "https://simplist.page?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169183562880342661.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-12 18:19:26",
+      "updatedAt": "2023-08-12 18:19:26"
+    },
+    {
+      "name": "FreshFeed",
+      "description": "Search Engine for GPT & LLMs to avoid hallucination.",
+      "website": "https://www.freshfeed.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169392407433015989.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI API Design",
+        "AI Advertising Assistant",
+        "AI Tools Directory",
+        "AI SEO Assistant",
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-05 22:26:40",
+      "updatedAt": "2023-09-05 22:26:40"
+    },
+    {
+      "name": "\u5b66\u672f\u8d44\u6e90\u5168\u7f51\u641c\u7d22",
+      "description": "AI-powered scholarly search tool",
+      "website": "https://chromewebstore.google.com/detail/\u5b66\u672f\u8d44\u6e90\u5168\u7f51\u641c\u7d22/foidhijnndaakamhcnckjldopopionod?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679935396554262.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool",
+        "AI Plagiarism Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:36",
+      "updatedAt": "2024-05-23 22:00:36"
+    },
+    {
+      "name": "Sniplet",
+      "description": "Discover and share relevant podcast snippets.",
+      "website": "https://sniplet.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578512068692767.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "phind.com",
+      "description": "Search engine for developers with AI-powered answers.",
+      "website": "https://chromewebstore.google.com/detail/phindcom/cbkjbnfjbjlcpfaengknbfbffabiloab?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679932896981771.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Search Engine",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:34",
+      "updatedAt": "2024-05-23 22:00:34"
+    },
+    {
+      "name": "ChatGPT Google Search Assistant",
+      "description": "A Chrome extension that shows ChatGPT generated responses alongside search results.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-google-search-ass/mcegnmnbknompceoafjbhnhmmpcbpfmi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679489361019423.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Eva AI Web Reading Assitant",
+      "description": "Boost your web browsing with Eva AI's content summarization and interactive Q&A.",
+      "website": "https://chrome.google.com/webstore/detail/eva-ai-copilot-recommenda/mjmncbejfhhccaealcggpeojcdbjmngo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679489314215238.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 21:11:34",
+      "updatedAt": "2023-10-12 21:11:34"
+    },
+    {
+      "name": "Adot AI: ChatGPT-powered Web3 Search Engine",
+      "description": "Pioneering AI tool for Web3 discovery.",
+      "website": "https://chromewebstore.google.com/detail/adot-ai-chatgpt-powered-w/healmieamaopboblekidbadelopbnfoo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807151537722441.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "AI Search Engine",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:07",
+      "updatedAt": "2024-06-11 10:05:07"
+    },
+    {
+      "name": "IDRanking - SEO Tools for free",
+      "description": "All-in-one SEO tool for keyword analysis and website optimization.",
+      "website": "https://idranking.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120083968398389.webp",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:06",
+      "updatedAt": "2024-03-23 21:32:06"
+    },
+    {
+      "name": "symplistic.ai",
+      "description": "Create AI search engines and chatbots for your website quickly.",
+      "website": "https://symplistic.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176310222442802.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:28",
+      "updatedAt": "2024-11-16 21:15:28"
+    },
+    {
+      "name": "CodeMate",
+      "description": "Revolutionary search engine for developers",
+      "website": "https://codemate.bot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170895998738370211.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-26 23:11:58",
+      "updatedAt": "2024-02-26 23:11:58"
+    },
+    {
+      "name": "Tech Jobs NYC",
+      "description": "Search for tech jobs in NYC with over 25,000 listings from 6,000+ companies.",
+      "website": "https://www.techjobsnewyorkcity.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171172106151105719.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Recruiting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-29 22:03:21",
+      "updatedAt": "2024-03-29 22:03:21"
+    },
+    {
+      "name": "Zoho Creator Menu Search",
+      "description": "Enhanced navigation and quick access within Zoho ecosystem.",
+      "website": "https://chromewebstore.google.com/detail/mipngbphlhnkbjkogpcpkpikjpefojla?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679493125533314.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:15",
+      "updatedAt": "2024-03-31 14:29:15"
+    },
+    {
+      "name": "AI Search Pro",
+      "description": "Boost Chrome searches with AI precision.",
+      "website": "https://chromewebstore.google.com/detail/ai-search-pro/ecbjehkomjknkcghjegkifemfcadkhll?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776763653562605.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:52",
+      "updatedAt": "2024-06-07 21:39:52"
+    },
+    {
+      "name": "Eurekaa AI - The Ultimate Search Companion",
+      "description": "AI Search Assistant enhancing browsing.",
+      "website": "https://chromewebstore.google.com/detail/eurekaa-ai-the-ultimate-s/jbpdjbfnpbjkihdfgbohiglkjndgeano?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807151492160502.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:07",
+      "updatedAt": "2024-06-11 10:05:07"
+    },
+    {
+      "name": "Ctrl-F GPT",
+      "description": "Search tool with semantic and regex search capabilities.",
+      "website": "https://chromewebstore.google.com/detail/ctrl-f-gpt/lhmnneaafiepkdajfamalpobamlfkabl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747570741997111.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:37",
+      "updatedAt": "2024-06-04 12:34:37"
+    },
+    {
+      "name": "Layke Search",
+      "description": "Efficient AI candidate search tool",
+      "website": "https://chromewebstore.google.com/detail/layke-search/kflhgfodmnljbkknojojmgipcbnlkilm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747569360936391.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:36",
+      "updatedAt": "2024-06-04 12:34:36"
+    },
+    {
+      "name": "ChatGPT PromptCounter",
+      "description": "Track your AI usage and boost productivity.",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-promptcounter/hmnkkeepohlnfkkneiakhnhmaehdacok?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679491685447028.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 16:28:01",
+      "updatedAt": "2024-01-02 16:28:01"
+    },
+    {
+      "name": "GPT Finder Chrome Extension",
+      "description": "Discover popular GPTs, view chat counts, and preview functionality.",
+      "website": "https://chromewebstore.google.com/detail/gpt-finder-gpt-search-eng/dnoadildgmdanimmhkliddiggadjmnkf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679491566452133.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 10:50:28",
+      "updatedAt": "2024-01-02 10:50:28"
+    },
+    {
+      "name": "Perplexity - AI Search",
+      "description": "AI-powered search extension.",
+      "website": "https://chromewebstore.google.com/detail/perplexity-ai-search/bnaffjbjpgiagpondjlnneblepbdchol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738113719940513.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:50",
+      "updatedAt": "2024-06-03 10:18:50"
+    },
+    {
+      "name": "Switch Off",
+      "description": "AI-powered travel tech platform revolutionizing search and stay.",
+      "website": "https://switchoff.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073352695998381.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Advertising Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 17:57:59",
+      "updatedAt": "2023-11-23 17:57:59"
+    },
+    {
+      "name": "GenSearch",
+      "description": "AI-powered search engine builder",
+      "website": "https://gensearch.serenebase.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171507750450413573.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Video Search",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-07 18:24:39",
+      "updatedAt": "2024-05-07 18:24:39"
+    },
+    {
+      "name": "Chat with page. Free & Open source",
+      "description": "Ask questions on any page, get answers based on context.",
+      "website": "https://chromewebstore.google.com/detail/elkcnalmiihanjhkkjjfenpokhjogado?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679490580725398.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:14:01",
+      "updatedAt": "2023-12-06 16:14:01"
+    },
+    {
+      "name": "Ask AI",
+      "description": "Revolutionizing online search with AI.",
+      "website": "https://chromewebstore.google.com/detail/ask-ai/hnphnkkifmncgdfijaeboaonofafdopf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020037133749.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:28",
+      "updatedAt": "2024-06-14 09:56:28"
+    },
+    {
+      "name": "BrutusAI: ChatGPT Powered Search for Mac",
+      "description": "A search engine for mac that lets you search web or academic articles through Chat.",
+      "website": "https://apps.apple.com/us/app/brutusai-search-for-chatgpt/id6443925235?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185056687723696.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Chatbot",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:14:01",
+      "updatedAt": "2023-12-06 16:14:01"
+    },
+    {
+      "name": "All Search Engine AI Chatbots, Videos, Images",
+      "description": "Find all search engines and websites together",
+      "website": "https://chromewebstore.google.com/detail/all-search-engine-ai-chat/fipildgbmeolhbpoplhamkgbkpgdiojo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815759823745646.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:46",
+      "updatedAt": "2024-06-12 09:59:46"
+    },
+    {
+      "name": "GPT Search Navigator",
+      "description": "AI-powered browser extension for personalized search",
+      "website": "https://chromewebstore.google.com/detail/gpt-search-navigator/kmffalpgnbcdggkjbpghhjdmpcgepkaf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807152033196746.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:08",
+      "updatedAt": "2024-06-11 10:05:08"
+    },
+    {
+      "name": "Massive Prediction",
+      "description": "AI search engine with instant, relevant answers",
+      "website": "https://massiveprediction.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807211399170143.webp",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:14:40",
+      "updatedAt": "2024-06-11 10:14:40"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

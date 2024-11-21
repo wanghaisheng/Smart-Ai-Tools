@@ -1,0 +1,1371 @@
+{
+  "tools": [
+    {
+      "name": "Lalal.ai",
+      "description": "Fast and easy AI-powered vocal remover to extract stems from audio and video files.",
+      "website": "https://www.lalal.ai/?fp_ref=toolify23",
+      "image": "https://cdn-images.toolify.ai/image/07309593e7a06b30a0b8849713a4d232.jpeg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:29",
+      "updatedAt": "2023-03-07 16:48:29"
+    },
+    {
+      "name": "eMastered",
+      "description": "AI-powered mastering service",
+      "website": "https://emastered.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171656377282445243.webp",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-24 23:19:27",
+      "updatedAt": "2024-05-24 23:19:27"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Kits AI",
+      "description": "Transform your voice with AI artist voices. Create and train your own AI voice model.",
+      "website": "https://kits.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349963035176873.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:28",
+      "updatedAt": "2023-12-25 18:13:28"
+    },
+    {
+      "name": "Covers AI",
+      "description": "Your own personalized voice changer, amplifying your sound to create a supercharged version of your voice.",
+      "website": "https://www.covers.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349983929925424.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Cover Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "Gling AI",
+      "description": "AI-powered video editing tool that automatically detects and removes silences and bad takes.",
+      "website": "https://gling.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218836773048951.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "Voice & Audio Editing",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "voice-swap.ai",
+      "description": "Voice-Swap is an AI tool for transforming voices, offering remote collaborations and realistic demos.",
+      "website": "https://voice-swap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029491853151952.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Singing Generator",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:41",
+      "updatedAt": "2023-07-25 22:19:41"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "AI Mastering",
+      "description": "AI-powered audio mastering online.",
+      "website": "https://aimastering.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171656406087023543.webp",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-24 23:23:26",
+      "updatedAt": "2024-05-24 23:23:26"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "DIKTATORIAL Suite",
+      "description": "Upscale and enhance your audio in a flash",
+      "website": "https://diktatorial.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159305552735244.webp",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "Audiogen",
+      "description": "Audiogen is an AI platform that generates diverse audio content for creative projects.",
+      "website": "https://www.audiogen.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169039389170265465.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Video Generator",
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 01:51:11",
+      "updatedAt": "2023-07-27 01:51:11"
+    },
+    {
+      "name": "Xound.io",
+      "description": "AI Sound enhancement for content creators.",
+      "website": "https://xound.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229735311242742.jpg",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Voice & Audio Editing",
+        "AI Video Enhancer",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:14",
+      "updatedAt": "2023-12-11 20:21:14"
+    },
+    {
+      "name": "Soundry AI",
+      "description": "AI text-to-sound generator for music production.",
+      "website": "https://soundry.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349897375356635.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Singing Generator",
+        "Voice & Audio Editing",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:18",
+      "updatedAt": "2023-12-25 18:02:18"
+    },
+    {
+      "name": "Voqul",
+      "description": "Change voice in recordings effortlessly.",
+      "website": "https://voqul.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349866580429837.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:54",
+      "updatedAt": "2023-12-25 18:00:54"
+    },
+    {
+      "name": "AI-Spy",
+      "description": "Identify AI-generated audio from human audio, creating a genuine internet.",
+      "website": "https://ai-spy.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029492680745707.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:41",
+      "updatedAt": "2023-07-25 22:19:41"
+    },
+    {
+      "name": "Duzo AI Video Translations",
+      "description": "Translate video content into multiple languages to reach a global audience",
+      "website": "https://duzo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172795192197012260.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Content Generator",
+        "AI Video Enhancer",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 18:39:21",
+      "updatedAt": "2024-10-03 18:39:21"
+    },
+    {
+      "name": "Koolio.ai",
+      "description": "koolio.ai is a web-based platform for audio editing and content creation.",
+      "website": "https://www.koolio.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a99cd59176d768440eb8e353a7e0f66c.jpeg",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "AI Podcast Assistant",
+        "AI Video Editor",
+        "Recording",
+        "Transcription",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "ToneShift",
+      "description": "An AI-powered platform for voice cloning, music separation, and community collaboration.",
+      "website": "https://www.toneshift.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885286026644180.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Singing Generator",
+        "AI Voice Changer",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator",
+        "AI Advertising Assistant",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:33:56",
+      "updatedAt": "2023-11-01 23:33:56"
+    },
+    {
+      "name": "ai voice cover",
+      "description": "AI voice replacement with celebrity or character voices",
+      "website": "https://chromewebstore.google.com/detail/ai-voice-cover/cpjhnkdcdpifokijolehlmomppnfflop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710743978077.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Lip Sync Generator",
+        "Recording",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "AVbeam",
+      "description": "Compare audio files and identify matching segments.",
+      "website": "https://avbeam.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169668819034497151.jpg",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-07 22:16:19",
+      "updatedAt": "2023-10-07 22:16:19"
+    },
+    {
+      "name": "Mastermallow",
+      "description": "AI-powered audio mastering service for content creators, musicians, and podcasters.",
+      "website": "https://mastermallow.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605499298773930.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "Voice & Audio Editing",
+        "AI Advertising Assistant",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "Audeo AI: Audio Stem Splitter & Audio Enhancer",
+      "description": "Browser audio recording and editing made easy",
+      "website": "https://chromewebstore.google.com/detail/audeo-ai-audio-stem-split/ckikoghlogdgajmdephliodnmeioccjd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785150848379358.jpg",
+      "category": "Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Recording",
+        "Voice & Audio Editing",
+        "Transcriber",
+        "Photo & Image Editor",
+        "AI Video Editor",
+        "AI Audio Enhancer",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:03",
+      "updatedAt": "2024-06-08 20:58:03"
+    },
+    {
+      "name": "Adobe Podcast",
+      "description": "Adobe Podcast is a web platform with AI audio features for recording, transcribing, editing, and sharing audio content.",
+      "website": "https://podcast.adobe.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b358044808559ba8185bba7f98e402f6.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "Voice & Audio Editing",
+        "Recording",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Krisp",
+      "description": "Krisp is a noise-canceling app for online calls, trusted by global brands.",
+      "website": "https://krisp.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4661724519aeb1215051d80995973235.jpeg",
+      "category": "AI Noise Cancellation",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Noise Cancellation",
+        "AI Meeting Assistant",
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Productivity Tools",
+        "AI Voice Assistants",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "voicechanger.io",
+      "description": "Transform your voice with effects.",
+      "website": "https://voicechanger.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000171120654766.webp",
+      "category": "AI Voice Changer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Changer",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:31",
+      "updatedAt": "2024-03-10 00:27:31"
+    },
+    {
+      "name": "Cleanvoice AI",
+      "description": "Cleanvoice AI removes filler words, mouth sounds, and stuttering from audio recordings.",
+      "website": "https://cleanvoice.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/66023a4917a4f7b98fa9df3716fd05cb.jpeg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:48",
+      "updatedAt": "2023-03-07 16:48:48"
+    },
+    {
+      "name": "Altered",
+      "description": "Altered provides AI voice changer software for professional voice-driven performances.",
+      "website": "https://altered.ai?fpr=toolify32",
+      "image": "https://cdn-images.toolify.ai/image/c7bdefd8a146fe09e2a1a47f0b6170b6.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Product Description Generator",
+        "AI Voice Changer",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:54",
+      "updatedAt": "2023-03-07 16:48:54"
+    },
+    {
+      "name": "Audioshake",
+      "description": "Platform for music sync licensing, sampling, remastering, remixing, and re-imagining.",
+      "website": "https://indie.audioshake.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e53b097b042793c4dd7e584d86e69dfd.jpeg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "AI Video Editor",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Lazybird",
+      "description": "Human-like AI voice generator",
+      "website": "https://lazybird.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171481469332939401.webp",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Reply Assistant",
+        "AI Character",
+        "Large Language Models (LLMs)",
+        "AI Script Writing",
+        "Voice & Audio Editing",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant",
+        "AI Response Generator",
+        "Prompt",
+        "Captions or Subtitle",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-04 17:24:34",
+      "updatedAt": "2024-05-04 17:24:34"
+    },
+    {
+      "name": "databass ai",
+      "description": "Databass AI offers advanced audio tools for music production.",
+      "website": "https://www.databass.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168372877073699032.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Voice & Audio Editing",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 22:25:58",
+      "updatedAt": "2023-05-10 22:25:58"
+    },
+    {
+      "name": "AudioNinja",
+      "description": "Innovative AI-powered audio analysis and processing platform for vocals removal, isolating elements, and finding key and BPM.",
+      "website": "https://theaudioninja.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563223132646209.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:35",
+      "updatedAt": "2023-06-01 23:09:35"
+    },
+    {
+      "name": "Edit on the Spot",
+      "description": "\"Edit on the Spot automates video editing, making it faster and more efficient for event recordings.\"",
+      "website": "https://editonthespot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169107000553422141.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Recording",
+        "Voice & Audio Editing",
+        "Recording",
+        "AI Advertising Assistant",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-03 21:39:26",
+      "updatedAt": "2023-08-03 21:39:26"
+    },
+    {
+      "name": "Stems ST-02",
+      "description": "Powerful audio separator for vocals and instrumental tracks.",
+      "website": "https://stems.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169530362487102326.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Video Editor",
+        "Recording",
+        "Transcription",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-21 21:39:07",
+      "updatedAt": "2023-09-21 21:39:07"
+    },
+    {
+      "name": "Audimee",
+      "description": "Voice-to-voice tool for transforming vocals",
+      "website": "https://audimee.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888234929877833.webp",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:53",
+      "updatedAt": "2024-06-20 19:16:53"
+    },
+    {
+      "name": "MyVocal Voice Synthesizer",
+      "description": "Clone your voice for singing or speaking with MyVocal.ai's quick and easy tools.",
+      "website": "https://www.myvocal.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168581262299477455.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "Text-to-Music",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 01:16:41",
+      "updatedAt": "2023-06-04 01:16:41"
+    },
+    {
+      "name": "End Boost",
+      "description": "Automatic audio mixing for videos.",
+      "website": "https://alexaudiobutler.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350410411997824.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "Voice & Audio Editing",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:18",
+      "updatedAt": "2023-12-25 18:20:18"
+    },
+    {
+      "name": "MeMemes",
+      "description": "Turn your photos into famous memes with the AI-powered MeMemes app.",
+      "website": "https://mememes.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169202021672427643.jpg",
+      "category": "AI Selfie & Portrait",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Selfie & Portrait",
+        "AI Profile Picture Generator",
+        "AI Voice Changer",
+        "Voice & Audio Editing",
+        "AI Avatar Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-14 21:36:12",
+      "updatedAt": "2023-08-14 21:36:12"
+    },
+    {
+      "name": "Decrackle Playground & APIs",
+      "description": "AI-powered platform for audio-visual content creation",
+      "website": "https://decrackle.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096689195694746.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Audio Enhancer",
+        "Recording",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Speech Recognition",
+        "AI Content Generator",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:20:58",
+      "updatedAt": "2024-07-14 22:20:58"
+    },
+    {
+      "name": "TalkFamous",
+      "description": "Generate funny and realistic voices for videos, podcasts, and memes with Talk Famous AI.",
+      "website": "https://www.talkfamous.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577082627002419.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Advertising Assistant",
+        "AI Lip Sync Generator",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:39:47",
+      "updatedAt": "2023-06-03 13:39:47"
+    },
+    {
+      "name": "Smart Media Cutter",
+      "description": "AI-powered tool for fast, lossless video and audio cutting",
+      "website": "https://smartmediacutter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052440122255886.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Podcast Assistant",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Audio Enhancer",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:29",
+      "updatedAt": "2024-07-09 19:23:29"
+    },
+    {
+      "name": "Vagabond AI",
+      "description": "Vagabond AI is a marketplace for artists to create and share AI-generated voice clones, using blockchain technology for ownership distribution.",
+      "website": "https://www.vagabondai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416074495969698.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Lyrics Generator",
+        "Recording",
+        "AI Speech Synthesis",
+        "Voice & Audio Editing",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:24:38",
+      "updatedAt": "2023-05-15 22:24:38"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

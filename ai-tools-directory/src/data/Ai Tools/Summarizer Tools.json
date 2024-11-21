@@ -1,0 +1,2579 @@
+{
+  "tools": [
+    {
+      "name": "\u79d8\u5854AI",
+      "description": "\u6ca1\u6709\u5e7f\u544a\uff0c\u76f4\u8fbe\u7ed3\u679c\u3002",
+      "website": "https://metaso.cn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171241316157756739.png",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-06 22:20:22",
+      "updatedAt": "2024-04-06 22:20:22"
+    },
+    {
+      "name": "Summarize Tech",
+      "description": "AI platform summarizes long YouTube videos using ChatGPT.",
+      "website": "https://www.summarize.tech?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c65f80f26653903f4ded1e5f530c783b.jpeg",
+      "category": "AI Document Extraction",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "Summarizer",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:41",
+      "updatedAt": "2023-03-07 16:48:41"
+    },
+    {
+      "name": "SkipWatch: AI YouTube Summarizer",
+      "description": "AI tool for quick video summaries on YouTube.",
+      "website": "https://chromewebstore.google.com/detail/skipwatch-ai-youtube-summ/dcmieaeohdmdlpbconjfmepnmhohaemd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172895686912131690.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-15 09:53:07",
+      "updatedAt": "2024-10-15 09:53:07"
+    },
+    {
+      "name": "Coral AI",
+      "description": "AI PDF summarization in seconds",
+      "website": "https://www.getcoralai.com//?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171629689325187827.webp",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI PDF",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 21:11:14",
+      "updatedAt": "2024-05-21 21:11:14"
+    },
+    {
+      "name": "TLDR this",
+      "description": "A free online tool that uses AI to summarize and condense text into key points.",
+      "website": "https://tldrthis.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/71d80c4301f5a542fe7111fbb2092f83.jpeg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "SolidPoint",
+      "description": "SolidPoint helps users save time by condensing lengthy videos into informative summaries.",
+      "website": "https://solidpoint.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1ba9ef152a282d0b29230e5b80faea5a.jpeg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Short Clips Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "YOU-TLDR 2.0",
+      "description": "Get TLDR summaries of YouTube videos and more on You-tldr website.",
+      "website": "https://www.you-tldr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577757417758187.jpg",
+      "category": "AI Video Search",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Search",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:32:05",
+      "updatedAt": "2023-06-03 15:32:05"
+    },
+    {
+      "name": "BooksAI",
+      "description": "BooksAI provides book summaries and recommendations to help users find their next read.",
+      "website": "https://booksai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517494420348683.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI App Builder",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:08:25",
+      "updatedAt": "2023-05-27 16:08:25"
+    },
+    {
+      "name": "YouTube Summarized",
+      "description": "YouTube Summarized is an AI tool that generates video summaries from YouTube and podcasts.",
+      "website": "https://youtubesummarized.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d7435e03240d0136ce85941d53d0ca55.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Notes Assistant",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:26",
+      "updatedAt": "2023-03-07 16:48:26"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Skipit.ai",
+      "description": "AI platform for summarizing YouTube videos and generating chatbots",
+      "website": "https://www.skipit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052431380401311.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Reply Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:27",
+      "updatedAt": "2024-07-09 19:23:27"
+    },
+    {
+      "name": "Intellectia.Ai",
+      "description": "Top AI Investment Platform, Where AI meets your ambition\uff01",
+      "website": "https://intellectia.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172584669853926020.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Transcription",
+        "AI Content Generator",
+        "Research Tool",
+        "Investing Assistant",
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 09:52:01",
+      "updatedAt": "2024-09-09 09:52:01"
+    },
+    {
+      "name": "Nutshell Summaries 2.0",
+      "description": "YouTube summarizer in any language.",
+      "website": "https://nutshellapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374134920348514.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:38",
+      "updatedAt": "2023-05-11 01:55:38"
+    },
+    {
+      "name": "Briefy",
+      "description": "AI-powered tool for concise content summaries.",
+      "website": "https://briefy.ai?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486209078937303.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Summarizer",
+        "Large Language Models (LLMs)",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "LongShot AI",
+      "description": "LongShot is a comprehensive tool designed to generate high-quality, factually accurate content which is optimized for search engines using advanced features.",
+      "website": "https://longShot.ai?deal=toolify79",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267278506345437.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "Copywriting",
+        "AI Email Generator",
+        "AI Repurpose Assistant",
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Email Writer",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "General Writing",
+        "Summarizer",
+        "Paraphraser",
+        "AI Bio Generator",
+        "AI Rewriter",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:06:53",
+      "updatedAt": "2023-04-28 17:06:53"
+    },
+    {
+      "name": "HumanizerPro AI",
+      "description": "AI Humanizer: Free Tool to Transform AI Text to Human",
+      "website": "https://humanizerpro.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172329487968062182.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Letter Writer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 21:01:35",
+      "updatedAt": "2024-08-10 21:01:35"
+    },
+    {
+      "name": "TubeOnAI",
+      "description": "AI-driven summaries for efficient video consumption.",
+      "website": "https://www.tubeonai.com//?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262655670840993.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:47",
+      "updatedAt": "2023-12-15 15:45:47"
+    },
+    {
+      "name": "Rush Analytics",
+      "description": "Rush Analytics is an all-in-one platform that offers all the tools SEOs, PPC and content marketing specialists need at the best price on the market. Keyword research, website change tracking, AI text generator and content checker tool, a suite of PBN tools - all in Rush Analytics.",
+      "website": "https://rush-analytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172912887242930251.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Copywriting",
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer",
+        "General Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-17 09:37:11",
+      "updatedAt": "2024-10-17 09:37:11"
+    },
+    {
+      "name": "ShortCast.ai",
+      "description": "AI-driven YouTube & Podcast Summaries!",
+      "website": "https://shortcast.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169506078990186025.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant",
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-19 02:13:01",
+      "updatedAt": "2023-09-19 02:13:01"
+    },
+    {
+      "name": "VideoTap",
+      "description": "Video content transformation platform",
+      "website": "https://videotap.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172273758973335478.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Blog Writer",
+        "Summarizer",
+        "AI Content Generator",
+        "AI Short Clips Generator",
+        "Transcription",
+        "Speech-to-Text",
+        "AI YouTube Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "Captions or Subtitle",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-04 10:44:16",
+      "updatedAt": "2024-08-04 10:44:16"
+    },
+    {
+      "name": "Summarify AI For YouTube",
+      "description": "Summarify is an iOS app that uses AI to summarize YouTube videos for efficient consumption.",
+      "website": "https://summarify.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585177627592293.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:16",
+      "updatedAt": "2023-06-04 12:09:16"
+    },
+    {
+      "name": "DetangleAI",
+      "description": "Detangle uses AI to summarize video, audio, or text, helping users extract key information.",
+      "website": "https://detangle.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476387385911047.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:53:33",
+      "updatedAt": "2023-05-22 20:53:33"
+    },
+    {
+      "name": "Shadow",
+      "description": "AI-powered meeting assistant for efficient post-meeting tasks.",
+      "website": "https://www.shadow.do?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589359191569914.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:24",
+      "updatedAt": "2024-01-22 11:18:24"
+    },
+    {
+      "name": "Lookie AI: Make YouTube Your Brain",
+      "description": "AI tool for summarizing YouTube videos efficiently.",
+      "website": "https://lookie.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709749172989770.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "tldrx.me",
+      "description": "Summarize any webpage, multilingual, one click",
+      "website": "https://tldrx.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373323738948401.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:16",
+      "updatedAt": "2023-12-28 11:11:16"
+    },
+    {
+      "name": "pdf2gpt",
+      "description": "Automatic PDF summarization using GPT, with section summaries and table of contents.",
+      "website": "https://pdf2gpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168589180227296712.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Document Extraction",
+        "Large Language Models (LLMs)",
+        "AI PDF",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 23:15:23",
+      "updatedAt": "2023-06-04 23:15:23"
+    },
+    {
+      "name": "Audiogest.app",
+      "description": "Converts audio into text transcripts and summaries for easy access and analysis.",
+      "website": "https://audiogest.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563224155446479.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Summarizer",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:35",
+      "updatedAt": "2023-06-01 23:09:35"
+    },
+    {
+      "name": "YouTube Video Summarizer AI-Powered",
+      "description": "AI tool for concise YouTube video summaries.",
+      "website": "https://summarizeyou.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176308925478969.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:22:29",
+      "updatedAt": "2024-11-16 21:22:29"
+    },
+    {
+      "name": "Traw AI Summaries",
+      "description": "Save time with traw, a GPT-powered service that provides concise YouTube video summaries.",
+      "website": "https://traw.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882917640222001.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "Tinq.ai - NLP API",
+      "description": "Tinq.ai is an AI toolkit offering various NLP capabilities as a service.",
+      "website": "https://tinq.ai/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/64c4c1d331ccdd2068daa91cc72365c4.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer",
+        "Writing Assistants",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Unsummary",
+      "description": "AI Summaries: AI generates summaries from books, movies, TV shows, podcasts, and more.",
+      "website": "https://unsummary.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003643039278649.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Repurpose Assistant",
+        "AI Podcast Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:42",
+      "updatedAt": "2023-07-22 22:31:42"
+    },
+    {
+      "name": "PodScribe.IO",
+      "description": "Podcasts to actionable knowledge platform",
+      "website": "https://podscribe.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062476322826747.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Notes Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:05",
+      "updatedAt": "2024-07-10 23:19:05"
+    },
+    {
+      "name": "tl;dr AI Summarizer",
+      "description": "AI-powered reading companion and web extension that provides instant article summaries.",
+      "website": "https://gettldr.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804495051253870.jpg",
+      "category": "AI Productivity Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Productivity Tools",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:21:31",
+      "updatedAt": "2023-06-29 21:21:31"
+    },
+    {
+      "name": "Summarify",
+      "description": "Create concise summaries for various content types using AI.",
+      "website": "https://www.summarify.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170049533547902332.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-20 23:48:07",
+      "updatedAt": "2023-11-20 23:48:07"
+    },
+    {
+      "name": "Meetext",
+      "description": "AI-powered note-taking revolution",
+      "website": "https://www.meetext.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839369469292239.jpg",
+      "category": "AI Video Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "Summarizer",
+        "AI Meeting Assistant",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:46:43",
+      "updatedAt": "2024-02-20 09:46:43"
+    },
+    {
+      "name": "Podsift",
+      "description": "Get free AI-generated summaries of your favorite podcasts and stay up to date.",
+      "website": "https://podsift.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374136986270972.jpg",
+      "category": "Newsletter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Newsletter",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:39",
+      "updatedAt": "2023-05-11 01:55:39"
+    },
+    {
+      "name": "Protime",
+      "description": "AI newsreader and productivity assistant",
+      "website": "https://www.protime.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241557434602545.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Newsletter",
+        "AI Email Assistant",
+        "AI Productivity Tools",
+        "AI Task Management",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:54",
+      "updatedAt": "2024-07-31 16:45:54"
+    },
+    {
+      "name": "Noiz",
+      "description": "Summarize YouTube videos, podcasts, and tutorials with Noiz. Turn hours of watching into minutes of reading",
+      "website": "https://noiz.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173137530827776672.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Transcription",
+        "AI Education Assistant",
+        "AI Productivity Tools",
+        "Translate",
+        "AI Knowledge Management",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-12 09:37:57",
+      "updatedAt": "2024-11-12 09:37:57"
+    },
+    {
+      "name": "Go Summarize",
+      "description": "Summarize YouTube videos with ChatGPT",
+      "website": "https://gosummarize.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171050827896987531.webp",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-15 21:14:18",
+      "updatedAt": "2024-03-15 21:14:18"
+    },
+    {
+      "name": "Chat with PDF",
+      "description": "Chat with any PDF for free and without limitations.",
+      "website": "https://chatwithpdf.ai//?ref=Wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169010635640954685.jpg",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI PDF",
+        "Summarizer",
+        "AI Chatbot",
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 17:58:54",
+      "updatedAt": "2023-07-23 17:58:54"
+    },
+    {
+      "name": "SummarizeYT",
+      "description": "Save time by summarizing YouTube videos as you browse with SummarizeYT.",
+      "website": "https://summarizeyt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543292493430062.jpg",
+      "category": "AI Video Search",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Search",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 15:48:16",
+      "updatedAt": "2023-05-30 15:48:16"
+    },
+    {
+      "name": "ReadLater AI",
+      "description": "AI summarizer and read later app.",
+      "website": "https://readlater.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885102393265518.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:01:37",
+      "updatedAt": "2023-11-01 23:01:37"
+    },
+    {
+      "name": "Digest Diff",
+      "description": "DigestDiff is an AI tool that summarizes a codebase's progress, collaboration, and evolution.",
+      "website": "https://www.digestdiff.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168684700795096045.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Rewriter",
+        "Summarizer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 00:35:53",
+      "updatedAt": "2023-06-16 00:35:53"
+    },
+    {
+      "name": "AI Meeting Summarizer",
+      "description": "Effortlessly generate accurate meeting summaries.",
+      "website": "https://meetingsummarizer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169340885712985624.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-30 23:19:03",
+      "updatedAt": "2023-08-30 23:19:03"
+    },
+    {
+      "name": "SmartRecaps",
+      "description": "AI-powered news summaries for quick topic updates.",
+      "website": "https://smartrecaps.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947675417680540.jpg",
+      "category": "Newsletter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Newsletter",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:39",
+      "updatedAt": "2024-10-21 10:10:39"
+    },
+    {
+      "name": "Chapterize",
+      "description": "Chapterize.ai: AI platform summarizing various contents and extracting key messages in minutes.",
+      "website": "https://chapterize.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959793069041981.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
+    },
+    {
+      "name": "ClarityClips",
+      "description": "\"ClarityClips is a web app that extracts key points from YouTube videos effortlessly.\"",
+      "website": "https://www.clarityclips.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576943641703369.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Short Clips Generator",
+        "AI Video Search",
+        "AI Document Extraction",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:17:00",
+      "updatedAt": "2023-06-03 13:17:00"
+    },
+    {
+      "name": "Meetsummary",
+      "description": "AI-powered tool creates accurate meeting summaries, eliminating manual note-taking and keeping everyone updated.",
+      "website": "https://meetsummary.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517936126036011.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:22:29",
+      "updatedAt": "2023-05-27 17:22:29"
+    },
+    {
+      "name": "Inbox Narrator",
+      "description": "Inbox Narrator summarizes emails for voice assistants like Siri and Google Assistant.",
+      "website": "https://inboxnarrator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168373944670196556.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "Newsletter",
+        "Summarizer",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:23:53",
+      "updatedAt": "2023-05-11 01:23:53"
+    },
+    {
+      "name": "Summarize AI",
+      "description": "Efficient video comprehension with AI",
+      "website": "https://www.summarizeai.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215018393446224.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:35",
+      "updatedAt": "2024-04-03 21:13:35"
+    },
+    {
+      "name": "summarygenerator.ai",
+      "description": "AI-powered tool that condenses text into concise summaries using advanced algorithms.",
+      "website": "https://summarygenerator.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563218170526772.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:31",
+      "updatedAt": "2023-06-01 23:09:31"
+    },
+    {
+      "name": "EmailWhiz for Gmail\u2122",
+      "description": "Advanced email management tool powered by Google's Vertex AI technology.",
+      "website": "https://workspace.google.com/marketplace/app/emailwhiz_for_gmail/821716939565?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357206267816524.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Workspace"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Task Management",
+        "Summarizer",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:23",
+      "updatedAt": "2023-09-01 20:40:23"
+    },
+    {
+      "name": "Youtube Summary with ChatGPT | VidRapid",
+      "description": "Quickly analyze and summarize YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube-summary-with-chat/nhohllfhihepflcgcppdcjjmacpaldap?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927751183217.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:24",
+      "updatedAt": "2024-05-30 11:20:24"
+    },
+    {
+      "name": "Summarizing tool",
+      "description": "AI text summarization",
+      "website": "https://chromewebstore.google.com/detail/summarizing-tool/mpiajopekdpckhpmkhnjadkdeganjgep?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679952970807318.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:06",
+      "updatedAt": "2024-05-26 18:30:06"
+    },
+    {
+      "name": "SummarAIzer",
+      "description": "Revolutionize online reading with multilingual summaries",
+      "website": "https://chromewebstore.google.com/detail/summaraizer/jnkpbpeaaimlncaakooidiokimhpccda?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703945934856399.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:27",
+      "updatedAt": "2024-05-30 11:23:27"
+    },
+    {
+      "name": "Tubly",
+      "description": "YouTube videos summarizer with speech summarizations.",
+      "website": "https://tubly.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100873594368981.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Advertising Assistant",
+        "AI App Builder",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:40",
+      "updatedAt": "2023-11-26 22:24:40"
+    },
+    {
+      "name": "SayDub - YouTube Summary with ChatGPT",
+      "description": "Enhance YouTube experience with summaries.",
+      "website": "https://chromewebstore.google.com/detail/saydub-youtube-summary-wi/knhjgdkddmnomebnjnmcbioloeojhadc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747577551988967.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:54",
+      "updatedAt": "2024-06-04 12:34:54"
+    },
+    {
+      "name": "GetSummary.tech",
+      "description": "Get email summaries quickly without browser extensions with GetSummary.tech.",
+      "website": "https://getsummary.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164908083400937.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Email Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Glance",
+      "description": "Enhance browsing with quick summaries.",
+      "website": "https://chromewebstore.google.com/detail/glance/amhhgbdlikegpjlobmepndgmddnpalda?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776758058369125.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:34",
+      "updatedAt": "2024-06-07 21:39:34"
+    },
+    {
+      "name": "Summarize (ChatGPT and Bard)",
+      "description": "Enhance browsing by summarizing text with AI.",
+      "website": "https://chromewebstore.google.com/detail/summarize-chatgpt-and-bar/caicahkimjnhcepnhnipgbcbigdpeifi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747581829803518.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:16",
+      "updatedAt": "2024-06-04 12:35:16"
+    },
+    {
+      "name": "Mojodex",
+      "description": "Effortlessly summarize meetings",
+      "website": "https://chromewebstore.google.com/detail/mojodex/jagemmajllamdahinjidkopehkffbkho?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703945282357225.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Notes Assistant",
+        "AI Meeting Assistant",
+        "AI CRM Assistant",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:26",
+      "updatedAt": "2024-05-30 11:23:26"
+    },
+    {
+      "name": "MeetGPT - ChatGPT for Google Meet",
+      "description": "Free Chrome extension for meeting transcription and summarization.",
+      "website": "https://chromewebstore.google.com/detail/meetgpt-chatgpt-for-googl/fcleobipkomafbghinbalmdnokjnbbod?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747564056367862.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Summarizer",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:32",
+      "updatedAt": "2024-06-04 12:33:32"
+    },
+    {
+      "name": "Resume Inteligente: Not\u00edcias, Produtos e Muito Mais!",
+      "description": "Quickly discover essential information.",
+      "website": "https://chromewebstore.google.com/detail/resume-inteligente-not\u00edci/icggkcdjhkigogkiigbbdemgfiodpbje?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679935638282402.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "Kome: AI Summary and Bookmark App",
+      "description": "AI extension for summarizing, bookmarking, and creating.",
+      "website": "https://chromewebstore.google.com/detail/kome-ai-summary-and-bookm/hidkfmpdopckdjpogoencckkbngdfggf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763894750835751.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:35",
+      "updatedAt": "2024-06-06 09:55:35"
+    },
+    {
+      "name": "SummaLetter - AI newsletter summarizer",
+      "description": "Transform newsletters into an easy-to-read weekly digest.",
+      "website": "https://summaletter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235947293713327.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Newsletter",
+        "Summarizer",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "Lil' Summary - Highlight it, get a summary.",
+      "description": "Save time summarizing text",
+      "website": "https://chromewebstore.google.com/detail/lil-summary-highlight-it/lgpagggoojdihiljgcdmcdajcekaclic?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703917581225561.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Large Language Models (LLMs)",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:36",
+      "updatedAt": "2024-05-30 11:18:36"
+    },
+    {
+      "name": "Digest AI",
+      "description": "Convert YouTube videos into summaries and blogs with AI.",
+      "website": "https://digestai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262638563848779.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI YouTube Assistant",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:37",
+      "updatedAt": "2023-12-15 15:45:37"
+    },
+    {
+      "name": "Text Summarizer",
+      "description": "Efficient text summarization tool",
+      "website": "https://chromewebstore.google.com/detail/text-summarizer/npifianbfjhobabjjpfdjjihgbdnbojh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807153394666842.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:09",
+      "updatedAt": "2024-06-11 10:05:09"
+    },
+    {
+      "name": "ChatGPT Summary Assistant",
+      "description": "Web content processing tool with customizable prompts.",
+      "website": "https://chrome.google.com/webstore/detail/nnjcoododbeemlmmhbfmmkbneniepaog?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679475734077718.jpg",
+      "category": "AI Browsers Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Browsers Builder",
+        "AI Developer Tools",
+        "AI Tools Directory",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 20:41:31",
+      "updatedAt": "2023-05-06 20:41:31"
+    },
+    {
+      "name": "Raply.ai",
+      "description": "Raply.AI: AI-powered Chrome extension for improved email writing, replying, and summarizing.",
+      "website": "https://raply.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374137292628438.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Email Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:40",
+      "updatedAt": "2023-05-11 01:55:40"
+    },
+    {
+      "name": "WP AI Text Summarizer",
+      "description": "AI link summarizer and article summary tool",
+      "website": "https://www.aisummary.link?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135248468560005.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:43",
+      "updatedAt": "2024-07-19 09:27:43"
+    },
+    {
+      "name": "Detangle Browser Extension",
+      "description": "Document processing made easy",
+      "website": "https://chromewebstore.google.com/detail/detangle-browser-extensio/fiomnjpcdaghgimfgbfcnjmiihoifkjl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763899788045477.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "AI Files Assistant",
+        "Copywriting",
+        "General Writing",
+        "AI Analytics Assistant",
+        "AI Response Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:51",
+      "updatedAt": "2024-06-06 09:55:51"
+    },
+    {
+      "name": "GPT Summarizer",
+      "description": "Chrome extension for text summarization",
+      "website": "https://chromewebstore.google.com/detail/gpt-summarizer/ofcjacnckhgbmeompdemfppfmfogahgf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687129491278116.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:47",
+      "updatedAt": "2024-05-28 12:40:47"
+    },
+    {
+      "name": "GistVid",
+      "description": "AI-powered video summaries.",
+      "website": "https://chromewebstore.google.com/detail/gistvid/cidejdjolkjkilgkndmdldeakncaijcj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738086961204226.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:38",
+      "updatedAt": "2024-06-03 10:13:38"
+    },
+    {
+      "name": "TldrGPT.net",
+      "description": "Summarize web pages instantly and make informed decisions.",
+      "website": "https://www.tldrgpt.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486202352222070.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "Summarize",
+      "description": "AI-powered assistant for instant summarization",
+      "website": "https://chromewebstore.google.com/detail/summarize/kjbpaokegiilajekbohjipdkojgekfij?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763887413015995.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:50",
+      "updatedAt": "2024-06-06 09:53:50"
+    },
+    {
+      "name": "Summarize Tweet: I Ain't Reading All That",
+      "description": "Summarize long tweets quickly",
+      "website": "https://chromewebstore.google.com/detail/summarize-tweet-i-aint-re/ggdndaidddfoebmkgpbhpafpnmhbbfmm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747563591936161.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:31",
+      "updatedAt": "2024-06-04 12:33:31"
+    },
+    {
+      "name": "Grapevine: Web & YouTube Summary with ChatGPT",
+      "description": "View ChatGPT summaries seamlessly.",
+      "website": "https://chromewebstore.google.com/detail/grapevine-web-youtube-sum/ebdenogmnbeilddipibklpcjmioooddl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763884155221399.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI YouTube Assistant",
+        "AI Analytics Assistant",
+        "AI Repurpose Assistant",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:48",
+      "updatedAt": "2024-06-06 09:53:48"
+    },
+    {
+      "name": "TabCrunch - AI Tab Manager",
+      "description": "TabCrunch uses language models for efficient tab management",
+      "website": "https://chromewebstore.google.com/detail/tabcrunch-ai-tab-manager/akhifcioibiofmbpfpkfagkklldlmkgn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785150790181326.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:02",
+      "updatedAt": "2024-06-08 20:58:02"
+    },
+    {
+      "name": "Summarize article",
+      "description": "Summarize any article quickly",
+      "website": "https://chromewebstore.google.com/detail/summarize-article/neaojoggfnkoimnhaedohmmignohhebh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747567120593674.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:59",
+      "updatedAt": "2024-06-04 12:33:59"
+    },
+    {
+      "name": "Essence - distill and collect information",
+      "description": "Summarization and note-taking tool",
+      "website": "https://chromewebstore.google.com/detail/essence-distill-and-colle/agokfbniiemgojbmdbhijmhfppgeaeal?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763886653284616.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Notes Assistant",
+        "Research Tool",
+        "Summarizer",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:50",
+      "updatedAt": "2024-06-06 09:53:50"
+    },
+    {
+      "name": "SummarAI: Intelligent Briefs",
+      "description": "Condense documents into concise summaries.",
+      "website": "https://apps.apple.com/at/app/summarai-intelligent-briefs/id6449359502?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528216640154982.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 21:55:53",
+      "updatedAt": "2023-05-28 21:55:53"
+    },
+    {
+      "name": "Summarize and Translate with Claude",
+      "description": "AI-driven web page summary and translation",
+      "website": "https://chromewebstore.google.com/detail/summarize-and-translate-w/ciikfihmdpcbmehhggahlgljimikipbm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785153482464210.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:17",
+      "updatedAt": "2024-06-08 20:58:17"
+    },
+    {
+      "name": "YouTube Summary with ChatGPT & Claude",
+      "description": "Summarize YouTube videos with NoteGPT using ChatGPT.",
+      "website": "https://chrome.google.com/webstore/detail/notegpt-summary-with-chat/baecjmoceaobpnffgnlkloccenkoibbb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679488695825144.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Chatbot",
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-05 22:26:40",
+      "updatedAt": "2023-09-05 22:26:40"
+    },
+    {
+      "name": "Smary",
+      "description": "Smary.Pro is an AI-powered API that generates short summaries for different types of content.",
+      "website": "https://smary.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168889025743397227.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-09 16:10:37",
+      "updatedAt": "2023-07-09 16:10:37"
+    },
+    {
+      "name": "ChatGPT for YouTube",
+      "description": "Summarize YouTube videos instantly",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-for-youtube/ocbklpkcikpidkleacbohkobinlilgbd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747572911439335.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:39",
+      "updatedAt": "2024-06-04 12:34:39"
+    },
+    {
+      "name": "Chat GPT Youtube Summarizer",
+      "description": "A Chrome extension that summarizes YouTube\u2122 videos.",
+      "website": "https://chrome.google.com/webstore/detail/youtube-summary-with-chat/ghdjjmnkpgminongdkinjdcccmncijog?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679479890814299.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:30:49",
+      "updatedAt": "2023-05-30 22:30:49"
+    },
+    {
+      "name": "Cortados",
+      "description": "Streamlit enables creation and deployment of web apps for data science and machine learning.",
+      "website": "https://www.cortados.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545711526239684.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:30:50",
+      "updatedAt": "2023-05-30 22:30:50"
+    },
+    {
+      "name": "Samary - Summarize Job Ads with ChatGPT",
+      "description": "Job ad summary tool with clear, structured info",
+      "website": "https://chromewebstore.google.com/detail/samary-summarize-job-ads/ebdbomlpalldeefpfabmkkkdigonjejn?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:20",
+      "updatedAt": "2024-06-08 20:58:20"
+    },
+    {
+      "name": "SummarAI",
+      "description": "AI-powered text summarization tool",
+      "website": "https://chromewebstore.google.com/detail/summarai/encjjcjbeaedgjegbimgamieoadakpcn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687131957749234.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:38",
+      "updatedAt": "2024-05-28 12:41:38"
+    },
+    {
+      "name": "Bilibili Summary with ChatGPT OpenAI",
+      "description": "Quickly summarize Bilibili videos",
+      "website": "https://chromewebstore.google.com/detail/bilibili-summary-with-cha/epadnmckjchpoedgecdghpmaicnklagd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747581170891558.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:16",
+      "updatedAt": "2024-06-04 12:35:16"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "NutshellPro",
+      "description": "Extract key takeaways from videos and audios",
+      "website": "https://www.nutshellpro.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146237654142099.webp",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:58",
+      "updatedAt": "2024-03-26 22:11:58"
+    },
+    {
+      "name": "Wordage AI",
+      "description": "AI-powered content summarization tool.",
+      "website": "https://www.wordage.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169711481218489772.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 20:46:18",
+      "updatedAt": "2023-10-12 20:46:18"
+    },
+    {
+      "name": "Summarizer",
+      "description": "Summarize long texts with NLP",
+      "website": "https://chromewebstore.google.com/detail/summarizer/hfgahomakkpfejedbihfpfjohafdmkab?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679932749126599.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Paraphraser",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:34",
+      "updatedAt": "2024-05-23 22:00:34"
+    },
+    {
+      "name": "Legalysis",
+      "description": "Legalysis is an AI-powered tool for analyzing legal documents, detecting risks, and providing concise summaries.",
+      "website": "https://legalysis.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622434913147592.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Legal Assistant",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI Contract Management",
+        "AI Documents Assistant",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 19:38:37",
+      "updatedAt": "2023-06-08 19:38:37"
+    },
+    {
+      "name": "Too long; didn't watch AI",
+      "description": "AI-powered tool helps summarize videos for easy understanding and freedom from information overload.",
+      "website": "https://tldwai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168942889512140057.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Large Language Models (LLMs)",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-15 21:47:11",
+      "updatedAt": "2023-07-15 21:47:11"
+    },
+    {
+      "name": "PodKit: Listen to webpages",
+      "description": "Convert webpages to audio summaries",
+      "website": "https://chromewebstore.google.com/detail/podkit-listen-to-webpages/bjljhhmhiahbnlcjikgkijhbecjkhddh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776924363365017.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:52",
+      "updatedAt": "2024-06-07 22:06:52"
+    },
+    {
+      "name": "Web Distiller AI",
+      "description": "Chrome extension for secure web content summarization",
+      "website": "https://chromewebstore.google.com/detail/web-distiller-ai/ooaogogbdciochplilffdihffdijakfk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352861393377183.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:41",
+      "updatedAt": "2024-08-13 13:56:41"
+    },
+    {
+      "name": "AI Summarizer best",
+      "description": "Transforms long articles into concise summaries quickly.",
+      "website": "https://summarizer.best?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173077093335106253.jpg",
+      "category": "AI Productivity Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Productivity Tools",
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-05 09:49:17",
+      "updatedAt": "2024-11-05 09:49:17"
+    },
+    {
+      "name": "Blinkist AI",
+      "description": "Get key insights from diverse sources.",
+      "website": "https://chromewebstore.google.com/detail/blinkist-ai/jihbhleemcbackbbjhojomphmklbjdbo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767319110290.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:13",
+      "updatedAt": "2024-06-07 21:40:13"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

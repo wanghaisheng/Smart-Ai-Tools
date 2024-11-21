@@ -1,0 +1,2653 @@
+{
+  "tools": [
+    {
+      "name": "CAVEDUCK",
+      "description": "Live character chat with AI",
+      "website": "https://caveduck.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169995971819189534.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-14 19:54:27",
+      "updatedAt": "2023-11-14 19:54:27"
+    },
+    {
+      "name": "redquill.net",
+      "description": "Free AI tool to create personalized erotica stories.",
+      "website": "https://redquill.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007978639541474.jpg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:53",
+      "updatedAt": "2024-10-28 09:41:53"
+    },
+    {
+      "name": "Rubii",
+      "description": "Rubii: AI native fandom character UGC platform. Create your character, feed, and stage. Create interactive stories, chat with virtual partners, and explore user-generated content.",
+      "website": "https://rubii.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/user-upload/1730877391_57699507",
+      "category": "AI Girlfriend",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Girlfriend",
+        "AI Character",
+        "Novel",
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-09 12:26:32",
+      "updatedAt": "2024-10-09 12:26:32"
+    },
+    {
+      "name": "Storynest.ai",
+      "description": "StoryNest.ai: Where AI and imagination collide to create interactive, evolving narratives.",
+      "website": "https://www.storynest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494009262723507.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Book Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:54:14",
+      "updatedAt": "2023-05-24 22:54:14"
+    },
+    {
+      "name": "Notebook.ai",
+      "description": "A smart notebook for worldbuilders and writers to design universes.",
+      "website": "https://www.notebook.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172485623282627624.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Story Writing",
+        "AI Creative Writing",
+        "Novel",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 22:48:48",
+      "updatedAt": "2024-08-28 22:48:48"
+    },
+    {
+      "name": "BedtimeStory AI",
+      "description": "Generate personalized bedtime stories for children with AI-powered Bedtimestory.ai.",
+      "website": "https://www.bedtimestory.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/2c98c8569c15f8167b3a21e09c864f9a.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "StoryBooks",
+      "description": "Storybooks is a website that provides personalized illustrated bedtime stories to cultivate a love for reading and enhance parent-child relationships.",
+      "website": "https://www.storybooks.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578293021168138.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:01:35",
+      "updatedAt": "2023-06-03 17:01:35"
+    },
+    {
+      "name": "Fable Fiesta",
+      "description": "\"Fable Fiesta: AI story generator and book writer that brings tales to life.\"",
+      "website": "https://FableFiesta.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168336876772079687.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Script Writing",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 18:26:21",
+      "updatedAt": "2023-05-06 18:26:21"
+    },
+    {
+      "name": "Talefy",
+      "description": "Interactive AI story generator",
+      "website": "https://talefy.ai/?utm_source=toolify&utm_medium=toolify&utm_campaign=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785330271919472.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 21:31:01",
+      "updatedAt": "2024-06-08 21:31:01"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "HumanizerPro AI",
+      "description": "AI Humanizer: Free Tool to Transform AI Text to Human",
+      "website": "https://humanizerpro.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172329487968062182.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Letter Writer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 21:01:35",
+      "updatedAt": "2024-08-10 21:01:35"
+    },
+    {
+      "name": "Opus",
+      "description": "OpusWebsite offers easy website building tools for individuals and businesses without coding skills.",
+      "website": "https://opus.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3273f06d7b95d18ae7d4bab8b89a1f84.jpeg",
+      "category": "AI Animated Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Animated Video",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Game",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "novelistAI",
+      "description": "Generate personalized reading experiences using AI-powered NovelistAI website.",
+      "website": "https://novelistai.com/2677",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476473581885254.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "Novel",
+        "AI Cover Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:11:36",
+      "updatedAt": "2023-05-22 22:11:36"
+    },
+    {
+      "name": "Promptport",
+      "description": "PromptPort offers creative writing prompts to inspire your next story, poem, or essay.",
+      "website": "https://promptport.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253846125051669.jpg",
+      "category": "AI Creative Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Creative Writing",
+        "AI Story Writing",
+        "AI Book Writing",
+        "Novel",
+        "AI Poem & Poetry Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:34:10",
+      "updatedAt": "2023-08-20 21:34:10"
+    },
+    {
+      "name": "AI poem generator",
+      "description": "The #1 AI Poem Generator",
+      "website": "https://poemgenerator.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241789629180863.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Copywriting",
+        "AI Lyrics Generator",
+        "AI Story Writing",
+        "AI Poem & Poetry Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 17:27:08",
+      "updatedAt": "2024-07-31 17:27:08"
+    },
+    {
+      "name": "StoryboardHero AI Storyboard Generator",
+      "description": "Generate video concepts and storyboards quickly and cost-effectively with AI-powered Storyboard Hero.",
+      "website": "https://storyboardhero.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169008436192154704.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 11:50:29",
+      "updatedAt": "2023-07-23 11:50:29"
+    },
+    {
+      "name": "StoryWizard",
+      "description": "\"A platform that uses AI to create personalized educational experiences for children.\"",
+      "website": "https://www.storywizard.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/481c519c7664217cb5e5ce5034450ff2.jpeg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Education Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Naria AI",
+      "description": "Turn ideas into illustrated children's stories.",
+      "website": "https://www.naria.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477865726679531.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:43",
+      "updatedAt": "2024-01-09 13:35:43"
+    },
+    {
+      "name": "v3RPG",
+      "description": "Immersive AI-curated RPG",
+      "website": "https://landing.v3rpg.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824297235908728.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:36",
+      "updatedAt": "2024-06-13 09:42:36"
+    },
+    {
+      "name": "StoryBee",
+      "description": "AI-powered platform for personalized story creation.",
+      "website": "https://storybee.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857331078201430.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:37",
+      "updatedAt": "2023-10-29 17:53:37"
+    },
+    {
+      "name": "Neural Canvas",
+      "description": "Create AI-generated comics with Neural Canvas and express your creativity.",
+      "website": "https://neuralcanvas.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a2109d9fee5d3573be36a2ab30e74ef5.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Illustration Generator",
+        "AI Manga & Comic",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "AI Story Generator",
+      "description": "Unleash Your Creativity with AI-Powered Storytelling",
+      "website": "https://storygenerate.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172429244937593476.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Bio Generator",
+        "Paraphraser",
+        "AI Poem & Poetry Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:08:45",
+      "updatedAt": "2024-08-22 10:08:45"
+    },
+    {
+      "name": "My StoryBot",
+      "description": "Custom illustrated storybooks with A.I.",
+      "website": "https://www.mystorybot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171375554120055904.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Book Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-22 11:11:48",
+      "updatedAt": "2024-04-22 11:11:48"
+    },
+    {
+      "name": "Life Story AI",
+      "description": "Preserve your family memories in a beautiful book, powered by AI.",
+      "website": "https://life-story.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170303992737086083.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Gift Ideas",
+        "AI Bio Generator",
+        "AI Product Description Generator",
+        "AI Story Writing",
+        "Life Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-20 10:37:59",
+      "updatedAt": "2023-12-20 10:37:59"
+    },
+    {
+      "name": "Turn texts into AI-animated stories",
+      "description": "Vivid animated stories crafted from any text. No skills needed.",
+      "website": "https://thefablestudio.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582593446379934.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "Large Language Models (LLMs)",
+        "AI Creative Writing",
+        "AI Graphic Design",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "EndlessVN",
+      "description": "AI-generated game with unique playthroughs.",
+      "website": "https://endlessvn.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a22239185f432c4b42f0b48234e97e2f.jpeg",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Game",
+        "AI Story Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:47",
+      "updatedAt": "2023-03-07 16:48:47"
+    },
+    {
+      "name": "Scene One",
+      "description": "A free online writing software with AI Assistant to help writers write better.",
+      "website": "https://sceneone.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3cc6797371353c19c946353ebae437fc.jpeg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Story Writing",
+        "AI Script Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Free AI Story Generator",
+      "description": "Create captivating stories instantly.",
+      "website": "https://freeaistorygenerator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170815811122097134.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-17 16:20:31",
+      "updatedAt": "2024-02-17 16:20:31"
+    },
+    {
+      "name": "WhimsyWorks",
+      "description": "Whimsy is an AI platform for interactive and personalized reading, sparking kids' love for books.",
+      "website": "https://whimsyapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577873575129130.jpg",
+      "category": "AI Creative Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Book Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:51:37",
+      "updatedAt": "2023-06-03 15:51:37"
+    },
+    {
+      "name": "Sleepytales",
+      "description": "AI app for personalized bedtime stories",
+      "website": "https://sleepytales.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061173457860320.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:04",
+      "updatedAt": "2024-07-10 19:40:04"
+    },
+    {
+      "name": "Plotlime",
+      "description": "AI platform for creating personalized stories across various genres.",
+      "website": "https://plotlime.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172535635420837326.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Character",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-03 17:38:36",
+      "updatedAt": "2024-09-03 17:38:36"
+    },
+    {
+      "name": "StoryTagger",
+      "description": "StoryTagger is a video storytelling platform for organizations to create and share authentic employee-generated content.",
+      "website": "https://www.storytagger.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517654842212211.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI UGC Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:34:53",
+      "updatedAt": "2023-05-27 16:34:53"
+    },
+    {
+      "name": "storly.ai",
+      "description": "An AI-powered platform that simplifies documenting life stories with interview prompts and talk-to-text features.",
+      "website": "https://www.storly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440731652768398.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Advertising Assistant",
+        "AI Bio Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:48",
+      "updatedAt": "2023-05-18 18:53:48"
+    },
+    {
+      "name": "BookHero",
+      "description": "BookHero is an app that transforms storytelling and allows users to create personalized books.",
+      "website": "https://www.bookhero.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168641662247855206.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Product Description Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 01:03:19",
+      "updatedAt": "2023-06-11 01:03:19"
+    },
+    {
+      "name": "Bible GPT",
+      "description": "Explore biblical wisdom with AI.",
+      "website": "https://bibletherapy.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229746564078526.jpg",
+      "category": "Religion",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Religion",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:18",
+      "updatedAt": "2023-12-11 20:21:18"
+    },
+    {
+      "name": "Adventure Stories",
+      "description": "Website offers AI-powered choose-your-own-adventure stories for kids, letting them create their own adventures.",
+      "website": "https://www.adventurestories.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168347168580683319.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Advertising Assistant",
+        "Game"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 23:02:29",
+      "updatedAt": "2023-05-07 23:02:29"
+    },
+    {
+      "name": "AltPlot",
+      "description": "Fanfiction generator with narrative control",
+      "website": "https://altplot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191977473899624.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Script Writing",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:57",
+      "updatedAt": "2023-12-07 11:28:57"
+    },
+    {
+      "name": "PicTales",
+      "description": "Turn photos into captivating stories effortlessly.",
+      "website": "https://pictalesstore.lemonsqueezy.com/?aff=JDW94",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168397248575207200.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 18:07:13",
+      "updatedAt": "2023-05-13 18:07:13"
+    },
+    {
+      "name": "Storyleo: Bedtime Stories AI",
+      "description": "Engaging bedtime stories for children using AI",
+      "website": "https://storyleo.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900418886678888.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Character",
+        "Parenting",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:45",
+      "updatedAt": "2024-02-27 11:22:45"
+    },
+    {
+      "name": "Ryan AI",
+      "description": "Personalized AI fairy tales for children.",
+      "website": "https://ryan-app.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745300587083138.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:27",
+      "updatedAt": "2023-10-16 18:40:27"
+    },
+    {
+      "name": "Verb.ai",
+      "description": "Verb is an AI tool that assists fiction writers in planning, writing, and receiving feedback.",
+      "website": "https://verb.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c8d729d606d489ac0a931beec12ef360.jpeg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Mi Cuento Digital",
+      "description": "Crea cuentos personalizados en minutos con IA y transmite aprendizajes.",
+      "website": "https://micuentodigital.es?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373360061232654.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "Story Path",
+      "description": "An AI-powered app helps writers plan their stories and overcome writer's block.",
+      "website": "https://storypath.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/501a9107804decd73215417708a066b4.jpeg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Script Writing",
+        "AI Story Writing",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Immersim AI",
+      "description": "AI role-play platform for immersing in infinite universes, scenarios, and characters.",
+      "website": "https://www.immersim.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352874144759691.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Chatbot",
+        "AI Character",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:59:48",
+      "updatedAt": "2024-08-13 13:59:48"
+    },
+    {
+      "name": "TaleAI",
+      "description": "AI-powered interactive story games",
+      "website": "https://taleai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969520330224871.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:12",
+      "updatedAt": "2023-11-11 17:32:12"
+    },
+    {
+      "name": "BedtimeFable.ai",
+      "description": "AI platform to create personalized bedtime stories",
+      "website": "https://www.bedtimefable.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017013669118590.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 17:00:42",
+      "updatedAt": "2024-07-05 17:00:42"
+    },
+    {
+      "name": "Dream Kid",
+      "description": "AI storyteller empowering children in hospitals.",
+      "website": "https://www.dreamkid.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262637215186170.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Product Description Generator",
+        "AI Script Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:36",
+      "updatedAt": "2023-12-15 15:45:36"
+    },
+    {
+      "name": "DreamDraft",
+      "description": "Create personalized children's books with AI and family photos.",
+      "website": "https://www.dreamdraft.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947675728303425.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Illustration Generator",
+        "Large Language Models (LLMs)",
+        "AI Creative Writing",
+        "AI Photo & Image Generator",
+        "AI Character",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:39",
+      "updatedAt": "2024-10-21 10:10:39"
+    },
+    {
+      "name": "StoryPanda.ai",
+      "description": "Create and publish personalized children's stories online with StoryPanda, making storytelling fun for kids.",
+      "website": "https://storypanda.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494685137097373.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:46:53",
+      "updatedAt": "2023-05-25 00:46:53"
+    },
+    {
+      "name": "Maigic Book",
+      "description": "Magic Book is an AI app for creating customizable stories with illustrations on Apple devices.",
+      "website": "https://maigic.world?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476381518259610.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:45:37",
+      "updatedAt": "2023-05-22 20:45:37"
+    },
+    {
+      "name": "StoriesForKids",
+      "description": "AI platform creates personalized kids' books from real-life situations instantly.",
+      "website": "https://www.storiesforkids.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/77b562a633f5063b13c25fd96be3960a.jpeg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Illustration Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "Storytailor",
+      "description": "Storytailor: AI platform for personalized, inclusive, and educational children's stories.",
+      "website": "https://storytailor.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168917904611158625.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Story Writing",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Product Description Generator",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 00:22:49",
+      "updatedAt": "2023-07-13 00:22:49"
+    },
+    {
+      "name": "SmartDreams",
+      "description": "SmartDreams is a website assisting individuals in setting and achieving personal goals.",
+      "website": "https://smartdreams.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577932335317983.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:01:45",
+      "updatedAt": "2023-06-03 16:01:45"
+    },
+    {
+      "name": "TaleStitch",
+      "description": "AI story-writing platform for creative collaboration",
+      "website": "https://talestitch.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208866770681830.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Cover Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:58",
+      "updatedAt": "2024-07-27 21:54:58"
+    },
+    {
+      "name": "Your Own Story Book",
+      "description": "Create unique personalized storybooks for pets using AI on Your Own Story Book website.",
+      "website": "https://www.yourownstorybook.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b6edd72913251bcb6ad3f8588e057501.jpeg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Art Generator",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Photo & Image Generator",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "From Scratch Stories",
+      "description": "Create personalized story books with AI-generated images on Your Own Story Book platform.",
+      "website": "https://YourOwnStoryBook.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295766522646210.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "Tiny storie",
+      "description": "Tiny Stories website nurtures children's love for reading and learning through unique storytelling.",
+      "website": "https://tinystorie.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/2754c7361b8253e37edc19a23caf98cc.jpeg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Education Assistant",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI Poem & Poetry Generator",
+        "Novel",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:26",
+      "updatedAt": "2023-03-07 16:48:26"
+    },
+    {
+      "name": "Fabula for Kids",
+      "description": "Create custom stories with images and audio for children.",
+      "website": "https://fabulaforkids.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373319097224247.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:15",
+      "updatedAt": "2023-12-28 11:11:15"
+    },
+    {
+      "name": "Storyville",
+      "description": "Personalized bedtime stories for kids",
+      "website": "https://storyville.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566107598285671.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Instagram Assistant",
+        "AI Illustration Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:30:43",
+      "updatedAt": "2024-05-14 12:30:43"
+    },
+    {
+      "name": "Good Night - Bedtime Stories",
+      "description": "Unique bedtime stories for kids",
+      "website": "https://www.goodnightapp.de?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171625492023464847.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:28:16",
+      "updatedAt": "2024-05-21 09:28:16"
+    },
+    {
+      "name": "WizFairy",
+      "description": "Create personalized fairy tales in minutes, powered by AI.",
+      "website": "https://wizfairy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589361856615780.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Character",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:25",
+      "updatedAt": "2024-01-22 11:18:25"
+    },
+    {
+      "name": "Dreamery AI",
+      "description": "AI model for personalized stories and illustrations",
+      "website": "https://dreameryai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172196179758595176.jpg",
+      "category": "Parenting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Parenting",
+        "AI Story Writing",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-26 10:41:42",
+      "updatedAt": "2024-07-26 10:41:42"
+    },
+    {
+      "name": "StoryTime: Fast Story Creator",
+      "description": "AI app for generating personalized children's stories with images and audio.",
+      "website": "https://apps.apple.com/us/app/storytime-fast-story-creator/id6714462892?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007961640566039.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:12",
+      "updatedAt": "2024-10-28 09:39:12"
+    },
+    {
+      "name": "Never Ending Stories",
+      "description": "Endless AI-generated kids books for bedtime.",
+      "website": "https://apps.apple.com/us/app/never-ending-stories/id6448179664?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168398963697529010.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 22:53:45",
+      "updatedAt": "2023-05-13 22:53:45"
+    },
+    {
+      "name": "Keyboard 404",
+      "description": "Endless AI-generated short stories that capture your imagination.",
+      "website": "https://keyboard404.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169392402180837695.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-05 22:26:40",
+      "updatedAt": "2023-09-05 22:26:40"
+    },
+    {
+      "name": "Mystoria",
+      "description": "Shape bedtime stories based on your child's desires.",
+      "website": "https://mystoria.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169608099419837300.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Book Writing",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 21:35:21",
+      "updatedAt": "2023-09-30 21:35:21"
+    },
+    {
+      "name": "Story321 AI story generator",
+      "description": "An all-in-one AI story generator for awesome stories.",
+      "website": "https://story321.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170003814453899828.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Script Writing",
+        "Large Language Models (LLMs)",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-15 16:48:50",
+      "updatedAt": "2023-11-15 16:48:50"
+    },
+    {
+      "name": "LearningStory",
+      "description": "AI educational stories for kids",
+      "website": "https://www.learningstory.co.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016987367794132.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Education Assistant",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:24",
+      "updatedAt": "2024-07-05 16:56:24"
+    },
+    {
+      "name": "Supatale",
+      "description": "Personalized AI fairy tales for everyone",
+      "website": "https://supatale.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072985999170431.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:57:29",
+      "updatedAt": "2023-11-23 16:57:29"
+    },
+    {
+      "name": "BAIKI",
+      "description": "A storytelling app providing personalized fairy tales for children and adults through enchanting stories.",
+      "website": "https://baiki.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494739974379973.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:55:55",
+      "updatedAt": "2023-05-25 00:55:55"
+    },
+    {
+      "name": "Mother Goose - Story time",
+      "description": "Create personalized and engaging stories for children with AI-powered Storytelling AI.",
+      "website": "https://apps.apple.com/us/app/mother-goose-story-time/id1659839352?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510604422542960.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI App Builder",
+        "AI Book Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 21:00:33",
+      "updatedAt": "2023-05-26 21:00:33"
+    },
+    {
+      "name": "Narrative Nooks",
+      "description": "Interactive stories and tutor support for young learners",
+      "website": "https://narrativenooks.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052441451772521.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:29",
+      "updatedAt": "2024-07-09 19:23:29"
+    },
+    {
+      "name": "Stories By Angris",
+      "description": "Build interactive RPG stories with AI-generated script, animation, art, and voice",
+      "website": "https://storiesbyangris.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120079585039289.webp",
+      "category": "AI Creative Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Creative Writing",
+        "AI Story Writing",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:06",
+      "updatedAt": "2024-03-23 21:32:06"
+    },
+    {
+      "name": "Tales Factory",
+      "description": "Tales Factory is an AI-powered web app for creating illustrated storybooks easily.",
+      "website": "https://www.talesfactory.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517984568557169.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Illustration Generator",
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:29:36",
+      "updatedAt": "2023-05-27 17:29:36"
+    },
+    {
+      "name": "MagicTales.io",
+      "description": "An AI-powered story generator for personalized children's stories.",
+      "website": "https://magictales.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486193730525428.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:06",
+      "updatedAt": "2023-09-16 18:58:06"
+    },
+    {
+      "name": "StoryAI",
+      "description": "Discover AI-created stories in various categories.",
+      "website": "https://apps.apple.com/gb/app/storyai-ai-generated-stories/id6445949790?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543927262884880.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Book Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:33:25",
+      "updatedAt": "2023-05-30 17:33:25"
+    },
+    {
+      "name": "Behai AI",
+      "description": "AI service for generating behavioral interview stories quickly.",
+      "website": "https://behai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965760795851186.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:34",
+      "updatedAt": "2024-10-23 12:26:34"
+    },
+    {
+      "name": "Lettergram - Your AI PenPal",
+      "description": "An AI pen pal that sends physical letters via mail.",
+      "website": "https://lettergram.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545597775468234.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Story Writing",
+        "Large Language Models (LLMs)",
+        "Letter Writer",
+        "Writing Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:20",
+      "updatedAt": "2023-05-30 22:12:20"
+    },
+    {
+      "name": "Humans of Generative Art",
+      "description": "Substack publication features inspiring stories of people creating with generative art.",
+      "website": "https://www.hoga.love?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545780539099045.jpg",
+      "category": "Newsletter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Newsletter",
+        "AI Story Writing",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:43:06",
+      "updatedAt": "2023-05-30 22:43:06"
+    },
+    {
+      "name": "StoriesWithDory - Kids Story Builder App",
+      "description": "Voice-based storytelling app that fosters creativity in children.",
+      "website": "https://storieswithdory.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025359744783704.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 09:58:55",
+      "updatedAt": "2024-10-30 09:58:55"
+    },
+    {
+      "name": "StoryTok",
+      "description": "Generate viral 'stories' style videos easily with Reddit links or your own content.",
+      "website": "https://storytok.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159308781036421.webp",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "Large Language Models (LLMs)",
+        "AI Content Generator",
+        "Text to Video",
+        "AI UGC Video Generator",
+        "Text-to-Speech",
+        "AI Story Writing",
+        "Captions or Subtitle",
+        "AI Background Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "Fibbr AI Novels",
+      "description": "AI-powered interactive storytelling.",
+      "website": "https://play.google.com/store/apps/details?id=com.utick.fibber&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282388535533102.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI App Builder",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:35",
+      "updatedAt": "2023-12-17 22:37:35"
+    },
+    {
+      "name": "Make Tales",
+      "description": "MakeTales offers custom short story creation and gifting, providing personalized and creative storytelling services.",
+      "website": "https://www.maketales.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168575968631982157.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel",
+        "AI Story Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:34:36",
+      "updatedAt": "2023-06-03 10:34:36"
+    },
+    {
+      "name": "WonderTales -- bedtime story generator",
+      "description": "Personalized fairy tales for children",
+      "website": "https://wondertales.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170857404641999598.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Reviews Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-22 12:05:36",
+      "updatedAt": "2024-02-22 12:05:36"
+    },
+    {
+      "name": "Write Books with AI",
+      "description": "AI writing tool for creating books efficiently.",
+      "website": "https://writebookswithai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947686337812981.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "Novel",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:42",
+      "updatedAt": "2024-10-21 10:10:42"
+    },
+    {
+      "name": "BabyStoryAI",
+      "description": "Personalized audiobooks for children using AI technology.",
+      "website": "https://babystoryai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373327651870697.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:18",
+      "updatedAt": "2023-12-28 11:11:18"
+    },
+    {
+      "name": "readingclub.ai",
+      "description": "Enable creative writing at any literacy level",
+      "website": "https://www.readingclub.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073032955142223.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Book Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:50",
+      "updatedAt": "2024-03-18 10:51:50"
+    },
+    {
+      "name": "Fiction - AI Entertainment",
+      "description": "Revolutionizing storytelling with reader empowerment.",
+      "website": "https://apps.apple.com/us/app/fiction-ai-entertainment/id1662191941?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168735807355219356.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-21 22:34:21",
+      "updatedAt": "2023-06-21 22:34:21"
+    },
+    {
+      "name": "Wendy StoryTeller",
+      "description": "Personalized AI-generated audio stories for children.",
+      "website": "https://wendystoryteller.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170616998838638590.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Illustration Generator",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:14",
+      "updatedAt": "2024-01-25 16:04:14"
+    },
+    {
+      "name": "Catty AI",
+      "description": "Catty.AI is a platform using AI to teach children through interactive fairy tales.",
+      "website": "https://catty.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837655764233515.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Education Assistant",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:28:10",
+      "updatedAt": "2023-07-03 17:28:10"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "Fantasaur",
+      "description": "Personalized AI bedtime stories for children.",
+      "website": "https://www.fantasaur.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169409381919632155.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Character",
+        "AI Book Writing",
+        "Parenting",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
+    },
+    {
+      "name": "Pico Library",
+      "description": "AI-powered children's stories app",
+      "website": "https://apps.apple.com/us/app/pico-library/id6503027586?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172294105458092924.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Story Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 18:43:59",
+      "updatedAt": "2024-08-06 18:43:59"
+    },
+    {
+      "name": "Fantasy Forge",
+      "description": "Effortlessly generate stories using AI technology.",
+      "website": "https://apps.apple.com/app/fantasy-forge-ai-story-maker/id6449874973?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003639488021339.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "HeartByte",
+      "description": "Create fiction 10x faster",
+      "website": "https://heartbyte.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171186661128412562.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Tutorial",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:15",
+      "updatedAt": "2024-03-31 14:29:15"
+    },
+    {
+      "name": "Zora Learning",
+      "description": "Adaptive storytelling app to teach kids how to read",
+      "website": "https://zoralearning.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103099282809252.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Creative Writing",
+        "AI Education Assistant",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "KidsAIStory",
+      "description": "KidsAIStory is a website that uses AI to create illustrated children's stories.",
+      "website": "https://www.kidsaistory.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098392876423129.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Illustration Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "StoryNoi",
+      "description": "AI-powered story generation app for kids",
+      "website": "http://www.storynoi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170015653216780716.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-17 01:41:08",
+      "updatedAt": "2023-11-17 01:41:08"
+    },
+    {
+      "name": "Fable Wizard",
+      "description": "Create customized and magical fables for kids in seconds with Fable Wizard.",
+      "website": "https://fablewizard.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218835125430224.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "PopStory!!",
+      "description": "Create unique audiobooks with pictures for pre-reading children.",
+      "website": "https://popstory.co.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169409387493313762.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
+    },
+    {
+      "name": "Fireside",
+      "description": "Share stories with loved ones effortlessly.",
+      "website": "https://www.fireside-story.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067738987820989.webp",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

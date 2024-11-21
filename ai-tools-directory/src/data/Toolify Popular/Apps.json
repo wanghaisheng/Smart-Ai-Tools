@@ -1,0 +1,596 @@
+{
+  "tools": [
+    {
+      "name": "Aestractor - Your AI Gallery",
+      "description": "AI app for curating aesthetic photos from your gallery.",
+      "website": "https://apps.apple.com/us/app/aestractor-your-ai-gallery/id6705129042?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129943610730759.jpg",
+      "category": "AI Instagram Assistant",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Instagram Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "GiddyGiddy - Companions and Fun",
+      "description": "AI companion app for personalized interactions and support.",
+      "website": "https://apps.apple.com/us/app/giddygiddy-companions-and-fun/id6471645368?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129943733677985.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Character",
+        "AI Girlfriend",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "PurePlates",
+      "description": "AI app for simplifying recipe discovery and organization.",
+      "website": "https://apps.apple.com/ca/app/pureplates/id6621180161?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966611982192.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "BiteRight",
+      "description": "AI nutrition assistant for personalized food choices and meal planning.",
+      "website": "https://apps.apple.com/gb/app/biteright/id6502412291?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007967589299786.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Healthcare"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Manifest AI",
+      "description": "AI-powered app for manifestation techniques to achieve personal goals.",
+      "website": "https://apps.apple.com/us/app/manifest-ai-desire-acquire/id6476699054?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966942083312.jpg",
+      "category": "Other",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "DUIX.AI",
+      "description": "AI-powered companionship and emotional support tool.",
+      "website": "https://apps.apple.com/us/app/duix-ai/id6451088879?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007967394666354.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Dating Assistant",
+        "AI Character",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ZenQs Translate",
+      "description": "A versatile translation app for multiple languages.",
+      "website": "https://play.google.com/store/apps/details?id=com.zenqs.translate&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007967228692805.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Perplexity for Mac",
+      "description": "AI search tool for credible and up-to-date information.",
+      "website": "https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966839869447.jpg",
+      "category": "Other",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Lumia AI - AI Home Designer",
+      "description": "AI app for transforming home interiors and exteriors.",
+      "website": "https://apps.apple.com/tr/app/lumia-ai-ai-home-designer/id6692606620?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007964315899821.jpg",
+      "category": "AI Interior & Room Design",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Interior & Room Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "healcovery",
+      "description": "AI-driven matching for behavioral healthcare programs.",
+      "website": "https://apps.apple.com/app/healcovery/id6698894036?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965825072568.jpg",
+      "category": "Mental Health",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Mental Health",
+        "Healthcare",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Scanio | AI expense tracking",
+      "description": "AI expense tracking app for managing finances and receipts.",
+      "website": "https://apps.apple.com/tr/app/scanio-ai-expense-tracking/id6733252508?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007964693111278.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Document Extraction",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Melonote - AI Voice Note Taker",
+      "description": "AI voice note-taking and summarizing for productivity.",
+      "website": "https://apps.apple.com/my/app/melonote-ai-voice-note-taker/id6670156126?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966527660080.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Summarizer",
+        "Speech-to-Text",
+        "AI Notes Assistant",
+        "Transcription",
+        "Transcriber",
+        "Recording",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Snore Guard",
+      "description": "AI app to silence snoring using sound frequencies.",
+      "website": "https://play.google.com/store/apps/details?id=com.cp.mysoundclassification&pcampaignid=web_share&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965926007903.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Detector",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Less is More - Save time w/ AI",
+      "description": "Productivity app for task management with AI recommendations.",
+      "website": "https://apps.apple.com/us/app/less-is-more-save-time-w-ai/id6673916867?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965522482625.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Stamina Bar Pro",
+      "description": "App for tracking health data with personalized insights.",
+      "website": "https://apps.apple.com/us/app/stamina-bar-pro/id6475403113?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965326113825.jpg",
+      "category": "Other",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Lecture Notes AI",
+      "description": "AI app for recording lectures and generating structured notes.",
+      "website": "https://apps.apple.com/us/app/id6467521078?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007964788054430.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Notes Assistant",
+        "AI Course",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Track Your Nutrition: NUTROIC",
+      "description": "AI-powered nutrition tracker with personalized meal planning.",
+      "website": "https://apps.apple.com/us/app/track-your-nutrition-nutroic/id6560115045?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965233365911.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Resume AI Generator",
+      "description": "AI app for creating professional resumes and cover letters quickly.",
+      "website": "https://apps.apple.com/us/app/resume-ai-generator-cv-builder/id6670376457?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007963979134761.jpg",
+      "category": "Resume Builder",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Resume Builder",
+        "Cover Letter Generator",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "ICanCookFood",
+      "description": "Social media platform for foodies to share recipes.",
+      "website": "https://apps.apple.com/us/app/icancookfood/id6593659930?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965063636236.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "RaceDayta",
+      "description": "App for analyzing past race data and improving betting choices.",
+      "website": "https://apps.apple.com/gb/app/racedayta/id6717596686?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007963895846698.jpg",
+      "category": "Sports",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Sports"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "InstaLingo",
+      "description": "AI app for text extraction, translation, and pronunciation.",
+      "website": "https://apps.apple.com/th/app/instalingo/id6680142408?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966121247168.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Education Assistant",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Leya Translator",
+      "description": "AI-powered app for quick text, voice, and image translations.",
+      "website": "https://apps.apple.com/app/id/6502253221?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007964093716379.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Petizens",
+      "description": "A mobile app for pet wellness and community connection.",
+      "website": "https://play.google.com/store/apps/details?id=com.petizens.android&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966242505513.jpg",
+      "category": "Other",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Groq for iOS",
+      "description": "Fast and private AI assistant app for quick answers.",
+      "website": "https://apps.apple.com/us/app/groq/id6479176779?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007963661896282.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "flavory",
+      "description": "AI-assisted recipe finder for enhanced cooking.",
+      "website": "https://play.google.com/store/apps/details?id=com.course.resepkita&hl=en&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007963133841801.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Chatbot",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "AI Magix",
+      "description": "AI-powered tool for creating logos, illustrations, and more.",
+      "website": "https://play.google.com/store/apps/details?id=io.teksense.imageai&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007964514389501.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "Calorific - Nutrition Tracker",
+      "description": "AI-driven nutrition insights from photos of your meals.",
+      "website": "https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007963284097314.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "MyShotAI - AI Headshot",
+      "description": "AI app for creating professional headshots from selfies.",
+      "website": "https://apps.apple.com/app/id6682297640?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007962414870105.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ]
+}

@@ -1,0 +1,2872 @@
+{
+  "tools": [
+    {
+      "name": "Publer",
+      "description": "Publer is a convenient tool for scheduling and analyzing social media posts on multiple platforms.",
+      "website": "https://publer.io/Toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248183055690900.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Facebook Assistant",
+        "AI Instagram Assistant",
+        "AI Scheduling",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 12:04:51",
+      "updatedAt": "2023-04-26 12:04:51"
+    },
+    {
+      "name": "PhotoCaption",
+      "description": "Effortlessly create captivating captions",
+      "website": "https://apple.co/4bQRLPo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824303591586385.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "AI Instagram Assistant",
+        "AI Content Generator",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:41",
+      "updatedAt": "2024-06-13 09:42:41"
+    },
+    {
+      "name": "Favie - Crush on your favorites",
+      "description": "Personalized AI shopping assistant",
+      "website": "https://chromewebstore.google.com/detail/favie-crush-on-your-favor/fpapdlcoiecnmdjobkpnlmaflbielbfi?utm_source=TL&utm_medium=CPC&utm_campaign=EXT_Global_09062024_TL_PMFtest",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710815366653.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Customer Service Assistant",
+        "AI Analytics Assistant",
+        "AI Reviews Assistant",
+        "AI Social Media Assistant",
+        "AI CRM Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "Predis",
+      "description": "Predis.ai is an AI marketing tool for social media, providing content creation and analysis.",
+      "website": "https://predis.ai?ref=toolify68",
+      "image": "https://cdn-images.toolify.ai/image/772382fa057746be219f2351870b9d79.jpeg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Lead Generation",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "Crayo AI",
+      "description": "Create viral TikTok clips in seconds!",
+      "website": "https://crayo.ai/?ref=Toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170842697339283472.jpg",
+      "category": "AI Instagram Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Instagram Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "Text to Video",
+        "AI Content Generator",
+        "AI Script Writing",
+        "AI Video Generator",
+        "AI Analytics Assistant",
+        "Text-to-Speech",
+        "Captions or Subtitle",
+        "AI Short Clips Generator",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant",
+        "AI Hashtag Assistant",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 21:59:51",
+      "updatedAt": "2024-02-20 21:59:51"
+    },
+    {
+      "name": "shortspilot.ai",
+      "description": "AI tool for automating short video creation and posting.",
+      "website": "https://shortspilot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709775550523897.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:33",
+      "updatedAt": "2024-09-23 21:18:33"
+    },
+    {
+      "name": "Pebblely",
+      "description": "Create stunning product photos in seconds with Pebblely AI Product Photography.",
+      "website": "https://pebblely.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0de3312e07e8c6f2d0889a0cf0c12d41.jpeg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI Repurpose Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Circleboom",
+      "description": "Social media management tool to grow and strengthen social accounts.",
+      "website": "https://circleboom.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349977688759065.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:42",
+      "updatedAt": "2023-12-25 18:14:42"
+    },
+    {
+      "name": "Hypefury",
+      "description": "Hypefury is a tool for scheduling and automating social media content on platforms like Twitter and Instagram.",
+      "website": "https://hypefury.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168220464042413700.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-23 07:06:26",
+      "updatedAt": "2023-04-23 07:06:26"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Supercreator AI for OnlyFans",
+      "description": "AI tools for efficient OnlyFans management",
+      "website": "https://supercreator.app/?ref=ngvmyzj",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172011008655013821.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 00:21:10",
+      "updatedAt": "2024-07-05 00:21:10"
+    },
+    {
+      "name": "Nuelink",
+      "description": "The all-in-one social media scheduling and automation tool for businesses and entrepreneurs. Schedule, automate, and manage your social media effortlessly.",
+      "website": "http://nuelink.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170608638298278884.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Analytics Assistant",
+        "AI Hashtag Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-24 17:15:25",
+      "updatedAt": "2024-01-24 17:15:25"
+    },
+    {
+      "name": "aiCarousels.com",
+      "description": "Create captivating carousels for social media platforms easily with aiCarousels.com.",
+      "website": "https://www.aicarousels.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168381156662850057.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 21:25:49",
+      "updatedAt": "2023-05-11 21:25:49"
+    },
+    {
+      "name": "postfity.com",
+      "description": "Social media scheduler for multiple platforms",
+      "website": "https://postfity.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007931311159465.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Scheduling",
+        "Bio Link"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:57",
+      "updatedAt": "2024-03-10 22:00:57"
+    },
+    {
+      "name": "RADAAR",
+      "description": "RADAAR is a comprehensive social media management platform for brands, agencies, and startups.",
+      "website": "https://rdar.li/pl/qaxzm8d",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168241371024143246.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "Newsletter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-25 17:09:33",
+      "updatedAt": "2023-04-25 17:09:33"
+    },
+    {
+      "name": "Pygma",
+      "description": "AI social media manager for Instagram",
+      "website": "https://www.pygma.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016985694533994.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Photo & Image Generator",
+        "AI Avatar Generator",
+        "Photo & Image Editor",
+        "AI Profile Picture Generator",
+        "Text to Image",
+        "AI Image Enhancer",
+        "AI Selfie & Portrait",
+        "AI Photo Enhancer",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:24",
+      "updatedAt": "2024-07-05 16:56:24"
+    },
+    {
+      "name": "GPTBots.AI",
+      "description": "Powerful AI Bot Platform Built for Business",
+      "website": "https://www.gptbots.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053863363482648.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Social Media Assistant",
+        "AI SEO Assistant",
+        "AI Podcast Assistant",
+        "AI Customer Service Assistant",
+        "AI Blog Writer",
+        "AI Facebook Assistant",
+        "AI Email Generator",
+        "AI YouTube Assistant",
+        "AI Creative Writing",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Email Writer",
+        "Sales Assistant",
+        "AI Interview Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Followr.ai",
+      "description": "Followr is an AI platform that automates social media management and saves users time.",
+      "website": "https://followr.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572167230438744.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 00:01:01",
+      "updatedAt": "2023-06-03 00:01:01"
+    },
+    {
+      "name": "planly.com",
+      "description": "The best social media scheduler with AI writer and in-depth analytics tools",
+      "website": "https://planly.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230665741615370.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Twitter Assistant",
+        "Bio Link",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:45",
+      "updatedAt": "2024-04-05 16:41:45"
+    },
+    {
+      "name": "Choppity",
+      "description": "AI-powered clips from podcasts",
+      "website": "https://choppity.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171327950256221450.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-16 23:36:41",
+      "updatedAt": "2024-04-16 23:36:41"
+    },
+    {
+      "name": "Olly 2.0",
+      "description": "AI assistant optimizing social media engagement and content creation.",
+      "website": "https://www.olly.social?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147854536273167.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:34",
+      "updatedAt": "2024-11-13 14:14:34"
+    },
+    {
+      "name": "Devi | AI Social Media Leads Monitoring and Outreach Tool",
+      "description": "Save time on social media management and focus on growing your business with Devi's AI-powered tools.",
+      "website": "https://ddevi.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349985743549440.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Facebook Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "BrandBastion Lite",
+      "description": "BrandBastion helps brands monitor, manage, and engage in online conversations.",
+      "website": "https://www.brandbastion.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/8c92d2f05ec9ad119d634a7645478513.jpeg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "grum.co",
+      "description": "Boost your Instagram presence with AI-powered tools",
+      "website": "https://grum.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215019361963848.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:35",
+      "updatedAt": "2024-04-03 21:13:35"
+    },
+    {
+      "name": "Dynamo",
+      "description": "Dynamo is an AI-powered platform that maximizes social media user conversion.",
+      "website": "https://www.dynamo.fyi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168696717067410986.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-17 09:59:02",
+      "updatedAt": "2023-06-17 09:59:02"
+    },
+    {
+      "name": "propertysimple.com",
+      "description": "Revolutionizing property journey with AI",
+      "website": "https://propertysimple.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171231725935415435.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI CRM Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "AI Reviews Assistant",
+        "AI Facebook Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "Sales Assistant",
+        "AI Instagram Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 19:40:35",
+      "updatedAt": "2024-04-05 19:40:35"
+    },
+    {
+      "name": "imagetocaption.ai",
+      "description": "Create captions for your posts instantly.",
+      "website": "https://imagetocaption.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349954924320649.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:25",
+      "updatedAt": "2023-12-25 18:13:25"
+    },
+    {
+      "name": "Zocket",
+      "description": "Effortlessly launch click-to-message ads in seconds.",
+      "website": "https://zocket.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885097538089095.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Social Media Assistant",
+        "Digital Marketing Generator",
+        "AI Analytics Assistant",
+        "AI Facebook Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:01:37",
+      "updatedAt": "2023-11-01 23:01:37"
+    },
+    {
+      "name": "PowerIn",
+      "description": "Automatically reply to competitors on LinkedIn with AI.",
+      "website": "https://www.powerin.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605497395415349.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "Brandwise",
+      "description": "Brandwise is an AI-powered brand manager that protects social media from harmful comments.",
+      "website": "https://brandwise.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578333732838943.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:08:10",
+      "updatedAt": "2023-06-03 17:08:10"
+    },
+    {
+      "name": "Snowball",
+      "description": "AI-powered content creation for X/Twitter. Grow your audience effortlessly.",
+      "website": "https://snowball.club/?linkId=lp_392285&sourceId=wenhua-li&tenantId=snowball",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152560375304625.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:21",
+      "updatedAt": "2023-12-02 21:59:21"
+    },
+    {
+      "name": "Chirper AI",
+      "description": "The world's largest collection of autonomous AI agents.",
+      "website": "https://chirper.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170039407543027247.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "AI Content Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-19 19:40:34",
+      "updatedAt": "2023-11-19 19:40:34"
+    },
+    {
+      "name": "Storyy",
+      "description": "AI Video Scripts & Teleprompter",
+      "website": "https://storyy.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172795191798783642.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI UGC Video Generator",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Podcast Assistant",
+        "AI Social Media Assistant",
+        "AI Personalized Video Generator",
+        "AI Short Clips Generator",
+        "AI Video Recording",
+        "AI Content Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 18:39:20",
+      "updatedAt": "2024-10-03 18:39:20"
+    },
+    {
+      "name": "Base for Music",
+      "description": "A tool to help music professionals grow their fanbase.",
+      "website": "https://www.baseformusic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169313484227254674.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Music Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-27 19:13:07",
+      "updatedAt": "2023-08-27 19:13:07"
+    },
+    {
+      "name": "Social Curator",
+      "description": "AI-powered social media workspace creates and publishes customized content in under a minute.",
+      "website": "https://socialcurator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667619513449051.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Hashtag Assistant",
+        "AI Instagram Assistant",
+        "AI Lead Generation",
+        "Marketing Plan Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 01:09:38",
+      "updatedAt": "2023-06-14 01:09:38"
+    },
+    {
+      "name": "Chat Breezes 1.0",
+      "description": "Manage social interactions, boost sales, and close deals with ease.",
+      "website": "https://www.chatbreezes.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578516498613934.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Customer Service Assistant",
+        "AI Email Marketing",
+        "AI Facebook Assistant",
+        "AI Instagram Assistant",
+        "AI Lead Generation",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Commenter.ai",
+      "description": "Generate effective comments, save time, reach wider audience.",
+      "website": "https://commenter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686006466486374.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Influensly",
+      "description": "Boost TikTok organic growth with AI-powered advertising.",
+      "website": "https://influensly.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262634845772897.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:34",
+      "updatedAt": "2023-12-15 15:45:34"
+    },
+    {
+      "name": "Manycontent",
+      "description": "AI for social media success",
+      "website": "https://manycontent.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171617105653289751.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 10:09:58",
+      "updatedAt": "2024-05-20 10:09:58"
+    },
+    {
+      "name": "Autopilot Shorts",
+      "description": "Automate your social media video shorts with AI-generated content.",
+      "website": "https://autopilotshorts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068428097264361.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 12:35:38",
+      "updatedAt": "2024-11-04 12:35:38"
+    },
+    {
+      "name": "SocialTalk",
+      "description": "SocialTalk is a platform connecting users for social networking and communication.",
+      "website": "https://socialtalk.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517896238667204.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:15:45",
+      "updatedAt": "2023-05-27 17:15:45"
+    },
+    {
+      "name": "PosterStudio",
+      "description": "Create social media ads without design skills with PosterStudio.",
+      "website": "https://posterstudio.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168744554236707988.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Photo & Image Generator",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-22 22:51:53",
+      "updatedAt": "2023-06-22 22:51:53"
+    },
+    {
+      "name": "TweetyAI v2.0",
+      "description": "TweetyAI is an AI-powered tweet generator enhancing brand presence and social media strategies.",
+      "website": "https://tweetyai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584440592587132.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:06:05",
+      "updatedAt": "2023-06-04 10:06:05"
+    },
+    {
+      "name": "Opencord AI",
+      "description": "Effortless AI-generated content for social media.",
+      "website": "https://www.opencord.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262638251219257.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:37",
+      "updatedAt": "2023-12-15 15:45:37"
+    },
+    {
+      "name": "LoveGPT",
+      "description": "LoveGPT helps users improve romantic relationships through AI-powered conversation support.",
+      "website": "https://lovegpt.co.in?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f3a703cf2ea4dd8d609d00b4fd8a80b5.jpeg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Voice Chat Generator",
+        "Pick-up Lines Generator",
+        "AI Dating Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "TweetStorm.ai",
+      "description": "Generate professional tweets using AI, maximizing Twitter impact for businesses and marketers.",
+      "website": "https://www.tweetstorm.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168482476177817031.jpg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "AI Content Generator",
+        "Domain Name Generator",
+        "AI Hashtag Assistant",
+        "Bio Link",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 14:52:13",
+      "updatedAt": "2023-05-23 14:52:13"
+    },
+    {
+      "name": "Tweeteasy",
+      "description": "Enhance your tweets effortlessly",
+      "website": "https://tweeteasy.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215010421924768.webp",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Response Generator",
+        "AI Grammar Checker",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:34",
+      "updatedAt": "2024-04-03 21:13:34"
+    },
+    {
+      "name": "AI Social Bio",
+      "description": "AI Social Bio is an AI tool for generating professional social media bios.",
+      "website": "https://aisocialbio.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9a55abb6164cd8fb8965bf944bee0819.jpeg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "Bio Link",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "UltimateAI",
+      "description": "High-quality content generation in seconds",
+      "website": "https://ultimateai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146239332484479.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "AI Chatbot",
+        "AI Content Generator",
+        "Writing Assistants",
+        "General Writing",
+        "Prompt",
+        "Large Language Models (LLMs)",
+        "AI Blog Writer",
+        "AI Rewriter",
+        "Copywriting",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Customer Service Assistant",
+        "Digital Marketing Generator",
+        "AI Image Enhancer",
+        "Paraphraser",
+        "AI Photo Enhancer",
+        "AI Product Description Generator",
+        "AI Graphic Design",
+        "AI Design Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Code Generator",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:58",
+      "updatedAt": "2024-03-26 22:11:58"
+    },
+    {
+      "name": "Reelify AI",
+      "description": "AI tool for generating viral Gen Z content.",
+      "website": "https://www.reelify.lol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007951445737157.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI Ad Creative Assistant",
+        "AI Instagram Assistant",
+        "AI Photo & Image Generator",
+        "AI Repurpose Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:45",
+      "updatedAt": "2024-10-28 09:37:45"
+    },
+    {
+      "name": "Beno.one",
+      "description": "AI-powered client outreach automation",
+      "website": "https://beno.one?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017000145562597.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "Writing Assistants",
+        "AI Lead Generation",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:32",
+      "updatedAt": "2024-07-05 16:56:32"
+    },
+    {
+      "name": "Inr\u014d",
+      "description": "AI-powered Instagram marketing automation",
+      "website": "https://www.inro.social?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096700896271535.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant",
+        "AI Reply Assistant",
+        "AI Lead Generation",
+        "AI Response Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:24",
+      "updatedAt": "2024-07-14 22:21:24"
+    },
+    {
+      "name": "RevueAI",
+      "description": "Automate cold messages to Tiktok creators",
+      "website": "https://revueai.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103110436761459.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:48",
+      "updatedAt": "2024-03-21 22:22:48"
+    },
+    {
+      "name": "MobbyDownload",
+      "description": "Online tool for cutting and editing YouTube videos.",
+      "website": "https://www.mobbydownload.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159689744087453.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Video Recording",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:02",
+      "updatedAt": "2024-11-14 23:10:02"
+    },
+    {
+      "name": "Tweetify It",
+      "description": "Transform long-form content into personalized short social media posts for all platforms.",
+      "website": "https://tweetify.it?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168515967465914481.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 11:53:54",
+      "updatedAt": "2023-05-27 11:53:54"
+    },
+    {
+      "name": "Snaptap.ai",
+      "description": "Create professional photos without leaving your home.",
+      "website": "https://snaptap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067737693949790.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Photo & Image Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Selfie & Portrait",
+        "AI Photography",
+        "AI Profile Picture Generator",
+        "AI Hashtag Assistant",
+        "AI Photo Restoration",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "Tombot X",
+      "description": "Automated growth bots for social outreach and lead generation.",
+      "website": "https://tombot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947672544134823.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:38",
+      "updatedAt": "2024-10-21 10:10:38"
+    },
+    {
+      "name": "Socialdude.ai",
+      "description": "AI-driven content creation for all social platforms.",
+      "website": "https://socialdude.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170030589695118946.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Instagram Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-18 19:10:26",
+      "updatedAt": "2023-11-18 19:10:26"
+    },
+    {
+      "name": "DepopAid",
+      "description": "Boost your Depop success effortlessly.",
+      "website": "https://depopaid.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605444638738982.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Social Media Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:13:25",
+      "updatedAt": "2023-09-30 14:13:25"
+    },
+    {
+      "name": "ReplyMind",
+      "description": "Generate authentic replies easily with ReplyMind, saving time and enhancing engagement on social media.",
+      "website": "https://replymind.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169330348289830504.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-29 18:03:04",
+      "updatedAt": "2023-08-29 18:03:04"
+    },
+    {
+      "name": "Emails, replies and posts with GPT-4",
+      "description": "Replix.ai is a tool that uses AI to enhance expression and optimize online presence.",
+      "website": "https://replix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529273382169415.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:51:30",
+      "updatedAt": "2023-05-29 00:51:30"
+    },
+    {
+      "name": "Re-engage",
+      "description": "Transform existing content into viral social media posts.",
+      "website": "https://www.reengage.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129940524478186.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Repurpose Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:26:22",
+      "updatedAt": "2024-11-11 12:26:22"
+    },
+    {
+      "name": "Blessed Pirate",
+      "description": "\"Blessed Pirate helps boost personal brand on LinkedIn with expertly crafted posts.\"",
+      "website": "https://blessedpirate.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476370322268713.jpg",
+      "category": "AI Email Marketing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Email Marketing",
+        "AI Content Generator",
+        "AI Lead Generation",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:33:15",
+      "updatedAt": "2023-05-22 20:33:15"
+    },
+    {
+      "name": "YOYA",
+      "description": "Twitter automation tool for fast follower growth",
+      "website": "https://yoya.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070132159263461.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:51",
+      "updatedAt": "2024-07-11 20:33:51"
+    },
+    {
+      "name": "AI-sprinter",
+      "description": "AI-powered social media post generator",
+      "website": "https://ai-sprinter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017011259854373.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 17:00:42",
+      "updatedAt": "2024-07-05 17:00:42"
+    },
+    {
+      "name": "Capit",
+      "description": "Automatically generate creative social captions from images and video.",
+      "website": "https://capit.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262645553846875.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:42",
+      "updatedAt": "2023-12-15 15:45:42"
+    },
+    {
+      "name": "Reacti.ai - AI for Twitter Replies",
+      "description": "Revolutionizing Twitter & LinkedIn interactions with AI-powered replies.",
+      "website": "https://reacti.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577013968427627.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:28:31",
+      "updatedAt": "2023-06-03 13:28:31"
+    },
+    {
+      "name": "cretorial AI",
+      "description": "AI-powered Cretorial helps users create high-quality content for various purposes.",
+      "website": "https://www.cretorial.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168460341489087933.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "Digital Marketing Generator",
+        "AI Blog Writer",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Ad Generator",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Hashtag Assistant",
+        "Writing Assistants",
+        "Copywriting",
+        "Large Language Models (LLMs)",
+        "General Writing",
+        "Photo & Image Editor",
+        "AI Background Remover",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "Research Tool",
+        "Marketing Plan Generator",
+        "Design Assistant",
+        "AI Design Generator",
+        "AI Lead Generation",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-21 01:23:49",
+      "updatedAt": "2023-05-21 01:23:49"
+    },
+    {
+      "name": "ShillBot",
+      "description": "AI-powered Twitter marketing automation.",
+      "website": "https://shillbot.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169910274327862025.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 20:58:25",
+      "updatedAt": "2023-11-04 20:58:25"
+    },
+    {
+      "name": "OpenRep",
+      "description": "AI-powered SEO and social media content generator and scheduler.",
+      "website": "https://openrep.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745291068137709.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Digital Marketing Generator",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Analytics Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:26",
+      "updatedAt": "2023-10-16 18:40:26"
+    },
+    {
+      "name": "ChatGPR",
+      "description": "RoboAI SOCIAL is an AI-powered app that creates captivating social media content.",
+      "website": "https://www.robowriterai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578225716411432.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:50:41",
+      "updatedAt": "2023-06-03 16:50:41"
+    },
+    {
+      "name": "Social Caption",
+      "description": "Effortlessly generate captivating image captions for social media.",
+      "website": "https://socialcaption.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169953521256292003.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-09 21:06:11",
+      "updatedAt": "2023-11-09 21:06:11"
+    },
+    {
+      "name": "SocialPika",
+      "description": "Summary: SocialPika is a user-friendly tool to boost your social media presence.",
+      "website": "https://www.socialpika.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477139068868021.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Scheduling",
+        "AI Social Media Assistant",
+        "AI Task Management",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:18",
+      "updatedAt": "2023-05-23 00:02:18"
+    },
+    {
+      "name": "Tweet Fast",
+      "description": "AI tool for crafting viral tweets quickly.",
+      "website": "https://twtfast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176310851961409.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Copywriting",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:23:50",
+      "updatedAt": "2024-11-16 21:23:50"
+    },
+    {
+      "name": "Social Comments GPT for Twitter",
+      "description": "Automate creating personalized social media comments with Social Comments GPT chrome extension.",
+      "website": "https://social-comments-gpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485709443395864.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:51:24",
+      "updatedAt": "2023-05-23 23:51:24"
+    },
+    {
+      "name": "GeneratorXYZ.com",
+      "description": "AI-powered platform GeneratorXYZ helps users create engaging social media content quickly.",
+      "website": "https://generatorxyz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168482478726069531.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 14:52:14",
+      "updatedAt": "2023-05-23 14:52:14"
+    },
+    {
+      "name": "Instagram Summit 2023",
+      "description": "Learn hyper-growth and AI strategies from Instagram experts with 1 million+ followers.",
+      "website": "https://igsummit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349954395117160.jpg",
+      "category": "Digital Marketing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Digital Marketing Generator",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:25",
+      "updatedAt": "2023-12-25 18:13:25"
+    },
+    {
+      "name": "Magneo Education Student Engagement Platform",
+      "description": "Magneo is an AI-driven communication platform designed to deliver the right information to students exactly when they need it, streamlining their admission, retention, and enrollment processes. With 24/7/365 support, Magneo empowers school staff to provide continuous, reliable assistance to students.",
+      "website": "https://www.magneosolutions.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398632980768643.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI CRM Assistant",
+        "AI Reviews Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:07:18",
+      "updatedAt": "2024-08-18 21:07:18"
+    },
+    {
+      "name": "TweetEmote",
+      "description": "AI-powered TweetEmote is a helpful assistant that enhances tweets for better engagement.",
+      "website": "https://tweetemote.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/325cd592a2ea9206b3885abe5488ef45.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Tailwind \u2013 AI marketing content assistant",
+      "description": "Generate marketing content instantly",
+      "website": "https://chromewebstore.google.com/detail/tailwind-\u2013-ai-marketing-c/gkbhgdhhefdphpikedbinecandoigdel?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747566496085159.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant",
+        "AI Instagram Assistant",
+        "Writing Assistants",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "AI Content Generator",
+        "Copywriting",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Captions or Subtitle",
+        "AI Hashtag Assistant",
+        "General Writing",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Email Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:34",
+      "updatedAt": "2024-06-04 12:33:34"
+    },
+    {
+      "name": "Best Friends PRO",
+      "description": "AI-powered Facebook prospecting tool",
+      "website": "https://chromewebstore.google.com/detail/best-friends-pro/lhadhbipkfhhfgofeloalkkhfdpfmfao?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679946064271602.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Facebook Assistant",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant",
+        "Sales Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:44",
+      "updatedAt": "2024-05-25 21:31:44"
+    },
+    {
+      "name": "BollywoodAI - Hindi 'Voice AI",
+      "description": "Summary: BOLLYWOODAI allows users to chat with top Bollywood stars on WhatsApp for free.",
+      "website": "https://www.bollywoodai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804496069887077.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Celebrity Voice Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:21:37",
+      "updatedAt": "2023-06-29 21:21:37"
+    },
+    {
+      "name": "Linkedin Message Assistant",
+      "description": "Boost LinkedIn messaging efficiency.",
+      "website": "https://chromewebstore.google.com/detail/linkedin-message-assistan/ccblcjhcdaobpplhjdnmpihaclfmlalk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763899821144819.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:51",
+      "updatedAt": "2024-06-06 09:55:51"
+    },
+    {
+      "name": "LI Tools",
+      "description": "Automate LinkedIn Sales Navigator connections",
+      "website": "https://chromewebstore.google.com/detail/li-tools/gokinkodpplcoifimhclhnamkdkdnapl?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Sales Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:34",
+      "updatedAt": "2024-05-30 11:18:34"
+    },
+    {
+      "name": "Luppa AI",
+      "description": "Luppa is the all-in-one AI-powered content creation platform that helps businesses and creators effortlessly produce, manage, and grow their brand across all digital channels.",
+      "website": "https://luppa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173208152590769726.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
+    },
+    {
+      "name": "Prettysmart.co",
+      "description": "Prettysmart is a fast social media creator that uses AI to write copy and design posts.",
+      "website": "https://prettysmart.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168258661437410689.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 17:11:30",
+      "updatedAt": "2023-04-27 17:11:30"
+    },
+    {
+      "name": "HiveHubAI",
+      "description": "Social media analytics with AI insights.",
+      "website": "https://hivehubai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833024091659429.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:53",
+      "updatedAt": "2024-06-14 09:56:53"
+    },
+    {
+      "name": "sendout.ai - Most Affordable & Safest LinkedIn Automation Tool",
+      "description": "Enhance LinkedIn presence",
+      "website": "https://chromewebstore.google.com/detail/sendoutai-most-affordable/pchigneiiakoojdapbkiijmjpamdkkfo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954117842421.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Lead Generation",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:07",
+      "updatedAt": "2024-05-26 18:30:07"
+    },
+    {
+      "name": "feedhive.io",
+      "description": "Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform.",
+      "website": "https://feedhive.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349996875738764.jpg",
+      "category": "AI Scheduling",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Scheduling",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:51",
+      "updatedAt": "2023-12-25 18:14:51"
+    },
+    {
+      "name": "PostPerfect",
+      "description": "Enhance social media with GPT-3",
+      "website": "https://chromewebstore.google.com/detail/postperfect/ahegcpgbmngfcccaliclhpibfceljgfk?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:47",
+      "updatedAt": "2024-05-28 12:40:47"
+    },
+    {
+      "name": "AI Tweet Generator - ChatGPT-4",
+      "description": "Generate custom tweets effortlessly",
+      "website": "https://chromewebstore.google.com/detail/ai-tweet-generator-chatgp/panpganbbpljlikdcjgcpifhfcebndoj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679495583307829.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 16:43:51",
+      "updatedAt": "2024-05-20 16:43:51"
+    },
+    {
+      "name": "Sococal AI",
+      "description": "Sococal.ai generates a 30-day social media content calendar quickly, saving time for businesses.",
+      "website": "https://sococal.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440733393131269.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:49",
+      "updatedAt": "2023-05-18 18:53:49"
+    },
+    {
+      "name": "PropelPosts",
+      "description": "AI tools for LinkedIn content and brand building.",
+      "website": "https://propelposts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169668825573948129.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Content Generator",
+        "AI Analytics Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-07 22:16:19",
+      "updatedAt": "2023-10-07 22:16:19"
+    },
+    {
+      "name": "Jester AI Caption Writer",
+      "description": "AI-powered photo caption generator for Instagram.",
+      "website": "https://apps.apple.com/us/app/id1661372840?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476392723594374.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Large Language Models (LLMs)",
+        "AI Instagram Assistant",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:59:13",
+      "updatedAt": "2023-05-22 20:59:13"
+    },
+    {
+      "name": "Social Comments GPT",
+      "description": "An open-source chrome extension that generates engaging comments using OpenAI's ChatGPT.",
+      "website": "https://chrome.google.com/webstore/detail/social-comments-gpt/ejjbbgjlkpckpfkdmgafjpchcddbflpd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679476593628490.jpg",
+      "category": "AI Twitter Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Twitter Assistant",
+        "AI Social Media Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:28:33",
+      "updatedAt": "2023-05-23 22:28:33"
+    },
+    {
+      "name": "AyeAyeCaption",
+      "description": "Get fun and personalized social media captions instantly.",
+      "website": "https://apps.apple.com/in/app/aye-aye-caption/id1661259663?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485363870399959.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:48",
+      "updatedAt": "2023-05-23 22:53:48"
+    },
+    {
+      "name": "Social AI Assistant",
+      "description": "Enhancing Twitter conversations with AI-generated responses.",
+      "website": "https://chrome.google.com/webstore/detail/sleebit-ai-replies/hhmnpeafdkdhgghnmbglliileijdhfgh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679488965471408.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:25",
+      "updatedAt": "2023-09-15 00:19:25"
+    },
+    {
+      "name": "Respark",
+      "description": "Travel narratives and highlights platform",
+      "website": "https://chromewebstore.google.com/detail/respark/nhgeimghjjigkncmeclichokdnaeodhl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763903016203100.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant",
+        "Summarizer",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:25",
+      "updatedAt": "2024-06-06 09:56:25"
+    },
+    {
+      "name": "odeist",
+      "description": "AI Powered Social Media Discovery and Engagement",
+      "website": "https://odeist.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839371545434472.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:46:44",
+      "updatedAt": "2024-02-20 09:46:44"
+    },
+    {
+      "name": "Wordplus.ai",
+      "description": "WordPlus.ai helps businesses and individuals improve their social media strategy with AI-generated content.",
+      "website": "https://wordplus.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508755662976240.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Rewriter",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:51:57",
+      "updatedAt": "2023-05-26 15:51:57"
+    },
+    {
+      "name": "Reacti AI",
+      "description": "Generate personalized AI comments for social media",
+      "website": "https://chromewebstore.google.com/detail/reacti-ai/pmikjafnekojjckgdhcdmimoegkemdfj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763887153211725.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:50",
+      "updatedAt": "2024-06-06 09:53:50"
+    },
+    {
+      "name": "Mentis",
+      "description": "LinkedIn content inspiration and generation made easy.",
+      "website": "https://mentis.gg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169824377185243894.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-25 22:21:20",
+      "updatedAt": "2023-10-25 22:21:20"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

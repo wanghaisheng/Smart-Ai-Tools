@@ -1,0 +1,2655 @@
+{
+  "tools": [
+    {
+      "name": "Adobe Podcast",
+      "description": "Adobe Podcast is a web platform with AI audio features for recording, transcribing, editing, and sharing audio content.",
+      "website": "https://podcast.adobe.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b358044808559ba8185bba7f98e402f6.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "Voice & Audio Editing",
+        "Recording",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "The New Riverside",
+      "description": "Riverside.fm is a virtual studio enabling podcasters to create professional content remotely.",
+      "website": "https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168575969684676597.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI Tutorial",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:34:36",
+      "updatedAt": "2023-06-03 10:34:36"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Podcastle",
+      "description": "Podcastle makes podcasting easy with AI-powered tools for creation, editing, and distribution.",
+      "website": "https://podcastle.ai/?ref=n2rlmzb",
+      "image": "https://cdn-images.toolify.ai/image/6bf8dfe0795fc1e140e0453944d7026a.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:52",
+      "updatedAt": "2023-03-07 16:48:52"
+    },
+    {
+      "name": "Snipd",
+      "description": "Discover, save, and share podcast highlights with Snipd's AI-powered player.",
+      "website": "https://www.snipd.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168266809824727137.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 15:48:50",
+      "updatedAt": "2023-04-28 15:48:50"
+    },
+    {
+      "name": "autocut.com",
+      "description": "AI plugin for automated video editing in Premiere Pro.",
+      "website": "https://autocut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709770084051513.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:19",
+      "updatedAt": "2024-09-23 21:18:19"
+    },
+    {
+      "name": "Wondercraft AI",
+      "description": "Generate AI voices help Wondercraft AI users create and publish podcasts easily.",
+      "website": "https://www.wondercraft.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804552513377785.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Repurpose Assistant",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:31:14",
+      "updatedAt": "2023-06-29 21:31:14"
+    },
+    {
+      "name": "Podsqueeze",
+      "description": "Podsqueeze generates podcast content including shownotes, timestamps, and newsletters with AI technology.",
+      "website": "https://podsqueeze.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576118684719777.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:59:05",
+      "updatedAt": "2023-06-03 10:59:05"
+    },
+    {
+      "name": "Swell AI",
+      "description": "Automate podcast and video content writing.",
+      "website": "https://swellai.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349903927942557.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Blog Writer",
+        "AI Chatbot",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:20",
+      "updatedAt": "2023-12-25 18:02:20"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Transcript LOL",
+      "description": "Transcript.LOL helps users transcribe podcasts, videos, and meetings for faster learning and productivity.",
+      "website": "https://transcript.lol/?ref=Wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169322533568732754.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-28 20:21:21",
+      "updatedAt": "2023-08-28 20:21:21"
+    },
+    {
+      "name": "Podwise AI",
+      "description": "Powerful podcast transcription and summarization tool.",
+      "website": "https://podwise.ai?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120079061716758.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:05",
+      "updatedAt": "2024-03-23 21:32:05"
+    },
+    {
+      "name": "GPTBots.AI",
+      "description": "Powerful AI Bot Platform Built for Business",
+      "website": "https://www.gptbots.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053863363482648.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Social Media Assistant",
+        "AI SEO Assistant",
+        "AI Podcast Assistant",
+        "AI Customer Service Assistant",
+        "AI Blog Writer",
+        "AI Facebook Assistant",
+        "AI Email Generator",
+        "AI YouTube Assistant",
+        "AI Creative Writing",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Email Writer",
+        "Sales Assistant",
+        "AI Interview Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Tapesearch",
+      "description": "A search engine for podcast transcripts, finding specific information efficiently.",
+      "website": "https://www.tapesearch.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476435340739309.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:05:07",
+      "updatedAt": "2023-05-22 22:05:07"
+    },
+    {
+      "name": "Podurama",
+      "description": "Podurama is a multi-platform app for listening to free podcasts and custom RSS feeds.",
+      "website": "https://podurama.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578449169163333.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:28:01",
+      "updatedAt": "2023-06-03 17:28:01"
+    },
+    {
+      "name": "Choppity",
+      "description": "AI-powered clips from podcasts",
+      "website": "https://choppity.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171327950256221450.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-16 23:36:41",
+      "updatedAt": "2024-04-16 23:36:41"
+    },
+    {
+      "name": "Podcast",
+      "description": "AI-generated podcast covering various topics with listener suggestions, powered by play.ht.",
+      "website": "https://podcast.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/98f1dff274ec0a18db22cd65adb860de.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Synthesis",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Audioread",
+      "description": "Audioread converts text into audio using AI voices for a smooth listening experience.",
+      "website": "https://audioread.com/?via=Wenhua",
+      "image": "https://cdn-images.toolify.ai/image/165dcf71969e5cf2d611a5af7de5772c.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:49",
+      "updatedAt": "2023-03-07 16:48:49"
+    },
+    {
+      "name": "Podium",
+      "description": "Podium: AI tool for podcast producers, streamlining production by generating show notes, articles, and social media posts.",
+      "website": "https://hello.podium.page/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/eec5e3a6da0f7a17786bd555bee6b532.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Storyy",
+      "description": "AI Video Scripts & Teleprompter",
+      "website": "https://storyy.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172795191798783642.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI UGC Video Generator",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Podcast Assistant",
+        "AI Social Media Assistant",
+        "AI Personalized Video Generator",
+        "AI Short Clips Generator",
+        "AI Video Recording",
+        "AI Content Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 18:39:20",
+      "updatedAt": "2024-10-03 18:39:20"
+    },
+    {
+      "name": "SummarAIze AI",
+      "description": "AI tool for repurposing podcast and video content",
+      "website": "https://www.summaraize.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172025842062698360.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "Summarizer",
+        "AI Rewriter",
+        "Copywriting",
+        "Paraphraser",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 17:37:51",
+      "updatedAt": "2024-07-06 17:37:51"
+    },
+    {
+      "name": "Fathom Podcast Player",
+      "description": "Revolutionizing podcast search with AI technology.",
+      "website": "https://fathom.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485337933749388.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:49:12",
+      "updatedAt": "2023-05-23 22:49:12"
+    },
+    {
+      "name": "Podchat",
+      "description": "Get AI generated podcast summaries and unlock insights from favorite episodes.",
+      "website": "https://www.podchat.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169193531655153560.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-13 22:01:29",
+      "updatedAt": "2023-08-13 22:01:29"
+    },
+    {
+      "name": "PodScribe.IO",
+      "description": "Podcasts to actionable knowledge platform",
+      "website": "https://podscribe.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062476322826747.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Notes Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:05",
+      "updatedAt": "2024-07-10 23:19:05"
+    },
+    {
+      "name": "sounder.ai",
+      "description": "Maximize audio advertising potential with AI-driven insights",
+      "website": "https://sounder.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277171688300334.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Podcast Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Content Detector",
+        "Sales Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:53:56",
+      "updatedAt": "2024-04-11 01:53:56"
+    },
+    {
+      "name": "Podmob",
+      "description": "Get personalized podcast insights to your inbox.",
+      "website": "https://www.podmob.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477861560480452.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Podcast Assistant",
+        "Newsletter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "Allinpod",
+      "description": "Allinpod.ai offers AI software for creating engaging podcasts.",
+      "website": "https://allinpod.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585248450257585.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Celebrity Voice Generator",
+        "AI Content Generator",
+        "AI Lip Sync Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:21:15",
+      "updatedAt": "2023-06-04 12:21:15"
+    },
+    {
+      "name": "AIPodNav",
+      "description": "Efficient podcast tool includes transcript, summary, mind map, and highlights, providing a comprehensive solution for podcast information management.",
+      "website": "https://www.aipodnav.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481142158197787.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "AI Knowledge Management",
+        "AI Productivity Tools",
+        "AI Mind Mapping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:21:25",
+      "updatedAt": "2024-08-28 10:21:25"
+    },
+    {
+      "name": "GoodListen",
+      "description": "GoodListen is an AI-powered podcast platform for searching, listening, discovering and sharing podcast clips and episodes.",
+      "website": "https://goodlisten.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494007363045099.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Search Engine",
+        "AI Video Search"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:54:13",
+      "updatedAt": "2023-05-24 22:54:13"
+    },
+    {
+      "name": "Listener.fm",
+      "description": "Listener.fm is an AI-powered solution that improves podcast quality and saves time.",
+      "website": "https://www.listener.fm?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a635137f766764c6247e976e87c04a28.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Content Generator",
+        "AI Repurpose Assistant",
+        "Writing Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "Poddy.ai",
+      "description": "Rapidly generate podcast recordings with Poddy.ai.",
+      "website": "https://poddy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373361231449862.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Podcast Assistant",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "PodcastAI.cc",
+      "description": "Convert text into audio podcasts in multiple languages.",
+      "website": "https://podcastai.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709746925040924.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:25",
+      "updatedAt": "2024-09-23 21:17:25"
+    },
+    {
+      "name": "Notebooklm Podcast",
+      "description": "Transform PDFs or any text into engaging audio content with our AI-powered podcast generator. Whether you need a dynamic two-person dialogue, a lecture, or a direct script reading, upload your content and let our AI create personalized audio experiences for your listeners in multiple languages!",
+      "website": "https://notebooklmpodcast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008215037312403.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text-to-Speech",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:34",
+      "updatedAt": "2024-10-28 10:27:34"
+    },
+    {
+      "name": "Podverse",
+      "description": "AI tools for podcasters with transcripts, summaries, and chat features.",
+      "website": "https://podverse.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855758223198029.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:52:36",
+      "updatedAt": "2024-10-10 18:52:36"
+    },
+    {
+      "name": "Magicast.ai",
+      "description": "Create personalized podcasts based on interests with Magicast.ai.",
+      "website": "https://www.magicast.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168821806496093716.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Speech Recognition",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-01 21:27:24",
+      "updatedAt": "2023-07-01 21:27:24"
+    },
+    {
+      "name": "Contxt",
+      "description": "Personalized AI podcasts for educational content",
+      "website": "https://contxt-app.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062476986574154.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Knowledge Base",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:05",
+      "updatedAt": "2024-07-10 23:19:05"
+    },
+    {
+      "name": "Write Panda",
+      "description": "WritePanda automates podcast production tasks, saving time for podcasters.",
+      "website": "https://app.writepanda.io?via=j7j06s4l4ya0vb9ne2bj",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494736367645100.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Blog Writer",
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "Copywriting",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:55:53",
+      "updatedAt": "2023-05-25 00:55:53"
+    },
+    {
+      "name": "Syndy",
+      "description": "Syndy is a platform for creating personalized podcasts.",
+      "website": "https://www.syndy.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578335340248506.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:08:12",
+      "updatedAt": "2023-06-03 17:08:12"
+    },
+    {
+      "name": "Recos.",
+      "description": "Recos is a secure and efficient web app that transcribes audio into text.",
+      "website": "https://recos.studio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622582659837307.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:03:17",
+      "updatedAt": "2023-06-08 20:03:17"
+    },
+    {
+      "name": "Instant Podcast",
+      "description": "Short, informative and fun AI-generated podcasts.",
+      "website": "https://instant-podcast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667621124078559.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Blog Writer",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 01:09:44",
+      "updatedAt": "2023-06-14 01:09:44"
+    },
+    {
+      "name": "Castup AI",
+      "description": "Castup AI assists users in creating and promoting podcast episodes using ChatGPT AI.",
+      "website": "https://CastupAI.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837667498981778.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Content Generator",
+        "AI Interview Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:30:31",
+      "updatedAt": "2023-07-03 17:30:31"
+    },
+    {
+      "name": "Wize",
+      "description": "Chat with podcasts using AI-powered platform.",
+      "website": "https://trywize.chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063115478364015.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "Coggler",
+      "description": "Chat with popular podcasts using Coggler's AI technology to unlock their potential.",
+      "website": "https://coggler.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098390976044902.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "Firebay Studios",
+      "description": "Firebay Studios is the top podcast agency for AI audio services.",
+      "website": "https://www.firebaystudios.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218837577200760.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "AI Voice Assistants",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "ClipGen",
+      "description": "Convert long-form podcasts into optimized short clips.",
+      "website": "https://www.clipgen.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373360044494072.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "Sniplet",
+      "description": "Discover and share relevant podcast snippets.",
+      "website": "https://sniplet.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578512068692767.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Obiklip",
+      "description": "Streamline video editing for speech and podcast content with auto-transcription and easy segment clipping.",
+      "website": "https://obiklip.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169798056516573677.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-22 21:15:51",
+      "updatedAt": "2023-10-22 21:15:51"
+    },
+    {
+      "name": "Relevant",
+      "description": "Real-time content suggestion for podcast production.",
+      "website": "https://relevant-app.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170049530491573942.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Transcription",
+        "AI Speech Recognition",
+        "Recording",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-20 23:48:06",
+      "updatedAt": "2023-11-20 23:48:06"
+    },
+    {
+      "name": "Reverb Street",
+      "description": "Grow podcast audience with short video clips.",
+      "website": "https://reverbstreet.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185049878295385.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Short Clips Generator",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:59",
+      "updatedAt": "2023-12-06 16:13:59"
+    },
+    {
+      "name": "Podhome",
+      "description": "Unlimited podcast hosting with intelligent tools.",
+      "website": "https://www.podhome.fm/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229733147446217.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Audio Enhancer",
+        "AI Analytics Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:13",
+      "updatedAt": "2023-12-11 20:21:13"
+    },
+    {
+      "name": "SpeakUp AI",
+      "description": "Simplify podcast creation with AI. Transform written content into captivating podcasts.",
+      "website": "https://startspeakup.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589359973543091.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Script Writing",
+        "AI Content Generator",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:25",
+      "updatedAt": "2024-01-22 11:18:25"
+    },
+    {
+      "name": "11Cast",
+      "description": "Create studio-quality podcasts with AI and realistic voice-over.",
+      "website": "https://11cast.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007946670784005.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:01:00",
+      "updatedAt": "2024-03-10 22:01:00"
+    },
+    {
+      "name": "Podcai",
+      "description": "Personalized news podcasts",
+      "website": "https://www.podcai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566240247902688.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:15",
+      "updatedAt": "2024-05-14 12:51:15"
+    },
+    {
+      "name": "LemonSpeak",
+      "description": "Podcast marketing automation tool",
+      "website": "https://lemonspeak.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171671951071255809.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:46",
+      "updatedAt": "2024-05-26 18:30:46"
+    },
+    {
+      "name": "PodTextify",
+      "description": "Ultimate podcast transcription & translation",
+      "website": "https://podtextify.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687138447959061.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Translate",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:42:30",
+      "updatedAt": "2024-05-28 12:42:30"
+    },
+    {
+      "name": "Tuxpin",
+      "description": "Convert webpages to podcasts",
+      "website": "https://chromewebstore.google.com/detail/tuxpin/lffkbchcpfplklpcnogmciibnfmfddei?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703923133689916.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:19",
+      "updatedAt": "2024-05-30 11:20:19"
+    },
+    {
+      "name": "Audioread: Ultra-Realistic Text-to-Speech",
+      "description": "Convert text to podcast",
+      "website": "https://chromewebstore.google.com/detail/audioread-ultra-realistic/fblchjbbkkaoobkhhbloehgkpdlomido?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738115041565677.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer",
+        "Text-to-Speech",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:52",
+      "updatedAt": "2024-06-03 10:18:52"
+    },
+    {
+      "name": "IListen AI",
+      "description": "Summarises articles into podcasts",
+      "website": "https://chromewebstore.google.com/detail/ilisten-ai/ljhdeapjblcmgccanjhoddbkcoijlgpk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767258665349.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:13",
+      "updatedAt": "2024-06-07 21:40:13"
+    },
+    {
+      "name": "PodKit: Listen to webpages",
+      "description": "Convert webpages to audio summaries",
+      "website": "https://chromewebstore.google.com/detail/podkit-listen-to-webpages/bjljhhmhiahbnlcjikgkijhbecjkhddh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776924363365017.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:52",
+      "updatedAt": "2024-06-07 22:06:52"
+    },
+    {
+      "name": "All-In Historian",
+      "description": "AI chatbot for ALL IN podcast insights",
+      "website": "https://allinpod.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016980352938864.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:22",
+      "updatedAt": "2024-07-05 16:56:22"
+    },
+    {
+      "name": "Genepod",
+      "description": "AI-powered podcast generator",
+      "website": "https://genepod.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172051477722131716.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 16:42:18",
+      "updatedAt": "2024-07-09 16:42:18"
+    },
+    {
+      "name": "Grro",
+      "description": "AI-powered audience insights for podcasts",
+      "website": "https://grro.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052425089404176.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Analytics Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:25",
+      "updatedAt": "2024-07-09 19:23:25"
+    },
+    {
+      "name": "Read It",
+      "description": "Convert text content to podcast audio",
+      "website": "https://www.readit.bot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172294121915269773.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 18:46:22",
+      "updatedAt": "2024-08-06 18:46:22"
+    },
+    {
+      "name": "gurupod",
+      "description": "AI podcast transcription and interpretation tool",
+      "website": "https://gurupod.cn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328719166961325.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:52:45",
+      "updatedAt": "2024-08-10 18:52:45"
+    },
+    {
+      "name": "Anycast+",
+      "description": "AI podcast app for global listening and interaction.",
+      "website": "https://anycast.website?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172363256733148162.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Transcription",
+        "Transcriber",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-14 18:48:27",
+      "updatedAt": "2024-08-14 18:48:27"
+    },
+    {
+      "name": "Lettercast",
+      "description": "Transforms newsletters into personalized AI-generated podcasts.",
+      "website": "https://lettercast.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544459030027868.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Newsletter",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:24",
+      "updatedAt": "2024-09-04 18:07:24"
+    },
+    {
+      "name": "Rift Podcast",
+      "description": "AI transforms web content into personalized audio podcasts.",
+      "website": "https://riftpodcast.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947681535487568.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:41",
+      "updatedAt": "2024-10-21 10:10:41"
+    },
+    {
+      "name": "Free AI Song Generator",
+      "description": "Create custom music using AI technology for free.",
+      "website": "https://aisonggenerator.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173094591281521977.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI YouTube Assistant",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-07 10:20:00",
+      "updatedAt": "2024-11-07 10:20:00"
+    },
+    {
+      "name": "PodExtra AI",
+      "description": "PodExtra AI - Unleash the power of podcast with AI",
+      "website": "https://www.podextra.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173094590511638309.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "AI Productivity Tools",
+        "Speech-to-Text",
+        "AI Mind Mapping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-07 10:20:09",
+      "updatedAt": "2024-11-07 10:20:09"
+    },
+    {
+      "name": "SeekhoAI",
+      "description": "AI-generated podcasts for learning any topic on-the-go.",
+      "website": "https://www.seekhoai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129914619149254.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:08",
+      "updatedAt": "2024-11-11 12:24:08"
+    },
+    {
+      "name": "EchoWave",
+      "description": "Convert audio into videos for social media platforms.",
+      "website": "https://echowave.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025362433659596.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:16:06",
+      "updatedAt": "2024-10-30 10:16:06"
+    },
+    {
+      "name": "Listnr AI",
+      "description": "Create voiceovers and videos with AI",
+      "website": "https://listnr.ai/?gr_pk=XN2z",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170765305597789281.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Text to Video",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-11 20:17:00",
+      "updatedAt": "2024-02-11 20:17:00"
+    },
+    {
+      "name": "Recast Studio",
+      "description": "Turn your podcast into engaging content with AI.",
+      "website": "https://recast.studio/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262644579454949.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle",
+        "Text to Video",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Repurpose Assistant",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Video Generator",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:41",
+      "updatedAt": "2023-12-15 15:45:41"
+    },
+    {
+      "name": "Podcastworld.io- Perplexity for Podcasts",
+      "description": "An AI search engine for discovering podcast insights and audio segments.",
+      "website": "https://www.podcastworld.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965776563476721.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:37",
+      "updatedAt": "2024-10-23 12:26:37"
+    },
+    {
+      "name": "ShortCast.ai",
+      "description": "AI-driven YouTube & Podcast Summaries!",
+      "website": "https://shortcast.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169506078990186025.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant",
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-19 02:13:01",
+      "updatedAt": "2023-09-19 02:13:01"
+    },
+    {
+      "name": "PodQuest",
+      "description": "AI-driven engine for discovering podcasts tailored to user interests.",
+      "website": "https://www.podquest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007979950714366.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:53",
+      "updatedAt": "2024-10-28 09:41:53"
+    },
+    {
+      "name": "Podcraftr",
+      "description": "AI-driven podcast generation from various text content types.",
+      "website": "https://podcraftr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544451496775460.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:03",
+      "updatedAt": "2024-09-04 18:07:03"
+    },
+    {
+      "name": "Snipcast",
+      "description": "AI-generated summaries for podcasts and videos",
+      "website": "https://snipcast.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172051488153795797.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Podcast Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 16:42:20",
+      "updatedAt": "2024-07-09 16:42:20"
+    },
+    {
+      "name": "Podnotes",
+      "description": "Transform podcasts and videos into captivating content for social media in minutes.",
+      "website": "https://podnotes.app?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170696220912754756.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Repurpose Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "AI Social Media Assistant",
+        "AI Blog Writer",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-03 20:08:18",
+      "updatedAt": "2024-02-03 20:08:18"
+    },
+    {
+      "name": "listen411.com",
+      "description": "Fast and Cheap",
+      "website": "https://listen411.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067741637142020.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "PodSnap.AI",
+      "description": "AI-generated summaries for every new podcast episode.",
+      "website": "https://podsnap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544441884763078.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:06:20",
+      "updatedAt": "2024-09-04 18:06:20"
+    },
+    {
+      "name": "Space Make",
+      "description": "Download and convert Twitter Spaces into content with AI tools.",
+      "website": "https://spacemake.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709745830651337.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Twitter Assistant",
+        "AI Content Generator",
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:25",
+      "updatedAt": "2024-09-23 21:17:25"
+    },
+    {
+      "name": "PodfyAI - The Platform for Creators and Agencies",
+      "description": "Simplify podcasting with AI powered tools",
+      "website": "https://podfyai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171163326757710644.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Newsletter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 21:45:15",
+      "updatedAt": "2024-03-28 21:45:15"
+    },
+    {
+      "name": "Listen2.AI",
+      "description": "Latest information via podcast tailored to your preferences",
+      "website": "https://listen2.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171033935432035257.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-13 22:14:11",
+      "updatedAt": "2024-03-13 22:14:11"
+    },
+    {
+      "name": "PDF2Audio",
+      "description": "Transform PDFs into customizable audio outputs.",
+      "website": "https://pdf2audioai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147856298456718.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI PDF",
+        "AI Podcast Assistant",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:35",
+      "updatedAt": "2024-11-13 14:14:35"
+    },
+    {
+      "name": "Slayer AI",
+      "description": "\"Create personalized podcasts in seconds with Slayer AI's AI technology.\"",
+      "website": "https://www.slayerai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476352031955948.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 19:26:54",
+      "updatedAt": "2023-05-22 19:26:54"
+    },
+    {
+      "name": "Podsee",
+      "description": "An AI tool for podcast listeners.",
+      "website": "https://pods.ee?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169772265483494648.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-19 21:35:47",
+      "updatedAt": "2023-10-19 21:35:47"
+    },
+    {
+      "name": "TLDL",
+      "description": "Get AI-generated podcast insights to save time and enhance learning.",
+      "website": "https://www.tldl.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947666485097518.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Newsletter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:37",
+      "updatedAt": "2024-10-21 10:10:37"
+    },
+    {
+      "name": "Getsermons",
+      "description": "Stream global sermons easily",
+      "website": "https://getsermons.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566217162093034.webp",
+      "category": "Religion",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Religion",
+        "AI Podcast Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:12",
+      "updatedAt": "2024-05-14 12:47:12"
+    },
+    {
+      "name": "Koolio.ai",
+      "description": "koolio.ai is a web-based platform for audio editing and content creation.",
+      "website": "https://www.koolio.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a99cd59176d768440eb8e353a7e0f66c.jpeg",
+      "category": "Voice & Audio Editing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "AI Podcast Assistant",
+        "AI Video Editor",
+        "Recording",
+        "Transcription",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "Narrativ",
+      "description": "Convert articles to audio with cloned voices.",
+      "website": "https://apps.apple.com/us/app/narrativ-ai/id6450302693?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987693695120046.jpg",
+      "category": "Newsletter",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Newsletter",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:14:20",
+      "updatedAt": "2023-07-21 02:14:20"
+    },
+    {
+      "name": "BlogToPod",
+      "description": "Convert blogs to podcasts easily with BlogToPod, expanding your audience effortlessly.",
+      "website": "https://blogtopod.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134158868826236.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Speech Synthesis",
+        "Recording",
+        "AI Podcast Assistant",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "PodulateAI",
+      "description": "Turn YouTube videos into interactive experiences.",
+      "website": "https://podulate.azen.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072950785707340.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:40",
+      "updatedAt": "2023-11-23 16:50:40"
+    },
+    {
+      "name": "Podcast Auto Edit for iOS",
+      "description": "Record and edit videos seamlessly",
+      "website": "https://apps.apple.com/us/app/id1673518618?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900418381932994.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle",
+        "AI Video Recording",
+        "Photo & Image Editor",
+        "AI Video Editor",
+        "Recording",
+        "AI Photo Enhancer",
+        "AI Photography"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:45",
+      "updatedAt": "2024-02-27 11:22:45"
+    },
+    {
+      "name": "PodBravo",
+      "description": "Automated podcast content repurposing.",
+      "website": "https://podbravo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987803922556243.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Repurpose Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:13",
+      "updatedAt": "2024-03-08 14:06:13"
+    },
+    {
+      "name": "NoFOMO.AI",
+      "description": "Get YouTube and Podcast summaries effortlessly.",
+      "website": "https://nofomo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171533934962708546.webp",
+      "category": "Newsletter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Newsletter",
+        "AI Podcast Assistant",
+        "Summarizer",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-10 19:08:47",
+      "updatedAt": "2024-05-10 19:08:47"
+    },
+    {
+      "name": "AutoScript.fr",
+      "description": "Generate podcast formats efficiently",
+      "website": "https://autoscript.fr?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171647508596874019.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "AI Podcast Assistant",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "Summarizer",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 23:01:07",
+      "updatedAt": "2024-05-23 23:01:07"
+    },
+    {
+      "name": "Insightfly: ChatGPT YouTube Summary",
+      "description": "Extract key insights from YouTube videos efficiently.",
+      "website": "https://chromewebstore.google.com/detail/insightfly-chatgpt-youtub/eflhibkehcgonglaobnnllnoafhocikf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738086989207177.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:38",
+      "updatedAt": "2024-06-03 10:13:38"
+    },
+    {
+      "name": "Ad Auris Play",
+      "description": "Convert articles into podcasts easily.",
+      "website": "https://chromewebstore.google.com/detail/ad-auris-play/cbapodfajkmfmbmcihcdnilelhhhlpap?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Text-to-Speech",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:48",
+      "updatedAt": "2024-06-06 09:53:48"
+    },
+    {
+      "name": "Audioburst Search",
+      "description": "Get radio and podcast search results instantly.",
+      "website": "https://chromewebstore.google.com/detail/audioburst-search/fklmjdikdlbaoikgfajndhijmjlggjhh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763912113001142.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:38",
+      "updatedAt": "2024-06-06 09:56:38"
+    },
+    {
+      "name": "AI-TTS",
+      "description": "Create lifelike audio from text instantly.",
+      "website": "https://chromewebstore.google.com/detail/ai-tts/mjbmhkabnldpmpchniohidgfombmfeda?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:52",
+      "updatedAt": "2024-06-07 22:06:52"
+    },
+    {
+      "name": "Framedrop.ai: Convert Video to Shorts",
+      "description": "Automatically repurpose videos for social media.",
+      "website": "https://chromewebstore.google.com/detail/framedropai-convert-video/jligmpebbaedmkplfnfdnkhhjkjaccog?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824295481870531.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Repurpose Assistant",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Detector",
+        "Captions or Subtitle",
+        "AI Tiktok Assistant",
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Instagram Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:16",
+      "updatedAt": "2024-06-13 09:42:16"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

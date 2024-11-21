@@ -1,0 +1,630 @@
+{
+  "tools": [
+    {
+      "name": "Uberduck",
+      "description": "Uberduck is an AI music production platform with realistic voices and custom options.",
+      "website": "https://uberduck.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f286663ba2ccc3d70dbe59b7b6727fd9.jpeg",
+      "category": "AI Rap Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Singing Generator",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Rap Generator",
+      "description": "Free AI tool for rap lyrics and songs",
+      "website": "https://rapgenerator.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566111166831411.webp",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "Large Language Models (LLMs)",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:30:43",
+      "updatedAt": "2024-05-14 12:30:43"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Jarvis",
+      "description": "Boost creativity with AI generated lyrics.",
+      "website": "https://jarvis-lyrics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349958595455951.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Lyrics Generator",
+        "AI Rap Generator",
+        "Writing Assistants",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:26",
+      "updatedAt": "2023-12-25 18:13:26"
+    },
+    {
+      "name": "OnePlus AI Music Studio",
+      "description": "Experience the future of music-making with innovative AI-driven music.",
+      "website": "https://aimusicstudio.oneplus.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072957971053180.jpg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Content Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:42",
+      "updatedAt": "2023-11-23 16:50:42"
+    },
+    {
+      "name": "BeatBot",
+      "description": "Compose unique songs using AI technology.",
+      "website": "https://www.beatbot.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518657091004246.jpg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:22:13",
+      "updatedAt": "2023-05-27 19:22:13"
+    },
+    {
+      "name": "rhyme.cool",
+      "description": "AI-powered rap lyrics generator.",
+      "website": "https://rhyme.cool?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477162449685603.jpg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:06:44",
+      "updatedAt": "2023-05-23 00:06:44"
+    },
+    {
+      "name": "Rapli.co",
+      "description": "Rapli generates personalized rap songs using AI, revolutionizing the music industry.",
+      "website": "https://Rapli.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16834742894547764.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Rap Generator",
+        "AI Advertising Assistant",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 23:45:11",
+      "updatedAt": "2023-05-07 23:45:11"
+    },
+    {
+      "name": "Drayk It",
+      "description": "Generate personalized Drake songs with AI on drayk.it.",
+      "website": "https://drayk.it?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/265d1211772d427abb2053ff6bb4eda6.jpeg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "AI Rapper Music",
+      "description": "AI-driven rap music creation platform",
+      "website": "https://airapper.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998291617690664.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:19",
+      "updatedAt": "2024-07-03 13:01:19"
+    },
+    {
+      "name": "Automated Combat",
+      "description": "Experience AI-powered historical debates with Automated Combat and GPT-4.",
+      "website": "https://www.automatedcombat.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374060736097156.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:43:22",
+      "updatedAt": "2023-05-11 01:43:22"
+    },
+    {
+      "name": "AI Rap Song Generator",
+      "description": "Create catchy rap songs with AI Rap Song Generator.",
+      "website": "https://apps.apple.com/us/app/ai-rap-song-generator/id6448916248?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837657838232830.jpg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Content Generator",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:28:29",
+      "updatedAt": "2023-07-03 17:28:29"
+    },
+    {
+      "name": "Make Best Music",
+      "description": "AI-powered music production suite",
+      "website": "https://makebestmusic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171982344570451765.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-01 16:53:53",
+      "updatedAt": "2024-07-01 16:53:53"
+    },
+    {
+      "name": "Fye.ai - Ai Rap Assistant",
+      "description": "Create rap music and artwork with Fye.ai in a new way.",
+      "website": "https://fye.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350438827239192.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Cover Generator",
+        "AI Lyrics Generator",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:53",
+      "updatedAt": "2023-12-25 18:14:53"
+    },
+    {
+      "name": "Barrs AI",
+      "description": "Barrs app uses AI to generate unique lyrics in multiple languages, improving creative songwriting.",
+      "website": "https://barrs.cloud?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518803547256577.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Lyrics Generator",
+        "AI Creative Writing",
+        "AI Rap Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:46:55",
+      "updatedAt": "2023-05-27 19:46:55"
+    },
+    {
+      "name": "Magic Type AI",
+      "description": "Personalized AI writing for greetings, poetry, and rap.",
+      "website": "https://www.magictype.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0d0dfdf93f68d5c3a4d36ca3cd4f1881.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Poem & Poetry Generator",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Splashmusic",
+      "description": "Splash is an inclusive AI music platform with original compositions and versatile features.",
+      "website": "https://www.splashmusic.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f03e4e7ecc922bdc4a7fd96c5bd8c6b7.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Voice Cloning",
+        "Text-to-Music",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "tools": [
+    {
+      "name": "taxtim.com",
+      "description": "Online platform for easy tax return filing",
+      "website": "https://taxtim.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135259455041605.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:47",
+      "updatedAt": "2024-07-19 09:27:47"
+    },
+    {
+      "name": "accountable.de",
+      "description": "Tax management and accounting solution for freelancers.",
+      "website": "https://accountable.de?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709770992182982.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "AI Accounting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:19",
+      "updatedAt": "2024-09-23 21:18:19"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Recap NFT Gallery with AI Appraisals",
+      "description": "Recap is a crypto tax software and portfolio tracker that prioritizes user privacy.",
+      "website": "https://recap.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577935865725080.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:01:49",
+      "updatedAt": "2023-06-03 16:01:49"
+    },
+    {
+      "name": "ARTE",
+      "description": "AI tax research assistant for real estate",
+      "website": "https://www.deferred.com/real-estate-tax-chatbot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172258696310258316.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "AI Chatbot",
+        "AI Accounting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-02 16:22:30",
+      "updatedAt": "2024-08-02 16:22:30"
+    },
+    {
+      "name": "CanTax",
+      "description": "AI-powered Canadian tax advisor.",
+      "website": "https://cantax.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169890943310232780.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "AI Customer Service Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-02 15:17:04",
+      "updatedAt": "2023-11-02 15:17:04"
+    },
+    {
+      "name": "TaxGenius",
+      "description": "TaxGenius is a tax app that uses AI technology to simplify tax season for users.",
+      "website": "https://taxgenius.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168537195011000419.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "Legal Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 22:51:43",
+      "updatedAt": "2023-05-29 22:51:43"
+    },
+    {
+      "name": "TaxBuzz Ai",
+      "description": "AI browser extension for tax and accounting professionals",
+      "website": "https://chromewebstore.google.com/detail/taxbuzz-ai/opikndfepbbekgnhehdaaomhbiejgpkj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068405711882405.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 09:34:05",
+      "updatedAt": "2024-11-04 09:34:05"
+    },
+    {
+      "name": "Decode.tax",
+      "description": "Understand your taxes and save money.",
+      "website": "https://decode.tax?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745289766337373.jpg",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:26",
+      "updatedAt": "2023-10-16 18:40:26"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Legal Ease AI",
+      "description": "AI platform for tax planning research",
+      "website": "https://chromewebstore.google.com/detail/legal-ease-ai/ifehlpobamjclgefnkgkhfoabnagfndc?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "Report Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:39",
+      "updatedAt": "2024-08-13 13:56:39"
+    },
+    {
+      "name": "TaxGPT",
+      "description": "Effortlessly file taxes for $50",
+      "website": "https://www.taxgpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067735635218219.webp",
+      "category": "Tax Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Tax Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:33",
+      "updatedAt": "2024-03-17 20:07:33"
+    },
+    {
+      "name": "UnitedTax.AI",
+      "description": "AI-enhanced tax returns & bookkeeping solutions.",
+      "website": "https://unitedtax.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170528271935749995.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 09:38:26",
+      "updatedAt": "2024-01-15 09:38:26"
+    },
+    {
+      "name": "TaxGPT: Your AI Tax Assistant",
+      "description": "Simplify tax processes, maximize deductions with AI-powered TaxGPT.",
+      "website": "https://taxgpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349846418920108.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:45",
+      "updatedAt": "2023-12-25 18:00:45"
+    },
+    {
+      "name": "CPA Pilot",
+      "description": "AI tax assistant, automating research, client communication, and marketing for tax accountants.",
+      "website": "https://www.cpapilot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169764418226637186.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Product Description Generator",
+        "Tax Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-18 23:49:32",
+      "updatedAt": "2023-10-18 23:49:32"
+    },
+    {
+      "name": "Fattura AI",
+      "description": "PDF invoice summarization to CSV",
+      "website": "https://www.fattura-ai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070136615110382.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:52",
+      "updatedAt": "2024-07-11 20:33:52"
+    },
+    {
+      "name": "Taxly.ai",
+      "description": "Taxly.ai simplifies tax filing and preparation in Australia with AI, eliminating paperwork and offering personalized recommendations for tax savings.",
+      "website": "https://taxly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804484912494727.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Product Description Generator",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:20:31",
+      "updatedAt": "2023-06-29 21:20:31"
+    },
+    {
+      "name": "Financial Fusion",
+      "description": "AI-driven insights for effective financial management.",
+      "website": "https://financialfusion.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328707650730350.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Analytics Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:50:50",
+      "updatedAt": "2024-08-10 18:50:50"
+    },
+    {
+      "name": "Simpla AI",
+      "description": "Cutting-edge AI for simplified business finances.",
+      "website": "https://www.simpla.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262649233271234.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:44",
+      "updatedAt": "2023-12-15 15:45:44"
+    },
+    {
+      "name": "SnaptoBook",
+      "description": "Software for efficient receipt and invoice management.",
+      "website": "https://www.snaptobook.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172561989662764175.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 18:51:01",
+      "updatedAt": "2024-09-06 18:51:01"
+    },
+    {
+      "name": "NRI GPT",
+      "description": "Summary: NRI GPT is a chatbot for NRIs, helping with India investing and taxes.",
+      "website": "https://nrigpt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169116424558585324.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-04 23:49:32",
+      "updatedAt": "2023-08-04 23:49:32"
+    },
+    {
+      "name": "XBert Extension",
+      "description": "Automates risk detection in accounting data.",
+      "website": "https://chromewebstore.google.com/detail/xbert-extension/nigdbicmeinmmhflhbhcnpidibbiojbf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738103394567151.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Analytics Assistant",
+        "AI Detector",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:12",
+      "updatedAt": "2024-06-03 10:16:12"
+    },
+    {
+      "name": "Kick",
+      "description": "AI-driven accounting software for automated bookkeeping.",
+      "website": "https://kick.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068422110923934.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 09:35:50",
+      "updatedAt": "2024-11-04 09:35:50"
+    },
+    {
+      "name": "Receipt Cat",
+      "description": "Receipt Cat is a scanner app for receipts and expense tracking for small businesses.",
+      "website": "https://www.receiptcat.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517591073315877.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Product Description Generator",
+        "AI Image Scanning",
+        "AI Productivity Tools",
+        "Sales Assistant",
+        "AI Task Management",
+        "E-commerce Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:24:46",
+      "updatedAt": "2023-05-27 16:24:46"
+    },
+    {
+      "name": "AccountingSolverAI",
+      "description": "AI accounting problem solver from text and data docs.",
+      "website": "https://accountingsolver.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208864191135753.jpg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "Tax Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:57",
+      "updatedAt": "2024-07-27 21:54:57"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

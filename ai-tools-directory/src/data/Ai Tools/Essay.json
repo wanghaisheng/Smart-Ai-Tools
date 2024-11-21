@@ -1,0 +1,2892 @@
+{
+  "tools": [
+    {
+      "name": "Course Hero",
+      "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
+      "website": "https://coursehero.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413878793168.jpg",
+      "category": "AI Course",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Course",
+        "Homework Helper",
+        "Copywriting",
+        "Essay Writer",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Good AI",
+      "description": "The Good AI is an AI-powered platform that writes essays accurately and efficiently.",
+      "website": "https://www.the-good-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168335377011488749.png",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-05 22:13:27",
+      "updatedAt": "2023-05-05 22:13:27"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "PerfectEssayWriterAI",
+      "description": "A platform that offers AI essay writing tools for students to create unique and plagiarism-free essays.",
+      "website": "https://www.perfectessaywriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168571845394937231.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "AI Grammar Checker",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 23:06:49",
+      "updatedAt": "2023-06-02 23:06:49"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "MyPerfectWords",
+      "description": "Online essay writing service providing academic writing help to students.",
+      "website": "https://myperfectwords.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349909488668595.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Advertising Assistant",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:23",
+      "updatedAt": "2023-12-25 18:09:23"
+    },
+    {
+      "name": "EssayGenius",
+      "description": "EssayGenius is an AI platform that assists users in writing essays faster with quality content.",
+      "website": "https://essaygenius.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168637712883724366.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Creative Writing",
+        "AI Grammar Checker",
+        "AI Plagiarism Checker",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-10 14:06:56",
+      "updatedAt": "2023-06-10 14:06:56"
+    },
+    {
+      "name": "LongShot AI",
+      "description": "LongShot is a comprehensive tool designed to generate high-quality, factually accurate content which is optimized for search engines using advanced features.",
+      "website": "https://longShot.ai?deal=toolify79",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267278506345437.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "Copywriting",
+        "AI Email Generator",
+        "AI Repurpose Assistant",
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Email Writer",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "General Writing",
+        "Summarizer",
+        "Paraphraser",
+        "AI Bio Generator",
+        "AI Rewriter",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:06:53",
+      "updatedAt": "2023-04-28 17:06:53"
+    },
+    {
+      "name": "Eduwriter.ai",
+      "description": "Customized AI essay writer for academic tasks.",
+      "website": "https://eduwriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262652635767911.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:46",
+      "updatedAt": "2023-12-15 15:45:46"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Lunchbreak AI",
+      "description": "AI-powered essay writing tool for students",
+      "website": "https://lunchbreak.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349973532563241.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:30",
+      "updatedAt": "2023-12-25 18:13:30"
+    },
+    {
+      "name": "PaperTyper.net",
+      "description": "Free online tools for paper writing.",
+      "website": "https://papertyper.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170479838358197214.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Grammar Checker",
+        "AI Plagiarism Checker",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 19:11:27",
+      "updatedAt": "2024-01-09 19:11:27"
+    },
+    {
+      "name": "Writeless",
+      "description": "AI essay writing with real citations.",
+      "website": "https://writeless.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349873876333894.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:56",
+      "updatedAt": "2023-12-25 18:00:56"
+    },
+    {
+      "name": "UpScore AI",
+      "description": "UpScore.ai is an AI education assistant for IELTS writing, providing feedback and mock tests.",
+      "website": "https://upscore.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508455356241035.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:02:02",
+      "updatedAt": "2023-05-26 15:02:02"
+    },
+    {
+      "name": "EasyEssay",
+      "description": "The Best AI Essay Writing Assistant",
+      "website": "https://easyessay.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349992572663538.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay",
+        "Writing Assistants",
+        "AI Plagiarism Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:49",
+      "updatedAt": "2023-12-25 18:14:49"
+    },
+    {
+      "name": "Tutorly AI",
+      "description": "Tutorly.ai is an AI-powered homework assistant that helps with academic questions and essay writing.",
+      "website": "https://tutorly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16835348473442571.jpg",
+      "category": "Homework Helper",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 16:34:54",
+      "updatedAt": "2023-05-08 16:34:54"
+    },
+    {
+      "name": "AICheatCheck",
+      "description": "AI Checker detects and prevents cheating in education using state-of-the-art technology.",
+      "website": "https://www.aicheatcheck.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517405396889743.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Education Assistant",
+        "Essay Writer",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:53:17",
+      "updatedAt": "2023-05-27 15:53:17"
+    },
+    {
+      "name": "Essay Builder AI",
+      "description": "Generate top-notch essays effortlessly.",
+      "website": "https://essay-builder.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454293088569070.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "writeapp.co",
+      "description": "Free AI essay writer for stress-free writing",
+      "website": "https://writeapp.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230656440100102.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Large Language Models (LLMs)",
+        "AI Content Generator",
+        "AI Checker Essay",
+        "Papers",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:44",
+      "updatedAt": "2024-04-05 16:41:44"
+    },
+    {
+      "name": "Essay Typer",
+      "description": "Express your thoughts and styles with academic integrity.",
+      "website": "https://www.essaytyper.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987811230333254.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Large Language Models (LLMs)",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "Your Academic Writer",
+      "description": "Essay writing service with AI integration and expert writers.",
+      "website": "https://youracademicwriter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169530358422427848.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Homework Helper",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-21 21:39:07",
+      "updatedAt": "2023-09-21 21:39:07"
+    },
+    {
+      "name": "EssayService.ai",
+      "description": "AI-Powered essay writing service that generates tailored essays instantly.",
+      "website": "https://www.essayservice.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169089655472537273.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-01 21:28:01",
+      "updatedAt": "2023-08-01 21:28:01"
+    },
+    {
+      "name": "SmartStudi.com",
+      "description": null,
+      "website": "https://smartstudi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714254124280805.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Rewriter",
+        "General Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:52:12",
+      "updatedAt": "2024-09-24 09:52:12"
+    },
+    {
+      "name": "Charley",
+      "description": "Charley.ai is an AI Essay Writer that generates impressive essays quickly and effortlessly.",
+      "website": "https://charley-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16835404918603646.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Response Generator",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 18:09:11",
+      "updatedAt": "2023-05-08 18:09:11"
+    },
+    {
+      "name": "Isaac",
+      "description": "AI-powered writing tool for students and researchers.",
+      "website": "https://isaaceditor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485369328370285.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "Essay Writer",
+        "General Writing",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "Research Tool",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:51",
+      "updatedAt": "2023-05-23 22:53:51"
+    },
+    {
+      "name": "EssayWriter",
+      "description": "Craft high-quality essays with ease.",
+      "website": "https://EssayWriter.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987811352153520.webp",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Education Assistant",
+        "Papers",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "WriteGO",
+      "description": "AI writing assistant for academic excellence",
+      "website": "https://writego.ai/app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592108136183720.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:44:08",
+      "updatedAt": "2024-05-17 12:44:08"
+    },
+    {
+      "name": "EssaySloth",
+      "description": "AI-powered essay generator and reference finder.",
+      "website": "https://www.essaysloth.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172440187454357970.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 16:30:35",
+      "updatedAt": "2024-08-23 16:30:35"
+    },
+    {
+      "name": "Edde AI",
+      "description": "Academic assistance with AI tools & Homework Helper.",
+      "website": "https://edde.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171664398179900106.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "General Writing",
+        "Writing Assistants",
+        "Homework Helper",
+        "AI Checker Essay",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:32:28",
+      "updatedAt": "2024-05-25 21:32:28"
+    },
+    {
+      "name": "Ouriginal for Google Classroom Extension",
+      "description": "Integrating plagiarism detection in Google Classroom",
+      "website": "https://chromewebstore.google.com/detail/ouriginal-for-google-clas/ibdcbopijgjjkihompigdaagfmdfagik?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747566753069459.jpg",
+      "category": "AI Plagiarism Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Plagiarism Checker",
+        "Essay Writer",
+        "Papers",
+        "AI Checker Essay",
+        "AI Content Detector",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:34",
+      "updatedAt": "2024-06-04 12:33:34"
+    },
+    {
+      "name": "Lazy Teacher",
+      "description": "A tool for teachers to grade assignments quickly and provide feedback using AI technology.",
+      "website": "https://lazyteacher.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517495346327214.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "Essay Writer",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:08:26",
+      "updatedAt": "2023-05-27 16:08:26"
+    },
+    {
+      "name": "Essayly.ai",
+      "description": "AI writing assistant for exam prep",
+      "website": "https://www.essayly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208855255635540.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:56",
+      "updatedAt": "2024-07-27 21:54:56"
+    },
+    {
+      "name": "LearnMate",
+      "description": "The ultimate homework assistant app for students.",
+      "website": "https://apps.apple.com/us/app/learnmate-homework-helper/id6446482429?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563313528697674.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Homework Helper",
+        "Essay Writer",
+        "Large Language Models (LLMs)",
+        "AI Chatbot",
+        "AI Education Assistant",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:24:29",
+      "updatedAt": "2023-06-01 23:24:29"
+    },
+    {
+      "name": "SparkBrief",
+      "description": "SparkBrief is an AI tool that generates essays in different tones and objectives.",
+      "website": "https://sparkbrief.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987631833813655.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Advertising Assistant",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Copywriting",
+        "AI Blog Writer",
+        "AI Bio Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:04:13",
+      "updatedAt": "2023-07-21 02:04:13"
+    },
+    {
+      "name": "CHCKR",
+      "description": "CHCKR is a user-friendly website for checking and managing different types of data.",
+      "website": "https://chckr.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134166042153619.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "Brightroom AI",
+      "description": "AI tools for personalized college application assistance.",
+      "website": "https://brightroom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129915213300566.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:08",
+      "updatedAt": "2024-11-11 12:24:08"
+    },
+    {
+      "name": "FreeEssayWriter.AI",
+      "description": "Generate high-quality essays with AI essay writer.",
+      "website": "https://www.freeessaywriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073507054168392.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer",
+        "AI Blog Writer",
+        "Writing Assistants",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 18:24:20",
+      "updatedAt": "2023-11-23 18:24:20"
+    },
+    {
+      "name": "EssayWriters Applier",
+      "description": "Automate bidding for essay orders.",
+      "website": "https://chromewebstore.google.com/detail/essaywriters-applier/dcambcgflolcoeeacbcdgodlcpamfdeo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776919672760452.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:28",
+      "updatedAt": "2024-06-07 22:06:28"
+    },
+    {
+      "name": "AI Essay Writer",
+      "description": "Generate humanized essays using AI technology.",
+      "website": "https://essaywriterapp.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170616993643990142.jpg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Papers",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "Homework Helper",
+        "AI Checker Essay",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:12",
+      "updatedAt": "2024-01-25 16:04:12"
+    },
+    {
+      "name": "GradeAssist",
+      "description": "AI-powered platform for grading essays",
+      "website": "https://gradeassist.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094120716018973.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Checker Essay",
+        "Papers",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "AI Education Assistant",
+        "AI Analytics Assistant",
+        "AI Quizzes"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:26:13",
+      "updatedAt": "2024-03-20 21:26:13"
+    },
+    {
+      "name": "Writefull for Overleaf",
+      "description": "Proofreading tool for academic writing",
+      "website": "https://chromewebstore.google.com/detail/writefull-for-overleaf/edhnemgfcihjcpfhkoiiejgedkbefnhg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687130069315003.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:48",
+      "updatedAt": "2024-05-28 12:40:48"
+    },
+    {
+      "name": "essayget",
+      "description": "With EssayGet AI, effortlessly humanize text and excel in academic papers and marketing copy with 100% AI-free content!",
+      "website": "https://essayget.com/?from=toolify&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398631890922153.jpg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Papers",
+        "Copywriting",
+        "Essay Writer",
+        "Letter Writer",
+        "Report Writing",
+        "AI Story Writing",
+        "AI Book Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "Novel",
+        "AI Product Description Generator",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:06:30",
+      "updatedAt": "2024-08-18 21:06:30"
+    },
+    {
+      "name": "TutorEva: Campus AI Study Help",
+      "description": "AI study tool for college subjects.",
+      "website": "https://www.tutoreva.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566224335470748.webp",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants",
+        "Large Language Models (LLMs)",
+        "General Writing",
+        "AI Content Generator",
+        "AI Course"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:44",
+      "updatedAt": "2024-05-14 12:49:44"
+    },
+    {
+      "name": "Textero AI Essay Writer Pro",
+      "description": "Write, edit, and research papers 10x faster with Textero AI.",
+      "website": "https://textero.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171074383477145029.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 14:36:04",
+      "updatedAt": "2024-03-18 14:36:04"
+    },
+    {
+      "name": "Overleaf Copilot",
+      "description": "Enhance academic writing with ChatGPT",
+      "website": "https://chromewebstore.google.com/detail/overleaf-copilot/eoadabdpninlhkkbhngoddfjianhlghb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679949793935449.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:04",
+      "updatedAt": "2024-05-26 18:30:04"
+    },
+    {
+      "name": "Conch AI",
+      "description": "AI-powered writing and research assistant",
+      "website": "https://getconch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841403315386866.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "Homework Helper",
+        "AI Education Assistant",
+        "Research Tool",
+        "AI Detector",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "General Writing",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:47",
+      "updatedAt": "2024-02-20 15:25:47"
+    },
+    {
+      "name": "packback.co",
+      "description": "AI learning platform for inquiry-based discussion and writing assignments",
+      "website": "https://packback.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172118502823839543.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Coaching",
+        "AI Education Assistant",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-17 10:55:22",
+      "updatedAt": "2024-07-17 10:55:22"
+    },
+    {
+      "name": "Samwell.Ai",
+      "description": "Revolutionizing academic writing with AI.",
+      "website": "https://samwell.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839246685333628.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:18",
+      "updatedAt": "2024-02-20 09:27:18"
+    },
+    {
+      "name": "MyEssayWriterAI",
+      "description": "A revolutionary AI-powered tool helps students improve their writing skills and academic performance.",
+      "website": "https://www.myessaywriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169045632779157511.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Checker Essay",
+        "Essay Writer",
+        "AI Response Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 19:11:26",
+      "updatedAt": "2023-07-27 19:11:26"
+    },
+    {
+      "name": "tutorocean.com",
+      "description": "Affordable private online tutors and homework help.",
+      "website": "https://tutorocean.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171017736996230587.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "Homework Helper",
+        "AI Education Assistant",
+        "Papers",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-12 01:15:55",
+      "updatedAt": "2024-03-12 01:15:55"
+    },
+    {
+      "name": "TutorEva",
+      "description": "AI homework helper and tutor for college subjects.",
+      "website": "https://tutoreva.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544447941808167.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:06:58",
+      "updatedAt": "2024-09-04 18:06:58"
+    },
+    {
+      "name": "NoPlagio",
+      "description": "Online plagiarism detection and prevention platform.",
+      "website": "https://noplagio.it?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349913824133437.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Essay Writer",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:25",
+      "updatedAt": "2023-12-25 18:09:25"
+    },
+    {
+      "name": "myStylus",
+      "description": "AI platform for writing, editing, and research.",
+      "website": "http://mystylus.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544450414418609.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Checker Essay",
+        "AI Chatbot",
+        "Homework Helper",
+        "AI Response Generator",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Papers",
+        "AI Plagiarism Checker",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:03",
+      "updatedAt": "2024-09-04 18:07:03"
+    },
+    {
+      "name": "Plagiarismsearch.com",
+      "description": "An advanced online plagiarism checker for detecting and preventing plagiarism.",
+      "website": "https://plagiarismsearch.com/?ref=2205044",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145446545494697.jpg",
+      "category": "AI Plagiarism Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Plagiarism Checker",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:13:59",
+      "updatedAt": "2023-12-02 02:13:59"
+    },
+    {
+      "name": "Yomu AI",
+      "description": "AI-enhanced writing editor for students and academics.",
+      "website": "https://www.yomu.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170584756967309160.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-21 22:31:51",
+      "updatedAt": "2024-01-21 22:31:51"
+    },
+    {
+      "name": "EssayFlow ai",
+      "description": "Advanced AI essay writer for high-quality, well-researched, and plagiarism-free essays.",
+      "website": "https://www.essayflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651806503583289.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:57:23",
+      "updatedAt": "2024-01-29 16:57:23"
+    },
+    {
+      "name": "EssayFlow",
+      "description": "Generate human-like, plagiarism-free essays with EssayFlow.",
+      "website": "http://essayflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987812051763995.webp",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "EssayAI ai",
+      "description": "An AI-powered essay writing tool for high-quality, effortless essay generation.",
+      "website": "https://www.essayai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651809588286138.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:56:22",
+      "updatedAt": "2024-01-29 16:56:22"
+    },
+    {
+      "name": "EssayAI.ai",
+      "description": "Fast & smart AI essay writer.",
+      "website": "https://EssayAI.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839364585909149.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "AI Plagiarism Checker",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:46:41",
+      "updatedAt": "2024-02-20 09:46:41"
+    },
+    {
+      "name": "Thesify",
+      "description": "AI writing assistant for students focusing on integrity in academic work.",
+      "website": "https://thesify.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172372337667360600.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 20:02:27",
+      "updatedAt": "2024-08-15 20:02:27"
+    },
+    {
+      "name": "Blainy",
+      "description": "AI-powered research paper writer",
+      "website": "https://blainy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171647508362296266.webp",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Papers",
+        "Essay Writer",
+        "AI Checker Essay",
+        "Research Tool",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:37:00",
+      "updatedAt": "2024-05-23 22:37:00"
+    },
+    {
+      "name": "myEssai",
+      "description": "AI tutoring for better essays.",
+      "website": "https://myess.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349909236369255.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:23",
+      "updatedAt": "2023-12-25 18:09:23"
+    },
+    {
+      "name": "Essay-Grader.ai - Grade essays in seconds using AI",
+      "description": "Streamline grading process with AI",
+      "website": "https://essay-grader.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170790807832530928.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "Essay Writer",
+        "AI Education Assistant",
+        "Papers",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-14 19:03:51",
+      "updatedAt": "2024-02-14 19:03:51"
+    },
+    {
+      "name": "Plume AI",
+      "description": "AI assistant for academic writing.",
+      "website": "https://plume-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349932777505360.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Homework Helper",
+        "Writing Assistants",
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "AI Grammar Checker",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:29",
+      "updatedAt": "2023-12-25 18:09:29"
+    },
+    {
+      "name": "Ink To Ivy",
+      "description": "Elevate your college essays with AI guidance.",
+      "website": "https://www.inktoivy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067733522067896.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:33",
+      "updatedAt": "2024-03-17 20:07:33"
+    },
+    {
+      "name": "Spell AI",
+      "description": "Spell is a platform with AI agents powered by GPT4 to help delegate and complete tasks.",
+      "website": "https://spell.so?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168685007948124851.jpg",
+      "category": "General Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "General Writing",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Analytics Assistant",
+        "Prompt",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI Blog Writer",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 01:27:45",
+      "updatedAt": "2023-06-16 01:27:45"
+    },
+    {
+      "name": "Inkey.ai",
+      "description": "Every student's personal AI Tutor.",
+      "website": "https://www.inkey.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262655314627712.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "AI Tools Directory",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:47",
+      "updatedAt": "2023-12-15 15:45:47"
+    },
+    {
+      "name": "Reach Best",
+      "description": "AI app to assist students with college applications",
+      "website": "https://reachbest.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094134947425632.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:34:01",
+      "updatedAt": "2024-03-20 21:34:01"
+    },
+    {
+      "name": "KindlePPT",
+      "description": "AI tool for quick content generation like presentations and essays.",
+      "website": "https://kindleppt.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007974264886123.jpg",
+      "category": "AI Quizzes",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Quizzes",
+        "AI Presentation Generator",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:47",
+      "updatedAt": "2024-10-28 09:39:47"
+    },
+    {
+      "name": "EasyMark",
+      "description": "AI-powered essay grading tool for English teachers",
+      "website": "https://www.easymark.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172196177333189490.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-26 10:41:41",
+      "updatedAt": "2024-07-26 10:41:41"
+    },
+    {
+      "name": "Textero.ai Essay Writer",
+      "description": "Textero.ai is a revolutionary tool that uses AI to assist with academic writing.",
+      "website": "https://www.textero.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169116423483673840.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Education Assistant",
+        "Papers",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-04 23:49:32",
+      "updatedAt": "2023-08-04 23:49:32"
+    },
+    {
+      "name": "EduWiz.AI",
+      "description": "AI Writer Assistant for effortless writing",
+      "website": "https://eduwiz.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230639538158288.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "Homework Helper",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "Papers",
+        "General Writing",
+        "AI Plagiarism Checker",
+        "Paraphraser",
+        "AI Rewriter",
+        "AI Content Generator",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:06",
+      "updatedAt": "2024-07-30 10:25:06"
+    },
+    {
+      "name": "Olovka: AI Essay Writer",
+      "description": "AI Essay Writer & Learning Companion for students",
+      "website": "https://checkout.olovka.ai?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230641922724507.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants",
+        "Papers",
+        "AI Quizzes"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:07",
+      "updatedAt": "2024-07-30 10:25:07"
+    },
+    {
+      "name": "calmify.ai",
+      "description": "Calmify.ai offers customizable virtual therapy for mental health issues.",
+      "website": "https://www.calmify.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563224147284210.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Mental Health",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:35",
+      "updatedAt": "2023-06-01 23:09:35"
+    },
+    {
+      "name": "QuillWord",
+      "description": "The best AI tool for academic and research writing.",
+      "website": "https://www.quillword.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171262856575211957.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "AI Rewriter",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-09 10:08:01",
+      "updatedAt": "2024-04-09 10:08:01"
+    },
+    {
+      "name": "EssayWriter io",
+      "description": "AI-powered essay writing assistant",
+      "website": "https://www.essaywriter.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17065180357287298.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Large Language Models (LLMs)",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Plagiarism Checker",
+        "Papers",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:55:22",
+      "updatedAt": "2024-01-29 16:55:22"
+    },
+    {
+      "name": "WriteGO.AI",
+      "description": "Unleash your writing potential",
+      "website": "https://writego.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171262854146577213.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-09 10:08:01",
+      "updatedAt": "2024-04-09 10:08:01"
+    },
+    {
+      "name": "AllWriting",
+      "description": "Online study tools for efficient essay writing",
+      "website": "https://tools.allwriting.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824298244986356.webp",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "AI Education Assistant",
+        "Papers",
+        "AI Rewriter",
+        "Paraphraser",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:36",
+      "updatedAt": "2024-06-13 09:42:36"
+    },
+    {
+      "name": "StudyHQ",
+      "description": "AI-powered study platform for exams and revisions",
+      "website": "https://studyhq.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998296610754749.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Essay Writer",
+        "Papers",
+        "AI Checker Essay",
+        "AI Quizzes",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:20",
+      "updatedAt": "2024-07-03 13:01:20"
+    },
+    {
+      "name": "Sara - AI Tutor & Exam Planner",
+      "description": "AI study companion for personalized learning and exam prep.",
+      "website": "https://sara.study?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172501105176891954.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 17:44:00",
+      "updatedAt": "2024-08-30 17:44:00"
+    },
+    {
+      "name": "Caktus AI",
+      "description": "First educational AI for students",
+      "website": "https://chromewebstore.google.com/detail/caktus-ai/bpjmdfaeephogldahcbkafkgclmbldgb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703928894738192.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "General Writing",
+        "AI Quizzes",
+        "AI Content Generator",
+        "AI Course",
+        "AI Tutorial",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:25",
+      "updatedAt": "2024-05-30 11:20:25"
+    },
+    {
+      "name": "Claude 4 Scholar",
+      "description": "AI companion for personalized academic support",
+      "website": "https://chromewebstore.google.com/detail/claude-4-scholar/kjdfnlgjmcabagegbofipgfifamecneb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747568941567344.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Response Generator",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Papers",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Reply Assistant",
+        "General Writing",
+        "AI Plagiarism Checker",
+        "Report Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:59",
+      "updatedAt": "2024-06-04 12:33:59"
+    },
+    {
+      "name": "GradeGap",
+      "description": "AI-powered academic tool",
+      "website": "https://chromewebstore.google.com/detail/gradegap/ohihmkldgilhbmajklmjnciokeflinge?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679935621175605.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "AI Course",
+        "AI Education Assistant",
+        "General Writing",
+        "AI Quizzes"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "Scholarpal Academics",
+      "description": "AI homework buddy for college success",
+      "website": "https://chromewebstore.google.com/detail/scholarpal-academics/ijhflckdfndegkldggjhogbpdafcchag?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481124390800344.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Education Assistant",
+        "General Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:13:48",
+      "updatedAt": "2024-08-28 10:13:48"
+    },
+    {
+      "name": "essayget.com",
+      "description": "AI tools for content detection, humanization, and essay writing.",
+      "website": "https://essayget.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714258043119593.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:45",
+      "updatedAt": "2024-09-24 09:47:45"
+    },
+    {
+      "name": "SmartSolve - AI Homework Solver",
+      "description": "AI-based homework and quiz solver",
+      "website": "https://chromewebstore.google.com/detail/smartsolve-ai-homework-so/lamlihfgchoafpnomkjblficpfeonace?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687108324355401.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Quizzes",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "General Writing",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:21",
+      "updatedAt": "2024-05-28 12:37:21"
+    },
+    {
+      "name": "AI\u8bba\u6587\u521d\u7a3f\u5199\u4f5c-\u5b66\u5883\u601d\u6e90",
+      "description": "AI paper writing with free outlines and fast drafts.",
+      "website": "https://academicideas.cn/?ic=hZvT&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350574817344776.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Essay Writer",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:56:06",
+      "updatedAt": "2024-04-19 13:56:06"
+    },
+    {
+      "name": "Briskwrite",
+      "description": "AI-powered writing assistant for quick essay, research paper, and article writing.",
+      "website": "https://www.briskwrite.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171186664363247127.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "Papers",
+        "AI Content Generator",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:16",
+      "updatedAt": "2024-03-31 14:29:16"
+    },
+    {
+      "name": "AI Quiz Solver - Solve Your Quiz Easily",
+      "description": "AI for quiz and homework help",
+      "website": "https://chromewebstore.google.com/detail/ai-quiz-solver-solve-your/dooohfghbfhmjnehdgbppkahfedllabn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687109411473034.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Quizzes",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Report Writing",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:22",
+      "updatedAt": "2024-05-28 12:37:22"
+    },
+    {
+      "name": "ScholarCopilot",
+      "description": "Enhances paper writing with LLMs",
+      "website": "https://chromewebstore.google.com/detail/scholarcopilot/lkeegpfgekmkpfilbnkjoagdnicngoji?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776760782784111.jpg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Papers",
+        "Large Language Models (LLMs)",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Report Writing",
+        "Paraphraser",
+        "Summarizer",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:38",
+      "updatedAt": "2024-06-07 21:39:38"
+    },
+    {
+      "name": "WordLimit AI",
+      "description": "AI tool for precise text shortening without losing meaning.",
+      "website": "https://wordlimit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173137530372769536.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Productivity Tools",
+        "Report Writing",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-12 09:37:59",
+      "updatedAt": "2024-11-12 09:37:59"
+    },
+    {
+      "name": "FO Translator",
+      "description": "Generative AI Chrome extension for improved, fluent translations.",
+      "website": "https://chromewebstore.google.com/detail/fo-translator/kcdmbldkeifkfcghipmfpnjjdaefjcpl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129932578515005.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:14",
+      "updatedAt": "2024-11-11 12:25:14"
+    },
+    {
+      "name": "AdmitGPT",
+      "description": "AdmitGPT streamlines college applications and provides personalized guidance.",
+      "website": "https://admitgpt.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169313611088150268.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Product Description Generator",
+        "Essay Writer",
+        "AI Interview Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-27 19:34:40",
+      "updatedAt": "2023-08-27 19:34:40"
+    },
+    {
+      "name": "Examio - Study Assistant",
+      "description": "AI learning assistant for efficient academic support.",
+      "website": "https://chromewebstore.google.com/detail/examio-study-assistant/elloebapleopdcnnlhnckmknhncbnllb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129931758377072.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "Homework Helper",
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Coaching",
+        "AI Tutorial",
+        "AI Course",
+        "AI Quizzes"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:13",
+      "updatedAt": "2024-11-11 12:25:13"
+    },
+    {
+      "name": "CheatScrub GPT Detector",
+      "description": "AI content detector",
+      "website": "https://chromewebstore.google.com/detail/cheatscrub-gpt-detector/hfnblhmefiejojklijjpoieggfilmfoa?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927039270832.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Essay Writer",
+        "Papers",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:23",
+      "updatedAt": "2024-05-30 11:20:23"
+    },
+    {
+      "name": "Myessaytyper.ai",
+      "description": "An AI-based tool that writes excellent essays for students in schools using state-of-the-art AI and ML models.",
+      "website": "https://myessaytyper.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262652483710396.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Education Assistant",
+        "Homework Helper",
+        "Essay Writer",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:46",
+      "updatedAt": "2023-12-15 15:45:46"
+    },
+    {
+      "name": "WeGuru",
+      "description": "Comprehensive AI-driven academic draft assistance in a few clicks.",
+      "website": "https://www.weguru.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589355085842033.jpg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Papers",
+        "AI Checker Essay",
+        "AI Education Assistant",
+        "Research Tool",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:23",
+      "updatedAt": "2024-01-22 11:18:23"
+    },
+    {
+      "name": "Smriti IELTS Writing Checker",
+      "description": "AI-powered IELTS essay checker assessing task response, vocabulary, coherence, and grammar in 2 minutes.",
+      "website": "http://smriti.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589361896072645.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:25",
+      "updatedAt": "2024-01-22 11:18:25"
+    },
+    {
+      "name": "TutorUp - AI Homework & Exam Helper",
+      "description": "Get quick homework and exam solutions",
+      "website": "https://chromewebstore.google.com/detail/tutorup-ai-homework-exam/fadapffollpaenabliikgkdllhennpdh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687130665648244.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "AI Checker Essay",
+        "Essay Writer",
+        "Papers",
+        "AI Plagiarism Checker",
+        "AI Grammar Checker",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:48",
+      "updatedAt": "2024-05-28 12:40:48"
+    },
+    {
+      "name": "aipaperwriter.org",
+      "description": "Generate flawless essays instantly.",
+      "website": "https://aipaperwriter.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067749448421940.webp",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Papers",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:36",
+      "updatedAt": "2024-03-17 20:07:36"
+    },
+    {
+      "name": "Notelier AI",
+      "description": "Notelier is a web app for writing and studying notes and essays quickly.",
+      "website": "https://notelierai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510522213163267.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "Summarizer",
+        "Essay Writer",
+        "AI Checker Essay",
+        "Writing Assistants",
+        "Papers",
+        "AI Notes Assistant",
+        "AI Analytics Assistant",
+        "Homework Helper",
+        "AI Quizzes",
+        "AI Course",
+        "AI Tutorial",
+        "AI Knowledge Base",
+        "Paraphraser",
+        "AI Grammar Checker",
+        "AI Plagiarism Checker",
+        "General Writing",
+        "Report Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:46:36",
+      "updatedAt": "2023-05-26 20:46:36"
+    },
+    {
+      "name": "Devana.ai",
+      "description": "AI assistant for research writing",
+      "website": "https://chromewebstore.google.com/detail/devanaai/bjbebjeglghfjdmcdicbelgpclkjfmia?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738085421465962.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Papers",
+        "Essay Writer",
+        "Large Language Models (LLMs)",
+        "AI Grammar Checker",
+        "Research Tool",
+        "General Writing",
+        "AI Checker Essay",
+        "Prompt",
+        "AI Plagiarism Checker",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:36",
+      "updatedAt": "2024-06-03 10:13:36"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

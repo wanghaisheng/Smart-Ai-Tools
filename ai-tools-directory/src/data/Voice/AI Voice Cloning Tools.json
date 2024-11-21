@@ -1,0 +1,2862 @@
+{
+  "tools": [
+    {
+      "name": "ElevenLabs",
+      "description": "Generate high-quality AI voices in minutes.",
+      "website": "https://elevenlabs.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349993442883512.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:50",
+      "updatedAt": "2023-12-25 18:14:50"
+    },
+    {
+      "name": "Speechify",
+      "description": "Speechify is a popular text-to-speech app for Chrome, iOS, and Android.",
+      "website": "https://speechify.com/?utm_campaign=partners&utm_content=rewardful&via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/aec43977e760aa74753918bcce0b983a.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Play.ht",
+      "description": "PlayHT is an AI Voice Generator platform with over 600 voices in multiple languages.",
+      "website": "https://www.play.ht/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d53d530f9378e7f1fbc3008e4044409c.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Content Generator",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "FakeYou",
+      "description": "Generate realistic and natural speech with FakeYou using deep fake technology.",
+      "website": "https://fakeyou.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1fbc831ddaa20f2f8f6d1b2febbde10c.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Tools Directory",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:51",
+      "updatedAt": "2023-03-07 16:48:51"
+    },
+    {
+      "name": "Kits AI",
+      "description": "Transform your voice with AI artist voices. Create and train your own AI voice model.",
+      "website": "https://kits.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349963035176873.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:28",
+      "updatedAt": "2023-12-25 18:13:28"
+    },
+    {
+      "name": "LOVO AI",
+      "description": "LOVO AI Voice Generator is a versatile text-to-speech software with realistic voices in multiple languages.",
+      "website": "https://lovo.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168637739286021583.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-10 14:12:39",
+      "updatedAt": "2023-06-10 14:12:39"
+    },
+    {
+      "name": "Resemble",
+      "description": "Generate synthetic voices that resemble real humans in seconds.",
+      "website": "https://www.resemble.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e608598117ff1813165d855e27eda0de.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:49",
+      "updatedAt": "2023-03-07 16:48:49"
+    },
+    {
+      "name": "Secret Desires AI",
+      "description": "Enjoy customizable AI girlfriends & boyfriends, designed to cater to your unique preferences and desires.",
+      "website": "https://secretdesires.ai?via=toolify51",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172794743071250530.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Girlfriend",
+        "AI Character",
+        "NSFW",
+        "AI Chatbot",
+        "AI Story Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 17:24:06",
+      "updatedAt": "2024-10-03 17:24:06"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Uberduck",
+      "description": "Uberduck is an AI music production platform with realistic voices and custom options.",
+      "website": "https://uberduck.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f286663ba2ccc3d70dbe59b7b6727fd9.jpeg",
+      "category": "AI Rap Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Singing Generator",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Covers AI",
+      "description": "Your own personalized voice changer, amplifying your sound to create a supercharged version of your voice.",
+      "website": "https://www.covers.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349983929925424.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Cover Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "VoiceDub",
+      "description": "Generate AI voice covers for songs.",
+      "website": "https://voicedub.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349865697213001.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Cover Generator",
+        "Text-to-Speech",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:53",
+      "updatedAt": "2023-12-25 18:00:53"
+    },
+    {
+      "name": "BlipCut AI Video Translator",
+      "description": "AI-powered video translation with human-like voices.",
+      "website": "https://videotranslator.blipcut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530640970758919.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Captions or Subtitle",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:43",
+      "updatedAt": "2024-01-15 16:12:43"
+    },
+    {
+      "name": "Listnr AI",
+      "description": "Create voiceovers and videos with AI",
+      "website": "https://listnr.ai/?gr_pk=XN2z",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170765305597789281.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Text to Video",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-11 20:17:00",
+      "updatedAt": "2024-02-11 20:17:00"
+    },
+    {
+      "name": "MyVocal Voice Synthesizer",
+      "description": "Clone your voice for singing or speaking with MyVocal.ai's quick and easy tools.",
+      "website": "https://www.myvocal.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168581262299477455.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "Text-to-Music",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 01:16:41",
+      "updatedAt": "2023-06-04 01:16:41"
+    },
+    {
+      "name": "voice-swap.ai",
+      "description": "Voice-Swap is an AI tool for transforming voices, offering remote collaborations and realistic demos.",
+      "website": "https://voice-swap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029491853151952.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Singing Generator",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:41",
+      "updatedAt": "2023-07-25 22:19:41"
+    },
+    {
+      "name": "Coqui",
+      "description": "Coqui provides lifelike and expressive text-to-speech voices using AI.",
+      "website": "https://coqui.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f7e2fb004becf7aca8c48628bea488a8.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Product Description Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Respeecher",
+      "description": "Voice cloning for filmmakers and creators",
+      "website": "https://www.respeecher.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763912052047757.webp",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "Game",
+        "AI Graphic Design",
+        "AI Ad Generator",
+        "AI Character",
+        "AI Design Generator",
+        "Design Assistant",
+        "AI Website Designer",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 10:03:00",
+      "updatedAt": "2024-06-06 10:03:00"
+    },
+    {
+      "name": "Wondercraft AI",
+      "description": "Generate AI voices help Wondercraft AI users create and publish podcasts easily.",
+      "website": "https://www.wondercraft.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804552513377785.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Podcast Assistant",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Repurpose Assistant",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:31:14",
+      "updatedAt": "2023-06-29 21:31:14"
+    },
+    {
+      "name": "Music.AI",
+      "description": "Build and scale audio-driven AI products with state-of-the-art AI models.",
+      "website": "https://music.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262656293496276.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Voice Cloning",
+        "AI API Design",
+        "AI Audio Enhancer",
+        "AI Developer Tools",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:47",
+      "updatedAt": "2023-12-15 15:45:47"
+    },
+    {
+      "name": "Delphi",
+      "description": "Build your digital self with AI",
+      "website": "https://www.delphi.ai/pricing?via=affiliate",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170281795757451845.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 20:58:46",
+      "updatedAt": "2023-12-17 20:58:46"
+    },
+    {
+      "name": "Controlla: interactive, remixable songs",
+      "description": "Interactive songs empowering fans and artists.",
+      "website": "https://controlla.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349981731680322.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:45",
+      "updatedAt": "2023-12-25 18:14:45"
+    },
+    {
+      "name": "Deepdub",
+      "description": "Dubbing and voice over localization at scale.",
+      "website": "https://deepdub.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349987087870056.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Advertising Assistant",
+        "AI Speech Recognition",
+        "AI Animated Video",
+        "AI Lip Sync Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "verbalate",
+      "description": "Universal video translation & lip sync tool.",
+      "website": "https://verbalate.ai?fpr=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582590110851767.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "AI Cover",
+      "description": "AI tool for creating high-quality song covers easily.",
+      "website": "https://aicover.fun?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544443770773829.jpg",
+      "category": "AI Cover Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Cover Generator",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:06:21",
+      "updatedAt": "2024-09-04 18:06:21"
+    },
+    {
+      "name": "Talking Avatar",
+      "description": "AI platform for rewriting and redubbing videos with avatars.",
+      "website": "https://www.talkingavatar.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172895688047713107.jpg",
+      "category": "AI Lip Sync Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-15 09:53:03",
+      "updatedAt": "2024-10-15 09:53:03"
+    },
+    {
+      "name": "Auidie Ai",
+      "description": "Advanced AI-based audiobook maker converts books into personalized high-quality audiobooks.",
+      "website": "https://audie.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485068398246688.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Book Writing",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:04:15",
+      "updatedAt": "2023-05-23 22:04:15"
+    },
+    {
+      "name": "VoiceCheap",
+      "description": "Global video translation and dubbing made easy with AI",
+      "website": "https://app.voicecheap.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566211517271424.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Voice Cloning",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:10",
+      "updatedAt": "2024-05-14 12:47:10"
+    },
+    {
+      "name": "VisionStory AI",
+      "description": "VisionStory AI creates avatar videos with photos, voice cloning and more, expressively and instantly.",
+      "website": "https://www.visionstory.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172732085745543152.jpg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "AI YouTube Assistant",
+        "AI Tiktok Assistant",
+        "Image to Video",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-26 11:22:56",
+      "updatedAt": "2024-09-26 11:22:56"
+    },
+    {
+      "name": "MeslAI",
+      "description": "Call AI clones of famous figures",
+      "website": "https://meslai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235946968630978.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "Voqul",
+      "description": "Change voice in recordings effortlessly.",
+      "website": "https://voqul.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349866580429837.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Voice & Audio Editing",
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:54",
+      "updatedAt": "2023-12-25 18:00:54"
+    },
+    {
+      "name": "BanterAI",
+      "description": "Engage and monetize with fans through AI voice calls.",
+      "website": "https://banterai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350459888166245.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Avatar Generator",
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:40",
+      "updatedAt": "2023-12-25 18:16:40"
+    },
+    {
+      "name": "CloneDub",
+      "description": "Add dubbed audio effortlessly with CloneDub for videos and podcasts.",
+      "website": "https://www.clonedub.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622708764161898.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:24:30",
+      "updatedAt": "2023-06-08 20:24:30"
+    },
+    {
+      "name": "Wannafake",
+      "description": "Swap faces in videos with just one photo.",
+      "website": "https://wannafake.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349868253071293.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Face Swap Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Voice Cloning",
+        "AI Video Generator",
+        "Video to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:54",
+      "updatedAt": "2023-12-25 18:00:54"
+    },
+    {
+      "name": "Speaking AI",
+      "description": "Beta test for generative voice with natural-sounding quality.",
+      "website": "https://speaking.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686003713803052.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Deepfakes.lol",
+      "description": "Create realistic lip-synced videos using AI.",
+      "website": "https://deepfakes.lol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349987675331151.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Short Clips Generator",
+        "AI Video Generator",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Face Swap Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "Clone Anyone's voice in seconds with AI",
+      "description": "CloneMyVoice.io is a service that clones voices using AI, achieving clarity, pitch, tone, and English fluency.",
+      "website": "https://clonemyvoice.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168345597269044405.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Advertising Assistant",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 18:40:02",
+      "updatedAt": "2023-05-07 18:40:02"
+    },
+    {
+      "name": "Poddy.ai",
+      "description": "Rapidly generate podcast recordings with Poddy.ai.",
+      "website": "https://poddy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373361231449862.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Podcast Assistant",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "Notebooklm Podcast",
+      "description": "Transform PDFs or any text into engaging audio content with our AI-powered podcast generator. Whether you need a dynamic two-person dialogue, a lecture, or a direct script reading, upload your content and let our AI create personalized audio experiences for your listeners in multiple languages!",
+      "website": "https://notebooklmpodcast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008215037312403.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text-to-Speech",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:34",
+      "updatedAt": "2024-10-28 10:27:34"
+    },
+    {
+      "name": "Dubbah.co",
+      "description": "AI video dubbing for accessibility",
+      "website": "https://dubbah.co/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171498116623875340.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Voice Cloning",
+        "AI Video Editor",
+        "Text-to-Speech",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-06 15:39:11",
+      "updatedAt": "2024-05-06 15:39:11"
+    },
+    {
+      "name": "Translate This Video",
+      "description": "Translate and dub your videos into multiple languages seamlessly.",
+      "website": "https://www.translatethisvideo.com?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229735336451347.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "AI Voice Cloning",
+        "Translate",
+        "AI Short Clips Generator",
+        "AI Speech Synthesis",
+        "AI Advertising Assistant",
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:14",
+      "updatedAt": "2023-12-11 20:21:14"
+    },
+    {
+      "name": "Duzo AI Video Translations",
+      "description": "Translate video content into multiple languages to reach a global audience",
+      "website": "https://duzo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172795192197012260.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Content Generator",
+        "AI Video Enhancer",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 18:39:21",
+      "updatedAt": "2024-10-03 18:39:21"
+    },
+    {
+      "name": "Voice-Gen",
+      "description": "AI platform for generating voice, images, and videos seamlessly.",
+      "website": "https://www.voice-gen.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947803410389782.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:53:32",
+      "updatedAt": "2024-10-21 10:53:32"
+    },
+    {
+      "name": "CopyCat",
+      "description": "Create AI videos instantly",
+      "website": "https://copycat.actor?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349982631003166.jpg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Repurpose Assistant",
+        "AI Presentation Generator",
+        "AI Animated Video",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:45",
+      "updatedAt": "2023-12-25 18:14:45"
+    },
+    {
+      "name": "ToneShift",
+      "description": "An AI-powered platform for voice cloning, music separation, and community collaboration.",
+      "website": "https://www.toneshift.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885286026644180.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Singing Generator",
+        "AI Voice Changer",
+        "Voice & Audio Editing",
+        "AI Celebrity Voice Generator",
+        "AI Music Generator",
+        "AI Advertising Assistant",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:33:56",
+      "updatedAt": "2023-11-01 23:33:56"
+    },
+    {
+      "name": "Voxwave AI",
+      "description": "Voxwave uses personalized voice messages in email campaigns to help businesses attract more clients.",
+      "website": "https://www.voxwaveai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/30897690af170a4bf3d72a604012bd2e.jpeg",
+      "category": "AI Lead Generation",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Lead Generation",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Clippah",
+      "description": "Clippah enhances videos with AI-powered editing tools to boost social media reach.",
+      "website": "https://www.clippah.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/bd9923d671342984cdd56b589833e57b.jpeg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Short Clips Generator",
+        "AI Voice Cloning",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Twinning AI",
+      "description": "Influencers can create AI clones on Twinning for followers to chat with.",
+      "website": "https://twinning.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622431689296224.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 19:38:25",
+      "updatedAt": "2023-06-08 19:38:25"
+    },
+    {
+      "name": "musixy.ai",
+      "description": "Musixy.ai is a platform that uses AI to create covers and new songs in popular styles.",
+      "website": "https://musixy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169269261296976815.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Chatbot",
+        "AI Cover Generator",
+        "AI Music Generator",
+        "AI Content Generator",
+        "AI Singing Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-22 16:23:10",
+      "updatedAt": "2023-08-22 16:23:10"
+    },
+    {
+      "name": "Voices AI: Change your Voice",
+      "description": "Transform text into lifelike speech with AI technology.",
+      "website": "https://apps.apple.com/us/app/voices-ai-change-your-voice/id6461268224?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169392401131264937.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Synthesis",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-05 22:26:40",
+      "updatedAt": "2023-09-05 22:26:40"
+    },
+    {
+      "name": "EchoVoiceAI",
+      "description": "Revolutionary voice cloning and sound design app.",
+      "website": "https://echovoiceai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230655414868246.webp",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:43",
+      "updatedAt": "2024-04-05 16:41:43"
+    },
+    {
+      "name": "ai voice cover",
+      "description": "AI voice replacement with celebrity or character voices",
+      "website": "https://chromewebstore.google.com/detail/ai-voice-cover/cpjhnkdcdpifokijolehlmomppnfflop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710743978077.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Lip Sync Generator",
+        "Recording",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "Parrot Talk",
+      "description": "Voice cloning tool using a 10-second audio sample.",
+      "website": "https://www.parrottalk.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176296095202655.jpg",
+      "category": "AI Lip Sync Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lip Sync Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:19",
+      "updatedAt": "2024-11-16 21:15:19"
+    },
+    {
+      "name": "TopMediai\u00ae",
+      "description": "AI-powered online media tools for video, audio, and photos.",
+      "website": "https://topmediai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350446783944116.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:35",
+      "updatedAt": "2023-12-25 18:16:35"
+    },
+    {
+      "name": "Instant Singer",
+      "description": "Be the singer you always wanted to be.",
+      "website": "https://instantsinger.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169703672151739583.jpg",
+      "category": "AI Singing Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Voice Changer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-11 23:03:51",
+      "updatedAt": "2023-10-11 23:03:51"
+    },
+    {
+      "name": "celebrity ai voice generator",
+      "description": "Create celebrity voices effortlessly",
+      "website": "https://www.celebrityaivoice.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170731993712744935.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning",
+        "AI Character",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-07 23:30:51",
+      "updatedAt": "2024-02-07 23:30:51"
+    },
+    {
+      "name": "Moemate",
+      "description": "Customizable AI studio with lifelike characters and spoken conversations.",
+      "website": "https://www.moemate.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857327164850306.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Voice Cloning",
+        "AI Reply Assistant",
+        "AI Voice Assistants",
+        "AI Anime & Cartoon Generator",
+        "AI Anime Art",
+        "AI Character",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:34",
+      "updatedAt": "2023-10-29 17:53:34"
+    },
+    {
+      "name": "Murf AI",
+      "description": "Murf AI offers lifelike voiceovers with 120 voices in 20 languages for professional use.",
+      "website": "https://murf.ai/?lmref=a5AoyQ",
+      "image": "https://cdn-images.toolify.ai/image/c90ef424fecdfc63c368433e4aa27d41.jpeg",
+      "category": "Text-to-Speech",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Presentation Generator",
+        "AI Voice Changer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Rask AI",
+      "description": "Rask AI provides top-quality AI video dubbing and localization with 130+ languages.",
+      "website": "https://app.rask.ai/?utm_source=affilate&via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168492105892141805.jpeg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Text to Video",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Transcription",
+        "Transcriber",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 17:39:32",
+      "updatedAt": "2023-05-24 17:39:32"
+    },
+    {
+      "name": "Wavel AI",
+      "description": "Wavel AI offers text-to-speech voice solutions in over 20 languages for videos and localization.",
+      "website": "https://wavel.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563283982437125.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Short Clips Generator",
+        "AI Video Generator",
+        "Captions or Subtitle",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:19:37",
+      "updatedAt": "2023-06-01 23:19:37"
+    },
+    {
+      "name": "Wellsaidlabs",
+      "description": "WellSaid Labs is a popular AI voice platform for creating real-time voiceovers.",
+      "website": "https://wellsaidlabs.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/77ae3dfc14c7b6239de18b285d3139c7.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Content Generator",
+        "AI Voice Cloning",
+        "AI Voice Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "Synthesys X",
+      "description": "AI-powered Synthesys.io revolutionizes content production with voice, video, and image generators.",
+      "website": "https://paykstrt.com/34904/153495",
+      "image": "https://cdn-images.toolify.ai/image/8f528e1b134b68350905398e3fd78333.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Tangia",
+      "description": "Supercharge chat engagement on your stream.",
+      "website": "https://tangia.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349845495893353.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:44",
+      "updatedAt": "2023-12-25 18:00:44"
+    },
+    {
+      "name": "Altered",
+      "description": "Altered provides AI voice changer software for professional voice-driven performances.",
+      "website": "https://altered.ai?fpr=toolify32",
+      "image": "https://cdn-images.toolify.ai/image/c7bdefd8a146fe09e2a1a47f0b6170b6.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Product Description Generator",
+        "AI Voice Changer",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:54",
+      "updatedAt": "2023-03-07 16:48:54"
+    },
+    {
+      "name": "voicemy.ai",
+      "description": "Voicemy.ai is a platform for creating and sharing AI voices and music.",
+      "website": "https://www.voicemy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169106999328954766.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Singing Generator",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-03 21:39:26",
+      "updatedAt": "2023-08-03 21:39:26"
+    },
+    {
+      "name": "Papercup",
+      "description": "Papercup automates video translation with human-like voiceovers in multiple languages.",
+      "website": "https://www.papercup.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/02e4577e0db3b8541512786effe903f1.jpeg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "Translate",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "DeepReel",
+      "description": "Create AI-generated videos from text",
+      "website": "https://deepreel.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349987927369670.jpg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Script Writing",
+        "AI Avatar Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "Coachvox AI",
+      "description": "Create your own AI clone with Coachvox AI to engage and generate leads.",
+      "website": "https://coachvox.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168373905957175032.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:17:35",
+      "updatedAt": "2023-05-11 01:17:35"
+    },
+    {
+      "name": "Voicify.AI",
+      "description": "Voicify AI is the top platform for quick, high-quality AI covers using AI technology and user-uploaded voice models.",
+      "website": "https://jammable.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416201940071660.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Cover Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:46:00",
+      "updatedAt": "2023-05-15 22:46:00"
+    },
+    {
+      "name": "Speechki",
+      "description": "AI Realistic Voice Generator and Text-to-Speech Solution",
+      "website": "https://speechki.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349899579356785.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Audio Enhancer",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Lip Sync Generator",
+        "AI Product Description Generator",
+        "AI Voice Assistants",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:18",
+      "updatedAt": "2023-12-25 18:02:18"
+    },
+    {
+      "name": "Project December",
+      "description": "Simulate text-based conversations with anyone, including the deceased, using advanced AI technology.",
+      "website": "https://projectdecember.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349935753000732.jpg",
+      "category": "AI Character",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:31",
+      "updatedAt": "2023-12-25 18:09:31"
+    },
+    {
+      "name": "Dub AI",
+      "description": "Translate and dub videos effortlessly.",
+      "website": "https://trydub.com/?ref=123",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171405231956839135.webp",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Translate",
+        "Captions or Subtitle",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-25 21:42:46",
+      "updatedAt": "2024-04-25 21:42:46"
+    },
+    {
+      "name": "AnyToSpeech",
+      "description": "Convert various forms of text into speech with realistic voices in multiple languages.",
+      "website": "https://anytospeech.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164902554082322.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "RE:Create Video",
+      "description": "Unlock the power of AI for content creation.",
+      "website": "https://recreate.video?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839249574610762.jpg",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "AI Script Writing",
+        "AI Content Generator",
+        "Text to Video",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Instagram Assistant",
+        "AI Rewriter",
+        "Writing Assistants",
+        "AI Analytics Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:19",
+      "updatedAt": "2024-02-20 09:27:19"
+    },
+    {
+      "name": "X-Me",
+      "description": "Generate AI avatar videos with text inputs!",
+      "website": "https://x-me.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170039405064440699.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Product Description Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Voice Cloning",
+        "Large Language Models (LLMs)",
+        "AI Short Clips Generator",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-19 19:40:33",
+      "updatedAt": "2023-11-19 19:40:33"
+    },
+    {
+      "name": "Deepshot",
+      "description": "Deepshot is a customizable software for creating professional videos with synchronized audio and video.",
+      "website": "https://www.deepshot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563222237728208.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Script Writing",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Response Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:34",
+      "updatedAt": "2023-06-01 23:09:34"
+    },
+    {
+      "name": "VoiceVector",
+      "description": "Cutting-edge voice cloning, TTS & speech recognition",
+      "website": "https://www.voice-vector.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172051458015936734.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Cloning",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 16:42:16",
+      "updatedAt": "2024-07-09 16:42:16"
+    },
+    {
+      "name": "anytalk.ai",
+      "description": "Instant voice translation for meetings",
+      "website": "https://anytalk.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169979013076064828.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Lip Sync Generator",
+        "AI Voice Assistants",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-12 19:55:17",
+      "updatedAt": "2023-11-12 19:55:17"
+    },
+    {
+      "name": "UniDub.co",
+      "description": "UniDub is a cost-effective AI dubbing platform for creating videos in multiple languages.",
+      "website": "https://unidub.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053861759596547.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Short Clips Generator",
+        "AI Speech Synthesis",
+        "AI Video Generator",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Captions or Subtitle",
+        "Translate",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Maxine AI",
+      "description": "Speak and understand 9 languages effortlessly.",
+      "website": "https://apps.apple.com/us/app/maxine-ai/id6445803636?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168398963625508148.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Chatbot",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "AI Girlfriend",
+        "AI Voice Changer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 22:53:45",
+      "updatedAt": "2023-05-13 22:53:45"
+    },
+    {
+      "name": "FolkTalk",
+      "description": "FolkTalk helps teams connect and collaborate for effective communication and work.",
+      "website": "https://www.folktalk.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415985497151705.jpg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Voice Cloning",
+        "AI Product Description Generator",
+        "AI Voice Assistants",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:10:09",
+      "updatedAt": "2023-05-15 22:10:09"
+    },
+    {
+      "name": "Vagabond AI",
+      "description": "Vagabond AI is a marketplace for artists to create and share AI-generated voice clones, using blockchain technology for ownership distribution.",
+      "website": "https://www.vagabondai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416074495969698.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Lyrics Generator",
+        "Recording",
+        "AI Speech Synthesis",
+        "Voice & Audio Editing",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:24:38",
+      "updatedAt": "2023-05-15 22:24:38"
+    },
+    {
+      "name": "Dubbify",
+      "description": "Dubbify is an AI-powered platform for translating videos accurately and easily in multiple languages.",
+      "website": "https://dubbify.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622812646281958.jpg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Translate",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:41:33",
+      "updatedAt": "2023-06-08 20:41:33"
+    },
+    {
+      "name": "Langswap.app - a video translator tool",
+      "description": "LangSwap is a video translation platform that retains the original voice while translating videos into different languages.",
+      "website": "https://langswap.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168718102959458635.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-19 21:23:32",
+      "updatedAt": "2023-06-19 21:23:32"
+    },
+    {
+      "name": "Speakmulti",
+      "description": "YouTube videos translated with authentic voices.",
+      "website": "https://speakmulti.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168803973084463498.jpg",
+      "category": "AI Lip Sync Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lip Sync Generator",
+        "Translate",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 19:54:50",
+      "updatedAt": "2023-06-29 19:54:50"
+    },
+    {
+      "name": "BlogToPod",
+      "description": "Convert blogs to podcasts easily with BlogToPod, expanding your audience effortlessly.",
+      "website": "https://blogtopod.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134158868826236.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Speech Synthesis",
+        "Recording",
+        "AI Podcast Assistant",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "VocalReplica",
+      "description": "VocalReplica provides voice cloning services targeted at replicating YouTube voices.",
+      "website": "https://vocalreplica.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164908629660000.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Firebay Studios",
+      "description": "Firebay Studios is the top podcast agency for AI audio services.",
+      "website": "https://www.firebaystudios.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218837577200760.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "AI Voice Assistants",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "Person Cloner",
+      "description": "Make your friends say anything with their voices and lip sync!",
+      "website": "https://person-cloner.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605495827859365.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Lip Sync Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "MeGPT",
+      "description": "Create an AI clone of yourself for interactive and discoverable online presence.",
+      "website": "https://megpt.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169772258378530885.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Response Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-19 21:35:47",
+      "updatedAt": "2023-10-19 21:35:47"
+    },
+    {
+      "name": "Vaanee AI Engine",
+      "description": "Generate realistic human-like voiceovers in seconds.",
+      "website": "http://vaanee.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969526484083394.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Audio Enhancer",
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "AI Video Generator",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:14",
+      "updatedAt": "2023-11-11 17:32:14"
+    },
+    {
+      "name": "DubWiz",
+      "description": "Streamline video translation and dubbing with powerful AI.",
+      "website": "https://dubwiz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170119805135020308.jpg",
+      "category": "AI Lip Sync Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lip Sync Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 03:00:30",
+      "updatedAt": "2023-11-29 03:00:30"
+    },
+    {
+      "name": "cynapto.com",
+      "description": "AI platform for video localization",
+      "website": "https://cynapto.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230516896392559.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle",
+        "Text to Video",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Video Editor",
+        "Large Language Models (LLMs)",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:58",
+      "updatedAt": "2024-04-05 16:15:58"
+    },
+    {
+      "name": "Eadlyn",
+      "description": "Revolutionizing voice and portrait cloning",
+      "website": "https://eadlyn.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542250767901541.webp",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "Large Language Models (LLMs)",
+        "AI Response Generator",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:19",
+      "updatedAt": "2024-05-11 18:14:19"
+    },
+    {
+      "name": "AI Clone Voice Free",
+      "description": "Free AI voice cloning service",
+      "website": "https://aiclonevoicefree.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998304350892399.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:37",
+      "updatedAt": "2024-07-03 13:01:37"
+    },
+    {
+      "name": "VidAU",
+      "description": "Generate engaging videos in batches within a few minutes",
+      "website": "https://affiliates.vidau.ai/XfqLzb",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807163103347710.webp",
+      "category": "AI Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Short Clips Generator",
+        "AI Personalized Video Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Lip Sync Generator",
+        "Captions or Subtitle",
+        "Video to Video",
+        "Translate",
+        "Text to Video",
+        "Image to Video",
+        "AI Face Swap Generator",
+        "AI Background Remover",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Avatar Generator",
+        "AI Content Generator",
+        "AI Video Enhancer",
+        "AI Tiktok Assistant",
+        "AI Ad Creative Assistant",
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Facebook Assistant",
+        "AI YouTube Assistant",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:16:24",
+      "updatedAt": "2024-06-11 10:16:24"
+    },
+    {
+      "name": "SteosVoice",
+      "description": "SteosVoice: AI-powered platform for realistic, high-quality speech synthesis.",
+      "website": "https://cybervoice.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/37bbf3923e6aedca4018b8687a9d26b0.jpeg",
+      "category": "AI Speech Synthesis",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Speech Synthesis",
+        "AI Speech Recognition",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "Studio by Gan.AI Recorder",
+      "description": "AI-powered platform for personalized video creation",
+      "website": "https://gan.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998291695828304.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Personalized Video Generator",
+        "AI Analytics Assistant",
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "AI Lead Generation",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:19",
+      "updatedAt": "2024-07-03 13:01:19"
+    },
+    {
+      "name": "Splashmusic",
+      "description": "Splash is an inclusive AI music platform with original compositions and versatile features.",
+      "website": "https://www.splashmusic.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f03e4e7ecc922bdc4a7fd96c5bd8c6b7.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Voice Cloning",
+        "Text-to-Music",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "Vocs AI",
+      "description": "AI Voice Generator with original singers, rappers, and voiceover artists.",
+      "website": "https://vocs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885090919489026.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI Singing Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:01:37",
+      "updatedAt": "2023-11-01 23:01:37"
+    },
+    {
+      "name": "Avtaar.ai",
+      "description": "Craft hyper-realistic AI avatars with just a photo and voice sample.",
+      "website": "https://www.avtaar.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100870648545703.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Product Description Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:38",
+      "updatedAt": "2023-11-26 22:24:38"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

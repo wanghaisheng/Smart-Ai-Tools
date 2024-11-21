@@ -1,0 +1,2954 @@
+{
+  "tools": [
+    {
+      "name": "OpenAI Sora",
+      "description": "AI model creating scenes from text.",
+      "website": "https://openai.com/sora?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170805785194230635.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Video",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-16 12:32:31",
+      "updatedAt": "2024-02-16 12:32:31"
+    },
+    {
+      "name": "PixVerse",
+      "description": "AI model creating stunning videos from multi-modal inputs.",
+      "website": "https://pixverse.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169892164465716445.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Animated Video",
+        "Image to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-02 18:39:22",
+      "updatedAt": "2023-11-02 18:39:22"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Synthesia",
+      "description": "Create professional videos using AI avatars and voiceovers in multiple languages without equipment or actors.",
+      "website": "https://www.synthesia.io/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/fc04691749322e25e5372570bb58193d.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Avatar Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Stable Diffusion Web",
+      "description": "Deep learning model for image generation",
+      "website": "https://stablediffusionweb.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170895933660130535.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-26 23:05:57",
+      "updatedAt": "2024-02-26 23:05:57"
+    },
+    {
+      "name": "VideoGen - AI Video Generator",
+      "description": "Create AI-generated videos in seconds.",
+      "website": "https://videogen.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349864527105780.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "Text to Video",
+        "Text-to-Speech",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Speech Synthesis",
+        "AI SEO Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:52",
+      "updatedAt": "2023-12-25 18:00:52"
+    },
+    {
+      "name": "WonderShare Virbo",
+      "description": "Wondershare Virbo uses AI to create realistic avatar videos in 120+ languages. With 300+ avatars and customizable templates, it's perfect for marketing, tutorials, and presentations. Create professional videos effortlessly without hiring a crew or actors.",
+      "website": "https://virbo.wondershare.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176310438326755.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Thumbnail Maker",
+        "AI Art Generator",
+        "AI Lip Sync Generator",
+        "AI Short Clips Generator",
+        "AI Video Generator",
+        "AI Personalized Video Generator",
+        "Video to Video",
+        "AI Video Search",
+        "AI UGC Video Generator",
+        "Text to Video",
+        "Text to Image",
+        "AI Video Enhancer",
+        "AI Video Editor",
+        "AI Music Video Generator",
+        "Image to Video",
+        "AI Animated Video",
+        "AI Anime & Cartoon Generator",
+        "AI Cover Generator",
+        "AI Avatar Generator",
+        "AI Photo & Image Generator",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:23:21",
+      "updatedAt": "2024-11-16 21:23:21"
+    },
+    {
+      "name": "DeepBrain AI",
+      "description": "\"DeepBrain AI is a versatile video generator with realistic AI avatars.\"",
+      "website": "https://www.deepbrain.io/aistudios?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543655491377448.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 16:48:39",
+      "updatedAt": "2023-05-30 16:48:39"
+    },
+    {
+      "name": "revid.ai",
+      "description": "AI-powered tool for creating viral short videos",
+      "website": "https://billing.typeframes.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062477089268625.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Video Generator",
+        "AI Repurpose Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:05",
+      "updatedAt": "2024-07-10 23:19:05"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "AutoShorts.ai",
+      "description": "Automated creation and posting of TikTok Faceless Videos.",
+      "website": "https://autoshorts.ai/?ref=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245855234986404.webp",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Hashtag Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:23",
+      "updatedAt": "2024-04-07 10:54:23"
+    },
+    {
+      "name": "Arcads",
+      "description": "Generate high-quality marketing videos quickly",
+      "website": "https://arcads.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987810179991647.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Content Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "VideoMaker.me:AI Video Maker Free Online",
+      "description": "AI video maker with text-to-video and image-to-video features",
+      "website": "https://videomaker.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172250756515713138.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-01 18:19:04",
+      "updatedAt": "2024-08-01 18:19:04"
+    },
+    {
+      "name": "neural frames",
+      "description": "AI motion content generator converts text into videos using neural network.",
+      "website": "https://www.neuralframes.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510604532108231.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "Text to Video",
+        "AI Music Video Generator",
+        "AI Music Generator",
+        "AI Animated Video",
+        "AI Photo & Image Generator",
+        "Image to Video",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant",
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Art Generator",
+        "Image to Image",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Wallpaper Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 21:00:33",
+      "updatedAt": "2023-05-26 21:00:33"
+    },
+    {
+      "name": "CopyCopter",
+      "description": "Generate viral videos from text",
+      "website": "https://copycopter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421834763331996.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Copywriting",
+        "AI Script Writing",
+        "AI Content Generator",
+        "AI Repurpose Assistant",
+        "AI Rewriter",
+        "Writing Assistants",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 19:45:11",
+      "updatedAt": "2024-04-27 19:45:11"
+    },
+    {
+      "name": "Zebracat AI",
+      "description": "AI-powered marketing video creation",
+      "website": "http://studio.zebracat.ai/signup/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738123623912327.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Repurpose Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Content Generator",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:19:44",
+      "updatedAt": "2024-06-03 10:19:44"
+    },
+    {
+      "name": "Cliplama",
+      "description": "Automated video creation for social media",
+      "website": "https://cliplama.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998312222500369.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Tiktok Assistant",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:39",
+      "updatedAt": "2024-07-03 13:01:39"
+    },
+    {
+      "name": "WOXO: AI Video Generator for Social Content",
+      "description": "Effortlessly create and schedule AI-generated videos for social media.",
+      "website": "https://woxo.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349873742311466.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI YouTube Assistant",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:56",
+      "updatedAt": "2023-12-25 18:00:56"
+    },
+    {
+      "name": "Listnr AI",
+      "description": "Create voiceovers and videos with AI",
+      "website": "https://listnr.ai/?gr_pk=XN2z",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170765305597789281.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Text to Video",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-11 20:17:00",
+      "updatedAt": "2024-02-11 20:17:00"
+    },
+    {
+      "name": "Vidu AI",
+      "description": "AI video generator for effortless high-quality video creation.",
+      "website": "https://viduai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481140439086390.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:35",
+      "updatedAt": "2024-08-28 10:14:35"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "Hourone",
+      "description": "Create professional videos in minutes with Hour One's AI video generator.",
+      "website": "https://www.hourone.ai/?via=wenhua",
+      "image": "https://cdn-images.toolify.ai/image/75e95f397fca0aedf47ade01a28f29be.jpeg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "Text to Video",
+        "AI Product Description Generator",
+        "AI Video Generator",
+        "AI UGC Video Generator",
+        "AI Animated Video",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "Vidu Studio",
+      "description": "AI video generator for stunning videos from text prompts.",
+      "website": "https://vidu-studio.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172458950819606205.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Content Generator",
+        "AI Design Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-25 20:56:49",
+      "updatedAt": "2024-08-25 20:56:49"
+    },
+    {
+      "name": "AIVideo",
+      "description": "Create viral videos with ease.",
+      "website": "https://aivideo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171647507312207284.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "Writing Assistants",
+        "Captions or Subtitle",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:37:00",
+      "updatedAt": "2024-05-23 22:37:00"
+    },
+    {
+      "name": "Vidful.ai: Free AI Video Generator Online",
+      "description": "Create videos from text and images with Vidful.ai\u2019s free AI video generator powered by Kuaishou Kling AI and Luma AI Dream Machine!",
+      "website": "https://vidful.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172533813063269904.jpg",
+      "category": "Image to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Image to Video",
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-03 12:37:32",
+      "updatedAt": "2024-09-03 12:37:32"
+    },
+    {
+      "name": "AI Video Generator",
+      "description": "Turn texts and images into mesmerizing videos effortlessly.",
+      "website": "https://collov.ai/ai-video-generator?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170416108122242961.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 10:08:26",
+      "updatedAt": "2024-01-02 10:08:26"
+    },
+    {
+      "name": "Luma AI Video Generator Free Online Powered By Dream Machine",
+      "description": "Create captivating videos from text and images with Luma AI Video Generator Instantly.",
+      "website": "https://aivideogenerator.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172075304311440074.jpg",
+      "category": "Image to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Image to Video",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-12 10:58:31",
+      "updatedAt": "2024-07-12 10:58:31"
+    },
+    {
+      "name": "aicut 2.0",
+      "description": "AI tool for creating faceless short videos",
+      "website": "https://aicut.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043222660750494.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:07",
+      "updatedAt": "2024-07-08 17:48:07"
+    },
+    {
+      "name": "aicut",
+      "description": "Text to short form video content in minutes.",
+      "website": "https://www.aicut.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170731986591611783.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-07 23:30:49",
+      "updatedAt": "2024-02-07 23:30:49"
+    },
+    {
+      "name": "Storykit",
+      "description": "Transforming your content into high-performing video",
+      "website": "https://storykit.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839254931486978.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "Captions or Subtitle",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:20",
+      "updatedAt": "2024-02-20 09:27:20"
+    },
+    {
+      "name": "OpenAISora.video",
+      "description": "Cutting-edge text-to-video model.",
+      "website": "https://www.openaisora.video?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170865835441701937.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-23 11:18:47",
+      "updatedAt": "2024-02-23 11:18:47"
+    },
+    {
+      "name": "Text to Speech Online",
+      "description": "Convert text to natural-sounding audio",
+      "website": "https://texttospeech.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171876070781545503.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Tiktok Assistant",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-19 09:36:59",
+      "updatedAt": "2024-06-19 09:36:59"
+    },
+    {
+      "name": "Sora Video AI",
+      "description": "Transform text into stunning videos effortlessly.",
+      "website": "https://soravideo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987804939491798.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:14",
+      "updatedAt": "2024-03-08 14:06:14"
+    },
+    {
+      "name": "DeepReel",
+      "description": "Create AI-generated videos from text",
+      "website": "https://deepreel.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349987927369670.jpg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Script Writing",
+        "AI Avatar Generator",
+        "AI Voice Cloning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "Opus",
+      "description": "OpusWebsite offers easy website building tools for individuals and businesses without coding skills.",
+      "website": "https://opus.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3273f06d7b95d18ae7d4bab8b89a1f84.jpeg",
+      "category": "AI Animated Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Animated Video",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Game",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Oxolo",
+      "description": "Transform URLs into captivating videos effortlessly.",
+      "website": "https://oxolo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373308265293884.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Animated Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Analytics Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:13",
+      "updatedAt": "2023-12-28 11:11:13"
+    },
+    {
+      "name": "Rizzle AI",
+      "description": "Create engaging videos quickly from text, blogs, and tweets with Rizzle's AI technology.",
+      "website": "https://rizzle.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863773137224751.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Content Generator",
+        "AI Personalized Video Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 18:01:19",
+      "updatedAt": "2023-07-06 18:01:19"
+    },
+    {
+      "name": "Studio Neiro AI",
+      "description": "Video avatars with human-like features, customizable voice, and accurate representation of brand script or audio speech.",
+      "website": "https://studio.neiro.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831828548088586.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Text to Video",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:28",
+      "updatedAt": "2024-02-19 12:50:28"
+    },
+    {
+      "name": "Shortmake AI",
+      "description": "Create viral TikTok with AI in one click, not one hour \u23f1\ufe0f",
+      "website": "https://app.shortmake.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173077013985940320.jpg",
+      "category": "AI Animated Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Animated Video",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "Text to Image",
+        "AI Video Search",
+        "AI Personalized Video Generator",
+        "Image to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-05 09:32:11",
+      "updatedAt": "2024-11-05 09:32:11"
+    },
+    {
+      "name": "Dream Machine AI Online",
+      "description": "AI video generator for creating dynamic videos from images and text.",
+      "website": "https://dreammachineai.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328712087409468.jpg",
+      "category": "Image to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Image to Video",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:50:50",
+      "updatedAt": "2024-08-10 18:50:50"
+    },
+    {
+      "name": "Short AI",
+      "description": "AI video generator for viral social media videos",
+      "website": "https://www.short.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062343960757042.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Video",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:01:11",
+      "updatedAt": "2024-07-10 23:01:11"
+    },
+    {
+      "name": "Shorts Generator",
+      "description": "Create faceless AI videos quickly for social media.",
+      "website": "https://www.shortsgenerator.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172524202590986381.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-02 09:59:14",
+      "updatedAt": "2024-09-02 09:59:14"
+    },
+    {
+      "name": "GenXi",
+      "description": "AI tool for generating images and videos from text.",
+      "website": "https://genxi.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481141527409448.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "Text to Image",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:36",
+      "updatedAt": "2024-08-28 10:14:36"
+    },
+    {
+      "name": "Veggie AI",
+      "description": "AI video generator for controllable videos",
+      "website": "https://veggieai.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888236052526290.webp",
+      "category": "Image to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Image to Video",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Photo & Image Generator",
+        "AI Art Generator",
+        "AI Character",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:53",
+      "updatedAt": "2024-06-20 19:16:53"
+    },
+    {
+      "name": "Flickify",
+      "description": "Turn articles into videos effortlessly.",
+      "website": "https://flickify.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349998293551393.jpg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Animated Video",
+        "AI Content Generator",
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:52",
+      "updatedAt": "2023-12-25 18:14:52"
+    },
+    {
+      "name": "Jimeng AI",
+      "description": "AI tool for instant video creation from text and images.",
+      "website": "https://jimeng-ai.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398624632229049.jpg",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Image to Image",
+        "Image to Video",
+        "AI Animated Video",
+        "Video to Video",
+        "AI Personalized Video Generator",
+        "AI Illustration Generator",
+        "AI UGC Video Generator",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:58",
+      "updatedAt": "2024-08-18 21:02:58"
+    },
+    {
+      "name": "FacelessVideos.AI",
+      "description": "Create faceless TikTok videos with AI",
+      "website": "https://www.facelessvideos.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421836810043371.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Content Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Tiktok Assistant",
+        "Large Language Models (LLMs)",
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 19:45:12",
+      "updatedAt": "2024-04-27 19:45:12"
+    },
+    {
+      "name": "Hey Watcher AI",
+      "description": "Translate YouTube videos easily",
+      "website": "https://heywatcher.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421838246337696.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Text to Video",
+        "Text-to-Speech",
+        "AI YouTube Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 19:45:12",
+      "updatedAt": "2024-04-27 19:45:12"
+    },
+    {
+      "name": "AI Video API",
+      "description": "AI video generation hub",
+      "website": "https://aivideoapi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785330750170325.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Animated Video",
+        "Image to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 21:31:26",
+      "updatedAt": "2024-06-08 21:31:26"
+    },
+    {
+      "name": "AiReelGenerator.com",
+      "description": "AI generates faceless videos for multiple platforms",
+      "website": "https://aireelgenerator.com?refid=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807210759838278.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "Large Language Models (LLMs)",
+        "AI Social Media Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:14:40",
+      "updatedAt": "2024-06-11 10:14:40"
+    },
+    {
+      "name": "Autopilot Shorts",
+      "description": "Automate your social media video shorts with AI-generated content.",
+      "website": "https://autopilotshorts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068428097264361.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 12:35:38",
+      "updatedAt": "2024-11-04 12:35:38"
+    },
+    {
+      "name": "Renderfire",
+      "description": "AI tool for transforming text into videos",
+      "website": "https://renderfire.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172294105289075898.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Tiktok Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 18:43:30",
+      "updatedAt": "2024-08-06 18:43:30"
+    },
+    {
+      "name": "Renderfire AI",
+      "description": "Faceless videos on autopilot",
+      "website": "https://renderfire.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172277755369339712.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-04 21:22:26",
+      "updatedAt": "2024-08-04 21:22:26"
+    },
+    {
+      "name": "SoraWebui",
+      "description": "Open-source platform for generating videos from text using Sora model.",
+      "website": "https://sorawebui.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1708602822453732.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-22 19:55:22",
+      "updatedAt": "2024-02-22 19:55:22"
+    },
+    {
+      "name": "ShortVideoGen",
+      "description": "Create short videos with audio using AI models.",
+      "website": "https://shortgen.video?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885293782218478.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Text to Video",
+        "AI Content Generator",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:33:57",
+      "updatedAt": "2023-11-01 23:33:57"
+    },
+    {
+      "name": "RenderLion",
+      "description": "Transform words, images, and branding into videos effortlessly.",
+      "website": "https://renderlion.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171025095961746311.webp",
+      "category": "AI UGC Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI UGC Video Generator",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "Image to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-12 21:48:32",
+      "updatedAt": "2024-03-12 21:48:32"
+    },
+    {
+      "name": "muku.ai",
+      "description": "AI-powered viral video creator",
+      "website": "https://muku.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172300266013295602.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "AI Script Writing",
+        "AI Animated Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Instagram Assistant",
+        "AI YouTube Assistant",
+        "AI Ad Creative Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:37:20",
+      "updatedAt": "2024-08-07 12:37:20"
+    },
+    {
+      "name": "\ud83d\udd25 FunFun Art",
+      "description": "The Fun Place To Create AI Images & Videos",
+      "website": "https://www.funfun.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172165853923712792.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "Image to Image",
+        "Large Language Models (LLMs)",
+        "AI Anime Art",
+        "AI Art Generator",
+        "AI Video Generator",
+        "Video to Video",
+        "Text to Video",
+        "Image to Video",
+        "AI Animated Video",
+        "AI Selfie & Portrait",
+        "AI Photo & Image Generator",
+        "AI Manga & Comic",
+        "AI Profile Picture Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Photo Enhancer",
+        "AI Image Enhancer",
+        "AI Background Generator",
+        "AI Avatar Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-22 22:31:14",
+      "updatedAt": "2024-07-22 22:31:14"
+    },
+    {
+      "name": "Sora Videos",
+      "description": "One-stop platform for Sora AI video content",
+      "website": "https://soravideos.media?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171375558523311408.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-22 11:11:49",
+      "updatedAt": "2024-04-22 11:11:49"
+    },
+    {
+      "name": "Vidu Studio AI",
+      "description": "AI platform for converting text/images into videos.",
+      "website": "https://www.vidu-studio.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656296362510351.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:06",
+      "updatedAt": "2024-09-17 16:47:06"
+    },
+    {
+      "name": "Dreamshorts",
+      "description": "Transform your ideas into engaging videos effortlessly.",
+      "website": "https://dreamshorts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169487893810157539.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "Large Language Models (LLMs)",
+        "AI Script Writing",
+        "AI Creative Writing",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 23:41:55",
+      "updatedAt": "2023-09-16 23:41:55"
+    },
+    {
+      "name": "Hashmeta AI",
+      "description": "Revolutionizing content creation with digital human AI.",
+      "website": "https://hashmeta.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169262175010734123.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Character",
+        "AI Script Writing",
+        "AI Content Generator",
+        "AI Video Generator",
+        "AI Lip Sync Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-21 20:42:19",
+      "updatedAt": "2023-08-21 20:42:19"
+    },
+    {
+      "name": "VidGenesis",
+      "description": "AI-powered video creation made easy",
+      "website": "https://vidgenesis.gyata.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171033931881141715.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-13 22:14:10",
+      "updatedAt": "2024-03-13 22:14:10"
+    },
+    {
+      "name": "Kling AI | Sora-Like Video  Model",
+      "description": "Revolutionary text-to-video model",
+      "website": "https://klingai.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824299761845848.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:37",
+      "updatedAt": "2024-06-13 09:42:37"
+    },
+    {
+      "name": "Alice AI",
+      "description": "Alice AI is a no-filter chatbot where you can design your own AI companion or explore unique creations in Wonderland, featuring voice calls, image generation, and endless customization.",
+      "website": "https://alice-ai.com/?source=toolify&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025364975976102.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Cover Generator",
+        "AI Anime & Cartoon Generator",
+        "AI Animated Video",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:03:37",
+      "updatedAt": "2024-10-30 10:03:37"
+    },
+    {
+      "name": "Social360",
+      "description": "AI-driven social media management",
+      "website": "https://www.social360.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171533939229070855.webp",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "Text to Video",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-10 19:08:47",
+      "updatedAt": "2024-05-10 19:08:47"
+    },
+    {
+      "name": "ChatGptSora",
+      "description": "Simplify video creation with ChatGptSora.",
+      "website": "https://chatgptsora.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900423216695351.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:46",
+      "updatedAt": "2024-02-27 11:22:46"
+    },
+    {
+      "name": "Reeler AI",
+      "description": "Transform text prompts into videos",
+      "website": "https://reelerai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566111017366596.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:30:43",
+      "updatedAt": "2024-05-14 12:30:43"
+    },
+    {
+      "name": "Sorahub - Sora AI prompt sharing",
+      "description": "OpenAI Sora guide and prompt share",
+      "website": "https://www.sorahub.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831829462634891.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Image to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:29",
+      "updatedAt": "2024-02-19 12:50:29"
+    },
+    {
+      "name": "AI-Powered Text-to-Video App",
+      "description": "AI-powered short video platform",
+      "website": "https://reemix.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103105168323096.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:47",
+      "updatedAt": "2024-03-21 22:22:47"
+    },
+    {
+      "name": "Voice-Gen",
+      "description": "AI platform for generating voice, images, and videos seamlessly.",
+      "website": "https://www.voice-gen.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947803410389782.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:53:32",
+      "updatedAt": "2024-10-21 10:53:32"
+    },
+    {
+      "name": "BlitzVideo.AI",
+      "description": "All-in-one AI platform for Faceless YouTube Channels.",
+      "website": "https://www.blitzvideo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566241085610642.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Recording",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Video Generator",
+        "AI Photo & Image Generator",
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:15",
+      "updatedAt": "2024-05-14 12:51:15"
+    },
+    {
+      "name": "VidNarrate",
+      "description": "AI tool for creating faceless videos effortlessly.",
+      "website": "https://www.vidnarrate.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855761354650355.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Content Generator",
+        "AI Personalized Video Generator",
+        "Large Language Models (LLMs)",
+        "Text-to-Speech",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:52:42",
+      "updatedAt": "2024-10-10 18:52:42"
+    },
+    {
+      "name": "Snack Contents",
+      "description": "SnackContent generates and automates content creation for users in seconds.",
+      "website": "https://snackcontents.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169193529862699210.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Content Generator",
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-13 22:01:29",
+      "updatedAt": "2023-08-13 22:01:29"
+    },
+    {
+      "name": "Vatic - AI Video Generator",
+      "description": "Vatic AI is the best tool for converting text into videos quickly.",
+      "website": "https://createaivideos.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168346071504922676.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Text to Video",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 20:00:29",
+      "updatedAt": "2023-05-07 20:00:29"
+    },
+    {
+      "name": "Muvie",
+      "description": "Muvie revolutionizes video creation with AI-powered validation and instant viral video generation.",
+      "website": "https://muvie.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168450584269042289.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Video Generator",
+        "Text to Video",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 22:17:01",
+      "updatedAt": "2023-05-19 22:17:01"
+    },
+    {
+      "name": "Flux Video AI",
+      "description": "AI video creation from images and text for high-quality results.",
+      "website": "https://www.fluxvid.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172587896672827680.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Image to Video",
+        "AI Content Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 18:48:33",
+      "updatedAt": "2024-09-09 18:48:33"
+    },
+    {
+      "name": "CopyCat",
+      "description": "Create AI videos instantly",
+      "website": "https://copycat.actor?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349982631003166.jpg",
+      "category": "Text to Video",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "Text-to-Speech",
+        "AI Voice Cloning",
+        "AI Repurpose Assistant",
+        "AI Presentation Generator",
+        "AI Animated Video",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:45",
+      "updatedAt": "2023-12-25 18:14:45"
+    },
+    {
+      "name": "sora ai videos gallery",
+      "description": "Experience AI-generated videos that push the boundaries of creativity.",
+      "website": "https://sora-ai-video.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170936514591915010.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-02 15:38:16",
+      "updatedAt": "2024-03-02 15:38:16"
+    },
+    {
+      "name": "Stable Video Diffusion AI",
+      "description": "AI video generation technology creating dynamic videos from static images or text.",
+      "website": "https://stablevideodiffusion.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170109910630060763.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-27 23:31:34",
+      "updatedAt": "2023-11-27 23:31:34"
+    },
+    {
+      "name": "Videolulu",
+      "description": "AI tool for creating faceless videos quickly.",
+      "website": "https://videolulu.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544459441074574.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "Text to Image",
+        "AI UGC Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:24",
+      "updatedAt": "2024-09-04 18:07:24"
+    },
+    {
+      "name": "Luppa AI",
+      "description": "Luppa is the all-in-one AI-powered content creation platform that helps businesses and creators effortlessly produce, manage, and grow their brand across all digital channels.",
+      "website": "https://luppa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173208152590769726.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
+    },
+    {
+      "name": "AI Image and Video Generators",
+      "description": "Directory for AI-generated visuals",
+      "website": "https://www.aiimageandvideogenerators.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061161432536756.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Tools Directory",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:01",
+      "updatedAt": "2024-07-10 19:40:01"
+    },
+    {
+      "name": "DreamMachine AI Video Generator",
+      "description": "AI video generator for high-quality videos",
+      "website": "https://dreammachineai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017019666304363.jpg",
+      "category": "AI Video Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "Large Language Models (LLMs)",
+        "AI Content Generator",
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 17:01:30",
+      "updatedAt": "2024-07-05 17:01:30"
+    },
+    {
+      "name": "GenVid",
+      "description": "Generate AI-powered product videos for software launches.",
+      "website": "https://genvid.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885103591582212.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Animated Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Product Description Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Graphic Design",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:01:37",
+      "updatedAt": "2023-11-01 23:01:37"
+    },
+    {
+      "name": "VideoGen Chrome Extension",
+      "description": "Video creation tool with AI narration",
+      "website": "https://chromewebstore.google.com/detail/videogen-chrome-extension/jedigjdipfohldkabkgphbnnaaeijohi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998286862755654.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Personalized Video Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:56",
+      "updatedAt": "2024-07-03 13:00:56"
+    },
+    {
+      "name": "Verbalia AI Instructor Generator",
+      "description": "AI instructor for video content creation",
+      "website": "https://www.verbalia.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230639351575835.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI CRM Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:06",
+      "updatedAt": "2024-07-30 10:25:06"
+    },
+    {
+      "name": "I Have a Dream",
+      "description": "AI tool for creating viral videos from text",
+      "website": "https://ihaveadream.ai//?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241577875214788.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Social Media Assistant",
+        "AI Script Writing",
+        "AI Content Generator",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Tiktok Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:59",
+      "updatedAt": "2024-07-31 16:45:59"
+    },
+    {
+      "name": "Oshorts",
+      "description": "AI-powered platform for creating short videos",
+      "website": "https://www.oshorts.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172242157225231190.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Animated Video",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 18:26:01",
+      "updatedAt": "2024-07-31 18:26:01"
+    },
+    {
+      "name": "VidGenius - AI Video Creator For Windows",
+      "description": "Unleash creativity with AI video creation.",
+      "website": "https://www.vidgeniusai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168641599448827440.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Video Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 00:52:51",
+      "updatedAt": "2023-06-11 00:52:51"
+    },
+    {
+      "name": "AI Voiceover for Video Creators",
+      "description": "Transform text to realistic voiceovers",
+      "website": "https://chromewebstore.google.com/detail/ai-voiceover-for-video-cr/ajkecebnopfapmeojaldoikepcdkdeoa?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776926353698895.jpg",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "Text to Video",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:55",
+      "updatedAt": "2024-06-07 22:06:55"
+    },
+    {
+      "name": "BityClips",
+      "description": "Create eye-catching videos instantly",
+      "website": "https://bityclips.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763932641550857.webp",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:57:29",
+      "updatedAt": "2024-06-06 09:57:29"
+    },
+    {
+      "name": "Movio",
+      "description": "Generate AI avatar videos with text",
+      "website": "https://chromewebstore.google.com/detail/movio/dkjhhhlljljbhhmcnpbfldgpdjcmjnfk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763883480819021.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Avatar Generator",
+        "AI Lip Sync Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:46",
+      "updatedAt": "2024-06-06 09:53:46"
+    },
+    {
+      "name": "AI Video Generator - Text to Video By Sora",
+      "description": "Create videos without equipment",
+      "website": "https://chromewebstore.google.com/detail/ai-video-generator-text-t/fgmkpjjkogfehealkpphadefaaakcenh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738115968607553.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "Text to Video",
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "AI UGC Video Generator",
+        "Captions or Subtitle",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:53",
+      "updatedAt": "2024-06-03 10:18:53"
+    },
+    {
+      "name": "AI tree",
+      "description": "Explore a variety of AI tools conveniently in one Chrome extension.",
+      "website": "https://chromewebstore.google.com/detail/ai-tree/ndgomcamkdngodpaahnmommojckolclj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738101214361092.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "Text to Video",
+        "AI Video Generator",
+        "Text-to-Speech",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Large Language Models (LLMs)",
+        "AI Cover Generator",
+        "AI Banner Generator",
+        "AI Background Generator",
+        "AI Illustration Generator",
+        "Photo & Image Editor",
+        "AI Logo Generator",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Animated Video",
+        "AI Image Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:09",
+      "updatedAt": "2024-06-03 10:16:09"
+    },
+    {
+      "name": "Kimavi: Create Guides with Generative AI",
+      "description": "Transformative content creation tool",
+      "website": "https://chromewebstore.google.com/detail/kimavi-create-guides-with/kcleenakjlelbmchbkfpgoldgglhdpne?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703941328208730.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Video",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI GIF Generator",
+        "AI Animated Video",
+        "Text-to-Speech",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:22",
+      "updatedAt": "2024-05-30 11:23:22"
+    },
+    {
+      "name": "BB WaveNet",
+      "description": "Text-to-speech extension for Chrome",
+      "website": "https://chromewebstore.google.com/detail/bb-wavenet/kjdpalphjefbihgmngnpkiblkagkojpn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703915682895233.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Text to Video",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:34",
+      "updatedAt": "2024-05-30 11:18:34"
+    },
+    {
+      "name": "Story2Video",
+      "description": "Effortlessly create personalized storytelling videos.",
+      "website": "https://story2video.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566219865026704.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Story Writing",
+        "AI Social Media Assistant",
+        "AI Creative Writing",
+        "AI Hashtag Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:43",
+      "updatedAt": "2024-05-14 12:49:43"
+    },
+    {
+      "name": "ShortScripter",
+      "description": "Automated video creation",
+      "website": "https://www.shortscripter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542248458963331.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Text-to-Speech",
+        "Captions or Subtitle",
+        "AI Script Writing",
+        "AI Video Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:19",
+      "updatedAt": "2024-05-11 18:14:19"
+    },
+    {
+      "name": "Viralshort",
+      "description": "AI platform for rapid short-form video generation.",
+      "website": "https://viralshort.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172561990111436936.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Video Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 18:51:01",
+      "updatedAt": "2024-09-06 18:51:01"
+    },
+    {
+      "name": "BenSafer: Realistic Text to Speech",
+      "description": "Transform your text into realistic speech",
+      "website": "https://bensafer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245853398380093.webp",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Video",
+        "Text-to-Speech",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:22",
+      "updatedAt": "2024-04-07 10:54:22"
+    },
+    {
+      "name": "soramov",
+      "description": "Convert text into engaging videos.",
+      "website": "https://www.soramov.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073434731613236.webp",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Text to Video",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 11:57:59",
+      "updatedAt": "2024-03-18 11:57:59"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

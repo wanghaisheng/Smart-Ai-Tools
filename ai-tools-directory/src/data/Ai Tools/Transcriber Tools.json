@@ -1,0 +1,2752 @@
+{
+  "tools": [
+    {
+      "name": "TurboScribe",
+      "description": "Unlimited AI transcription with 99.8% accuracy in 98+ languages.",
+      "website": "https://turboscribe.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349857147610723.jpg",
+      "category": "Speech-to-Text",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Document Extraction",
+        "AI Speech Recognition",
+        "AI Product Description Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:48",
+      "updatedAt": "2023-12-25 18:00:48"
+    },
+    {
+      "name": "Transkriptor",
+      "description": "Convert audio and video to text with Transkriptor's powerful AI.",
+      "website": "https://transkriptor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349852667488509.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:47",
+      "updatedAt": "2023-12-25 18:00:47"
+    },
+    {
+      "name": "VMEG",
+      "description": "A Video Translation Multilingual Tool By AI",
+      "website": "https://www.vmeg.pro/video-translation/?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171949811255025830.jpeg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Translate",
+        "Transcription",
+        "Transcriber",
+        "Video to Video",
+        "AI Lip Sync Generator",
+        "AI Advertising Assistant",
+        "AI Short Clips Generator",
+        "AI Ad Generator",
+        "AI Content Generator",
+        "Captions or Subtitle",
+        "AI Personalized Video Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-26 09:48:32",
+      "updatedAt": "2024-06-26 09:48:32"
+    },
+    {
+      "name": "Happy Scribe",
+      "description": "Audio to text transcription and video subtitles with high accuracy.",
+      "website": "https://happyscribe.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349947541881486.jpg",
+      "category": "Speech-to-Text",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:23",
+      "updatedAt": "2023-12-25 18:13:23"
+    },
+    {
+      "name": "AssemblyAI",
+      "description": "AssemblyAI provides AI models for transcribing and understanding speech through a user-friendly API.",
+      "website": "https://www.assemblyai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/bb8c9517c62f4a39c11cc7f68f4618e0.jpeg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI Voice Assistants",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "Cockatoo",
+      "description": "Cockatoo is an AI-powered transcription service that provides accurate text and subtitle conversion in multiple languages.",
+      "website": "https://www.cockatoo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168648620599642090.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Speech Recognition",
+        "Transcription",
+        "Speech-to-Text",
+        "Transcriber",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 20:25:40",
+      "updatedAt": "2023-06-11 20:25:40"
+    },
+    {
+      "name": "ScriptMe",
+      "description": "ScriptMe provides fast and accurate transcriptions and subtitling in multiple languages.",
+      "website": "https://scriptme.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543989673752007.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:46",
+      "updatedAt": "2023-05-30 17:44:46"
+    },
+    {
+      "name": "TranscribeMe",
+      "description": "Convert voice notes from WhatsApp and Telegram to text with TranscribeMe for free.",
+      "website": "https://www.transcribeme.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576337356756495.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 11:35:16",
+      "updatedAt": "2023-06-03 11:35:16"
+    },
+    {
+      "name": "Transcript LOL",
+      "description": "Transcript.LOL helps users transcribe podcasts, videos, and meetings for faster learning and productivity.",
+      "website": "https://transcript.lol/?ref=Wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169322533568732754.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-28 20:21:21",
+      "updatedAt": "2023-08-28 20:21:21"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "Transcri",
+      "description": "AI-powered transcription and subtitle generation",
+      "website": "https://transcri.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061171828384043.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:03",
+      "updatedAt": "2024-07-10 19:40:03"
+    },
+    {
+      "name": "Minutes: AI Meeting Notes & Transcripts",
+      "description": "Automated AI tool for meeting minutes and transcription from audio.",
+      "website": "https://myminutes.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544442859638459.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "AI Notes Assistant",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:06:21",
+      "updatedAt": "2024-09-04 18:06:21"
+    },
+    {
+      "name": "Scribebuddy",
+      "description": "AI tool for audio/video transcription, translation, and subtitles.",
+      "website": "https://scribebuddy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007968071195663.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Podcast Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:46",
+      "updatedAt": "2024-10-28 09:39:46"
+    },
+    {
+      "name": "transkrip.xyz",
+      "description": "Transkrip.xyz is a cost-effective online tool that converts audio and video to text accurately and quickly.",
+      "website": "https://transkrip.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580630468812937.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:00:45",
+      "updatedAt": "2023-06-03 22:00:45"
+    },
+    {
+      "name": "Glyph AI",
+      "description": "AI tool for fast transcription and actionable insights.",
+      "website": "https://www.joinglyph.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172535635481095962.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "AI Analytics Assistant",
+        "AI Notes Assistant",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "Speech-to-Text",
+        "AI Reply Assistant",
+        "AI Meeting Assistant",
+        "AI Repurpose Assistant",
+        "AI Workflow Management",
+        "Prompt",
+        "AI Response Generator",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-03 17:38:36",
+      "updatedAt": "2024-09-03 17:38:36"
+    },
+    {
+      "name": "TranscribetoText.AI",
+      "description": "AI service for transcribing audio and video to text.",
+      "website": "https://transcribetotext.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008225876959034.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:45",
+      "updatedAt": "2024-10-28 10:27:45"
+    },
+    {
+      "name": "Konch",
+      "description": "Simplify transcription in multiple languages with high accuracy.",
+      "website": "https://konch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170616999351000780.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:14",
+      "updatedAt": "2024-01-25 16:04:14"
+    },
+    {
+      "name": "Shadow",
+      "description": "AI-powered meeting assistant for efficient post-meeting tasks.",
+      "website": "https://www.shadow.do?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589359191569914.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:24",
+      "updatedAt": "2024-01-22 11:18:24"
+    },
+    {
+      "name": "Pen2txt",
+      "description": "Effortlessly transform handwritten notes into digital text",
+      "website": "https://pen2txt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987809283454974.webp",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:14",
+      "updatedAt": "2024-03-08 14:06:14"
+    },
+    {
+      "name": "Audiogest.app",
+      "description": "Converts audio into text transcripts and summaries for easy access and analysis.",
+      "website": "https://audiogest.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563224155446479.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Noise Cancellation",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Summarizer",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:09:35",
+      "updatedAt": "2023-06-01 23:09:35"
+    },
+    {
+      "name": "Wavve AI",
+      "description": "Effortless audio to text conversion",
+      "website": "https://listnr.ai/?gr_pk=2Pp9",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171617117139235820.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Recording",
+        "Speech-to-Text",
+        "AI Notes Assistant",
+        "Summarizer",
+        "AI Content Generator",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Response Generator",
+        "General Writing",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 10:19:51",
+      "updatedAt": "2024-05-20 10:19:51"
+    },
+    {
+      "name": "CaptionCreator",
+      "description": "Auto video subtitle generator for quick and accurate transcription and translation.",
+      "website": "https://captioncreator.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350406780925718.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Translate",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:16",
+      "updatedAt": "2023-12-25 18:20:16"
+    },
+    {
+      "name": "PlainScribe",
+      "description": "Accurately transcribe large media files with ease.",
+      "website": "https://www.plainscribe.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169089657673166788.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-01 21:28:01",
+      "updatedAt": "2023-08-01 21:28:01"
+    },
+    {
+      "name": "PodScribe.IO",
+      "description": "Podcasts to actionable knowledge platform",
+      "website": "https://podscribe.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062476322826747.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Notes Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:05",
+      "updatedAt": "2024-07-10 23:19:05"
+    },
+    {
+      "name": "Whisper Memos",
+      "description": "Summary: Whisper Memos is an AI-powered app that converts voice memos to transcripts.",
+      "website": "https://whispermemos.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d94255ca62c440bcd1e442a6f19b0fe2.jpeg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "Ace Interview - AI Interview Assistant",
+      "description": "Real-time AI Interview Assistant to Help you ace job interviews",
+      "website": "https://aceinterview.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498603863158647.jpg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Life Assistant",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Content Generator",
+        "Transcriber",
+        "Writing Assistants",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:53",
+      "updatedAt": "2024-08-30 10:48:53"
+    },
+    {
+      "name": "Alphy",
+      "description": "Alphy is an AI platform that provides transcription, summarization, and question-answering services for audio content.",
+      "website": "https://alphy.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578412515838037.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "Recording",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:21:53",
+      "updatedAt": "2023-06-03 17:21:53"
+    },
+    {
+      "name": "Voice Vault",
+      "description": "WhatsApp-based voice memo transcription service",
+      "website": "https://voice-vault.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096694453755863.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:00",
+      "updatedAt": "2024-07-14 22:21:00"
+    },
+    {
+      "name": "Transcribe Video & Audio to Text Free Online",
+      "description": "AI transcription platform for speech and video",
+      "website": "https://www.videotowords.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172101322625267738.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Meeting Assistant",
+        "AI Interview Assistant",
+        "AI Voice Assistants",
+        "AI Productivity Tools",
+        "AI Video Recording",
+        "Transcription",
+        "Legal Assistant",
+        "Life Assistant",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-15 11:19:49",
+      "updatedAt": "2024-07-15 11:19:49"
+    },
+    {
+      "name": "Malloy",
+      "description": "AI transcription with diverse language nuances.",
+      "website": "https://malloy.sg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17011351936145682.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Advertising Assistant",
+        "AI Content Detector",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-28 09:37:20",
+      "updatedAt": "2023-11-28 09:37:20"
+    },
+    {
+      "name": "Unvoice",
+      "description": "Unvoice is an AI-based transcription service for WhatsApp that quickly converts voice notes into text.",
+      "website": "https://unvoice.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168433858078469274.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 23:49:20",
+      "updatedAt": "2023-05-17 23:49:20"
+    },
+    {
+      "name": "RapidTranscribe.com",
+      "description": "AI-based audio & video transcription service",
+      "website": "https://rapidtranscribe.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172299923211253810.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 10:52:22",
+      "updatedAt": "2024-08-07 10:52:22"
+    },
+    {
+      "name": "Speedy Audios",
+      "description": "Transcribe WhatsApp audios",
+      "website": "https://speedyaudios.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350552060656219.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:26",
+      "updatedAt": "2024-04-19 13:44:26"
+    },
+    {
+      "name": "wilowrid.com",
+      "description": "Convert videos to articles quickly",
+      "website": "https://wilowrid.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277202694106398.webp",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "AI Blog Writer",
+        "Summarizer",
+        "Speech-to-Text",
+        "AI Analytics Assistant",
+        "Translate",
+        "AI Content Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:59:47",
+      "updatedAt": "2024-04-11 01:59:47"
+    },
+    {
+      "name": "Dictate4Me",
+      "description": "Fast and accurate voice-to-text transcription app.",
+      "website": "https://apps.apple.com/us/app/live-transcribe-voice-to-text/id1162700681?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120086499075011.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:34:09",
+      "updatedAt": "2024-03-23 21:34:09"
+    },
+    {
+      "name": "ChatVocGPT",
+      "description": "Convert audio to text",
+      "website": "https://chromewebstore.google.com/detail/chatvocgpt/egoimpfoejioacpfhdicncabblffflhk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687133978894650.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:40",
+      "updatedAt": "2024-05-28 12:41:40"
+    },
+    {
+      "name": "Apollo Health MD",
+      "description": "AI-driven SOAP notes automation for healthcare professionals",
+      "website": "https://apollohealth.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241560389928322.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "Healthcare"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:54",
+      "updatedAt": "2024-07-31 16:45:54"
+    },
+    {
+      "name": "ragobble",
+      "description": "Turn audio/video into RAG data",
+      "website": "https://ragobble.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103106849722889.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:47",
+      "updatedAt": "2024-03-21 22:22:47"
+    },
+    {
+      "name": "Transcribe YouTube Video",
+      "description": "Chrome extension for AI transcribing and summarizing.",
+      "website": "https://chromewebstore.google.com/detail/transcribe-youtube-video/dlcncgfmpjblcgppbgjccpaopneelkoi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807151887145490.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "AI YouTube Assistant",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:08",
+      "updatedAt": "2024-06-11 10:05:08"
+    },
+    {
+      "name": "Voice Transcription",
+      "description": "Effortless voice message transcription",
+      "website": "https://chromewebstore.google.com/detail/voice-transcription/eggbccmachgbjpkhflomefjebnaffbom?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498583997516950.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:43:51",
+      "updatedAt": "2024-08-30 10:43:51"
+    },
+    {
+      "name": "Conversor de \u00c1udio para Texto",
+      "description": "Tool for converting audio recordings into written text.",
+      "website": "https://chromewebstore.google.com/detail/conversor-de-\u00e1udio-para-t/obolmphhkkpndomegkhpgigkcecbiigo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129932827147525.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:14",
+      "updatedAt": "2024-11-11 12:25:14"
+    },
+    {
+      "name": "SmartNote AI",
+      "description": "Smart Note AI is an AI-powered tool that transcribes meetings and provides summaries.",
+      "website": "https://smartnote.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168345239286366776.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "AI Notes Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Productivity Tools",
+        "AI Task Management",
+        "AI Documents Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 17:40:13",
+      "updatedAt": "2023-05-07 17:40:13"
+    },
+    {
+      "name": "EasyTranscribe",
+      "description": "AI-powered transcription and captioning for audio and video files",
+      "website": "https://easytranscribe.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651765857579841.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:02",
+      "updatedAt": "2024-01-29 16:40:02"
+    },
+    {
+      "name": "SendVocal: AI Voice Mail & Transcription",
+      "description": "Voice messages with instant transcription",
+      "website": "https://chromewebstore.google.com/detail/sendvocal-ai-voice-mail-t/fajaojggdpiplcopmjmnnkkhggpdgmen?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687108090752028.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Recording",
+        "Speech-to-Text",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:12",
+      "updatedAt": "2024-05-28 12:37:12"
+    },
+    {
+      "name": "Chat Translator by DeskMoz",
+      "description": "Translate incoming messages and replies",
+      "website": "https://chromewebstore.google.com/detail/chat-translator-by-deskmo/mehmompmbaocpeidgkadkkopflliiagb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954825202965.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Customer Service Assistant",
+        "Translate",
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:08",
+      "updatedAt": "2024-05-26 18:30:08"
+    },
+    {
+      "name": "Dictaphone",
+      "description": "AI tool for effortless audio transcription into text.",
+      "website": "https://www.dictaphone.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176296522117065.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:19",
+      "updatedAt": "2024-11-16 21:15:19"
+    },
+    {
+      "name": "Video Subtitles",
+      "description": "Generate subtitles in multiple formats and translate audio using AI algorithms.",
+      "website": "https://videosubtitles.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508686553789180.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:40:54",
+      "updatedAt": "2023-05-26 15:40:54"
+    },
+    {
+      "name": "Inky Notion",
+      "description": "Convert handwritten notes to Notion pages",
+      "website": "https://www.inkynotion.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839251295450632.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Handwriting",
+        "Transcriber",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:27:19",
+      "updatedAt": "2024-02-20 09:27:19"
+    },
+    {
+      "name": "SpeechText.AI: Record, Capture & Transcribe",
+      "description": "Record, transcribe, and capture audio effortlessly.",
+      "website": "https://chromewebstore.google.com/detail/speechtextai-record-captu/pjomkoghmkhnipjjlcgoncjlonoleckj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927372713643.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "Recording",
+        "AI Speech Recognition",
+        "Translate",
+        "AI Podcast Assistant",
+        "AI Video Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:23",
+      "updatedAt": "2024-05-30 11:20:23"
+    },
+    {
+      "name": "WisprNote",
+      "description": "Private offline transcriptions: accurate and reliable.",
+      "website": "https://apps.apple.com/app/wisprnote/id1671480366?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518010262841810.jpg",
+      "category": "Speech-to-Text",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Transcriber",
+        "Transcription",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:34:51",
+      "updatedAt": "2023-05-27 17:34:51"
+    },
+    {
+      "name": "\u96c5\u5a77\u9010\u5b57\u7a3f: \u5373\u6642\u5b57\u5e55\uff0c\u6703\u8b70\u7d00\u9304",
+      "description": "Taiwanese accent optimized transcription service",
+      "website": "https://chromewebstore.google.com/detail/\u96c5\u5a77\u9010\u5b57\u7a3f-\u5373\u6642\u5b57\u5e55\uff0c\u6703\u8b70\u7d00\u9304/jmmhllpicjmeoohojhilgekmaibkdeop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738115515060019.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "Transcription",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:53",
+      "updatedAt": "2024-06-03 10:18:53"
+    },
+    {
+      "name": "Aiera Extension",
+      "description": "Transcribe open tab audio with Aiera's ASR",
+      "website": "https://chromewebstore.google.com/detail/aiera-extension/eplkmokdnapebnloeiflpkkfhfifkgib?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679938069694435.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:46",
+      "updatedAt": "2024-05-25 21:30:46"
+    },
+    {
+      "name": "BrightHire",
+      "description": "AI-powered interview notes and transcription",
+      "website": "https://chromewebstore.google.com/detail/brighthire/mbokiighkhdopgedihndpibkincpcgan?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738115541535901.jpg",
+      "category": "AI Interview Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Interview Assistant",
+        "AI Recruiting",
+        "AI Notes Assistant",
+        "Transcription",
+        "Transcriber",
+        "AI Analytics Assistant",
+        "Resume Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:53",
+      "updatedAt": "2024-06-03 10:18:53"
+    },
+    {
+      "name": "Video2Text",
+      "description": "Convert videos to text accurately with Video2Text, powered by OpenAI Whisper.",
+      "website": "https://video2text.de?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578511282351371.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:38:06",
+      "updatedAt": "2023-06-03 17:38:06"
+    },
+    {
+      "name": "Reportifi Agent",
+      "description": "Automate meeting transcription and analysis",
+      "website": "https://chromewebstore.google.com/detail/reportifi-agent/aimeojbonmkcfbgikmppiakcilgahocj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687107923683871.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Analytics Assistant",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:12",
+      "updatedAt": "2024-05-28 12:37:12"
+    },
+    {
+      "name": "Recos.",
+      "description": "Recos is a secure and efficient web app that transcribes audio into text.",
+      "website": "https://recos.studio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622582659837307.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:03:17",
+      "updatedAt": "2023-06-08 20:03:17"
+    },
+    {
+      "name": "MeetGPT - ChatGPT for Google Meet",
+      "description": "Free Chrome extension for meeting transcription and summarization.",
+      "website": "https://chromewebstore.google.com/detail/meetgpt-chatgpt-for-googl/fcleobipkomafbghinbalmdnokjnbbod?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747564056367862.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Summarizer",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:32",
+      "updatedAt": "2024-06-04 12:33:32"
+    },
+    {
+      "name": "Neural Scribe",
+      "description": "AI-powered conversation documentation app",
+      "website": "https://chromewebstore.google.com/detail/neural-scribe/dbbfblmgfacoeacipkleigemiiiedgjk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153170997735532.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Healthcare",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:14:51",
+      "updatedAt": "2024-07-21 11:14:51"
+    },
+    {
+      "name": "Lugs.ai",
+      "description": "Lugs.ai is an offline software for accurate audio captioning and transcription.",
+      "website": "https://lugs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218839359125515.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:19:20",
+      "updatedAt": "2023-08-16 20:19:20"
+    },
+    {
+      "name": "Hello Transcribe",
+      "description": "Private and secure speech to text transcriber using OpenAI Whisper on iPhone, iPad and Mac.",
+      "website": "https://apps.apple.com/us/app/hello-transcribe/id6443919768?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220584338748457.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Transcriber",
+        "Speech-to-Text",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "Memos AI",
+      "description": "RecorderGO is an AI tool for recording and transcribing notes easily.",
+      "website": "https://www.recordergo.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228003577816470.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Video Recording",
+        "AI Notes Assistant",
+        "Recording",
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Audio to Text for Whatsapp Web",
+      "description": "Effortlessly transcribe audio messages",
+      "website": "https://chromewebstore.google.com/detail/audio-to-text-for-whatsap/knjcfhlcbbkgjfocddahfmhjongelpgk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747583351125866.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:18",
+      "updatedAt": "2024-06-04 12:35:18"
+    },
+    {
+      "name": "DictationDaddy - Speak To Type",
+      "description": "Instant speech-to-text tool for accurate transcriptions",
+      "website": "https://chromewebstore.google.com/detail/dictationdaddy-speak-to-t/mnnmkkjnpnmbfohnpbddndcmiioicpjl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352860698300507.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:39",
+      "updatedAt": "2024-08-13 13:56:39"
+    },
+    {
+      "name": "Tactiq: ChatGPT meeting summary",
+      "description": "AI meeting transcript summary tool",
+      "website": "https://chromewebstore.google.com/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747586924192259.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Meeting Assistant",
+        "Summarizer",
+        "AI Notes Assistant",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:35",
+      "updatedAt": "2024-06-04 12:35:35"
+    },
+    {
+      "name": "Accurate Transcriptions (speech to text)",
+      "description": "Efficient transcription and text analysis",
+      "website": "https://chromewebstore.google.com/detail/accurate-transcriptions-s/eaadpiacpledgeadipbaemhakfhdiaga?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679942345193354.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:49",
+      "updatedAt": "2024-05-25 21:30:49"
+    },
+    {
+      "name": "Transcript Helper for Chorus.ai",
+      "description": "Seamless meeting transcript collection",
+      "website": "https://chromewebstore.google.com/detail/transcript-helper-for-cho/ciifcdjfhjcbhifnkdjohngefboomhjk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776769393248974.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:16",
+      "updatedAt": "2024-06-07 21:40:16"
+    },
+    {
+      "name": "Speech to Text by cantonese.ai",
+      "description": "Convert Cantonese audio to text",
+      "website": "https://chromewebstore.google.com/detail/speech-to-text-by-cantone/mmejbckneafmeahjmoebjehonbdgdnpd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776923680889121.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:36",
+      "updatedAt": "2024-06-07 22:06:36"
+    },
+    {
+      "name": "transcribe4u",
+      "description": "AI tool for converting audio files to text instantly.",
+      "website": "https://www.transcribe4u.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007984579483097.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:54",
+      "updatedAt": "2024-10-28 09:41:54"
+    },
+    {
+      "name": "WhisperNotes - Audio note taking app",
+      "description": "AI-powered audio to text transcription and note organization",
+      "website": "https://chromewebstore.google.com/detail/whispernotes-audio-note-t/leoonndoedcnbhflfekcjadojncanink?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776769844760073.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Notes Assistant",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:16",
+      "updatedAt": "2024-06-07 21:40:16"
+    },
+    {
+      "name": "Audio Transkriptor: Audio to Text",
+      "description": "Convert audio to text easily",
+      "website": "https://chromewebstore.google.com/detail/audio-transkriptor-audio/gijnkelbkbmaekkkgoalpimggbmoahol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687126117021824.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Recording",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:45",
+      "updatedAt": "2024-05-28 12:40:45"
+    },
+    {
+      "name": "Tape - AI Meeting Summaries, No Bots",
+      "description": "Effortless screen recording with instant summaries",
+      "website": "https://chromewebstore.google.com/detail/tape-ai-meeting-summaries/cooadaolpinhaghnkkimdadhahbjjocb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747586018545028.jpg",
+      "category": "AI Video Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:34",
+      "updatedAt": "2024-06-04 12:35:34"
+    },
+    {
+      "name": "Async for Gmail and Chrome",
+      "description": "Add voice notes to emails and work apps.",
+      "website": "https://chrome.google.com/webstore/detail/async-for-chrome/kmiikpmdncakkcadkabnlhifhccigpdh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679490239972903.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:13",
+      "updatedAt": "2023-11-11 17:32:13"
+    },
+    {
+      "name": "Empathia AI",
+      "description": "AI-powered charting assistant for clinicians",
+      "website": "https://chromewebstore.google.com/detail/empathia-ai/gblgngeenfkccjffanpllecfgilnkchp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776766645260813.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Healthcare",
+        "Transcription",
+        "Transcriber",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:12",
+      "updatedAt": "2024-06-07 21:40:12"
+    },
+    {
+      "name": "Transcription - Transcribe Speech To Text",
+      "description": "AI transcription with global language support",
+      "website": "https://chromewebstore.google.com/detail/transcription-transcribe/ckammmbcncnmfidlajihpfcooakmheik?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785152520243554.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Translate",
+        "Captions or Subtitle",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:16",
+      "updatedAt": "2024-06-08 20:58:16"
+    },
+    {
+      "name": "Treato - Your personal transcriber",
+      "description": "Voice-to-text transcribing and language translation tool for medical professionals.",
+      "website": "https://chromewebstore.google.com/detail/treato-your-personal-tran/ejkopbilnapabpankjdjbibkbkiphggk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776761210498695.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Healthcare",
+        "Translate",
+        "Transcription",
+        "Transcriber",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:38",
+      "updatedAt": "2024-06-07 21:39:38"
+    },
+    {
+      "name": "Floomy : Save time with Meeting Minutes (MOM)",
+      "description": "AI-powered meeting notes",
+      "website": "https://chromewebstore.google.com/detail/floomy-save-time-with-mee/fncjpolcghakbeeeglfahcpjhnghephh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679949594823120.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:04",
+      "updatedAt": "2024-05-26 18:30:04"
+    },
+    {
+      "name": "Linked Hire",
+      "description": "AI recruitment and call transcription",
+      "website": "https://chromewebstore.google.com/detail/linked-hire/hhhjklnpfdkbmkmhgkfcpdehiihbnccp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679940033524805.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Recording",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:48",
+      "updatedAt": "2024-05-25 21:30:48"
+    },
+    {
+      "name": "VoiceRec: AI Vocal Recorder",
+      "description": "Capture, transcribe, and share voice recordings with AI-powered VoiceRec.",
+      "website": "https://apps.apple.com/us/app/soundboard-voice-recorder/id6455941159?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145454735901190.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Video Recording",
+        "Recording",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:14:02",
+      "updatedAt": "2023-12-02 02:14:02"
+    },
+    {
+      "name": "Patsa - AI-powered Meeting Copilot",
+      "description": "Real-time transcription with AI support",
+      "website": "https://chromewebstore.google.com/detail/patsa-ai-powered-meeting/pnhmmhieodnagejlokknhmhbmfpgohnn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776761546241997.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:39",
+      "updatedAt": "2024-06-07 21:39:39"
+    },
+    {
+      "name": "tulz.AI",
+      "description": "AI audio-to-text transcription service with high accuracy.",
+      "website": "https://tulz.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007955187590478.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:45",
+      "updatedAt": "2024-10-28 09:37:45"
+    },
+    {
+      "name": "hahaOCR",
+      "description": "Image text extraction tool",
+      "website": "https://chromewebstore.google.com/detail/hahaocr/lffahpofbpcpoonljkidnflmalbfellh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679955273117661.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:09",
+      "updatedAt": "2024-05-26 18:30:09"
+    },
+    {
+      "name": "Ecango",
+      "description": "Fast, accurate transcription",
+      "website": "https://www.ecango.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566205521456286.webp",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:09",
+      "updatedAt": "2024-05-14 12:47:09"
+    },
+    {
+      "name": "TheActuals Mic Extension",
+      "description": "Simplify speech recognition",
+      "website": "https://chromewebstore.google.com/detail/theactuals-mic-extension/keeokjaeebgmddeedicfpjlcjbclgfcb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763911549000366.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:28",
+      "updatedAt": "2024-06-06 09:56:28"
+    },
+    {
+      "name": "My Ears",
+      "description": "Privacy-focused audio-to-text transcription tool",
+      "website": "https://chromewebstore.google.com/detail/my-ears/kaeognoofcpoipiinljgjcoohaccimpg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703945571969651.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:27",
+      "updatedAt": "2024-05-30 11:23:27"
+    },
+    {
+      "name": "Transcriptai",
+      "description": "AI tool for accurate audio and video transcription.",
+      "website": "https://transcriptai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007954759345773.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:45",
+      "updatedAt": "2024-10-28 09:37:45"
+    },
+    {
+      "name": "Papercup",
+      "description": "Papercup automates video translation with human-like voiceovers in multiple languages.",
+      "website": "https://www.papercup.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/02e4577e0db3b8541512786effe903f1.jpeg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "Translate",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Audiotype - Audio Transcription and Video Subtitles",
+      "description": "Automatic transcription software for businesses and organizations.",
+      "website": "https://audiotype.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350457810537807.jpg",
+      "category": "Transcription",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Recording",
+        "AI Content Detector",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:39",
+      "updatedAt": "2023-12-25 18:16:39"
+    },
+    {
+      "name": "syncwords.com",
+      "description": "Leading AI-powered captions & translations",
+      "website": "https://syncwords.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230656621448281.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:44",
+      "updatedAt": "2024-04-05 16:41:44"
+    },
+    {
+      "name": "listen411.com",
+      "description": "Fast and Cheap",
+      "website": "https://listen411.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067741637142020.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "meetXcc: AI Meeting Mind Mapper",
+      "description": "Effortlessly capture, summarize, and share meeting content.",
+      "website": "https://chromewebstore.google.com/detail/meetxcc-ai-meeting-mind-m/nhomcdhhlpjelhmjppkcdhoejehbkodd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833019344274271.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:27",
+      "updatedAt": "2024-06-14 09:56:27"
+    },
+    {
+      "name": "VNSplit",
+      "description": "Receive AI summaries of voice notes instead of listening to whole messages with VNSplit.",
+      "website": "https://vnsplit.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416125654669500.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Recording",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:33:56",
+      "updatedAt": "2023-05-15 22:33:56"
+    },
+    {
+      "name": "AI Meeting Summaries: Zoom, Meet & MS Teams",
+      "description": "Review & share meeting notes easily",
+      "website": "https://chromewebstore.google.com/detail/ai-meeting-summaries-zoom/kgncmlkaopailaafofodciacppkjcenl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763897234887228.jpg",
+      "category": "AI Meeting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Meeting Assistant",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Analytics Assistant",
+        "AI Team Collaboration",
+        "AI Knowledge Management",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:38",
+      "updatedAt": "2024-06-06 09:55:38"
+    },
+    {
+      "name": "Transkriptor Transcribe Audio to Text",
+      "description": "Innovative AI text transcription extension",
+      "website": "https://chromewebstore.google.com/detail/transkriptor-transcribe-a/pbajmiiebklfjhkeahpgjdlgclelihjh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679496760314595.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:32:45",
+      "updatedAt": "2024-05-21 09:32:45"
+    },
+    {
+      "name": "CallNote AI",
+      "description": "AI platform for enhancing sales calls",
+      "website": "https://callnoteai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208853884676490.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "Transcription",
+        "Transcriber",
+        "Recording",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI CRM Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "Image to Text for ChatGPT",
+      "description": "Effortlessly convert images to text",
+      "website": "https://chromewebstore.google.com/detail/image-to-text-for-chatgpt/kihikabndlcbnpbgjapkhlonoddholga?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763894755358626.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "AI Image Scanning",
+        "Transcription",
+        "Transcriber",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:35",
+      "updatedAt": "2024-06-06 09:55:35"
+    },
+    {
+      "name": "Voice Master: Speech-to-Text Converter (Voice Recognition)",
+      "description": "Speech recognition extension for efficient communication.",
+      "website": "https://chromewebstore.google.com/detail/voice-master-speech-to-te/ebagjefpiapkaedjbgkjmjcgjdnbhdnp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776921254035057.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:31",
+      "updatedAt": "2024-06-07 22:06:31"
+    },
+    {
+      "name": "Adobe Podcast",
+      "description": "Adobe Podcast is a web platform with AI audio features for recording, transcribing, editing, and sharing audio content.",
+      "website": "https://podcast.adobe.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b358044808559ba8185bba7f98e402f6.jpeg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "Voice & Audio Editing",
+        "Recording",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Zeemo",
+      "description": "Zeemo AI is a powerful tool for captioning videos with accurate and fast audio to text transcription.",
+      "website": "https://zeemo.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169149925454586845.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Video Editor",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Tactiq",
+      "description": "Tactiq is a top transcription tool for online meetings, offering real-time transcription and meeting summaries.",
+      "website": "https://tactiq.io/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168255955465847488.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Speech Recognition",
+        "Recording",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "AI Productivity Tools",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 09:41:01",
+      "updatedAt": "2023-04-27 09:41:01"
+    },
+    {
+      "name": "Sonix AI",
+      "description": "Online transcription software for audio and video files.",
+      "website": "https://sonix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172873860532738169.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-12 21:20:01",
+      "updatedAt": "2024-10-12 21:20:01"
+    },
+    {
+      "name": "Heidi",
+      "description": "AI Scribe to Save Clinicians Days",
+      "website": "https://www.heidihealth.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17060844784178551.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Healthcare",
+        "Transcription",
+        "Writing Assistants",
+        "Transcriber",
+        "Summarizer",
+        "Letter Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-24 16:43:28",
+      "updatedAt": "2024-01-24 16:43:28"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    }
+  ]
+}

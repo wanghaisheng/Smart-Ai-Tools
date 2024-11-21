@@ -1,0 +1,1285 @@
+{
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "description": "Engaging AI conversations and task automation.",
+      "website": "https://chatgpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350397495108913.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:44",
+      "updatedAt": "2023-12-25 18:16:44"
+    },
+    {
+      "name": "OpenAI Sora",
+      "description": "AI model creating scenes from text.",
+      "website": "https://openai.com/sora?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170805785194230635.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Video",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-16 12:32:31",
+      "updatedAt": "2024-02-16 12:32:31"
+    },
+    {
+      "name": "OpenAI",
+      "description": "OpenAI creates safe AGI for humanity through research and advanced models.",
+      "website": "https://openai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267311532311562.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:12:10",
+      "updatedAt": "2023-04-28 17:12:10"
+    },
+    {
+      "name": "Adobe",
+      "description": "Leading company providing creative, marketing, and document management solutions.",
+      "website": "https://adobe.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350412560472027.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant",
+        "AI Graphic Design",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Gemini & Gemini Advanced",
+      "description": "Direct access to Google's AI models on your phone.",
+      "website": "https://gemini.google.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170815816559159278.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI Rewriter",
+        "Essay Writer",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-17 16:20:33",
+      "updatedAt": "2024-02-17 16:20:33"
+    },
+    {
+      "name": "DeepL",
+      "description": "DeepL is a highly accurate translator that translates texts and documents instantly.",
+      "website": "https://deepl.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168171012465069852.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Translate",
+        "AI WORD"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "Notion AI",
+      "description": "Notion is a versatile workspace that integrates wiki, docs, and project management.",
+      "website": "https://affiliate.notion.so/ffsd1156ei0l",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167897593403178097.png",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Task Management",
+        "AI Project Management",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Salesforce Einstein",
+      "description": "Unifying data, AI, CRM, development, and security into a comprehensive platform.",
+      "website": "https://force.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350382821828742.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:22:32",
+      "updatedAt": "2023-12-25 18:22:32"
+    },
+    {
+      "name": "Freepik AI Image Generator",
+      "description": "Real-time AI image generator",
+      "website": "https://www.freepik.com/ai/image-generator?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171915266699559042.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-23 22:27:45",
+      "updatedAt": "2024-06-23 22:27:45"
+    },
+    {
+      "name": "Intuit",
+      "description": "Global Fintech platform powering financial confidence for individuals and businesses.",
+      "website": "https://intuit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350414535919464.jpg",
+      "category": "Other",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Perplexity AI",
+      "description": "An AI search engine utilizing large language models and search engines.",
+      "website": "https://www.perplexity.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3ea5defa13eec237374d9f7eceadc105.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Salesforce Einstein 1 Platform for Application Development",
+      "description": "A platform for efficient and collaborative software application development.",
+      "website": "https://site.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349895010883436.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:17",
+      "updatedAt": "2023-12-25 18:02:17"
+    },
+    {
+      "name": "Claude 2",
+      "description": "The AI assistant named Claude, called Anthropic, offers various capabilities and services.",
+      "website": "https://claude.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924963861681340.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Customer Service Assistant",
+        "AI Email Assistant",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "Quillbot Paraphraser",
+      "description": "An online tool for rewriting text.",
+      "website": "https://try.quillbot.com/nf4bajahb5bl",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16915101786011945.png",
+      "category": "AI Rewriter",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Shop: Your AI-Powered Shopping Assistant",
+      "description": "AI-powered shopping assistant and mobile app for convenient and personalized online shopping.",
+      "website": "https://shop.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350442042132367.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Website Builder",
+        "AI Website Designer",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:34",
+      "updatedAt": "2023-12-25 18:16:34"
+    },
+    {
+      "name": "Remove.bg",
+      "description": "A free tool - remove.bg - can automatically remove image backgrounds with one click.",
+      "website": "https://www.remove.bg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167932311937561733.png",
+      "category": "AI Background Remover",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:52",
+      "updatedAt": "2023-03-07 16:48:52"
+    },
+    {
+      "name": "Shutterstock",
+      "description": "Stock images, photos, vectors, video, and music.",
+      "website": "https://shutterstock.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350419957343320.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Background Generator",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:22",
+      "updatedAt": "2023-12-25 18:20:22"
+    },
+    {
+      "name": "Grammarly",
+      "description": "Grammarly - Enhance writing skills and communicate confidently with AI writing assistance.",
+      "website": "https://www.grammarly.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d9bc4ea5f203c970f9640808562488ea.jpeg",
+      "category": "AI Grammar Checker",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "JanitorAI",
+      "description": "Create NSFW fictional chatbot characters with different personalities using Janitor AI.",
+      "website": "https://janitorai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171695510423442917.png",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Anime & Cartoon Generator",
+        "AI Anime Art",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:28:18",
+      "updatedAt": "2023-07-03 17:28:18"
+    },
+    {
+      "name": "AutoResponder.ai",
+      "description": "AI-powered auto-replies for messengers like WhatsApp, Telegram etc! Customize messages, set schedules & tailor replies. Revolutionize your chat experience!",
+      "website": "https://www.autoresponder.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580623492992031.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 21:54:58",
+      "updatedAt": "2023-06-03 21:54:58"
+    },
+    {
+      "name": "CapCut",
+      "description": "AI-powered video editor and graphic design tool for all platforms.",
+      "website": "https://capcut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350414718083204.jpg",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "AI Video Editor",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "HubSpot",
+      "description": "Grow your business faster with HubSpot's customer platform.",
+      "website": "https://hubspot.sjv.io/5g6zan",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350408974843671.jpg",
+      "category": "AI Website Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Builder",
+        "AI Developer Tools",
+        "AI Email Marketing",
+        "AI Landing Page Builder",
+        "AI Lead Generation",
+        "AI CRM Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:17",
+      "updatedAt": "2023-12-25 18:20:17"
+    },
+    {
+      "name": "Poe",
+      "description": "AI-powered platform for instant question answering and interactive conversations.",
+      "website": "https://poe.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b8f175eb703798c01cd2415e95353122.jpeg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Miro",
+      "description": "Summary: Miro helps distributed teams collaborate and co-create efficiently across different locations.",
+      "website": "https://miro.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248936914786180.jpg",
+      "category": "AI Team Collaboration",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Team Collaboration",
+        "AI Product Description Generator",
+        "AI Workflow Management",
+        "AI Project Management",
+        "AI Productivity Tools",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:10:16",
+      "updatedAt": "2023-04-26 14:10:16"
+    },
+    {
+      "name": "SpicyChat AI",
+      "description": "Create and interact with AI characters using SpicyChat AI.",
+      "website": "https://spicychat.ai?ref=n2mwzdu",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373310470085106.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:13",
+      "updatedAt": "2023-12-28 11:11:13"
+    },
+    {
+      "name": "Kimi Chat",
+      "description": "An intelligent assistant with unlimited memory power.",
+      "website": "https://kimi.moonshot.cn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173163887028515010.png",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 18:19:46",
+      "updatedAt": "2024-03-20 18:19:46"
+    },
+    {
+      "name": "LINER AI",
+      "description": "LINER is an AI workspace that helps users find and learn reliable information faster.",
+      "website": "https://getliner.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173163895829255560.png",
+      "category": "AI PDF",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI PDF"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:38:30",
+      "updatedAt": "2023-05-23 23:38:30"
+    },
+    {
+      "name": "Course Hero",
+      "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
+      "website": "https://coursehero.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413878793168.jpg",
+      "category": "AI Course",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Course",
+        "Homework Helper",
+        "Copywriting",
+        "Essay Writer",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "\u6587\u5fc3\u4e00\u8a00",
+      "description": "AI content partner for copywriting and chatting.",
+      "website": "https://yiyan.baidu.com/?utm_source=toolify.ai",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171759663776747354.png",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Prompt",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-05 22:14:30",
+      "updatedAt": "2024-06-05 22:14:30"
+    },
+    {
+      "name": "Beacons AI 2.0",
+      "description": "AI-powered all-in-one platform for content creators.",
+      "website": "https://beacons.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169909908399997900.jpg",
+      "category": "Bio Link",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Bio Link",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Email Marketing",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 19:56:31",
+      "updatedAt": "2023-11-04 19:56:31"
+    },
+    {
+      "name": "ChatBond | Free AI Chatbot Builder",
+      "description": "AI chatbot builder for instant customer responses",
+      "website": "https://chatbond.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230641180779347.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:07",
+      "updatedAt": "2024-07-30 10:25:07"
+    },
+    {
+      "name": "Hugging Face",
+      "description": "AI community building the future",
+      "website": "https://huggingface.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349952477517677.jpg",
+      "category": "Other",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Other"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:25",
+      "updatedAt": "2023-12-25 18:13:25"
+    },
+    {
+      "name": "ZeroGPT",
+      "description": "ZeroGPT is a powerful, accurate AI tool for detecting chatGPT content, OpenAI-generated text, and plagiarism.",
+      "website": "https://www.zerogpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517594649377207.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Detector",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:24:48",
+      "updatedAt": "2023-05-27 16:24:48"
+    },
+    {
+      "name": "Gamma AI",
+      "description": "Gamma App is an AI-powered tool that creates stunning presentations, webpages, and documents effortlessly.",
+      "website": "https://gamma.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168571601988294643.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Presentation Generator",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 22:26:47",
+      "updatedAt": "2023-06-02 22:26:47"
+    },
+    {
+      "name": "Gauthmath",
+      "description": "Free math homework help with accurate answers.",
+      "website": "https://gauthmath.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350416277838907.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Homework Helper",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "Leonardo.Ai",
+      "description": "AI-driven asset generation for creative projects.",
+      "website": "https://leonardo.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f4c20f8d9e088eb64f12224d8a60e427.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "Image to Image",
+        "Text to Image",
+        "AI Advertising Assistant",
+        "Prompt",
+        "AI Character",
+        "AI Graphic Design",
+        "AI Illustration Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "Fotor AI",
+      "description": "The ultimate AI photo editor",
+      "website": "https://www.fotor.com/ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103099620705190.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "Fotor",
+      "description": "Easy online photo editor with a wide range of features and tools.",
+      "website": "https://fotor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413397556614.jpg",
+      "category": "AI Photo Enhancer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "prolific.com",
+      "description": "Trustworthy research participants in minutes.",
+      "website": "https://prolific.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350444142871808.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:35",
+      "updatedAt": "2023-12-25 18:16:35"
+    },
+    {
+      "name": "Civitai",
+      "description": "A platform for Stable Diffusion AI Art models with a large collection and active community.",
+      "website": "https://civitai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/18c130531744ba885667b165e3f38bd5.jpeg",
+      "category": "AI Tools Directory",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "CrushOn.AI",
+      "description": "Unbounded conversations and authentic interactions.",
+      "website": "https://crushon.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169790167776932300.png",
+      "category": "AI Character",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Chatbot",
+        "AI Content Generator",
+        "NSFW",
+        "AI Anime & Cartoon Generator",
+        "AI Anime Art",
+        "AI Art Generator",
+        "AI Avatar Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:24",
+      "updatedAt": "2023-09-15 00:19:24"
+    },
+    {
+      "name": "DeepAI",
+      "description": "AI tools for creative people.",
+      "website": "https://deepai.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349986838785319.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Art Generator",
+        "AI Character",
+        "AI Illustration Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:47",
+      "updatedAt": "2023-12-25 18:14:47"
+    },
+    {
+      "name": "wondershare.com",
+      "description": "Creativity, productivity, and utility solutions.",
+      "website": "https://wondershare.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350415727375190.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Product Description Generator",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "Cutout.Pro",
+      "description": "AI photo editing and content generation platform.",
+      "website": "https://www.cutout.pro?vsource=cutout_share-557564158235973",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171163870794048363.webp",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Background Remover",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "AI Image Enhancer",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 23:15:38",
+      "updatedAt": "2024-03-28 23:15:38"
+    },
+    {
+      "name": "ElevenLabs",
+      "description": "Generate high-quality AI voices in minutes.",
+      "website": "https://elevenlabs.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349993442883512.jpg",
+      "category": "AI Voice Cloning",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Text-to-Speech",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:50",
+      "updatedAt": "2023-12-25 18:14:50"
+    },
+    {
+      "name": "klingai.com",
+      "description": "Generative AI tools for creating unique images and videos.",
+      "website": "https://klingai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714252651070122.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:44",
+      "updatedAt": "2024-09-24 09:47:44"
+    },
+    {
+      "name": "Pixlr",
+      "description": "Pixlr is a free online tool for photo editing, design, and AI-powered image creation.",
+      "website": "https://pixlr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248899781024204.jpg",
+      "category": "AI Background Remover",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "Photo & Image Editor",
+        "AI Graphic Design",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "Design Assistant",
+        "AI Thumbnail Maker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:03:45",
+      "updatedAt": "2023-04-26 14:03:45"
+    },
+    {
+      "name": "Photoroom",
+      "description": "Create professional product and portrait pictures with just your phone using PhotoRoom app.",
+      "website": "https://www.photoroom.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/03ea8b8ed9a1abb7d20394a691efbef5.jpeg",
+      "category": "AI Background Remover",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "Photo & Image Editor",
+        "AI Product Description Generator",
+        "AI Background Generator",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:56",
+      "updatedAt": "2023-03-07 16:48:56"
+    },
+    {
+      "name": "MidJourney for Web",
+      "description": "AI platform for creating and exploring images with community input.",
+      "website": "https://www.midjourney.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172475049720133496.jpg",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Prompt",
+        "AI Photo & Image Generator",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-27 17:20:59",
+      "updatedAt": "2024-08-27 17:20:59"
+    },
+    {
+      "name": "Midjourney",
+      "description": "Research lab expanding human imagination",
+      "website": "https://www.midjourney.com/home?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/061974a37d4e72b930f60631e3d5f999.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Illustration Generator",
+        "AI Photo & Image Generator",
+        "AI Tools Directory",
+        "Research Tool",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    }
+  ]
+}

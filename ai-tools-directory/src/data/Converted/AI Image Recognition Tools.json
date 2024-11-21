@@ -1,0 +1,2567 @@
+{
+  "tools": [
+    {
+      "name": "lenso.ai",
+      "description": "AI-powered reverse image search tool",
+      "website": "https://lenso.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070136887569255.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:52",
+      "updatedAt": "2024-07-11 20:33:52"
+    },
+    {
+      "name": "Vectorizer AI",
+      "description": "Convert PNG, JPG to SVG vectors online",
+      "website": "https://vectorizer.ai?atk=8fl8nfe81c",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172113955565736235.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-16 22:36:47",
+      "updatedAt": "2024-07-16 22:36:47"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "CapMonster Cloud",
+      "description": "CapMonster Cloud is an AI-powered CAPTCHA-solving service designed to automate the process of solving various types of CAPTCHAs, including reCAPTCHA, hCaptcha, and others.",
+      "website": "https://capmonster.cloud/en?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172558748238055356.png",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Web Scraping",
+        "AI Developer Tools",
+        "AI Advertising Assistant",
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 09:45:12",
+      "updatedAt": "2024-09-06 09:45:12"
+    },
+    {
+      "name": "Nanonets",
+      "description": "Nanonets is an AI platform that automates processes and extracts actionable insights from unstructured data.",
+      "website": "https://nanonets.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e27f2323d0819cffe50d2107a7c58d73.jpeg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Document Extraction",
+        "AI Image Recognition",
+        "No-Code&Low-Code",
+        "AI Product Description Generator",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "PlantIn plant care identifier",
+      "description": "Your go-to solution for quick plant identification, diagnosis with expert care advice.",
+      "website": "https://myplantin.com/plant-identifier?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947802640444039.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Image Recognition",
+        "AI Chatbot",
+        "AI Gift Ideas",
+        "AI Education Assistant",
+        "AI Task Management",
+        "AI Notes Assistant",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:53:29",
+      "updatedAt": "2024-10-21 10:53:29"
+    },
+    {
+      "name": "Face Age AI",
+      "description": "Facial age detection made simple",
+      "website": "https://www.howolddoilook.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421473455497635.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Photo & Image Generator",
+        "AI Photo Enhancer",
+        "AI Avatar Generator",
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Profile Picture Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:12",
+      "updatedAt": "2024-04-27 18:45:12"
+    },
+    {
+      "name": "AI or Not",
+      "description": "AI detection for images, audio & KYC",
+      "website": "https://www.aiornot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542259882639384.webp",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Image Recognition",
+        "AI Analytics Assistant",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:21",
+      "updatedAt": "2024-05-11 18:14:21"
+    },
+    {
+      "name": "snapheadshots.com",
+      "description": "Professional AI-generated headshots in minutes",
+      "website": "https://snapheadshots.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230500686562725.webp",
+      "category": "AI Photography",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photography",
+        "AI Photo & Image Generator",
+        "AI Profile Picture Generator",
+        "AI Image Recognition",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:56",
+      "updatedAt": "2024-04-05 16:15:56"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "visagetechnologies.com",
+      "description": "Specialized face tracking, analysis and recognition technology.",
+      "website": "https://visagetechnologies.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230657613843949.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Analytics Assistant",
+        "AI Photo & Image Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:44",
+      "updatedAt": "2024-04-05 16:41:44"
+    },
+    {
+      "name": "Scout by Asseter.ai",
+      "description": "Powerful Speed-up Tool for CG Artists",
+      "website": "https://scout.asseter.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171180589290152606.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-30 21:41:52",
+      "updatedAt": "2024-03-30 21:41:52"
+    },
+    {
+      "name": "Imagga",
+      "description": "Imagga is an API that offers image recognition solutions for tagging, categorization, search, and moderation.",
+      "website": "http://imagga.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248890925355090.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Advertising Assistant",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:02:21",
+      "updatedAt": "2023-04-26 14:02:21"
+    },
+    {
+      "name": "imagga.com",
+      "description": "Image recognition API for tagging, categorization, and face recognition",
+      "website": "https://imagga.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172209091773759193.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 22:33:27",
+      "updatedAt": "2024-07-27 22:33:27"
+    },
+    {
+      "name": "Sih.ai",
+      "description": "Easily change photo objects with one tap.",
+      "website": "https://www.sih.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191975028459763.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Photo Enhancer",
+        "AI Image Enhancer",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:56",
+      "updatedAt": "2023-12-07 11:28:56"
+    },
+    {
+      "name": "TextPixie",
+      "description": "Free translation tool supporting over 100 languages.",
+      "website": "https://textpixie.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544450098996079.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:03",
+      "updatedAt": "2024-09-04 18:07:03"
+    },
+    {
+      "name": "Dog Breed AI",
+      "description": "Find dog breeds using AI",
+      "website": "https://www.whatbreedismydog.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171533940814128717.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-10 19:08:48",
+      "updatedAt": "2024-05-10 19:08:48"
+    },
+    {
+      "name": "Picture Translate",
+      "description": "Free online image text translation",
+      "website": "https://picturetranslate.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566238274792253.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:14",
+      "updatedAt": "2024-05-14 12:51:14"
+    },
+    {
+      "name": "TikTok Captcha Solver API",
+      "description": "Instant TikTok Captcha Solver",
+      "website": "https://www.sadcaptcha.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171498123649769070.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-06 15:39:12",
+      "updatedAt": "2024-05-06 15:39:12"
+    },
+    {
+      "name": "visionlabs.ai",
+      "description": "Facial recognition technology for secure digital identities",
+      "website": "https://visionlabs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153175869782709.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:15:26",
+      "updatedAt": "2024-07-21 11:15:26"
+    },
+    {
+      "name": "customvision.ai",
+      "description": "Customize computer vision models effortlessly",
+      "website": "https://customvision.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153175346537790.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:15:26",
+      "updatedAt": "2024-07-21 11:15:26"
+    },
+    {
+      "name": "actcast.io",
+      "description": "IoT platform service for linking events and data with deep learning inference.",
+      "website": "https://actcast.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230662148002082.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:45",
+      "updatedAt": "2024-04-05 16:41:45"
+    },
+    {
+      "name": "Loti",
+      "description": "Loti helps people protect their privacy by identifying and removing non-consensual intimate content.",
+      "website": "https://goloti.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485570070406823.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Image Recognition",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:28:01",
+      "updatedAt": "2023-05-23 23:28:01"
+    },
+    {
+      "name": "lisuto.co.jp",
+      "description": "Smart data structuring for ecommerce sellers and marketplaces.",
+      "website": "https://lisuto.co.jp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073043951505994.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:52",
+      "updatedAt": "2024-03-18 10:51:52"
+    },
+    {
+      "name": "NDFY.app",
+      "description": "AI-powered app for realistic nudes",
+      "website": "https://ndfy.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349911059711106.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Photo Enhancer",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Response Generator",
+        "Fun Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:24",
+      "updatedAt": "2023-12-25 18:09:24"
+    },
+    {
+      "name": "OLOCR",
+      "description": "OLOCR provides unlimited OCR for images and PDFs, allowing users to extract text easily.",
+      "website": "https://olocr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169107002898847286.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Image Recognition",
+        "AI Speech Recognition",
+        "AI PDF",
+        "Transcription",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-03 21:39:26",
+      "updatedAt": "2023-08-03 21:39:26"
+    },
+    {
+      "name": "HopShop",
+      "description": "Find clothing quickly by uploading images.",
+      "website": "https://hopshop.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426149569371462.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Product Description Generator",
+        "AI Clothing Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:24:36",
+      "updatedAt": "2023-05-17 02:24:36"
+    },
+    {
+      "name": "navan.ai",
+      "description": "Build computer vision models without code with Navan.ai.",
+      "website": "https://navan.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518656218789316.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "No-Code&Low-Code",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:22:12",
+      "updatedAt": "2023-05-27 19:22:12"
+    },
+    {
+      "name": "LensAI Shoppable and Contextual",
+      "description": "AI platform for monetizing image and video",
+      "website": "https://lens-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171046932661882642.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Image Recognition",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-15 10:20:56",
+      "updatedAt": "2024-03-15 10:20:56"
+    },
+    {
+      "name": "Epigos AI",
+      "description": "Platform for creating custom computer vision models easily.",
+      "website": "https://epigos.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172363251262215997.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-14 18:48:02",
+      "updatedAt": "2024-08-14 18:48:02"
+    },
+    {
+      "name": "Censorfy - AI Content Moderation",
+      "description": "AI platform for automating content moderation.",
+      "website": "https://www.censorfy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007977271683587.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:48",
+      "updatedAt": "2024-10-28 09:39:48"
+    },
+    {
+      "name": "WhatLetter",
+      "description": "Translate, understand, and converse in your language.",
+      "website": "https://whatletter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169953521466378868.jpg",
+      "category": "AI Documents Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Documents Assistant",
+        "AI Chatbot",
+        "AI Document Extraction",
+        "AI Image Recognition",
+        "AI Image Scanning",
+        "Translate",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-09 21:06:08",
+      "updatedAt": "2023-11-09 21:06:08"
+    },
+    {
+      "name": "TryOnHub.ai",
+      "description": "Enhance shopping with innovative virtual try-on.",
+      "website": "https://tryonhub.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262638659054853.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Clothing Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:37",
+      "updatedAt": "2023-12-15 15:45:37"
+    },
+    {
+      "name": "MemeCam",
+      "description": "AI-generated memes in a fun and effortless way.",
+      "website": "https://memecam.dk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350417555480255.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:21",
+      "updatedAt": "2023-12-25 18:20:21"
+    },
+    {
+      "name": "Ping Path",
+      "description": "Intuitive navigation for visually impaired using spatial audio, LiDAR, AR, and AI.",
+      "website": "https://www.pingpath.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585254810752323.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Speech Recognition",
+        "AI Product Description Generator",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:21:21",
+      "updatedAt": "2023-06-04 12:21:21"
+    },
+    {
+      "name": "Rasterscan",
+      "description": "AI-powered floor plan recognition for blueprints and hand-sketches.",
+      "website": "https://rasterscan.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421832540424390.webp",
+      "category": "AI Image Scanning",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 19:45:11",
+      "updatedAt": "2024-04-27 19:45:11"
+    },
+    {
+      "name": "jKeywording | Stock photo keyword generator",
+      "description": "Optimize image keywording process",
+      "website": "https://chromewebstore.google.com/detail/jkeywording-stock-photo-k/fbaamhmebnjkgobokkkhkbmbacgnklop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785148916407945.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Image Recognition",
+        "Captions or Subtitle",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:00",
+      "updatedAt": "2024-06-08 20:58:00"
+    },
+    {
+      "name": "Pipeless Agents",
+      "description": "Automate tasks with Vision AI",
+      "website": "https://agents.pipeless.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566232279380809.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:13",
+      "updatedAt": "2024-05-14 12:51:13"
+    },
+    {
+      "name": "Kill Frames",
+      "description": "AI montage editor for Valorant gameplay recordings.",
+      "website": "https://www.killframes.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709750476176535.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "Athena Photo Score Extension",
+      "description": "Photo quality checker for Athena Records",
+      "website": "https://chromewebstore.google.com/detail/athena-photo-score-extens/dpflanmkcalhpkbnghoeljddngbcacgj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398616631784718.jpg",
+      "category": "AI Photo Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Image Recognition",
+        "Healthcare"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:34",
+      "updatedAt": "2024-08-18 21:02:34"
+    },
+    {
+      "name": "ocrX Image to Text",
+      "description": "Extract text from images on iPhone, iPad & Mac.",
+      "website": "https://apps.apple.com/us/app/ocrx-image-to-text/id6471681865?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548306862363507.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:17:37",
+      "updatedAt": "2024-01-17 17:17:37"
+    },
+    {
+      "name": "Code Coach",
+      "description": "AI-powered interviewer for mock interviews",
+      "website": "https://www.trycodecoach.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159308916580017.webp",
+      "category": "AI Interview Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Interview Assistant",
+        "AI Coaching",
+        "AI Image Recognition",
+        "AI Speech Recognition",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "Neckium",
+      "description": "Head movement browsing and posture correction",
+      "website": "https://chromewebstore.google.com/detail/neckium/acpolobnombnmefaflmidondgkmgedja?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763900691818382.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:51",
+      "updatedAt": "2024-06-06 09:55:51"
+    },
+    {
+      "name": "Alt Text Creator with GPT-4 Vision",
+      "description": "Image alt text generator",
+      "website": "https://chromewebstore.google.com/detail/alt-text-creator-with-gpt/nlahkceofkdggfgfpheakpaphdfplaio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776758441284125.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Image Recognition",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:34",
+      "updatedAt": "2024-06-07 21:39:34"
+    },
+    {
+      "name": "ABC Finder",
+      "description": "A fun camera scavenger hunt to learn ABCs.",
+      "website": "https://apps.apple.com/us/app/abc-finder/id6472734646?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530637310666115.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:42",
+      "updatedAt": "2024-01-15 16:12:42"
+    },
+    {
+      "name": "The AI Audit Bot",
+      "description": "AI product compliance auditing tool",
+      "website": "https://aicomply.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017017955901177.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Knowledge Graph"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 17:01:29",
+      "updatedAt": "2024-07-05 17:01:29"
+    },
+    {
+      "name": "Stockfill",
+      "description": "Easy and automated metadata generation for stock images",
+      "website": "https://www.stockfill.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170815817524391789.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-17 16:20:33",
+      "updatedAt": "2024-02-17 16:20:33"
+    },
+    {
+      "name": "Image Translator",
+      "description": "Instantly translate images into 30+ languages.",
+      "website": "https://chromewebstore.google.com/detail/image-translator/pbhpcbdjngblklnibanbkgkogjmbjeoe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738113745652094.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "Photo & Image Editor",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:50",
+      "updatedAt": "2024-06-03 10:18:50"
+    },
+    {
+      "name": "Kaini - YouTube Scene Change Detector",
+      "description": "Block YouTube videos with quick scene changes",
+      "website": "https://chromewebstore.google.com/detail/kaini-youtube-scene-chang/nhicmlenpnialnfpdnkceopebbmfdgge?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687103321808337.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:07",
+      "updatedAt": "2024-05-28 12:37:07"
+    },
+    {
+      "name": "BitMind",
+      "description": "Chrome tool for identifying AI-generated images",
+      "website": "https://chromewebstore.google.com/detail/bitmind/ejlhmbdnjjlifeeelpnlkkechnmojnhg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965749085133564.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Image Recognition",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Content Detector",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Banner Generator",
+        "AI Background Remover",
+        "AI Photo Restoration",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Illustration Generator",
+        "AI Pattern Generator",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:31",
+      "updatedAt": "2024-10-23 12:24:31"
+    },
+    {
+      "name": "Machine Perception",
+      "description": "A tool that automates search and filtering in visual datasets, reducing costs by 10x.",
+      "website": "https://machineperception.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416511958143235.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 23:38:11",
+      "updatedAt": "2023-05-15 23:38:11"
+    },
+    {
+      "name": "SmartTrust.io",
+      "description": "ChainAware.ai is an AI-based crypto wallet auditor that uses artificial intelligence to verify addresses and detect fraud.",
+      "website": "https://smarttrust.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426149696524075.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Image Recognition",
+        "AI Product Description Generator",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:24:36",
+      "updatedAt": "2023-05-17 02:24:36"
+    },
+    {
+      "name": "Image to AI voice",
+      "description": "Convert image files to text using Image to Text website.",
+      "website": "https://imagetomp3.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426181170280177.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:29:42",
+      "updatedAt": "2023-05-17 02:29:42"
+    },
+    {
+      "name": "Xooma Intelligence Network Builder",
+      "description": "Discover top influencers and posts in FB groups.",
+      "website": "https://chromewebstore.google.com/detail/xooma-intelligence-networ/lkeidojacladcfbnikhkimlabaddjcnn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687129623778321.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Facebook Assistant",
+        "AI Social Media Assistant",
+        "AI Analytics Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:48",
+      "updatedAt": "2024-05-28 12:40:48"
+    },
+    {
+      "name": "SyntheticEye AI Detector",
+      "description": "Empowers users to identify AI-generated images",
+      "website": "https://chromewebstore.google.com/detail/syntheticeye-ai-detector/jhnehjooeiopekmlgcpmdmliifccjhlj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785149333529523.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:01",
+      "updatedAt": "2024-06-08 20:58:01"
+    },
+    {
+      "name": "Smart Screen",
+      "description": "AI identifies actors in Netflix shows",
+      "website": "https://chromewebstore.google.com/detail/smart-screen/dljhjjnhapclmfbagbdkkpfkjgpkkfho?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679949092104805.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:46",
+      "updatedAt": "2024-05-25 21:31:46"
+    },
+    {
+      "name": "Find That Photo - Find Photos Fast",
+      "description": "Easily find specific photos in your gallery using AI.",
+      "website": "https://play.google.com/store/apps/details?id=me.aravi.findphoto&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529270094521751.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:51:28",
+      "updatedAt": "2023-05-29 00:51:28"
+    },
+    {
+      "name": "SeeHear - Text Capture",
+      "description": "Convert live camera text to speech with ease.",
+      "website": "https://apps.apple.com/us/app/seehear-text-capture/id6445875270?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168536918495654531.jpg",
+      "category": "AI Document Extraction",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Document Extraction",
+        "AI Image Recognition",
+        "AI Image Scanning",
+        "Text-to-Speech",
+        "AI Product Description Generator",
+        "AI Speech Synthesis",
+        "AI App Builder",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 22:06:08",
+      "updatedAt": "2023-05-29 22:06:08"
+    },
+    {
+      "name": "Auto QR Code reader",
+      "description": "Enhance browsing with quick QR Code scanning",
+      "website": "https://chromewebstore.google.com/detail/auto-qr-code-reader/eobmjffolpoiolllhlbflbkdjeabbpke?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747584421584831.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:32",
+      "updatedAt": "2024-06-04 12:35:32"
+    },
+    {
+      "name": "SmartChef",
+      "description": "AI-powered recipe generation from images and text.",
+      "website": "https://smartchef.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129918254201962.jpg",
+      "category": "AI Cooking Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Cooking Assistant",
+        "AI Recipe Assistant",
+        "AI Photo & Image Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:24",
+      "updatedAt": "2024-11-11 12:24:24"
+    },
+    {
+      "name": "HrFlow.ai - Import Resumes from any website",
+      "description": "Chrome extension for resume parsing",
+      "website": "https://chromewebstore.google.com/detail/hrflowai-import-resumes-f/ddgjfcnlnalnclndfbicegaffehlnlnl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703920510683816.jpg",
+      "category": "Resume Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Resume Builder",
+        "AI Workflow Management",
+        "AI Image Recognition",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:39",
+      "updatedAt": "2024-05-30 11:18:39"
+    },
+    {
+      "name": "CrossPrism Nature",
+      "description": "AI identification for bugs, birds, flowers, leaves",
+      "website": "https://apps.apple.com/us/app/crossprism-nature-id/id6449553805?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824302219959969.webp",
+      "category": "AI Photography",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Photography",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:41",
+      "updatedAt": "2024-06-13 09:42:41"
+    },
+    {
+      "name": "ImageCleanr",
+      "description": "Clean images with AI in seconds",
+      "website": "https://imagecleanr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171072804510249409.webp",
+      "category": "AI Image Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Background Remover",
+        "AI Image Recognition",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:13",
+      "updatedAt": "2024-03-18 10:13:13"
+    },
+    {
+      "name": "ShopGuru - The Amazon Shopping Assistant",
+      "description": "AI shopping companion for Amazon products",
+      "website": "https://chromewebstore.google.com/detail/shopguru-the-amazon-shopp/mbhokjjcfgkgjeeddphjlcbiomgdkbjk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687103757444670.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Image Recognition",
+        "AI Reviews Assistant",
+        "AI Analytics Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:07",
+      "updatedAt": "2024-05-28 12:37:07"
+    },
+    {
+      "name": "Trueclaim.ai",
+      "description": "AI-powered automotive inspection",
+      "website": "https://chromewebstore.google.com/detail/trueclaimai/egepamljlmjcnnhbenimmbopbfpbecee?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776760785506523.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:38",
+      "updatedAt": "2024-06-07 21:39:38"
+    },
+    {
+      "name": "InstaLingo",
+      "description": "AI app for text extraction, translation, and pronunciation.",
+      "website": "https://apps.apple.com/th/app/instalingo/id6680142408?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966121247168.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:13",
+      "updatedAt": "2024-10-28 09:39:13"
+    },
+    {
+      "name": "Calorielens: Calorie Tracker",
+      "description": "Snap a photo, track calories.",
+      "website": "https://apps.apple.com/at/app/calorielens-calorie-tracker/id6449623163?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824302513367160.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:41",
+      "updatedAt": "2024-06-13 09:42:41"
+    },
+    {
+      "name": "DeClassIFY",
+      "description": "PDF classifier for instant categorization",
+      "website": "https://chromewebstore.google.com/detail/declassify/lpjbjbclcjofeofjjjpgkciiklidkkkc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763907382701325.jpg",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI PDF",
+        "AI Image Recognition",
+        "AI Productivity Tools",
+        "AI Plagiarism Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:27",
+      "updatedAt": "2024-06-06 09:56:27"
+    },
+    {
+      "name": "FieldDay",
+      "description": "Platform for creating vision AI through custom data set and iterative training.",
+      "website": "https://apps.apple.com/us/app/fieldday-real-world-ai/id6448133483?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882924479638005.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI App Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "ImageBlock",
+      "description": "Image blocking with Google's Vision AI",
+      "website": "https://chromewebstore.google.com/detail/imageblock/knmlebbaohjjiomfeljjdbakiiggjabm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703917166441241.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:35",
+      "updatedAt": "2024-05-30 11:18:35"
+    },
+    {
+      "name": "Fake Profile Detector (Deepfake, GAN)",
+      "description": "Identify GAN or real person in images.",
+      "website": "https://chromewebstore.google.com/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687112819698097.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Photo & Image Generator",
+        "AI Profile Picture Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:25",
+      "updatedAt": "2024-05-28 12:37:25"
+    },
+    {
+      "name": "Reality Check",
+      "description": "AI image authenticity verification",
+      "website": "https://chromewebstore.google.com/detail/reality-check/kgkgdlnhmjfmcchnoknjckfflahhnghb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776758951518559.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:35",
+      "updatedAt": "2024-06-07 21:39:35"
+    },
+    {
+      "name": "OCR",
+      "description": "Capture and convert images to text with PDF support",
+      "website": "https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763900569143577.jpg",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI PDF",
+        "AI Document Extraction",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:51",
+      "updatedAt": "2024-06-06 09:55:51"
+    },
+    {
+      "name": "Face Index",
+      "description": "Facial recognition tool for identifying individuals online",
+      "website": "https://faceindex.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208865143861237.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:58",
+      "updatedAt": "2024-07-27 21:54:58"
+    },
+    {
+      "name": "Speak, Translate And See with AWS",
+      "description": "Access AWS AI services on browsers",
+      "website": "https://chromewebstore.google.com/detail/speak-translate-and-see-w/hijkpjghojhbppoipnkjhkpcmcdolape?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954555549501.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Translate",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:08",
+      "updatedAt": "2024-05-26 18:30:08"
+    },
+    {
+      "name": "Organiser",
+      "description": "The smartest photo management app",
+      "website": "https://organiserapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651771581319430.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:03",
+      "updatedAt": "2024-01-29 16:40:03"
+    },
+    {
+      "name": "hahaOCR",
+      "description": "Image text extraction tool",
+      "website": "https://chromewebstore.google.com/detail/hahaocr/lffahpofbpcpoonljkidnflmalbfellh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679955273117661.jpg",
+      "category": "Handwriting",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Handwriting",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:09",
+      "updatedAt": "2024-05-26 18:30:09"
+    },
+    {
+      "name": "OCR Vision - Convert Images to Text",
+      "description": "Effortlessly convert images to text",
+      "website": "https://chromewebstore.google.com/detail/ocr-vision-convert-images/kkoompcapdaomkhaeeibedmfhjelbnka?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Image Scanning",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "AI Document Extraction",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:14",
+      "updatedAt": "2024-06-07 21:40:14"
+    },
+    {
+      "name": "Autofill AIMS captcha",
+      "description": "Automatically solve AIMS captcha",
+      "website": "https://chromewebstore.google.com/detail/autofill-aims-captcha/onmfdadeadadifdjdogcojhohodljdlc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747575272064258.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:52",
+      "updatedAt": "2024-06-04 12:34:52"
+    },
+    {
+      "name": "Furniture & Household Item Recognition",
+      "description": "AI-powered item identification for inventory management",
+      "website": "https://cvl.link/furniture?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831828367557815.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:28",
+      "updatedAt": "2024-02-19 12:50:28"
+    },
+    {
+      "name": "iSWIM",
+      "description": "AI-powered competitive swimming analytics",
+      "website": "https://iswim.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738126122543061.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Sports",
+        "AI Coaching",
+        "AI Video Recording",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:19:45",
+      "updatedAt": "2024-06-03 10:19:45"
+    },
+    {
+      "name": "PhishNet",
+      "description": "Protects against phishing with ML",
+      "website": "https://chromewebstore.google.com/detail/phishnet/cfdflpgfkkoldikppmoomlndabianbnn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703920942648403.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:39",
+      "updatedAt": "2024-05-30 11:18:39"
+    },
+    {
+      "name": "Sketch2Code GPT4-128K GPT4-Vision -Sidebar",
+      "description": "Convert sketches to code",
+      "website": "https://chromewebstore.google.com/detail/sketch2code-gpt4-128k-gpt/gcgjhceeichnkocbhpdplfmenaplippi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785156032678370.jpg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "AI Image Recognition",
+        "AI Photo & Image Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:20",
+      "updatedAt": "2024-06-08 20:58:20"
+    },
+    {
+      "name": "Health Inspecta",
+      "description": "AI app for grading food and personal care products' health.",
+      "website": "https://apps.apple.com/us/app/health-inspecta/id6478902186?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172440193870902539.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Healthcare",
+        "AI Image Scanning",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 16:31:17",
+      "updatedAt": "2024-08-23 16:31:17"
+    },
+    {
+      "name": "Calorie Scanner: Meal Analyzer",
+      "description": "AI app for scanning food and tracking nutrition.",
+      "website": "https://apps.apple.com/tr/app/calorie-scanner-meal-analyzer/id6535683072?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656314542646779.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:16",
+      "updatedAt": "2024-09-17 16:47:16"
+    },
+    {
+      "name": "Recipe Lens",
+      "description": "AI-powered app for identifying dishes and creating custom recipes.",
+      "website": "https://www.recipelens.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172501113555089667.jpg",
+      "category": "AI Cooking Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Cooking Assistant",
+        "AI Recipe Assistant",
+        "AI Image Recognition",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 17:44:17",
+      "updatedAt": "2024-08-30 17:44:17"
+    },
+    {
+      "name": "Pic2Code",
+      "description": "Streamline image-to-code workflow",
+      "website": "https://www.pic2code.top?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171617107398822851.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 10:09:58",
+      "updatedAt": "2024-05-20 10:09:58"
+    },
+    {
+      "name": "OCR Text Recognition",
+      "description": "Recognize text in images and screenshots",
+      "website": "https://chromewebstore.google.com/detail/ocr-text-recognition/oldinjmajkejmhnnllhcaopbbfdlepgd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776921481719888.jpg",
+      "category": "AI Image Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Image Recognition",
+        "Transcription",
+        "Transcriber",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:31",
+      "updatedAt": "2024-06-07 22:06:31"
+    },
+    {
+      "name": "Marvix AI Integrator",
+      "description": "Extension for optimizing EHR interactions with Marvix AI.",
+      "website": "https://chromewebstore.google.com/detail/marvix-ai-integrator/kflaijiddpiiigboaggcbfnmaeakdmbh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147846838085611.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Healthcare",
+        "AI Productivity Tools",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:07",
+      "updatedAt": "2024-11-13 14:14:07"
+    },
+    {
+      "name": "Papper: Scan Handwritten Todos",
+      "description": "Convert handwritten notes into digital tasks and access pre-made checklists. Stay organized and productive with Papper.",
+      "website": "https://papper.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152561576709026.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Image Recognition",
+        "AI Image Scanning",
+        "AI Task Management",
+        "Handwriting",
+        "AI Productivity Tools",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:22",
+      "updatedAt": "2023-12-02 21:59:22"
+    },
+    {
+      "name": "VIT Updated Auto-Capcha (Free)",
+      "description": "Automatically solves VTOP Captchas",
+      "website": "https://chromewebstore.google.com/detail/vit-updated-auto-capcha-f/npldlfinjpgdfhlojnkipjcaciooiaek?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747574561104801.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:40",
+      "updatedAt": "2024-06-04 12:34:40"
+    },
+    {
+      "name": "MalwareAI Browser Security",
+      "description": "AI-powered malware detection for Chrome",
+      "website": "https://chromewebstore.google.com/detail/malwareai-browser-securit/fjbjbkoepflddmlieaicfhelkdmkbcdb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747582588526658.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Content Detector",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:17",
+      "updatedAt": "2024-06-04 12:35:17"
+    },
+    {
+      "name": "Gtres AI",
+      "description": "AI-powered image search engine.",
+      "website": "https://chromewebstore.google.com/detail/gtres-ai/cpcoimioheifeebimappllknngfenhol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807153753647856.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:10",
+      "updatedAt": "2024-06-11 10:05:10"
+    },
+    {
+      "name": "BluVector Threat Assessment Generator",
+      "description": "AI-based download scanning",
+      "website": "https://chromewebstore.google.com/detail/bluvector-threat-assessme/aebafakmmeiebmcgkahmioohimabcnba?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687131247947479.jpg",
+      "category": "AI Image Segmentation",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Segmentation",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:37",
+      "updatedAt": "2024-05-28 12:41:37"
+    },
+    {
+      "name": "Whatshisface",
+      "description": "Actor identification while streaming",
+      "website": "https://chromewebstore.google.com/detail/whatshisface/hdlljjddnhidfgllahkjhpfgommecolc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776768644690003.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:15",
+      "updatedAt": "2024-06-07 21:40:15"
+    },
+    {
+      "name": "QuickSight",
+      "description": "AI-powered video search and analytics",
+      "website": "https://quicksight.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566226998723008.webp",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Video Search",
+        "AI Analytics Assistant",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:44",
+      "updatedAt": "2024-05-14 12:49:44"
+    },
+    {
+      "name": "Marvelous Fit Extension",
+      "description": "AI fit assessment tool",
+      "website": "https://chromewebstore.google.com/detail/marvelous-fit-extension/ghmeabenocmnoekhdambaenahacaecoj?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Image Recognition",
+        "AI Clothing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "Axiom Browser Automation & Web Scraping",
+      "description": "Automate website actions with no code",
+      "website": "https://chromewebstore.google.com/detail/axiom-browser-automation/cpgamigjcbffkaiciiepndmonbfdimbb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763901615880656.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "No-Code&Low-Code",
+        "AI Data Mining",
+        "Web Scraping",
+        "AI Website Builder",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:52",
+      "updatedAt": "2024-06-06 09:55:52"
+    },
+    {
+      "name": "\u6f51\u982d\u5929\u773c\u901a",
+      "description": "Automated verification code filling system",
+      "website": "https://chromewebstore.google.com/detail/\u6f51\u982d\u5929\u773c\u901a/flbelgaeblnoipjndnjgmmafbgpclfcf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679948319234297.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:46",
+      "updatedAt": "2024-05-25 21:31:46"
+    },
+    {
+      "name": "Deepfake Detection",
+      "description": "Detect deepfakes on YouTube\u2122",
+      "website": "https://chromewebstore.google.com/detail/deepfake-detection/gbokgdgbgfcdlbnonmlajiapbcpkdgnk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679946465418043.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Detector",
+        "AI Photo Enhancer",
+        "AI Image Recognition",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "Homes Like This",
+      "description": "Find homes for sale visually",
+      "website": "https://chromewebstore.google.com/detail/homes-like-this/iicnnghecnmpgchcilcncbaniakgapel?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776921097164133.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "Photo & Image Editor",
+        "Image to Image",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:30",
+      "updatedAt": "2024-06-07 22:06:30"
+    },
+    {
+      "name": "PlantIdentify - Plant Detector",
+      "description": "AI plant identification app",
+      "website": "https://apps.apple.com/us/app/plantidentify-plant-detector/id6504149002?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888225572919077.webp",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Product Description Generator",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:51",
+      "updatedAt": "2024-06-20 19:16:51"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

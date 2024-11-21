@@ -1,0 +1,2762 @@
+{
+  "tools": [
+    {
+      "name": "Theneo",
+      "description": "Theneo is an AI-powered tool that simplifies API documentation and integration process.",
+      "website": "https://theneo.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248887926531653.jpg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:02:26",
+      "updatedAt": "2023-04-26 14:02:26"
+    },
+    {
+      "name": "storia.ai",
+      "description": "AI platform for in-house code understanding and generation.",
+      "website": "https://storia.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714262959996452.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "AI Education Assistant",
+        "Large Language Models (LLMs)",
+        "AI Knowledge Graph",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:46",
+      "updatedAt": "2024-09-24 09:47:46"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "DocuWriter.ai",
+      "description": "Automate code documentation, testing, and refactoring with DocuWriter.ai's AI-powered tool.",
+      "website": "https://www.docuwriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578452130326807.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:28:03",
+      "updatedAt": "2023-06-03 17:28:03"
+    },
+    {
+      "name": "Quest AI",
+      "description": "Quest platform generates React components and clean code from Figma designs.",
+      "website": "https://www.quest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585182823653293.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Landing Page Builder",
+        "AI Product Description Generator",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:20",
+      "updatedAt": "2023-06-04 12:09:20"
+    },
+    {
+      "name": "nat.dev",
+      "description": "OpenPlayground is a user-friendly platform for testing and analyzing Language Models.",
+      "website": "https://nat.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543957684929700.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:38:37",
+      "updatedAt": "2023-05-30 17:38:37"
+    },
+    {
+      "name": "captum.ai",
+      "description": "Interpret models in PyTorch",
+      "website": "https://captum.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171242597143706501.webp",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 01:52:36",
+      "updatedAt": "2024-04-07 01:52:36"
+    },
+    {
+      "name": "motif.land",
+      "description": "Technical content maintenance with AI.",
+      "website": "https://motif.land?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171242103217894112.webp",
+      "category": "AI Knowledge Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Management",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 00:29:55",
+      "updatedAt": "2024-04-07 00:29:55"
+    },
+    {
+      "name": "Refraction",
+      "description": "Refraction is an AI-powered code generation tool for developers.",
+      "website": "https://www.refraction.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477137228495412.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:17",
+      "updatedAt": "2023-05-23 00:02:17"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "CodeComplete AI",
+      "description": "CodeComplete is a secure, customized AI coding assistant for enterprise developers.",
+      "website": "https://www.codecomplete.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510467348127549.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:37:13",
+      "updatedAt": "2023-05-26 20:37:13"
+    },
+    {
+      "name": "Stenography",
+      "description": "Stenography is a fast and efficient technique for transcribing spoken language.",
+      "website": "https://stenography.dev?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1ac2a948513b40592775554ea7ccb1ba.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "Alphadoc",
+      "description": "Interactive documentation with powerful AI.",
+      "website": "https://alphadoc.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578518790095889.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Tutorial",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Doclin",
+      "description": "Real-time code discussion and automatic documentation creation.",
+      "website": "https://doclin.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172363260052417488.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Chatbot",
+        "AI Knowledge Management",
+        "AI Knowledge Graph"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-14 18:49:16",
+      "updatedAt": "2024-08-14 18:49:16"
+    },
+    {
+      "name": "Zevo.ai",
+      "description": "Code visualization for faster debugging and code review.",
+      "website": "https://zevo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373320929196173.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:16",
+      "updatedAt": "2023-12-28 11:11:16"
+    },
+    {
+      "name": "PaperClip",
+      "description": "A helpful tool for researchers to keep track and memorize important paper details.",
+      "website": "https://www.paperclipapp.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169045636848249213.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Productivity Tools",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 19:11:26",
+      "updatedAt": "2023-07-27 19:11:26"
+    },
+    {
+      "name": "Postlog",
+      "description": "Automatic API documentation generation for various frameworks.",
+      "website": "https://trypostlog.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172528004320016607.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI API Design",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-02 20:27:03",
+      "updatedAt": "2024-09-02 20:27:03"
+    },
+    {
+      "name": "Nearly.AI",
+      "description": "Generate Laravel Backend Builder and reduce cost & time.",
+      "website": "https://nearly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454275556395403.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "AI Project Management",
+        "AI Website Designer",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:03",
+      "updatedAt": "2023-09-13 02:19:03"
+    },
+    {
+      "name": "Airtest",
+      "description": "Refraction automates code generation tasks using AI for software developers.",
+      "website": "https://www.airtest.dev?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/db01b55189ff685433cad7eb9bbfc407.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "Xno.ai",
+      "description": "Qoddi is a hosting platform for mobile app deployment and management.",
+      "website": "https://xno.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/8a764d84b66e03498fa5ad240d585e58.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Docs",
+        "AI Tools Directory",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:41",
+      "updatedAt": "2023-03-07 16:48:41"
+    },
+    {
+      "name": "EnhanceDocs",
+      "description": "Open-source AI-powered search engine for your documentation.",
+      "website": "https://enhancedocs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476357229769775.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Knowledge Base",
+        "AI Chatbot",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Knowledge Management",
+        "AI Analytics Assistant",
+        "AI Documents Assistant",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 19:58:27",
+      "updatedAt": "2023-05-22 19:58:27"
+    },
+    {
+      "name": "nokori",
+      "description": "Nokori is a versatile platform for SaaS businesses, offering various features and tools.",
+      "website": "https://nokori.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168493978512656308.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI SQL Query Builder",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:48:47",
+      "updatedAt": "2023-05-24 22:48:47"
+    },
+    {
+      "name": "tensor.video",
+      "description": "Summarize lengthy videos into concise sentences.",
+      "website": "https://tensor.video?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517979933753309.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:29:32",
+      "updatedAt": "2023-05-27 17:29:32"
+    },
+    {
+      "name": "Sveltron",
+      "description": "Summary: Svelte Smart Doc is an AI assistant that provides up-to-date documentation for developers.",
+      "website": "https://www.sveltron.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528165417869571.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Code Assistant",
+        "AI Advertising Assistant",
+        "Code Explanation",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 21:47:04",
+      "updatedAt": "2023-05-28 21:47:04"
+    },
+    {
+      "name": "Evebyte Studio",
+      "description": "A Windows software that allows easy control of Android devices without coding.",
+      "website": "https://www.evebyte.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543862774763763.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:21:41",
+      "updatedAt": "2023-05-30 17:21:41"
+    },
+    {
+      "name": "Tethered AI",
+      "description": "Tethered AI combines web searches and note-taking for an improved user experience.\n\u603b\u7ed3\uff1aTethered AI integrates web searches and note-taking for a better user experience. (11\u4e2a\u5b57)",
+      "website": "https://tethered.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577711118984797.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:24:50",
+      "updatedAt": "2023-06-03 15:24:50"
+    },
+    {
+      "name": "SeniorDev",
+      "description": "SeniorDev is an AI tool for code review that boosts productivity and efficiency.",
+      "website": "https://www.seniordev.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882917010007435.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "Onboard AI",
+      "description": "AI-powered codebase navigation tool for developers.",
+      "website": "https://getonboard.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169008427324783712.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 11:50:28",
+      "updatedAt": "2023-07-23 11:50:28"
+    },
+    {
+      "name": "File ChatAI",
+      "description": "\"AI Text Insights is a powerful platform for analyzing and summarizing various files in any language.\"",
+      "website": "https://filechatai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228007383789308.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "AI Files Assistant",
+        "AI WORD"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Concentration",
+      "description": "Stay focused by blocking distracting websites with Concentration.",
+      "website": "https://chrome.google.com/webstore/detail/concentration/jkilnegoiabelpjhljiagmmnnppdaajf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679488737005471.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
+    },
+    {
+      "name": "PresetAI",
+      "description": "AI chatbot for easy and efficient knowledge base search.",
+      "website": "http://thepresetai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169632855851242184.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Search Engine",
+        "AI Code Assistant",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-03 18:21:13",
+      "updatedAt": "2023-10-03 18:21:13"
+    },
+    {
+      "name": "Code Gen GPTs for iOS Devs",
+      "description": "Master iOS development with GPTs",
+      "website": "https://gptsfordevs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229741094097226.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:16",
+      "updatedAt": "2023-12-11 20:21:16"
+    },
+    {
+      "name": "docdocsai",
+      "description": "Create meeting memos and keep everyone on the same page.",
+      "website": "https://www.docdocsai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373321851749118.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Productivity Tools",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:16",
+      "updatedAt": "2023-12-28 11:11:16"
+    },
+    {
+      "name": "DocWhizz",
+      "description": "Expert AI assistant for developer docs",
+      "website": "https://www.docwhizz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477856926674634.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:40",
+      "updatedAt": "2024-01-09 13:35:40"
+    },
+    {
+      "name": "Docmonster",
+      "description": "Revolutionize API documentation engagement with AI chatbot.",
+      "website": "https://docmonster.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170584756028394301.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-21 22:31:50",
+      "updatedAt": "2024-01-21 22:31:50"
+    },
+    {
+      "name": "MicroGPT",
+      "description": "Enhance coding with AI features",
+      "website": "https://chromewebstore.google.com/detail/microgpt/gheibnaiccdpoeeacnkkcmacloeonhmc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679941090925122.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:48",
+      "updatedAt": "2024-05-25 21:30:48"
+    },
+    {
+      "name": "UMLGenius",
+      "description": "Chrome extension for automated UML diagram creation",
+      "website": "https://chromewebstore.google.com/detail/umlgenius/egcmgbfnmpcnbellpehiaigmaboobpoh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776924810032447.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Diagram Generator",
+        "AI Developer Tools",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:53",
+      "updatedAt": "2024-06-07 22:06:53"
+    },
+    {
+      "name": "EntBot.ai - AI Chatbots for enterprise",
+      "description": "AI-powered chatbot builder for enterprise websites",
+      "website": "https://entbot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171921662232310526.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Docs",
+        "AI Customer Service Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-24 17:19:07",
+      "updatedAt": "2024-06-24 17:19:07"
+    },
+    {
+      "name": "Angular.dev",
+      "description": "Web development framework for modern apps.",
+      "website": "https://angular.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969514068865540.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI App Builder",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:10",
+      "updatedAt": "2023-11-11 17:32:10"
+    },
+    {
+      "name": "AskYourPdf",
+      "description": "AI chat app AskYourPDF extracts insights from uploaded PDF documents.",
+      "website": "https://www.askyourpdf.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168546376180173994.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Docs",
+        "AI Documents Assistant",
+        "AI Product Description Generator",
+        "AI PDF",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-31 00:22:04",
+      "updatedAt": "2023-05-31 00:22:04"
+    },
+    {
+      "name": "The New GitBook",
+      "description": "A knowledge management tool for technical teams.",
+      "website": "https://gitbook.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145454299800304.jpg",
+      "category": "AI Knowledge Management",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Management",
+        "AI Knowledge Base",
+        "AI Developer Docs",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:14:02",
+      "updatedAt": "2023-12-02 02:14:02"
+    },
+    {
+      "name": "Mermaid Chart",
+      "description": "Collaborative diagramming platform using AI for visual diagrams.",
+      "website": "https://www.mermaidchart.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605446561531751.jpg",
+      "category": "AI Diagram Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Diagram Generator",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Charting",
+        "AI Workflow Management",
+        "AI Developer Tools",
+        "AI Team Collaboration",
+        "AI Project Management",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:13:25",
+      "updatedAt": "2023-09-30 14:13:25"
+    },
+    {
+      "name": "Pieces for Developers",
+      "description": "AI-powered code snippet manager and workflow tool for developers to save and reuse key materials.",
+      "website": "https://pieces.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168761912325269664.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "AI Developer Docs",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-24 23:04:36",
+      "updatedAt": "2023-06-24 23:04:36"
+    },
+    {
+      "name": "BuildShip",
+      "description": "Visual low-code platform for powerful API creation, scheduled jobs, and backend tasks.",
+      "website": "https://buildship.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582589570099990.jpg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "No-Code&Low-Code",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "Mintlify",
+      "description": "Beautiful documentation for engaging users.",
+      "website": "https://mintlify.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ba55d3aa3676f6be3608e645cf228b38.jpeg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:40",
+      "updatedAt": "2023-03-07 16:48:40"
+    },
+    {
+      "name": "SuperAGI Cloud",
+      "description": "SuperAGI is an open-source framework to quickly build and manage autonomous AI agents.",
+      "website": "https://superagi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134156225973645.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "Booom.ai",
+      "description": "Playroom provides a low-code SDK and AI tools for developers to create multiplayer games easily.",
+      "website": "https://joinplayroom.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ac1e6c994a8f75a919e808b39224b164.jpeg",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Game",
+        "AI App Builder",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "Hyperaide",
+      "description": "Build better and faster with Hyperaide.",
+      "website": "https://hyperaide.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169703669882818451.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-11 23:03:51",
+      "updatedAt": "2023-10-11 23:03:51"
+    },
+    {
+      "name": "GitLoop",
+      "description": "AI assistant for Git to enhance code interactions and documentation.",
+      "website": "https://gitloop.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007970053647851.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Voice Assistants",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:46",
+      "updatedAt": "2024-10-28 09:39:46"
+    },
+    {
+      "name": "Rely.io",
+      "description": "An Internal Developer Portal with an AI assistant to boost engineering productivity.",
+      "website": "https://rely.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493966243302331.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Product Description Generator",
+        "AI Chatbot",
+        "AI API Design",
+        "AI Knowledge Management",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:55",
+      "updatedAt": "2024-01-11 10:19:55"
+    },
+    {
+      "name": "DevGPT",
+      "description": "DevKit is an essential toolkit for developers, offering AI assistance and various devtools.",
+      "website": "https://getdevkit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168398547131932271.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 21:43:09",
+      "updatedAt": "2023-05-13 21:43:09"
+    },
+    {
+      "name": "Raster",
+      "description": "Raster is a DAM for teams to organize, edit, and host photo assets efficiently.",
+      "website": "https://raster.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003640499647952.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Developer Docs",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Product Description Generator",
+        "AI API Design",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "Notice",
+      "description": "Notice is a no-code editor for creating and managing web content easily.",
+      "website": "https://www.notice.studio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416128364957222.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Developer Docs",
+        "AI Knowledge Base",
+        "No-Code&Low-Code",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:33:57",
+      "updatedAt": "2023-05-15 22:33:57"
+    },
+    {
+      "name": "Tinq.ai - NLP API",
+      "description": "Tinq.ai is an AI toolkit offering various NLP capabilities as a service.",
+      "website": "https://tinq.ai/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/64c4c1d331ccdd2068daa91cc72365c4.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer",
+        "Writing Assistants",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Mimrr",
+      "description": "Automate code documentation for software companies.",
+      "website": "https://www.mimrr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582591364966654.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "BashSenpai",
+      "description": "BashSenpai is a terminal assistant powered by ChatGPT for ready-to-use commands and context-based answers.",
+      "website": "https://bashsenpai.com/?aff=p0axqp5yecqy1db",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168812875294996059.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Tools Directory",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-30 20:39:00",
+      "updatedAt": "2023-06-30 20:39:00"
+    },
+    {
+      "name": "AiTerm (Beta)",
+      "description": "An AI-powered assistant that streamlines command execution in the terminal.",
+      "website": "https://aiterm.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969531144362739.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:15",
+      "updatedAt": "2023-11-11 17:32:15"
+    },
+    {
+      "name": "PrevessAI App",
+      "description": "Science-based personalized nutrition coaching.",
+      "website": "https://www.prevess.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454295439731742.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "Backender",
+      "description": "No-code solution for system logic.",
+      "website": "https://www.backender.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282400141348223.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:40",
+      "updatedAt": "2023-12-17 22:37:40"
+    },
+    {
+      "name": "Onu",
+      "description": "Onu enables engineers to create internal tools without frontend development.",
+      "website": "https://joinonu.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9fca257ac0097a330aef9aa4595cfc88.jpeg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Workflow Management",
+        "AI App Builder",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Recap",
+      "description": "\"Recap simplifies webpage summarization using ChatGPT.\"",
+      "website": "https://recapext.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168337022277749763.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 18:50:50",
+      "updatedAt": "2023-05-06 18:50:50"
+    },
+    {
+      "name": "GitterBot.io",
+      "description": "GitterBot.io is an AI platform for conversational documentation in SaaS companies.",
+      "website": "https://www.gitterbot.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545738419785094.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "Writing Assistants",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "Code Explanation",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:36:14",
+      "updatedAt": "2023-05-30 22:36:14"
+    },
+    {
+      "name": "ngBot",
+      "description": "AI-powered Chrome extension for Angular documentation.",
+      "website": "https://chrome.google.com/webstore/detail/ngbot-chat-with-angular-d/mdpkbbgdpahmkkkckkjlbocplaplehch?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679485320317124.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "AI Code Assistant",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 17:47:35",
+      "updatedAt": "2023-07-06 17:47:35"
+    },
+    {
+      "name": "Swimm AI (Beta)",
+      "description": "Swimm is an AI-powered documentation tool that creates interactive documents based on code.",
+      "website": "https://www.swimm.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168917904461406254.jpg",
+      "category": "Code Explanation",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Code Assistant",
+        "AI Product Description Generator",
+        "AI Workflow Management",
+        "AI Tutorial",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 00:22:49",
+      "updatedAt": "2023-07-13 00:22:49"
+    },
+    {
+      "name": "DopplerAI",
+      "description": "DopplerAI is a hosted solution for adding memory and search capabilities to AI models.",
+      "website": "https://dopplerai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924962859590563.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI API Design",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "CRUDERRA",
+      "description": "Generate interactive documentation & collaborate on codebase with AI-powered DocOps platform for software development.",
+      "website": "https://cruderra.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169008428159553365.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "Code Explanation",
+        "AI Diagram Generator",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 11:50:28",
+      "updatedAt": "2023-07-23 11:50:28"
+    },
+    {
+      "name": "Codex Atlas",
+      "description": "Codex Atlas is an automated tool for creating up-to-date code documentation.",
+      "website": "https://www.codexatlas.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169071058962971512.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-30 17:49:16",
+      "updatedAt": "2023-07-30 17:49:16"
+    },
+    {
+      "name": "AutoKT",
+      "description": "AutoKT automates code documentation for developers.",
+      "website": "https://autokt.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295768572622958.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "Diarupt",
+      "description": "Build real-time video-based AI interactions into your product.",
+      "website": "https://diarupt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582594285558375.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI Chatbot",
+        "AI API Design",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "Autonoma",
+      "description": "AI-powered code documentation tool.",
+      "website": "https://getautonoma.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169849097011437018.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
+    },
+    {
+      "name": "Accesssgpts",
+      "description": "Easily find and rate GPTs with user ratings.",
+      "website": "https://www.accessgpts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072947257749119.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:39",
+      "updatedAt": "2023-11-23 16:50:39"
+    },
+    {
+      "name": "DevMind",
+      "description": "The ultimate hub for AI-driven creativity.",
+      "website": "https://thedevs.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170281798315596817.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 20:58:48",
+      "updatedAt": "2023-12-17 20:58:48"
+    },
+    {
+      "name": "PromptMule",
+      "description": "Cache-as-a-Service for GenAI app development. Boost efficiency, customizable rules, scalable architecture, and detailed analytics.",
+      "website": "https://www.promptmule.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282392964147762.jpg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:37",
+      "updatedAt": "2023-12-17 22:37:37"
+    },
+    {
+      "name": "Explainit",
+      "description": "AI-Powered chat creation in seconds",
+      "website": "https://explainit.mzslabs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171375073599441681.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "AI Knowledge Management",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-22 09:51:50",
+      "updatedAt": "2024-04-22 09:51:50"
+    },
+    {
+      "name": "CodeGenie for Github",
+      "description": "AI for Github code comprehension",
+      "website": "https://chromewebstore.google.com/detail/codegenie-for-github/dannmnmanfkiefbpenjaemkeohklamok?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679944527640163.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:42",
+      "updatedAt": "2024-05-25 21:31:42"
+    },
+    {
+      "name": "Hugging Face Model Size",
+      "description": "ML model size display tool",
+      "website": "https://chromewebstore.google.com/detail/hugging-face-model-size/lfecfeomkhjblngolpfmpolfljocpkdg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747562377671302.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:30",
+      "updatedAt": "2024-06-04 12:33:30"
+    },
+    {
+      "name": "MakeTheDocs",
+      "description": "AI documentation creation from demonstration videos",
+      "website": "https://makethedocs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016984863767042.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:24",
+      "updatedAt": "2024-07-05 16:56:24"
+    },
+    {
+      "name": "BixGPT ReleaseNotes",
+      "description": "Secure and private AI for automated release notes",
+      "website": "https://www.bixgpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043214861180728.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Content Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:05",
+      "updatedAt": "2024-07-08 17:48:05"
+    },
+    {
+      "name": "DocDriven",
+      "description": "API design tool with AI code generation",
+      "website": "https://docdriven.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052438690191388.jpg",
+      "category": "AI Developer Docs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:28",
+      "updatedAt": "2024-07-09 19:23:28"
+    },
+    {
+      "name": "Notation",
+      "description": "A tool for writing markdown docs and publishing in Notion.",
+      "website": "https://notation.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328714927618375.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "AI Developer Docs",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:50:51",
+      "updatedAt": "2024-08-10 18:50:51"
+    },
+    {
+      "name": "Devgen - Your Github AI Assistant",
+      "description": "AI tool for analyzing code and repository insights.",
+      "website": "https://chromewebstore.google.com/detail/devgen-your-github-ai-ass/iglkjhingcdlfanjlokiodgfcllmcfoc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176289684460634.jpg",
+      "category": "Code Explanation",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Code Explanation",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:14:45",
+      "updatedAt": "2024-11-16 21:14:45"
+    },
+    {
+      "name": "Pinecone",
+      "description": "Pinecone is a fast vector database for searching similar items in milliseconds.",
+      "website": "https://www.pinecone.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0be42815cf74bb132cbab523626a53b2.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Raycast",
+      "description": "A fast, customizable launcher that helps you stay focused by controlling your tools efficiently.",
+      "website": "https://www.raycast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168241489891035076.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-25 17:29:13",
+      "updatedAt": "2023-04-25 17:29:13"
+    },
+    {
+      "name": "Convex",
+      "description": "TypeScript fullstack platform for reactive apps.",
+      "website": "https://www.convex.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486201736233515.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI API Design",
+        "AI Code Generator",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "Applitools Eyes",
+      "description": "Applitools is a visual testing platform that uses AI to improve automation and reduce costs.",
+      "website": "https://applitools.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168443157312207264.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 01:39:22",
+      "updatedAt": "2023-05-19 01:39:22"
+    },
+    {
+      "name": "Fig AI",
+      "description": "Fig is a versatile command line tool for managing team secrets, scripts, and SSH credentials.",
+      "website": "https://fig.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/43ab2113722d844e809d301a9dbad439.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "One AI",
+      "description": "One AI platform provides top Generative AI for product integration, with pre-trained and customizable capabilities.",
+      "website": "https://www.oneai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/00487c57585277fd700e70358acfa908.jpeg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "arGPT for Monocle",
+      "description": "Creating an open-source ecosystem for affordable AR devices, Brilliant Labs supports developers and creatives in shaping the future of augmented reality.",
+      "website": "https://brilliant.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164909462844293.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:02",
+      "updatedAt": "2023-08-10 14:29:02"
+    },
+    {
+      "name": "HTTPie AI",
+      "description": "HTTPie simplifies API testing for developers with an intuitive interface for HTTP servers.",
+      "website": "https://httpie.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f086dbb81e980dd3675961438f98b7f7.jpeg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI Developer Tools",
+        "AI Advertising Assistant",
+        "AI Code Assistant",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "Beagle Security",
+      "description": "Beagle Security identifies vulnerabilities and provides remedies to protect web apps and APIs.",
+      "website": "https://beaglesecurity.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168249360928689281.png",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI API Design",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Content Detector",
+        "AI Detector",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 15:20:16",
+      "updatedAt": "2023-04-26 15:20:16"
+    },
+    {
+      "name": "Theneo 3.0",
+      "description": "Automates and transforms API documentation using AI technology.",
+      "website": "https://www.theneo.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007989017518995.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:55",
+      "updatedAt": "2024-10-28 09:41:55"
+    },
+    {
+      "name": "Obviously AI",
+      "description": "No-code AI tool for building and deploying data science models without coding.",
+      "website": "https://www.obviously.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/71b6cd2f6431b0ec47e16b851f1dacc6.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "No-Code&Low-Code",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "Lamini",
+      "description": "Lamini is an AI platform that streamlines enterprise software development with generative AI.",
+      "website": "https://lamini.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168396891668269241.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 17:08:47",
+      "updatedAt": "2023-05-13 17:08:47"
+    },
+    {
+      "name": "Typed",
+      "description": "\"The collaborative document tool, Typed, connects scattered documents, optimizes teamwork, and enhances research and productivity.\"",
+      "website": "https://typed.do?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1682487752948877.jpg",
+      "category": "AI Documents Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Documents Assistant",
+        "AI Knowledge Management",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "Research Tool",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 13:46:20",
+      "updatedAt": "2023-04-26 13:46:20"
+    },
+    {
+      "name": "Avjo AI",
+      "description": "Productivity-boosting technical assistant for developers",
+      "website": "https://www.avjo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094102993800850.webp",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "Writing Assistants",
+        "AI Code Assistant",
+        "Large Language Models (LLMs)",
+        "AI Voice Assistants",
+        "AI Developer Docs",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:22:57",
+      "updatedAt": "2024-03-20 21:22:57"
+    },
+    {
+      "name": "Shaped",
+      "description": "A platform using machine learning to boost engagement for companies' feeds, recommendations, and notifications.",
+      "website": "https://www.shaped.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ce562baf03f32cf8e9596565cc8f41a3.jpeg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Advertising Assistant",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "Docsie 2.0",
+      "description": "An easy-to-use web tool for making and managing product docs & knowledge bases.",
+      "website": "https://www.docsie.io/?gr_pk=GXAq",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548530196028427.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "Writing Assistants",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Developer Docs",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:53:57",
+      "updatedAt": "2024-01-17 17:53:57"
+    },
+    {
+      "name": "Patched",
+      "description": "Open-source automation for dev teams to streamline workflows.",
+      "website": "https://patched.codes?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172561990642279293.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 18:51:01",
+      "updatedAt": "2024-09-06 18:51:01"
+    },
+    {
+      "name": "WebSpellChecker",
+      "description": "Online grammar and spelling correction for websites and web apps.",
+      "website": "https://webspellchecker.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349869490785005.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "AI Checker Essay",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:55",
+      "updatedAt": "2023-12-25 18:00:55"
+    },
+    {
+      "name": "Znote AI",
+      "description": "Znote is a note-taking app that boosts productivity by converting notes into micro apps.",
+      "website": "https://znote.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476420439075356.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Productivity Tools",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:00:53",
+      "updatedAt": "2023-05-22 22:00:53"
+    },
+    {
+      "name": "ShareID",
+      "description": "Reusable digital identity solution enables real-time verification and sharing of personal information.",
+      "website": "https://shareid.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580610618047682.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Developer Tools",
+        "AI Developer Docs",
+        "AI Product Description Generator",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 20:51:08",
+      "updatedAt": "2023-06-03 20:51:08"
+    },
+    {
+      "name": "FL0",
+      "description": "Effortlessly deploy and scale your code with FL0 in minutes.",
+      "website": "https://www.fl0.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686005743789289.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI DevOps Assistant",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

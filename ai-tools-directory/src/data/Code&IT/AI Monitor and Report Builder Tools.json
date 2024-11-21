@@ -1,0 +1,2458 @@
+{
+  "tools": [
+    {
+      "name": "BlazeSQL",
+      "description": "BlazeSQL lets you get data insights from SQL Databases without writing code. It connects an AI chatbot to your SQL Database, that can extract data to answer your questions, visualize the results, and generate SQL code for you.",
+      "website": "https://www.blazesql.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230668482379263.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SEO Assistant",
+        "Code Explanation",
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:33:07",
+      "updatedAt": "2024-07-30 10:33:07"
+    },
+    {
+      "name": "DataSquirrel.ai",
+      "description": "DataSquirrel.ai is a user-friendly platform for fast and easy data analysis.",
+      "website": "https://datasquirrel.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168381155690149164.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 21:25:48",
+      "updatedAt": "2023-05-11 21:25:48"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Locbi",
+      "description": "Generate BI reports from Google Maps reviews for business insights.",
+      "website": "https://locbi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709750856068008.jpg",
+      "category": "Report Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Report Writing",
+        "AI Reviews Assistant",
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "WhenX",
+      "description": "A web tool uses AI to create robots that monitor and alert you of web changes.",
+      "website": "https://whenx.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863691558665519.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 17:48:21",
+      "updatedAt": "2023-07-06 17:48:21"
+    },
+    {
+      "name": "Scrolling Time Guardian",
+      "description": "Digital wellness tracker for mindful scrolling",
+      "website": "https://chromewebstore.google.com/detail/scrolling-time-guardian/phlpehahbacnkpcgnmfajkgolkhodhof?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687112241692484.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:24",
+      "updatedAt": "2024-05-28 12:37:24"
+    },
+    {
+      "name": "\u667a\u6295RPA",
+      "description": "Automated data monitoring for live streaming",
+      "website": "https://chromewebstore.google.com/detail/\u667a\u6295rpa/jepfjemomnkngchgkfmhlmbbfjfmiekj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282850728603599.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI Productivity Tools",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:20",
+      "updatedAt": "2024-08-05 11:28:20"
+    },
+    {
+      "name": "Twitter Violation Reports Assistant",
+      "description": "Effortless violation reporting tool",
+      "website": "https://chromewebstore.google.com/detail/twitter-violation-reports/fdfgniifelanckkbgcnghcdecoaamcoj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703914497425350.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "Report Writing",
+        "AI Twitter Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:33",
+      "updatedAt": "2024-05-30 11:18:33"
+    },
+    {
+      "name": "Report Generator",
+      "description": "A tool to create professional reports, charts, and graphs based on user data.",
+      "website": "https://reportgenerator.software?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517403424337540.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:53:16",
+      "updatedAt": "2023-05-27 15:53:16"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "Nadi",
+      "description": "Revolutionary crash monitoring companion",
+      "website": "https://nadi.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686002481281761.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Workflow Management",
+        "AI Project Management",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Bugasura",
+      "description": "AI-enabled bug tracker with reporters",
+      "website": "https://chromewebstore.google.com/detail/bugasura/eheemiidlejngomipjjedefpohekhcic?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687110924705155.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:23",
+      "updatedAt": "2024-05-28 12:37:23"
+    },
+    {
+      "name": "Monitor AI",
+      "description": "Track OpenAI API costs and usage with Monitor AI.",
+      "website": "https://apps.apple.com/app/monitor-ai/id6449524153?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924961673887477.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Monitor & Report Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "Farejador de Leads - Econodata",
+      "description": "Empowering sales with big data insights.",
+      "website": "https://chromewebstore.google.com/detail/farejador-de-leads-econod/jokofhemgbcbgfpjhebgdhkciapcfjaf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815762067172864.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI Lead Generation",
+        "AI Analytics Assistant",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:49",
+      "updatedAt": "2024-06-12 09:59:49"
+    },
+    {
+      "name": "nOps",
+      "description": "nOps is a platform that lowers AWS costs by 50% using automation.",
+      "website": "https://www.nops.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248217468272651.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 12:11:35",
+      "updatedAt": "2023-04-26 12:11:35"
+    },
+    {
+      "name": "Competitors App",
+      "description": "Stay ahead of competitors with Competitors App.",
+      "website": "https://competitors.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152559343886729.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Monitor & Report Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:21",
+      "updatedAt": "2023-12-02 21:59:21"
+    },
+    {
+      "name": "stepsize.com",
+      "description": "Automated reporting for product development",
+      "website": "https://stepsize.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230502251092170.webp",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:56",
+      "updatedAt": "2024-04-05 16:15:56"
+    },
+    {
+      "name": "WhyLabs AI Observatory",
+      "description": "WhyLabs platform enables MLOps with model and data monitoring for efficient issue detection and prevention.",
+      "website": "https://whylabs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517131367045618.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:08:04",
+      "updatedAt": "2023-05-27 15:08:04"
+    },
+    {
+      "name": "MyReport",
+      "description": "Automated reporting tool saves time with data collection and citation.",
+      "website": "https://myreport.alaba.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e2ca5e0aa83649cca269ca83ccb0af0b.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Monitor & Report Builder",
+        "Report Writing",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Palzin Monitor",
+      "description": "Simple, powerful, and smart monitoring platform with incident management and AI assistant.",
+      "website": "https://palzin.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072944836228652.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:38",
+      "updatedAt": "2023-11-23 16:50:38"
+    },
+    {
+      "name": "Onvo AI",
+      "description": "AI-powered Dashboard and Report Builder SDK.",
+      "website": "https://www.onvo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169797965624720795.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Developer Tools",
+        "AI Monitor & Report Builder",
+        "No-Code&Low-Code",
+        "AI Product Description Generator",
+        "AI App Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-22 20:59:50",
+      "updatedAt": "2023-10-22 20:59:50"
+    },
+    {
+      "name": "MindPeer",
+      "description": "AI-powered B2B research system",
+      "website": "https://mindpeer.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070132193047985.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "Report Writing",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:51",
+      "updatedAt": "2024-07-11 20:33:51"
+    },
+    {
+      "name": "NativeBI",
+      "description": "NativeBI is a platform that allows business leaders to access and analyze data easily.",
+      "website": "https://nativebi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476369385359996.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Team Collaboration",
+        "AI Monitor & Report Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:33:14",
+      "updatedAt": "2023-05-22 20:33:14"
+    },
+    {
+      "name": "Yignite\u52a9\u624b",
+      "description": "Amazon backend report integration for insightful analysis.",
+      "website": "https://chromewebstore.google.com/detail/yignite\u52a9\u624b/ljeeacjmlkjapdjiobgibebjaniimopc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687131919979664.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:38",
+      "updatedAt": "2024-05-28 12:41:38"
+    },
+    {
+      "name": "A11YBoost",
+      "description": "Automated reports and monitoring for your website.",
+      "website": "https://a11yboost.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171307946481342909.webp",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI SEO Assistant",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-14 15:41:32",
+      "updatedAt": "2024-04-14 15:41:32"
+    },
+    {
+      "name": "LLMonitor",
+      "description": "Open-source observability toolkit for AI developers",
+      "website": "https://llmonitor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100868921907250.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Developer Tools",
+        "AI Monitor & Report Builder",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:38",
+      "updatedAt": "2023-11-26 22:24:38"
+    },
+    {
+      "name": "CYBER AI",
+      "description": "Automate security report analysis",
+      "website": "https://cyber.deployh.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171089760418563568.webp",
+      "category": "Report Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Report Writing",
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Log Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 09:19:30",
+      "updatedAt": "2024-03-20 09:19:30"
+    },
+    {
+      "name": "Myko AI",
+      "description": "Conversational AI for CRM analytics",
+      "website": "https://chromewebstore.google.com/detail/myko-ai/bdbglpingjgacllnlopicobaojhnbnoo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687132540065679.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI CRM Assistant",
+        "AI Charting",
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:38",
+      "updatedAt": "2024-05-28 12:41:38"
+    },
+    {
+      "name": "Avila for Google Calendar",
+      "description": "Automated meeting workflow for improved productivity",
+      "website": "https://chromewebstore.google.com/detail/avila-for-google-calendar/lebhjdmlmeaagikgcpaboednnkigepkd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710861583641.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Meeting Assistant",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "Chat BI",
+      "description": "Real-time AI-powered business intelligence",
+      "website": "http://chatbi.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135247853457249.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant",
+        "Report Writing",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:43",
+      "updatedAt": "2024-07-19 09:27:43"
+    },
+    {
+      "name": "Free Network Monitor",
+      "description": "Monitor network services and websites with quantum readiness features.",
+      "website": "https://freenetworkmonitor.click?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965776213905071.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Blog Writer",
+        "AI Analytics Assistant",
+        "Report Writing",
+        "Writing Assistants",
+        "AI Video Search",
+        "AI Website Builder",
+        "AI Log Management",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:37",
+      "updatedAt": "2024-10-23 12:26:37"
+    },
+    {
+      "name": "Relatas",
+      "description": "Relatas is a sales platform that provides insights without data entry.",
+      "website": "http://relatas.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168443158246702507.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder",
+        "AI CRM Assistant",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 01:39:23",
+      "updatedAt": "2023-05-19 01:39:23"
+    },
+    {
+      "name": "Goover",
+      "description": "Personalized AI research agent for in-depth knowledge",
+      "website": "https://www.goover.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998313873045864.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Knowledge Graph",
+        "Report Writing",
+        "AI Analytics Assistant",
+        "AI Knowledge Base",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:39",
+      "updatedAt": "2024-07-03 13:01:39"
+    },
+    {
+      "name": "VocAI",
+      "description": "Shulex VOC is a SaaS platform using AI chatbot to analyze customer feedback for e-commerce.",
+      "website": "https://join.shulex.com/305.html",
+      "image": "https://cdn-images.toolify.ai/image/bb93ccde00de7467128422c671959682.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Reviews Assistant",
+        "E-commerce Assistant",
+        "Writing Assistants",
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "Nightwatch",
+      "description": "AI-ready SEO monitoring tool for accurate and optimized keyword rankings.",
+      "website": "https://nightwatch.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349912920891798.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Advertising Assistant",
+        "AI Search Engine",
+        "AI Monitor & Report Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:24",
+      "updatedAt": "2023-12-25 18:09:24"
+    },
+    {
+      "name": "June AI",
+      "description": "June is a product analytics tool that helps B2B SaaS companies gain insights from usage data.",
+      "website": "https://june.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577911950356091.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:57:24",
+      "updatedAt": "2023-06-03 15:57:24"
+    },
+    {
+      "name": "Censius",
+      "description": "Censius is an AI platform that improves AI model performance through visibility and proactive management.",
+      "website": "https://censius.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a09d045705d7c58c6bb3664bb0f6bf36.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:32",
+      "updatedAt": "2023-03-07 16:48:32"
+    },
+    {
+      "name": "LangWatch",
+      "description": "Improve GenAI with quality control & user analytics.",
+      "website": "https://www.langwatch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067737066730333.webp",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Log Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:33",
+      "updatedAt": "2024-03-17 20:07:33"
+    },
+    {
+      "name": "Reporfy",
+      "description": "Insightful Performance Reports",
+      "website": "https://www.reporfy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171009104314831692.webp",
+      "category": "Report Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-11 01:16:44",
+      "updatedAt": "2024-03-11 01:16:44"
+    },
+    {
+      "name": "InsightBaseAI",
+      "description": "InsightBase is an AI-powered analytics platform that enables businesses to ask questions and receive quick answers without coding or SQL.",
+      "website": "https://insightbase.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578415681372364.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI SQL Query Builder",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:21:55",
+      "updatedAt": "2023-06-03 17:21:55"
+    },
+    {
+      "name": "Eilla AI",
+      "description": "Eilla AI automates tasks and improves decision-making for financial institutions while prioritizing data security.",
+      "website": "https://eilla.ai/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/bcf4b4b004bed64dbb5e53db015b7c0e.jpeg",
+      "category": "AI Accounting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Accounting Assistant",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant",
+        "AI Contract Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:39",
+      "updatedAt": "2023-03-07 16:48:39"
+    },
+    {
+      "name": "Introducing Coworker AI",
+      "description": "Revolutionary ML-driven analytics with Infer's Coworker AI.",
+      "website": "https://www.getinfer.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486200254274970.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Monitor & Report Builder",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "StrataReports",
+      "description": "Transforming condo documents into insights",
+      "website": "https://www.stratareports.ca?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687141341611671.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)",
+        "Report Writing",
+        "Summarizer",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:42:31",
+      "updatedAt": "2024-05-28 12:42:31"
+    },
+    {
+      "name": "SQOR.ai",
+      "description": "Transform SaaS data into actionable intelligence",
+      "website": "https://www.sqor.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566110248700244.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:30:43",
+      "updatedAt": "2024-05-14 12:30:43"
+    },
+    {
+      "name": "HawkFlow.ai",
+      "description": "HawkFlow.ai is a versatile monitoring tool for code, infrastructure, and business.",
+      "website": "https://hawkflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003636298360682.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "HogwartsAI",
+      "description": "Hogwarts AI is a fast dashboard building platform that uses AI to transform text into charts and summaries.",
+      "website": "https://tryhogwarts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882906792107250.jpg",
+      "category": "AI Charting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Charting",
+        "AI Product Description Generator",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "No-Code&Low-Code",
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "Unifyr.ai",
+      "description": "Unifyr uses AI to transform data into insights for businesses and boost productivity.",
+      "website": "https://www.unifyr.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168744688997117899.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "AI Presentation Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-22 23:14:32",
+      "updatedAt": "2023-06-22 23:14:32"
+    },
+    {
+      "name": "Llog",
+      "description": "Collaborative analytics tool for LLMs, logging and analyzing end-user interactions.",
+      "website": "https://www.llog.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185054646805034.jpg",
+      "category": "AI Log Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Log Management",
+        "AI Monitor & Report Builder",
+        "AI Task Management",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:14:00",
+      "updatedAt": "2023-12-06 16:14:00"
+    },
+    {
+      "name": "ReportPDF",
+      "description": "Transform spreadsheets into sleek PDFs in seconds",
+      "website": "https://www.reportpdf.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171046931428632242.webp",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI PDF",
+        "Report Writing",
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-15 10:20:55",
+      "updatedAt": "2024-03-15 10:20:55"
+    },
+    {
+      "name": "Mest",
+      "description": "Wallet tracker with accounting, analytics and insights.",
+      "website": "https://mest.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577756742321559.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:32:05",
+      "updatedAt": "2023-06-03 15:32:05"
+    },
+    {
+      "name": "HARPA AI | Automation Agent with Claude & GPT",
+      "description": "AI Copilot for browsing & automation",
+      "website": "https://chromewebstore.google.com/detail/harpa-ai-automation-agent/eanggfilgoajaocelnaflolkadkeghjp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679496467809523.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI Blog Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Rewriter",
+        "Paraphraser",
+        "General Writing",
+        "AI Monitor & Report Builder",
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:32:44",
+      "updatedAt": "2024-05-21 09:32:44"
+    },
+    {
+      "name": "SpendSights",
+      "description": "SpendSights helps analyze spendings, categorize transactions, and provide financial insights.",
+      "website": "https://spendsights.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228010632246519.jpg",
+      "category": "AI Data Mining",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Data Mining",
+        "AI Charting",
+        "AI Monitor & Report Builder",
+        "AI Analytics Assistant",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "\u30a6\u30c7\u30ad\u30ad - \u696d\u52d9\u652f\u63f4\u7279\u5316\u30fb\u751f\u6210AI\u30b5\u30fc\u30d3\u30b9(ChatGPT4,ChatGPT3,Claude3\u642d\u8f09)",
+      "description": "Business support AI for enterprises",
+      "website": "https://chromewebstore.google.com/detail/\u30a6\u30c7\u30ad\u30ad-\u696d\u52d9\u652f\u63f4\u7279\u5316\u30fb\u751f\u6210ai\u30b5\u30fc\u30d3\u30b9chatg/ikahnlaclgijpmgjkgcnfbdajjaiimog?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679955334188267.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI Log Management",
+        "Copywriting",
+        "Report Writing",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:09",
+      "updatedAt": "2024-05-26 18:30:09"
+    },
+    {
+      "name": "AI SEO Copilot by Askseo",
+      "description": "AskSeoOnline is an AI-powered SEO tool with keyword research, competitor analysis, and reporting features.",
+      "website": "https://www.askseo.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416441916486187.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Advertising Assistant",
+        "AI Monitor & Report Builder",
+        "Digital Marketing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 23:26:21",
+      "updatedAt": "2023-05-15 23:26:21"
+    },
+    {
+      "name": "XO Analytics",
+      "description": "AI-powered platform XO Analytics boosts e-commerce growth with actionable Shopify insights.",
+      "website": "https://xo-analytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987339324633972.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder",
+        "E-commerce Assistant",
+        "AI Data Mining",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "WorkViz",
+      "description": "WorkViz maximizes remote team performance through visualizing productivity and providing insights into work patterns.",
+      "website": "https://www.workviz.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863777447631424.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Productivity Tools",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 18:01:44",
+      "updatedAt": "2023-07-06 18:01:44"
+    },
+    {
+      "name": "nextbi.ai",
+      "description": "A user-friendly BI tool generates reports from databases using natural language.",
+      "website": "https://nextbi.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168707899091775028.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Monitor & Report Builder",
+        "AI Advertising Assistant",
+        "AI SQL Query Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-18 17:02:56",
+      "updatedAt": "2023-06-18 17:02:56"
+    },
+    {
+      "name": "Spectate",
+      "description": "Effortless monitoring and incident management powered by AI.",
+      "website": "https://spectate.net/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584861328844426.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 11:16:41",
+      "updatedAt": "2023-06-04 11:16:41"
+    },
+    {
+      "name": "VWO",
+      "description": "Market-leading A/B testing tool, helping companies optimize conversions and accelerate growth.",
+      "website": "https://affiliates.vwo.com/6qcfl11ahf3d",
+      "image": "https://cdn-images.toolify.ai/image/d6a46f0a5f3cef36a151e14c4a10ea6a.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Forms & Surveys",
+        "AI Charting",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "SlidesPilot",
+      "description": "AI tools for creating and enhancing presentations.",
+      "website": "https://www.slidespilot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147863548404623.jpg",
+      "category": "AI Presentation Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Presentation Generator",
+        "AI Productivity Tools",
+        "Summarizer",
+        "AI Content Generator",
+        "Report Writing",
+        "AI Photo & Image Generator",
+        "AI Monitor & Report Builder",
+        "AI Rewriter",
+        "Paraphraser",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:22:22",
+      "updatedAt": "2024-11-13 14:22:22"
+    },
+    {
+      "name": "Growify",
+      "description": "Marketing attribution & analytics software",
+      "website": "https://growify.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998296930169934.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:20",
+      "updatedAt": "2024-07-03 13:01:20"
+    },
+    {
+      "name": "Plandek Intelligent Analytics",
+      "description": "Plandek applies data science to improve software delivery and empower engineering teams.",
+      "website": "https://www.plandek.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295768182722711.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Project Management",
+        "AI Workflow Management",
+        "AI Task Management",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "DevDynamics",
+      "description": "DevDynamics helps engineering teams ship better software faster by providing metrics and insights.",
+      "website": "https://devdynamics.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168338703445914159.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Workflow Management",
+        "AI Task Management",
+        "AI Monitor & Report Builder",
+        "AI Charting",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 23:30:57",
+      "updatedAt": "2023-05-06 23:30:57"
+    },
+    {
+      "name": "viable",
+      "description": "Viable is an AI platform that analyzes large amounts of unstructured data using GPT-4.",
+      "website": "https://www.askviable.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d6cbb1be40aac2d91a7bfa4c2d3ca276.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Customer Service Assistant",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "WasteAID",
+      "description": "WasteAID is an AI-powered software that streamlines waste management processes for companies.",
+      "website": "https://ecorithms.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477285143772392.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Image Recognition",
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Monitor & Report Builder",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:26:44",
+      "updatedAt": "2023-05-23 00:26:44"
+    },
+    {
+      "name": "Magicdog",
+      "description": "Magicdog is a Google Sheets extension for importing and analyzing data from various sources.",
+      "website": "https://magicdog.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585180898474991.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:19",
+      "updatedAt": "2023-06-04 12:09:19"
+    },
+    {
+      "name": "Polar",
+      "description": "Effortless, centralized, smart Shopify analytics.",
+      "website": "https://polaranalytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349933353831295.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:29",
+      "updatedAt": "2023-12-25 18:09:29"
+    },
+    {
+      "name": "FinanceGPT",
+      "description": "FinanceGPT uses AI and financial data to improve financial analysis and decision-making.",
+      "website": "https://financegpt.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837646894134979.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:27:24",
+      "updatedAt": "2023-07-03 17:27:24"
+    },
+    {
+      "name": "Findly",
+      "description": "Findly is an AI tool that integrates with Slack for data analysis and insights.",
+      "website": "https://findly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168130386442675144.jpg",
+      "category": "AI Charting",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Charting",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "LogicLoop AI SQL Copilot",
+      "description": "LogicLoop is a low-code SaaS tool for alerts, automations, and workflows.",
+      "website": "https://logicloop.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168493973629790974.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:48:45",
+      "updatedAt": "2023-05-24 22:48:45"
+    },
+    {
+      "name": "Incremental ai (Tradeswell ai)",
+      "description": "Incremental is a reliable analytics platform that aids brands in measuring retail media impact and optimizing growth.",
+      "website": "https://incremental.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168266991147353570.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 16:20:08",
+      "updatedAt": "2023-04-28 16:20:08"
+    },
+    {
+      "name": "Brightflow AI",
+      "description": "Take control of cash flow with Brightflow AI",
+      "website": "https://brightflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578519613706015.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Propellor ai",
+      "description": "Propellor is a powerful data analytics platform for businesses with extensive capabilities.",
+      "website": "https://www.propellor.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168266799303081818.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting",
+        "AI Monitor & Report Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 15:47:37",
+      "updatedAt": "2023-04-28 15:47:37"
+    },
+    {
+      "name": "wAnywhere - Employee Monitoring Software",
+      "description": "AI-powered desktop monitoring software ensures remote employees' security and productivity.",
+      "website": "https://wanywhere.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563061199078117.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Workflow Management",
+        "AI Task Management",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 22:42:53",
+      "updatedAt": "2023-06-01 22:42:53"
+    },
+    {
+      "name": "PredictEasy: NoCode ML for Google Sheets",
+      "description": "PredictEasy is a user-friendly AI platform for data analysis and modeling.",
+      "website": "https://predicteasy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169151154937556202.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Product Description Generator",
+        "AI Charting",
+        "AI Image Recognition",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:58:51",
+      "updatedAt": "2023-05-24 22:58:51"
+    },
+    {
+      "name": "Olli.ai",
+      "description": "Build interactive data apps and streamline decision-making with AI-powered platform, Olli.",
+      "website": "https://www.olli.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/035ddadbade9af6d28b0ded2467d5e4b.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Product Description Generator",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "evov.ai",
+      "description": "Data-driven strategist for short video marketing",
+      "website": "https://evov.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061168262867133.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "Report Writing",
+        "AI Content Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:03",
+      "updatedAt": "2024-07-10 19:40:03"
+    },
+    {
+      "name": "MDLR",
+      "description": "AI platform for project management in construction and design sectors.",
+      "website": "https://mdlr.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025356443926364.jpg",
+      "category": "AI Project Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Project Management",
+        "AI 3D Model Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 09:58:45",
+      "updatedAt": "2024-10-30 09:58:45"
+    },
+    {
+      "name": "Cambrean (Beta)",
+      "description": "The first app to analyze sleep, nutrition, workouts, and vitals together.",
+      "website": "https://cambrean.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169401558036365171.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder",
+        "AI Data Mining",
+        "AI Image Recognition",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-06 23:50:52",
+      "updatedAt": "2023-09-06 23:50:52"
+    },
+    {
+      "name": "BurnerPage AI",
+      "description": "BurnerPage uses AI to optimize web pages, improving performance and generating more revenue.",
+      "website": "https://burnerpage.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416269633030533.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Analytics Assistant",
+        "AI Landing Page Builder",
+        "AI Lead Generation",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:57:39",
+      "updatedAt": "2023-05-15 22:57:39"
+    },
+    {
+      "name": "Datayaki",
+      "description": "Datayaki simplifies data analysis by creating widgets from requested data.",
+      "website": "https://www.datayaki.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220581625524181.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "Cognifirm",
+      "description": "Automate tasks effortlessly",
+      "website": "https://chromewebstore.google.com/detail/cognifirm/bmmhgoiieoedmbfhaindcalppanennea?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703943177942820.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Workflow Management",
+        "AI Analytics Assistant",
+        "Sales Assistant",
+        "AI Monitor & Report Builder",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "Latitude",
+      "description": "A data workspace for streamlined data analysis.",
+      "website": "https://latitude.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073351084942950.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Workflow Management",
+        "AI Charting",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Monitor & Report Builder",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 17:57:59",
+      "updatedAt": "2023-11-23 17:57:59"
+    },
+    {
+      "name": "AI Store Manager",
+      "description": "AI Store Manager: an AI assistant automating tasks in your online store to optimize your eCommerce business.",
+      "website": "https://aistoremanager.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415571640580273.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Product Description Generator",
+        "AI CRM Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 21:00:55",
+      "updatedAt": "2023-05-15 21:00:55"
+    },
+    {
+      "name": "Standard Retail.",
+      "description": "Standard Retail is an AI-powered Ecommerce solution that improves Shopify store performance.",
+      "website": "https://standardretail.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168482382469694996.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 14:36:47",
+      "updatedAt": "2023-05-23 14:36:47"
+    },
+    {
+      "name": "LaunchKnight",
+      "description": "Summary: LaunchKnight is a platform for streamlined project management and collaboration.",
+      "website": "https://launchknight.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987632765502892.jpg",
+      "category": "AI Project Management",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Project Management",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "AI Developer Tools",
+        "AI Task Management",
+        "AI Monitor & Report Builder",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:04:13",
+      "updatedAt": "2023-07-21 02:04:13"
+    },
+    {
+      "name": "NewsDeck (from OneSub)",
+      "description": "NewsDeck is a platform for latest news with extensive filtering and analysis options.",
+      "website": "https://newsdeck.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168258645821876085.jpg",
+      "category": "AI Data Mining",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Data Mining",
+        "AI Search Engine",
+        "AI Analytics Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 17:09:01",
+      "updatedAt": "2023-04-27 17:09:01"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

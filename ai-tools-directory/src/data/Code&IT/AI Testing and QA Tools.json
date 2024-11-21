@@ -1,0 +1,1269 @@
+{
+  "tools": [
+    {
+      "name": "KaneAI",
+      "description": "KaneAI by LambdaTest is a smart AI-powered test agent for high speed Quality Engineering teams. Built on modern Large Language Models (LLMs), KaneAI allows teams to create, debug, and evolve tests using natural language.",
+      "website": "http://www.lambdatest.com?fp_ref=toolify67",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172429245276879987.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI Testing & QA",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:08:53",
+      "updatedAt": "2024-08-22 10:08:53"
+    },
+    {
+      "name": "Applitools Eyes",
+      "description": "Applitools is a visual testing platform that uses AI to improve automation and reduce costs.",
+      "website": "https://applitools.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168443157312207264.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 01:39:22",
+      "updatedAt": "2023-05-19 01:39:22"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Devzery",
+      "description": "Revolutionize software testing with AI-driven test case generation.",
+      "website": "https://www.devzery.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073350749057576.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Lead Generation",
+        "AI Developer Docs",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 17:57:59",
+      "updatedAt": "2023-11-23 17:57:59"
+    },
+    {
+      "name": "SapientAI",
+      "description": "Sapient.ai generates unit tests automatically, helping developers focus on new features.",
+      "website": "https://www.sapient.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168450587915892237.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 22:17:02",
+      "updatedAt": "2023-05-19 22:17:02"
+    },
+    {
+      "name": "QA.tech",
+      "description": "QA.tech\u2019s AI-driven platform provides fast E2E testing for your web application.",
+      "website": "https://qa.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159690339793123.jpg",
+      "category": "AI DevOps Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI DevOps Assistant",
+        "AI Testing & QA",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:20",
+      "updatedAt": "2024-11-14 23:10:20"
+    },
+    {
+      "name": "Teste.ai",
+      "description": "Teste.ai is an AI-powered software testing platform that enhances tester's productivity.",
+      "website": "https://www.teste.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667620349256409.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 01:09:41",
+      "updatedAt": "2023-06-14 01:09:41"
+    },
+    {
+      "name": "Virtuoso QA",
+      "description": "Virtuoso QA combines NLP, RPA, AI, and ML for faster and scalable automation testing.",
+      "website": "https://www.virtuoso.qa?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a045a209d92224383b17837b498c6c00.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Reviews Assistant",
+        "AI Testing & QA",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "BotGauge",
+      "description": "Enhance testing efficiency with AI-powered testing automation",
+      "website": "https://www.botgauge.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170815812276205385.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Analytics Assistant",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-17 16:20:32",
+      "updatedAt": "2024-02-17 16:20:32"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "Owlity",
+      "description": "The world\u2019s first autonomous AI-driven QA solution.",
+      "website": "https://owlity.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147864089190698.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:19:42",
+      "updatedAt": "2024-11-13 14:19:42"
+    },
+    {
+      "name": "ContextQA",
+      "description": "AI-powered software testing automation solution.",
+      "website": "https://contextqa.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164904318802455.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Product Description Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Supertest AI",
+      "description": "Automate React unit test generation in seconds.",
+      "website": "https://supertest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169574602349718944.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 00:32:55",
+      "updatedAt": "2023-09-27 00:32:55"
+    },
+    {
+      "name": "Otto Engineer",
+      "description": "AI sidekick that iterates and tests its own code",
+      "website": "https://otto.engineer?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146235756639686.webp",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Code Assistant",
+        "AI Testing & QA",
+        "AI Developer Tools",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:57",
+      "updatedAt": "2024-03-26 22:11:57"
+    },
+    {
+      "name": "Testbook - AI-Powered Automated Testing",
+      "description": "AI-driven testing extension",
+      "website": "https://chromewebstore.google.com/detail/testbook-ai-powered-autom/jkniefodelncghjkjbagickaggoincob?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679948726759488.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:46",
+      "updatedAt": "2024-05-25 21:31:46"
+    },
+    {
+      "name": "Boozang AI",
+      "description": "AI-powered test automation.",
+      "website": "https://chromewebstore.google.com/detail/boozang-ai/bnaebcjlolajbgllgjlmlfobobdemmki?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687111922535891.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:23",
+      "updatedAt": "2024-05-28 12:37:23"
+    },
+    {
+      "name": "Autify AI Labs (Beta)",
+      "description": "AI-powered features for simplified software testing",
+      "website": "https://chromewebstore.google.com/detail/autify-ai-labs-beta/ckakdcagkiidpnaoakmahgopbignmogd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679948625751880.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:46",
+      "updatedAt": "2024-05-25 21:31:46"
+    },
+    {
+      "name": "TestCraft",
+      "description": "AI-powered test generation",
+      "website": "https://chromewebstore.google.com/detail/testcraft/anbeiondiglbpedgjgehgihgeejjkiik?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687112167044195.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:24",
+      "updatedAt": "2024-05-28 12:37:24"
+    },
+    {
+      "name": "TGenAI",
+      "description": "Test case generator and automated test creator",
+      "website": "https://chromewebstore.google.com/detail/tgenai/epddbkiflmffbebalphjgddfeaemnmed?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679936089085305.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "Autify Recorder",
+      "description": "Efficient test scenario recorder",
+      "website": "https://chromewebstore.google.com/detail/autify-recorder/jggibfiodonlmkjbmlooehabjldddbgn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927650785897.jpg",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:23",
+      "updatedAt": "2024-05-30 11:20:23"
+    },
+    {
+      "name": "Autify Recorder (New)",
+      "description": "Easy test scenario recording",
+      "website": "https://chromewebstore.google.com/detail/autify-recorder-new/lmmpjincoilkndipbbpaojcpamfacbel?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703929976326183.webp",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:25",
+      "updatedAt": "2024-05-30 11:20:25"
+    },
+    {
+      "name": "DeepUnit",
+      "description": "AI that writes verified unit tests.",
+      "website": "https://deepunit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169650929069394062.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Code Generator",
+        "AI Testing & QA",
+        "AI Code Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-05 20:34:04",
+      "updatedAt": "2023-10-05 20:34:04"
+    },
+    {
+      "name": "doSmartQA Personal Edition",
+      "description": "Enhances testing with smart probes & session planning.",
+      "website": "https://chromewebstore.google.com/detail/dosmartqa-personal-editio/npeempjncmpfiiknagfafkbklomdenjk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785151045786046.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:03",
+      "updatedAt": "2024-06-08 20:58:03"
+    },
+    {
+      "name": "TestChimp - Create API Automation Tests Easily From Manual Test Sessions",
+      "description": "No code platform for full stack automation tests",
+      "website": "https://chromewebstore.google.com/detail/testchimp-create-api-auto/ailhophdeloancmhdklbbkobcbbnbglm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965749253758661.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "No-Code&Low-Code",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:31",
+      "updatedAt": "2024-10-23 12:24:31"
+    },
+    {
+      "name": "TestGenAI",
+      "description": "Generate automated unit tests for PHP code quickly using TestGenAI's AI-powered tool.",
+      "website": "https://testgenai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168519730938213509.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Code Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 22:21:37",
+      "updatedAt": "2023-05-27 22:21:37"
+    },
+    {
+      "name": "Carbon Copies AI",
+      "description": "AI-Powered testing revolutionized",
+      "website": "https://chromewebstore.google.com/detail/carbon-copies-ai/cldgngbkcokkjdamfkfppceglbihpngi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965749718539014.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:31",
+      "updatedAt": "2024-10-23 12:24:31"
+    },
+    {
+      "name": "JamGPT",
+      "description": "Jam is an efficient bug reporting tool that simplifies the process for users.",
+      "website": "https://jam.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16834622138032423.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "AI Product Description Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 20:23:48",
+      "updatedAt": "2023-05-07 20:23:48"
+    },
+    {
+      "name": "CodiumAI",
+      "description": "Redefining and automating Code Integrity through test generation.",
+      "website": "https://www.codium.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/5360f4a67d2f5b508eea7afcbb91f6ee.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Testing & QA",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "Reliv",
+      "description": "Easiest QA automation tool",
+      "website": "https://reliv.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807210582193054.webp",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:14:40",
+      "updatedAt": "2024-06-11 10:14:40"
+    },
+    {
+      "name": "Testbook.ai",
+      "description": "AI-Powered Chrome extension for web app testing",
+      "website": "https://testbook.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208858545542243.jpg",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:56",
+      "updatedAt": "2024-07-27 21:54:56"
+    },
+    {
+      "name": "Webo.AI",
+      "description": "Webomates offers cloud-based testing services with AI automation and detailed reporting.",
+      "website": "https://webo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168725719092400925.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-20 18:32:50",
+      "updatedAt": "2023-06-20 18:32:50"
+    },
+    {
+      "name": "Page Canary",
+      "description": "Page Canary is an AI-powered website QA tester that helps users identify potential issues.",
+      "website": "https://www.pagecanary.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374136367266186.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:55:39",
+      "updatedAt": "2023-05-11 01:55:39"
+    },
+    {
+      "name": "CVGrader.com",
+      "description": "AI platform analyzes job candidates' CVs efficiently.",
+      "website": "https://cvgrader.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485340223631855.jpg",
+      "category": "AI Recruiting",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Recruiting",
+        "Resume Builder",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:49:13",
+      "updatedAt": "2023-05-23 22:49:13"
+    },
+    {
+      "name": "CloudSecurityExams.AI",
+      "description": "Unlimited mock exams for cloud and cyber security certifications.",
+      "website": "https://cloudsecurityexams.ai?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI Course",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Course",
+        "AI Education Assistant",
+        "AI Quizzes",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:14",
+      "updatedAt": "2023-12-11 20:21:14"
+    },
+    {
+      "name": "CapMonster Cloud",
+      "description": "CapMonster Cloud is an AI-powered CAPTCHA-solving service designed to automate the process of solving various types of CAPTCHAs, including reCAPTCHA, hCaptcha, and others.",
+      "website": "https://capmonster.cloud/en?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172558748238055356.png",
+      "category": "AI Image Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Recognition",
+        "Web Scraping",
+        "AI Developer Tools",
+        "AI Advertising Assistant",
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 09:45:12",
+      "updatedAt": "2024-09-06 09:45:12"
+    },
+    {
+      "name": "Level AI",
+      "description": "Uncover insights, optimize performance, automate operations.",
+      "website": "https://thelevel.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/b1847d50e4eda3777853b5a821f4e649.jpeg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Product Description Generator",
+        "Sales Assistant",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:30",
+      "updatedAt": "2023-03-07 16:48:30"
+    },
+    {
+      "name": "Aptori",
+      "description": "AI-Driven Business Logic Testing for Application Security",
+      "website": "https://aptori.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170082294011494549.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI API Design",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-24 18:48:16",
+      "updatedAt": "2023-11-24 18:48:16"
+    },
+    {
+      "name": "ilovemyqa.com",
+      "description": "Expert QA solutions for software testing.",
+      "website": "https://ilovemyqa.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000171251374995.webp",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:31",
+      "updatedAt": "2024-03-10 00:27:31"
+    },
+    {
+      "name": "QA Sphere",
+      "description": "Simplify QA, cut clutter",
+      "website": "https://qasphere.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120079238484099.webp",
+      "category": "AI Testing & QA",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:05",
+      "updatedAt": "2024-03-23 21:32:05"
+    },
+    {
+      "name": "Ottic",
+      "description": "QA platform for LLM products and applications",
+      "website": "https://ottic.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052440822608034.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:29",
+      "updatedAt": "2024-07-09 19:23:29"
+    },
+    {
+      "name": "Repodex",
+      "description": "AI-powered code error identification and fixes.",
+      "website": "https://www.repodex.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373363555562191.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "TestSprite",
+      "description": "AI-powered testing solutions",
+      "website": "https://www.testsprite.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171375557968766879.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-22 11:11:48",
+      "updatedAt": "2024-04-22 11:11:48"
+    },
+    {
+      "name": "CodeRabbit",
+      "description": "CodeRabbit is an AI tool that speeds up code reviews with AI insights.",
+      "website": "https://coderabbit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168909346272240685.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-12 00:35:47",
+      "updatedAt": "2023-07-12 00:35:47"
+    },
+    {
+      "name": "Inductor",
+      "description": "Ship production-ready LLM apps",
+      "website": "https://inductor.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987806678974897.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Testing & QA",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:14",
+      "updatedAt": "2024-03-08 14:06:14"
+    },
+    {
+      "name": "BugBot",
+      "description": "AI tool for automated software testing",
+      "website": "https://www.bugraptors.com/bugbot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172258697928407452.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-02 16:22:30",
+      "updatedAt": "2024-08-02 16:22:30"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

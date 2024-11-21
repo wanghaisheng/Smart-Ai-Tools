@@ -1,0 +1,2504 @@
+{
+  "tools": [
+    {
+      "name": "Udio AI | Make your music",
+      "description": "Music creation and sharing platform",
+      "website": "https://www.udio.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1712581405025665.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-08 21:13:37",
+      "updatedAt": "2024-04-08 21:13:37"
+    },
+    {
+      "name": "Moises",
+      "description": "A music practice app that uses AI to enhance and personalize the practicing experience.",
+      "website": "https://moises.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267256479195940.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Music Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:03:20",
+      "updatedAt": "2023-04-28 17:03:20"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Suno Music Generator",
+      "description": "Innovative AI music generator.",
+      "website": "https://aimusic.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215740005875053.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 23:25:00",
+      "updatedAt": "2024-04-03 23:25:00"
+    },
+    {
+      "name": "Soundraw",
+      "description": "Create music easily for videos, films, and more with SOUNDRAW's AI music generator.",
+      "website": "https://soundraw.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/36dc105db16da1f77dfd8d344335714b.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Suno AI",
+      "description": "Make great music with Suno AI. No instruments needed, just imagination.",
+      "website": "https://suno.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349902584039382.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Product Description Generator",
+        "AI Singing Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:20",
+      "updatedAt": "2023-12-25 18:02:20"
+    },
+    {
+      "name": "Brev.ai: AI Music Generator Free Online",
+      "description": "Transform your ideas into professional music instantly with the advanced AI music generator free online.",
+      "website": "https://brev.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172165855124727109.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-22 23:21:14",
+      "updatedAt": "2024-07-22 23:21:14"
+    },
+    {
+      "name": "Musicfy",
+      "description": "Musicfy: Create AI voice clone, make music effortlessly.",
+      "website": "https://musicfy.lol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168741689470078188.png",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Contact for Pricing",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Celebrity Voice Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-22 14:56:50",
+      "updatedAt": "2023-06-22 14:56:50"
+    },
+    {
+      "name": "Loudly",
+      "description": "Leading AI-powered music platform for creators.",
+      "website": "https://loudly.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349972214654702.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Advertising Assistant",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:30",
+      "updatedAt": "2023-12-25 18:13:30"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Aiva",
+      "description": "AIVA is an AI composer for personalized music.",
+      "website": "https://www.aiva.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/91d55ee0bbb7f1cb10fc5096d8a3c657.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Product Description Generator",
+        "AI Art Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:40",
+      "updatedAt": "2023-03-07 16:48:40"
+    },
+    {
+      "name": "Beatoven.ai",
+      "description": "Beatoven.ai is an AI music generator for creating unique mood-based music for content creators.",
+      "website": "https://www.beatoven.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7e476493ed1a0054c4a629e3511e8ffa.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:36",
+      "updatedAt": "2023-03-07 16:48:36"
+    },
+    {
+      "name": "Soundful",
+      "description": "Soundful enables creators and artists to generate and monetize unlimited music tracks.",
+      "website": "https://soundful.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4aa85a9fda23798594b2dedc0bbfed6b.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Content Generator",
+        "AI Video Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Make Best Music",
+      "description": "AI-powered music production suite",
+      "website": "https://makebestmusic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171982344570451765.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-01 16:53:53",
+      "updatedAt": "2024-07-01 16:53:53"
+    },
+    {
+      "name": "SongGenerator.io: AI Music Generator Free Online",
+      "description": "Transform text into royalty-free AI music quickly",
+      "website": "https://songgenerator.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352874430145399.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:59:46",
+      "updatedAt": "2024-08-13 13:59:46"
+    },
+    {
+      "name": "SunoAI.ai",
+      "description": "Create unique AI MP3 songs instantly",
+      "website": "https://sunoai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171161417440669082.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 16:24:39",
+      "updatedAt": "2024-03-28 16:24:39"
+    },
+    {
+      "name": "SunoAI",
+      "description": "AI music generation and text-to-music conversion",
+      "website": "https://sunoai.ai/sunoai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763944296809804.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:57:30",
+      "updatedAt": "2024-06-06 09:57:30"
+    },
+    {
+      "name": "Free AI Music Generator by SunoAI",
+      "description": "AI music generator for effortless music creation",
+      "website": "https://sunoai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096687118252197.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:20:58",
+      "updatedAt": "2024-07-14 22:20:58"
+    },
+    {
+      "name": "Mubert",
+      "description": "Mubert: AI-based music platform combines human creativity with technology for high-quality tracks.",
+      "website": "https://mubert.com/render/pricing?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e7cd8b8a2fd919f77486e3a715a1416e.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Boomy",
+      "description": "Easy music generation with AI on Boomy platform.",
+      "website": "https://boomy.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e82a6e6d536869636dec9a890862e8ab.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Music Generator",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Suno AI Music Generator",
+      "description": "Generate music using Suno AI",
+      "website": "https://sunocc.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785329674767633.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "AI Singing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 22:02:50",
+      "updatedAt": "2024-06-08 22:02:50"
+    },
+    {
+      "name": "SunoCC AI",
+      "description": "AI music generator for creating custom tracks",
+      "website": "https://sunocc.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096694296324153.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:00",
+      "updatedAt": "2024-07-14 22:21:00"
+    },
+    {
+      "name": "Suno Music Downloader",
+      "description": "Fast, reliable, and free Suno AI music downloads",
+      "website": "https://www.sunodownloader.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146238840340057.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:58",
+      "updatedAt": "2024-03-26 22:11:58"
+    },
+    {
+      "name": "Riffusion",
+      "description": "Riffusion enables stable real-time music generation diffusion.",
+      "website": "https://www.riffusion.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167897764630862534.png",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Stable Audio",
+      "description": "Generative AI for music & sound fx",
+      "website": "https://stableaudio.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169470842062720046.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:24",
+      "updatedAt": "2023-09-15 00:19:24"
+    },
+    {
+      "name": "Suno AI Music",
+      "description": "AI music generation platform",
+      "website": "https://sunoai-music.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061161968348077.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:01",
+      "updatedAt": "2024-07-10 19:40:01"
+    },
+    {
+      "name": "Banger.Show",
+      "description": "Summary: banger.show helps musicians create captivating audio visualizer videos to promote their unreleased songs on social media.",
+      "website": "https://banger.show/?ref=wenhua.",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053869566190880.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Music Video Generator",
+        "AI Short Clips Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "SongR",
+      "description": "Create personalized songs easily with SongR app using just a few keywords.",
+      "website": "https://www.songr.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168589172929937810.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Singing Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 23:15:17",
+      "updatedAt": "2023-06-04 23:15:17"
+    },
+    {
+      "name": "FlowTunes",
+      "description": "Free music app for focus",
+      "website": "https://www.flowtunes.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888235926641590.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:53",
+      "updatedAt": "2024-06-20 19:16:53"
+    },
+    {
+      "name": "MixAudio",
+      "description": "4 tracks in just 2 seconds! Multimodal AI Music Generator for All Creators",
+      "website": "https://mix.audio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172437720998145818.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 09:40:41",
+      "updatedAt": "2024-08-23 09:40:41"
+    },
+    {
+      "name": "Songmeaning AI",
+      "description": "Uncover the hidden meanings in song lyrics",
+      "website": "https://www.songmeaning.io/ja?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171898914724310022.webp",
+      "category": "AI Singing Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-22 01:00:55",
+      "updatedAt": "2024-06-22 01:00:55"
+    },
+    {
+      "name": "Similar Songs Finder",
+      "description": "Find similar songs you'll love",
+      "website": "https://www.similarsongsfinder.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245859419289126.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:24",
+      "updatedAt": "2024-04-07 10:54:24"
+    },
+    {
+      "name": "Music Prompt Generator",
+      "description": "Generate music prompts based on your thoughts.",
+      "website": "https://sunoprompt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215006554931605.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:33",
+      "updatedAt": "2024-04-03 21:13:33"
+    },
+    {
+      "name": "Music AI",
+      "description": "AI music creation platform",
+      "website": "https://aimusic.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172294103792550971.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Music Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 18:43:30",
+      "updatedAt": "2024-08-06 18:43:30"
+    },
+    {
+      "name": "PlaylistAI",
+      "description": "PlaylistAI is an app that generates personalized playlists using AI and user data.",
+      "website": "https://www.playlistai.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/fc5d43ca35865bd72cec8abc03d52102.jpeg",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Prompt",
+        "AI Music Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:26",
+      "updatedAt": "2023-03-07 16:48:26"
+    },
+    {
+      "name": "Song.do",
+      "description": "Free AI song generator",
+      "website": "https://song.do?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17188824276245890.webp",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:25:20",
+      "updatedAt": "2024-06-20 19:25:20"
+    },
+    {
+      "name": "ExtendMusic.AI",
+      "description": "ExtendMusic.AI enhances music compositions using AI generative models.",
+      "website": "https://www.extendmusic.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168735872046865827.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Audio Enhancer",
+        "AI Content Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-21 22:45:04",
+      "updatedAt": "2023-06-21 22:45:04"
+    },
+    {
+      "name": "StockmusicGPT",
+      "description": "Create your own royalty-free AI stockmusic effortlessly.",
+      "website": "https://stockmusicgpt.com/?aff=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170126080771374390.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Code Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 20:25:35",
+      "updatedAt": "2023-11-29 20:25:35"
+    },
+    {
+      "name": "CassetteAI",
+      "description": "CassetteAI uses AI to create music based on text input, making music production accessible to all.",
+      "website": "https://cassetteai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a1bd3d8641d43bb7c865b3b111d15d85.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "MusicStar.AI",
+      "description": "MusicStar.AI is an AI-powered music generator that creates original music with the help of artificial intelligence in under a minute.",
+      "website": "https://musicstar.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168450585036312036.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 22:17:01",
+      "updatedAt": "2023-05-19 22:17:01"
+    },
+    {
+      "name": "VocalRemover.co",
+      "description": "High-quality vocal removal and audio separation for music production and karaoke.",
+      "website": "https://vocalremover.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530654610787705.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:47",
+      "updatedAt": "2024-01-15 16:12:47"
+    },
+    {
+      "name": "Musick AI",
+      "description": "AI music generator for creating high-quality musical compositions.",
+      "website": "https://musick.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172472320667705717.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-27 11:14:59",
+      "updatedAt": "2024-08-27 11:14:59"
+    },
+    {
+      "name": "Tad AI",
+      "description": "AI music generator for creating royalty-free songs.",
+      "website": "https://tad.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172906330840111072.jpg",
+      "category": "Text-to-Music",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text-to-Music",
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-16 15:25:57",
+      "updatedAt": "2024-10-16 15:25:57"
+    },
+    {
+      "name": "Splashmusic",
+      "description": "Splash is an inclusive AI music platform with original compositions and versatile features.",
+      "website": "https://www.splashmusic.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f03e4e7ecc922bdc4a7fd96c5bd8c6b7.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Paid",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Voice Cloning",
+        "Text-to-Music",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "Melodio AI",
+      "description": "Personalized AI music companion",
+      "website": "https://melodio.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172051463268824852.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 16:42:17",
+      "updatedAt": "2024-07-09 16:42:17"
+    },
+    {
+      "name": "Base for Music",
+      "description": "A tool to help music professionals grow their fanbase.",
+      "website": "https://www.baseformusic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169313484227254674.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Music Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-27 19:13:07",
+      "updatedAt": "2023-08-27 19:13:07"
+    },
+    {
+      "name": "Hydra by Rightsify",
+      "description": "AI music generation for unique instrumental music and sound effects.",
+      "website": "https://rightsify.com/hydra?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170238762077683897.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 21:45:45",
+      "updatedAt": "2023-12-12 21:45:45"
+    },
+    {
+      "name": "MeloHunt",
+      "description": "AI song generator for crafting original music tracks easily.",
+      "website": "https://melohunt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129930528744645.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:26",
+      "updatedAt": "2024-11-11 12:24:26"
+    },
+    {
+      "name": "AudioMuse",
+      "description": "Comprehensive online tools for music generation and audio editing.",
+      "website": "https://audiomuse.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025397341126061.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:17:38",
+      "updatedAt": "2024-10-30 10:17:38"
+    },
+    {
+      "name": "Harmonai",
+      "description": "Harmonai is an AI Lab that creates open-source audio tools for accessible and fun music production.",
+      "website": "https://www.harmonai.org?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/642208260fc5738cdb8e8db7c2b61a98.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "SplitSong.com",
+      "description": "SplitSong uses AI to split songs into different instrument tracks, allowing users to isolate specific parts.",
+      "website": "https://www.splitsong.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959791695670191.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 20:44:29",
+      "updatedAt": "2023-07-17 20:44:29"
+    },
+    {
+      "name": "suno-top",
+      "description": "Fast music downloader for Suno AI",
+      "website": "https://suno-top.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592121490148414.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:53:03",
+      "updatedAt": "2024-05-17 12:53:03"
+    },
+    {
+      "name": "TuneFlow",
+      "description": "TuneFlow: AI-powered platform for simplified, creative music creation.",
+      "website": "https://tuneflow.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168589178614364721.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 23:15:22",
+      "updatedAt": "2023-06-04 23:15:22"
+    },
+    {
+      "name": "Soundify",
+      "description": "AI sound effects generator",
+      "website": "https://soundifytext.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171941880003266597.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-27 01:48:04",
+      "updatedAt": "2024-06-27 01:48:04"
+    },
+    {
+      "name": "BeatBot",
+      "description": "Compose unique songs using AI technology.",
+      "website": "https://www.beatbot.fm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518657091004246.jpg",
+      "category": "AI Rap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rap Generator",
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:22:13",
+      "updatedAt": "2023-05-27 19:22:13"
+    },
+    {
+      "name": "audoir.com",
+      "description": "Generate lyrics, music, and songs with AI",
+      "website": "https://audoir.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171072800990429205.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Poem & Poetry Generator",
+        "AI Creative Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:12",
+      "updatedAt": "2024-03-18 10:13:12"
+    },
+    {
+      "name": "Chord Identifier",
+      "description": "Recognize chords instantly for any music",
+      "website": "https://chordidentifier.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145444997030574.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:13:59",
+      "updatedAt": "2023-12-02 02:13:59"
+    },
+    {
+      "name": "databass ai",
+      "description": "Databass AI offers advanced audio tools for music production.",
+      "website": "https://www.databass.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168372877073699032.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Voice & Audio Editing",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 22:25:58",
+      "updatedAt": "2023-05-10 22:25:58"
+    },
+    {
+      "name": "Zona - AI Song & Music Generator App",
+      "description": "Unleash musical imagination",
+      "website": "https://zona.app-vision.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171507752970964233.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Large Language Models (LLMs)",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-07 18:24:39",
+      "updatedAt": "2024-05-07 18:24:39"
+    },
+    {
+      "name": "YouMusic.AI",
+      "description": "AI music generator for creating unique, royalty-free tracks online.",
+      "website": "https://youmusic.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947672665679243.jpg",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Prompt",
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:39",
+      "updatedAt": "2024-10-21 10:10:39"
+    },
+    {
+      "name": "Muzify.ai",
+      "description": "Muzify uses AI to create music playlists that match your reading experience.",
+      "website": "https://muzify.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528166123305654.jpg",
+      "category": "Text-to-Music",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Music",
+        "AI Music Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 21:47:04",
+      "updatedAt": "2023-05-28 21:47:04"
+    },
+    {
+      "name": "Suno AI Free",
+      "description": "Create music with just a click",
+      "website": "https://sunoaifree.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171284461819271547.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 22:48:39",
+      "updatedAt": "2024-04-11 22:48:39"
+    },
+    {
+      "name": "MIDIGEN: Melody Generator",
+      "description": "Generate unique MIDI melodies and chords effortlessly.",
+      "website": "https://midigen.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172601998131759634.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-11 09:58:47",
+      "updatedAt": "2024-09-11 09:58:47"
+    },
+    {
+      "name": "Starmony (AI Music Studio)",
+      "description": "Create music in minutes with Starmony",
+      "website": "https://starmony.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245849524203424.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:22",
+      "updatedAt": "2024-04-07 10:54:22"
+    },
+    {
+      "name": "Delphos | AI Music",
+      "description": "Authentic music generation across genres.",
+      "website": "https://delphos.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169954314284788998.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Audio Enhancer",
+        "AI Singing Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-09 23:18:52",
+      "updatedAt": "2023-11-09 23:18:52"
+    },
+    {
+      "name": "United Market Music",
+      "description": "United Market brings together music industry professionals for collaboration, placement opportunities, and improved efficiency.",
+      "website": "https://unitedmarket.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563282961345223.jpg",
+      "category": "AI Team Collaboration",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Team Collaboration",
+        "AI Music Generator",
+        "AI Workflow Management",
+        "AI Project Management",
+        "AI Scheduling",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 23:19:36",
+      "updatedAt": "2023-06-01 23:19:36"
+    },
+    {
+      "name": "Song Demo AI",
+      "description": "AI platform for generating unique music tracks from text.",
+      "website": "https://songdemo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481139823388039.jpg",
+      "category": "Text-to-Music",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Music",
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:35",
+      "updatedAt": "2024-08-28 10:14:35"
+    },
+    {
+      "name": "Moodset",
+      "description": "Track mood with music insights.",
+      "website": "https://moodset.life?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542255473729751.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Mental Health"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:20",
+      "updatedAt": "2024-05-11 18:14:20"
+    },
+    {
+      "name": "MUSICDATAK",
+      "description": "Real-time music insights for radio stations.",
+      "website": "https://musicdatak.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170418411594614635.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Data Mining",
+        "AI Music Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 16:28:00",
+      "updatedAt": "2024-01-02 16:28:00"
+    },
+    {
+      "name": "Suno AI Download",
+      "description": "Free tool for downloading music",
+      "website": "https://sunoaidownload.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171307945457349214.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-14 15:43:56",
+      "updatedAt": "2024-04-14 15:43:56"
+    },
+    {
+      "name": "LIDO - AI Music Generator",
+      "description": "AI music generator for custom songs.",
+      "website": "https://lidoai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171318787579794999.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 21:30:51",
+      "updatedAt": "2024-04-15 21:30:51"
+    },
+    {
+      "name": "Itoka MuseEngine",
+      "description": "Itoka is a platform for sharing and streaming music.",
+      "website": "https://www.itoka.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543993894203476.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Blockchain",
+        "NFTs",
+        "Web3",
+        "AI Content Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "AI Roadmap Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:48",
+      "updatedAt": "2023-05-30 17:44:48"
+    },
+    {
+      "name": "Artificial Intelligence Radio",
+      "description": "24/7 AI-generated songs on Artificial Intelligence Radio create a unique music experience.",
+      "website": "https://artificialintelligenceradio.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585252221657642.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Video Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:21:18",
+      "updatedAt": "2023-06-04 12:21:18"
+    },
+    {
+      "name": "Suno all in one",
+      "description": "AI music generation tool",
+      "website": "https://suno.works?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146239968995682.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:58",
+      "updatedAt": "2024-03-26 22:11:58"
+    },
+    {
+      "name": "Meditation Music Created by SunoAI",
+      "description": "Custom meditation music for perfect harmony.",
+      "website": "https://aimeditationmusic.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350556096753453.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:27",
+      "updatedAt": "2024-04-19 13:44:27"
+    },
+    {
+      "name": "Natural Language Playlist",
+      "description": "AI platform generates personalized mixtapes from natural language descriptions.",
+      "website": "https://www.naturallanguageplaylist.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9f868faf10efb66dc03b9c4752947e2e.jpeg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Lyrist",
+      "description": "Find audio, write songs, create poetry, take notes on one screen with Lyrist.",
+      "website": "https://lyrist.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168821809049825276.jpg",
+      "category": "AI Audio Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Audio Enhancer",
+        "AI Creative Writing",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Poem & Poetry Generator",
+        "AI Notes Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-01 21:27:32",
+      "updatedAt": "2023-07-01 21:27:32"
+    },
+    {
+      "name": "Country Lyrics AI",
+      "description": "AI-powered web app generating country music lyrics.",
+      "website": "https://www.countrylyrics.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605445584781448.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Singing Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Poem & Poetry Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:13:25",
+      "updatedAt": "2023-09-30 14:13:25"
+    },
+    {
+      "name": "Songburst",
+      "description": "Create original songs from your words with AI-powered music generator, Songburst.",
+      "website": "https://www.songburst.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228011388046694.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Ai Musician - AI Music Generator",
+      "description": "AI music playback and generation platform.",
+      "website": "https://aimusician.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315303357645008.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:01",
+      "updatedAt": "2024-04-15 11:50:01"
+    },
+    {
+      "name": "Feel Trx",
+      "description": "Personalized soundtracks for every mood",
+      "website": "https://feeltrx.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016982696690574.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:23",
+      "updatedAt": "2024-07-05 16:56:23"
+    },
+    {
+      "name": "Bunder",
+      "description": "The ultimate songwriting tool.",
+      "website": "https://www.bunderhq.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170815809395521786.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-17 16:20:31",
+      "updatedAt": "2024-02-17 16:20:31"
+    },
+    {
+      "name": "AI BAND",
+      "description": "Music creation with AI technology.",
+      "website": "https://apps.apple.com/tr/app/ai-band/id6475160633?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831825383059366.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:27",
+      "updatedAt": "2024-02-19 12:50:27"
+    },
+    {
+      "name": "AI Rapper Music",
+      "description": "AI-driven rap music creation platform",
+      "website": "https://airapper.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998291617690664.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "AI Rap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:19",
+      "updatedAt": "2024-07-03 13:01:19"
+    },
+    {
+      "name": "TemPolor",
+      "description": "AI music generator for personalized music",
+      "website": "https://www.tempolor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172017015358573475.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 17:00:42",
+      "updatedAt": "2024-07-05 17:00:42"
+    },
+    {
+      "name": "Free AI Song Generator",
+      "description": "Create custom music using AI technology for free.",
+      "website": "https://aisonggenerator.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173094591281521977.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI YouTube Assistant",
+        "AI Lyrics Generator",
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-07 10:20:00",
+      "updatedAt": "2024-11-07 10:20:00"
+    },
+    {
+      "name": "Song Finder - Identify any Song in your Browser with Song Recognizer App",
+      "description": "Song identification Chrome extension",
+      "website": "https://chromewebstore.google.com/detail/song-finder-identify-any/khdcpbopbegmponajegadkokjplmeehd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282850991078714.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:21",
+      "updatedAt": "2024-08-05 11:28:21"
+    },
+    {
+      "name": "Story321 Music AI",
+      "description": "AI music generation platform",
+      "website": "https://story321.com/music?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172258696686801736.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Large Language Models (LLMs)",
+        "AI Lyrics Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-02 16:22:30",
+      "updatedAt": "2024-08-02 16:22:30"
+    },
+    {
+      "name": "Suno AI Music Generator Free Online",
+      "description": "Free AI music generator",
+      "website": "https://chromewebstore.google.com/detail/suno-ai-music-generator-f/clfadkmcbfemcnmaekijcfgaaahpbhlb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687107184846468.jpg",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Creative Writing",
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:11",
+      "updatedAt": "2024-05-28 12:37:11"
+    },
+    {
+      "name": "Ultimate AI Music Maker - Power by suno ai",
+      "description": "Generate music using AI",
+      "website": "https://chromewebstore.google.com/detail/ultimate-ai-music-maker-p/ehejkpmfbdcbmmcdfajaiebngpgglhlj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776768762480478.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:15",
+      "updatedAt": "2024-06-07 21:40:15"
+    },
+    {
+      "name": "Beatbuzz",
+      "description": "A platform to purchase AI-generated music beats.",
+      "website": "https://beatbuzz.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007979134932590.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:53",
+      "updatedAt": "2024-10-28 09:41:53"
+    },
+    {
+      "name": "SunoMusic",
+      "description": "AI Music Generation Tool",
+      "website": "https://sunomusic.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747597341366173.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:36:32",
+      "updatedAt": "2024-06-04 12:36:32"
+    },
+    {
+      "name": "Mixl",
+      "description": "Boost productivity with brain-enhancing music",
+      "website": "https://chromewebstore.google.com/detail/mixl/ccfhnokjphdkbbpcfolpllaoaclnpjmp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738082860042392.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:31",
+      "updatedAt": "2024-06-03 10:13:31"
+    },
+    {
+      "name": "The Papaya",
+      "description": "AI platform connecting musicians with resources and insights.",
+      "website": "https://www.thepapaya.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947665963877021.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Tools Directory",
+        "Bio Link",
+        "AI Roadmap Generator",
+        "Newsletter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:37",
+      "updatedAt": "2024-10-21 10:10:37"
+    },
+    {
+      "name": "Muza AI: AI Song & Music",
+      "description": "AI-powered music creation tool for composing unique tracks.",
+      "website": "https://apps.apple.com/app/id6496203696?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171697569939063954.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-29 17:46:59",
+      "updatedAt": "2024-05-29 17:46:59"
+    },
+    {
+      "name": "AI Song",
+      "description": "Unlock musical creativity with AI",
+      "website": "https://aisong.fun?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171697569457456719.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Music Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-29 17:46:34",
+      "updatedAt": "2024-05-29 17:46:34"
+    },
+    {
+      "name": "AISong.ai",
+      "description": "Online free SunoAI AI music generator.",
+      "website": "https://aisong.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566215371210037.webp",
+      "category": "AI Lyrics Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lyrics Generator",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:11",
+      "updatedAt": "2024-05-14 12:47:11"
+    },
+    {
+      "name": "Udio AI",
+      "description": "Create unique AI-generated MP3 songs instantly.",
+      "website": "https://udioai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171259443589934498.webp",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Text-to-Music"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-09 13:36:41",
+      "updatedAt": "2024-04-09 13:36:41"
+    },
+    {
+      "name": "MusicAI: Top AI Music Generator",
+      "description": "AI music and song generator tool",
+      "website": "https://www.musicai.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656295932318663.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "AI Lyrics Generator",
+        "AI Art Generator",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:06",
+      "updatedAt": "2024-09-17 16:47:06"
+    },
+    {
+      "name": "Suno Prompt Generator",
+      "description": "AI music prompt generator for enhanced music creation.",
+      "website": "https://chromewebstore.google.com/detail/suno-prompt-generator/fnjaccganbenbcekiiaapjajjknfgkmb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129932740524735.jpg",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Prompt",
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:25:14",
+      "updatedAt": "2024-11-11 12:25:14"
+    },
+    {
+      "name": "ZenWaves.ai",
+      "description": "AI music platform for meditation, focus, relaxation, and earning revenue.",
+      "website": "https://ZenWaves.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068416189814801.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 09:35:48",
+      "updatedAt": "2024-11-04 09:35:48"
+    },
+    {
+      "name": "SongFinder: AI Music Discovery",
+      "description": "AI music discovery app for personalized song recommendations.",
+      "website": "https://apps.apple.com/us/app/songfinder-ai-music-discovery/id6731746123?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172924085118251580.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Music Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-18 16:40:24",
+      "updatedAt": "2024-10-18 16:40:24"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

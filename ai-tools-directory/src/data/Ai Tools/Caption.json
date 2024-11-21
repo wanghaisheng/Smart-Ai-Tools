@@ -1,0 +1,2716 @@
+{
+  "tools": [
+    {
+      "name": "Submagic",
+      "description": "Generate amazing captions with emojis for short-form content",
+      "website": "https://submagic.co?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168837651095791380.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-03 17:27:45",
+      "updatedAt": "2023-07-03 17:27:45"
+    },
+    {
+      "name": "Zeemo",
+      "description": "Zeemo AI is a powerful tool for captioning videos with accurate and fast audio to text transcription.",
+      "website": "https://zeemo.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169149925454586845.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Video Editor",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Happy Scribe",
+      "description": "Audio to text transcription and video subtitles with high accuracy.",
+      "website": "https://happyscribe.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349947541881486.jpg",
+      "category": "Speech-to-Text",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:23",
+      "updatedAt": "2023-12-25 18:13:23"
+    },
+    {
+      "name": "Captions",
+      "description": "Creating professional videos made easy with Captions' AI-powered studio.",
+      "website": "https://www.captions.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7b785e2a6f21741f6e837260bddc95fe.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "AI Video Recording",
+        "Recording",
+        "Captions or Subtitle",
+        "AI Background Remover",
+        "AI Content Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "Ssemble YouTube Shorts Maker",
+      "description": "AI-powered video clip creator",
+      "website": "https://ssemble.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171964960677713071.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "AI Thumbnail Maker",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-29 16:40:29",
+      "updatedAt": "2024-06-29 16:40:29"
+    },
+    {
+      "name": "BlipCut AI Video Translator",
+      "description": "AI-powered video translation with human-like voices.",
+      "website": "https://videotranslator.blipcut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530640970758919.jpg",
+      "category": "Text-to-Speech",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text-to-Speech",
+        "Captions or Subtitle",
+        "AI Voice Cloning",
+        "AI Speech Synthesis",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:43",
+      "updatedAt": "2024-01-15 16:12:43"
+    },
+    {
+      "name": "Checksub",
+      "description": "Automatic subtitling and translation platform.",
+      "website": "https://checksub.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349977948041931.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "Captions or Subtitle",
+        "Translate",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:42",
+      "updatedAt": "2023-12-25 18:14:42"
+    },
+    {
+      "name": "AutoCaption",
+      "description": "AI caption generator with automatic transcription and animated emojis.",
+      "website": "https://autocaption.io?ref=1so4w",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582593478476025.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Banner Generator",
+        "AI Content Generator",
+        "Captions or Subtitle",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "Transcri",
+      "description": "AI-powered transcription and subtitle generation",
+      "website": "https://transcri.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061171828384043.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:03",
+      "updatedAt": "2024-07-10 19:40:03"
+    },
+    {
+      "name": "Latte",
+      "description": "Latte Social: AI platform creates engaging social media snippets from your videos.",
+      "website": "https://latte.social?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/dd79c4cdfd5a42269db349e96c9271e3.jpeg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant",
+        "AI UGC Video Generator",
+        "Captions or Subtitle",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "VideoLingo",
+      "description": "Automated video localization tool generating quality subtitles and dubbing.",
+      "website": "https://videolingo.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965780269152601.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:38",
+      "updatedAt": "2024-10-23 12:26:38"
+    },
+    {
+      "name": "ZapCap",
+      "description": "Video Captions API with premium templates",
+      "website": "https://zapcap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763953669531824.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:57:31",
+      "updatedAt": "2024-06-06 09:57:31"
+    },
+    {
+      "name": "Image to Caption",
+      "description": "AI-Powered Image to Caption Generator",
+      "website": "https://image-to-caption.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454163920616117.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 01:59:31",
+      "updatedAt": "2023-09-13 01:59:31"
+    },
+    {
+      "name": "Captions App",
+      "description": "AI-powered tool for generating and customizing video captions.",
+      "website": "https://dubs.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855763216377993.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:52:43",
+      "updatedAt": "2024-10-10 18:52:43"
+    },
+    {
+      "name": "Banva",
+      "description": "Banva is a powerful subtitle generator and editor with fast and accurate automatic generation in over 50 languages.",
+      "website": "https://banva.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987690910178697.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:14:20",
+      "updatedAt": "2023-07-21 02:14:20"
+    },
+    {
+      "name": "YouTube Video Summarizer AI-Powered",
+      "description": "AI tool for concise YouTube video summaries.",
+      "website": "https://summarizeyou.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176308925478969.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:22:29",
+      "updatedAt": "2024-11-16 21:22:29"
+    },
+    {
+      "name": "JimakuAI",
+      "description": "Transform your subtitles with JimakuAI",
+      "website": "https://jimaku.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605498719102478.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Speech-to-Text",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:21:55",
+      "updatedAt": "2023-09-30 14:21:55"
+    },
+    {
+      "name": "CaptionCreator",
+      "description": "Auto video subtitle generator for quick and accurate transcription and translation.",
+      "website": "https://captioncreator.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350406780925718.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Translate",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:16",
+      "updatedAt": "2023-12-25 18:20:16"
+    },
+    {
+      "name": "Subsvideo",
+      "description": "AI captions without limits",
+      "website": "https://subsvideo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566230236941645.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:45",
+      "updatedAt": "2024-05-14 12:49:45"
+    },
+    {
+      "name": "Hello8",
+      "description": "Reach global audience by translating videos into multiple languages",
+      "website": "https://www.hello8.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067733242234142.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:33",
+      "updatedAt": "2024-03-17 20:07:33"
+    },
+    {
+      "name": "AI Subtitle Generator",
+      "description": "Subtitle generator and translator for over 100 languages",
+      "website": "https://www.subtitledog.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172051468970315010.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 16:42:17",
+      "updatedAt": "2024-07-09 16:42:17"
+    },
+    {
+      "name": "Double Subtitles",
+      "description": "AI-powered mobile video editor adds subtitles to videos.",
+      "website": "https://www.getdoubleapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098400155215621.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "Duzo AI Video Translations",
+      "description": "Translate video content into multiple languages to reach a global audience",
+      "website": "https://duzo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172795192197012260.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Content Generator",
+        "AI Video Enhancer",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Cloning",
+        "AI CRM Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-03 18:39:21",
+      "updatedAt": "2024-10-03 18:39:21"
+    },
+    {
+      "name": "dojo clip video editing",
+      "description": "AI copilot for video editing",
+      "website": "https://dojoclip.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170030584436279964.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-18 19:10:24",
+      "updatedAt": "2023-11-18 19:10:24"
+    },
+    {
+      "name": "Videofa.st",
+      "description": "Boost short videos with automated subtitles",
+      "website": "https://videofa.st?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169988368780815704.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "AI Video Generator",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-13 21:54:20",
+      "updatedAt": "2023-11-13 21:54:20"
+    },
+    {
+      "name": "Captiwiz",
+      "description": "Add captivating captions and emojis to videos with AI-powered Captiwiz.",
+      "website": "https://captiwiz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170434015981308036.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Emoji Generator",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Advertising Assistant",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-04 11:48:13",
+      "updatedAt": "2024-01-04 11:48:13"
+    },
+    {
+      "name": "YouTube \u5b57\u5e55\u7ffb\u8bd1",
+      "description": "Browser plugin for YouTube with auto-subtitle translation",
+      "website": "https://chromewebstore.google.com/detail/youtube-\u5b57\u5e55\u7ffb\u8bd1/knncklmmdejcadilnfeabejdfekhgdhe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738114381254755.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:51",
+      "updatedAt": "2024-06-03 10:18:51"
+    },
+    {
+      "name": "CaptionKit",
+      "description": "Create captions and subtitles for videos using AI.",
+      "website": "https://apps.apple.com/app/id6502188533?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172587895329158713.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 18:48:33",
+      "updatedAt": "2024-09-09 18:48:33"
+    },
+    {
+      "name": "CaptionR - AI Generated Photo Captions",
+      "description": "Create captivating captions for social media posts.",
+      "website": "https://apps.apple.com/us/app/captionr-ai-generated-caption/id6447811994?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168346692609950340.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 21:42:27",
+      "updatedAt": "2023-05-07 21:42:27"
+    },
+    {
+      "name": "SlidesPro",
+      "description": "Live speech translation for Google Slides",
+      "website": "https://chromewebstore.google.com/detail/slidespro/janlhapobaokinmolhnmmiaabeiebfme?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687125336920058.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Translate",
+        "Speech-to-Text",
+        "AI Presentation Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:40:44",
+      "updatedAt": "2024-05-28 12:40:44"
+    },
+    {
+      "name": "captionit",
+      "description": "AI-powered Instagram caption generator for photos. Instantly generates jokes, puns, memes, deep thoughts, and cute quips.",
+      "website": "https://captionit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485093780377572.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Captions or Subtitle",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:08:37",
+      "updatedAt": "2023-05-23 22:08:37"
+    },
+    {
+      "name": "Video Subtitles",
+      "description": "Generate subtitles in multiple formats and translate audio using AI algorithms.",
+      "website": "https://videosubtitles.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508686553789180.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:40:54",
+      "updatedAt": "2023-05-26 15:40:54"
+    },
+    {
+      "name": "TinyStudio",
+      "description": "Effortlessly generate subtitles for video and audio files on your Mac.",
+      "website": "https://apps.apple.com/us/app/tinystudio/id6448954288?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528294325098670.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:08:09",
+      "updatedAt": "2023-05-28 22:08:09"
+    },
+    {
+      "name": "ByteCap",
+      "description": "Effortlessly generate subtitles for videos.",
+      "website": "https://www.bytecap.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094094629772793.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:21:49",
+      "updatedAt": "2024-03-20 21:21:49"
+    },
+    {
+      "name": "Transcribe YouTube Video",
+      "description": "Chrome extension for AI transcribing and summarizing.",
+      "website": "https://chromewebstore.google.com/detail/transcribe-youtube-video/dlcncgfmpjblcgppbgjccpaopneelkoi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807151887145490.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Summarizer",
+        "Transcription",
+        "Transcriber",
+        "AI YouTube Assistant",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:08",
+      "updatedAt": "2024-06-11 10:05:08"
+    },
+    {
+      "name": "Lugs.ai",
+      "description": "Lugs.ai is an offline software for accurate audio captioning and transcription.",
+      "website": "https://lugs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218839359125515.jpg",
+      "category": "AI Speech Recognition",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Speech Recognition",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Transcription",
+        "Speech-to-Text",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:19:20",
+      "updatedAt": "2023-08-16 20:19:20"
+    },
+    {
+      "name": "SubtitlesDog - Best AI Subtitle Translator",
+      "description": "AI subtitle translation tool for fast, accurate translations.",
+      "website": "https://subtitlesdog.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176318371995818.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:26:38",
+      "updatedAt": "2024-11-16 21:26:38"
+    },
+    {
+      "name": "Image Caption Generator",
+      "description": "Effortless image caption creation for social media and blogs.",
+      "website": "https://imcaption.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169348458973028194.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "AI Ad Generator",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-31 20:21:57",
+      "updatedAt": "2023-08-31 20:21:57"
+    },
+    {
+      "name": "AI Subtitle Image Generator",
+      "description": "Tool to create customizable subtitle images for social media.",
+      "website": "https://www.easyaicaption.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172406399518506315.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-19 18:39:43",
+      "updatedAt": "2024-08-19 18:39:43"
+    },
+    {
+      "name": "Social Media Caption Generator",
+      "description": "Create catchy captions effortlessly",
+      "website": "https://coolcaptionideas.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592105569266557.webp",
+      "category": "AI Instagram Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Instagram Assistant",
+        "Captions or Subtitle",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:44:02",
+      "updatedAt": "2024-05-17 12:44:02"
+    },
+    {
+      "name": "Captionary.ai",
+      "description": "AI-powered caption generation for your photos.",
+      "website": "https://captionary.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072948192401900.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Photo & Image Editor",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:39",
+      "updatedAt": "2023-11-23 16:50:39"
+    },
+    {
+      "name": "Neuralgen.ai",
+      "description": "Automatisez la traduction de vid\u00e9os dans plus de 10 langues.",
+      "website": "https://neuralgen.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170082294638287940.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "Captions or Subtitle",
+        "Translate",
+        "AI Speech Synthesis",
+        "AI Advertising Assistant",
+        "AI Lip Sync Generator",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-24 18:48:16",
+      "updatedAt": "2023-11-24 18:48:16"
+    },
+    {
+      "name": "Reverb Street",
+      "description": "Grow podcast audience with short video clips.",
+      "website": "https://reverbstreet.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185049878295385.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Short Clips Generator",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:59",
+      "updatedAt": "2023-12-06 16:13:59"
+    },
+    {
+      "name": "I \u2661 Captions",
+      "description": "AI-powered subtitling made easy.",
+      "website": "https://iheartcaptions.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191985054831643.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Content Generator",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:59",
+      "updatedAt": "2023-12-07 11:28:59"
+    },
+    {
+      "name": "Captions for photos: Captioned",
+      "description": "AI-powered caption generator for social media",
+      "website": "https://apps.apple.com/us/app/captions-for-photos-captioned/id6472856464?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282388575618846.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:35",
+      "updatedAt": "2023-12-17 22:37:35"
+    },
+    {
+      "name": "viralbot",
+      "description": "AI video generator for viral social media videos",
+      "website": "https://www.viralbot.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208858376292683.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Tiktok Assistant",
+        "AI Social Media Assistant",
+        "AI Video Editor",
+        "AI Instagram Assistant",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:56",
+      "updatedAt": "2024-07-27 21:54:56"
+    },
+    {
+      "name": "Subtitle Translation Tool",
+      "description": "Free online subtitle translation tool.",
+      "website": "https://subtitletranslator.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987812920123706.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "SubtitleBee",
+      "description": "Easily add captions and subtitles to your videos online in minutes.",
+      "website": "https://subtitlebee.com/?s=O5gQqzJ6",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350143539219847.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "Translate",
+        "Transcription",
+        "AI Speech Recognition",
+        "Transcriber",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:22:33",
+      "updatedAt": "2023-12-25 18:22:33"
+    },
+    {
+      "name": "Audiotype - Audio Transcription and Video Subtitles",
+      "description": "Automatic transcription software for businesses and organizations.",
+      "website": "https://audiotype.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350457810537807.jpg",
+      "category": "Transcription",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber",
+        "Recording",
+        "AI Content Detector",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:39",
+      "updatedAt": "2023-12-25 18:16:39"
+    },
+    {
+      "name": "Contentfries",
+      "description": "Turn videos into engaging content with ContentFries app for audience growth and brand building.",
+      "website": "https://www.contentfries.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/fed7b8a4ca99a0f6335c2474bbe7fa65.jpeg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "Snapcut.ai",
+      "description": "AI-powered video editing for viral shorts",
+      "website": "https://snapcut.ai/?via=Toolify8",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070196948951760.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant",
+        "AI Video Editor",
+        "AI Video Generator",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:49:40",
+      "updatedAt": "2024-07-11 20:49:40"
+    },
+    {
+      "name": "syncwords.com",
+      "description": "Leading AI-powered captions & translations",
+      "website": "https://syncwords.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230656621448281.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:44",
+      "updatedAt": "2024-04-05 16:41:44"
+    },
+    {
+      "name": "listen411.com",
+      "description": "Fast and Cheap",
+      "website": "https://listen411.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067741637142020.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "Kapwing",
+      "description": "Create, edit, and grow content with Kapwing's collaborative online platform.",
+      "website": "https://kapwing.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349961587617039.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Social Media Assistant",
+        "AI Video Recording",
+        "Captions or Subtitle",
+        "AI Repurpose Assistant",
+        "Photo & Image Editor",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:27",
+      "updatedAt": "2023-12-25 18:13:27"
+    },
+    {
+      "name": "PhotoCaption",
+      "description": "Effortlessly create captivating captions",
+      "website": "https://apple.co/4bQRLPo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171824303591586385.webp",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "AI Instagram Assistant",
+        "AI Content Generator",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-13 09:42:41",
+      "updatedAt": "2024-06-13 09:42:41"
+    },
+    {
+      "name": "HitPaw Edimakor",
+      "description": "AI video editor with advanced features",
+      "website": "https://www.hitpaw.com/video-editor.html?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1714052499193587.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-25 21:47:49",
+      "updatedAt": "2024-04-25 21:47:49"
+    },
+    {
+      "name": "OpusClip Captions",
+      "description": "Add animated captions to videos in 1 click",
+      "website": "https://clip.opus.pro/captions?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171262855017420911.webp",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "Writing Assistants",
+        "AI Video Enhancer",
+        "AI Animated Video",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-09 10:08:01",
+      "updatedAt": "2024-04-09 10:08:01"
+    },
+    {
+      "name": "Sonix AI",
+      "description": "Online transcription software for audio and video files.",
+      "website": "https://sonix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172873860532738169.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-12 21:20:01",
+      "updatedAt": "2024-10-12 21:20:01"
+    },
+    {
+      "name": "Ssemble",
+      "description": "AI tool to create engaging video shorts",
+      "website": "https://www.ssemble.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208850940999754.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant",
+        "AI Video Recording",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:54",
+      "updatedAt": "2024-07-27 21:54:54"
+    },
+    {
+      "name": "Vidyo.ai",
+      "description": "vidyo.ai helps repurpose podcasts and videos into shareable clips for social media.",
+      "website": "https://vidyo.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167930397552566969.png",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI Video Generator",
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "innerai.com",
+      "description": "AI platform for organizing thoughts and enhancing creativity.",
+      "website": "https://innerai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714263643104024.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "AI Speech Synthesis",
+        "AI Chatbot",
+        "AI PDF",
+        "AI Documents Assistant",
+        "Translate",
+        "AI Analytics Assistant",
+        "Transcription",
+        "Transcriber",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Summarizer",
+        "AI Files Assistant",
+        "AI Document Extraction",
+        "AI Email Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:46",
+      "updatedAt": "2024-09-24 09:47:46"
+    },
+    {
+      "name": "Nova A.I.",
+      "description": "Nova A.I. is an online video editing software with powerful tools for editing, adding effects, and generating subtitles.",
+      "website": "https://app.wearenova.ai/signup?ref=zwjlztr",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476420837729420.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:00:54",
+      "updatedAt": "2023-05-22 22:00:54"
+    },
+    {
+      "name": "framedrop.ai",
+      "description": "AI tool for converting videos into short-form content.",
+      "website": "https://www.framedrop.ai/#via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714260421657937.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Detector",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:47:46",
+      "updatedAt": "2024-09-24 09:47:46"
+    },
+    {
+      "name": "Jupitrr",
+      "description": "AI video maker for automatic B-roll generation.",
+      "website": "https://jupitrr.com?affiliate=TptXCNewxZl5",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169409389564603262.jpg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "Captions or Subtitle",
+        "AI Content Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-07 21:36:27",
+      "updatedAt": "2023-09-07 21:36:27"
+    },
+    {
+      "name": "autocut.com",
+      "description": "AI plugin for automated video editing in Premiere Pro.",
+      "website": "https://autocut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709770084051513.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:19",
+      "updatedAt": "2024-09-23 21:18:19"
+    },
+    {
+      "name": "Exemplary AI",
+      "description": "Exemplary is an AI-powered platform that transcribes audio and video accurately in over 120 languages.",
+      "website": "https://exemplary.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168450498241718815.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Transcription",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "Transcriber",
+        "AI Analytics Assistant",
+        "Summarizer",
+        "AI Content Generator",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Knowledge Base",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 22:02:53",
+      "updatedAt": "2023-05-19 22:02:53"
+    },
+    {
+      "name": "ScriptMe",
+      "description": "ScriptMe provides fast and accurate transcriptions and subtitling in multiple languages.",
+      "website": "https://scriptme.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543989673752007.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "AI Audio Enhancer",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:46",
+      "updatedAt": "2023-05-30 17:44:46"
+    },
+    {
+      "name": "Minvo 2.0",
+      "description": "AI video editing tool for creating short clips from long videos.",
+      "website": "https://minvo.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328719727629858.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:52:45",
+      "updatedAt": "2024-08-10 18:52:45"
+    },
+    {
+      "name": "Image Describer",
+      "description": "AI tool for image descriptions and captions",
+      "website": "https://imagedescriber.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888234373481409.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Large Language Models (LLMs)",
+        "AI Image Recognition",
+        "Captions or Subtitle",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:53",
+      "updatedAt": "2024-06-20 19:16:53"
+    },
+    {
+      "name": "Flowjin",
+      "description": "Short video clips from long content",
+      "website": "https://flowjin.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171353340903846871.webp",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Podcast Assistant",
+        "AI YouTube Assistant",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 21:35:24",
+      "updatedAt": "2024-04-19 21:35:24"
+    },
+    {
+      "name": "SubEasy.ai",
+      "description": "AI transcription and translation service for audio and video.",
+      "website": "https://www.subeasy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172440186392184724.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Analytics Assistant",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-23 16:30:35",
+      "updatedAt": "2024-08-23 16:30:35"
+    },
+    {
+      "name": "SubEasy",
+      "description": "AI-powered subtitles transcription and translation",
+      "website": "https://www.subeasy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171876070066295365.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-19 09:36:51",
+      "updatedAt": "2024-06-19 09:36:51"
+    },
+    {
+      "name": "Free Subtitles AI",
+      "description": "Transcribe and translate audio/video files for free on FreeSubtitles.AI.",
+      "website": "https://freesubtitles.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1222c7f55e007e313a4f87b5198cafa3.jpeg",
+      "category": "Captions or Subtitle",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:53",
+      "updatedAt": "2023-03-07 16:48:53"
+    },
+    {
+      "name": "Sub Translate Ai",
+      "description": "AI-powered platform for video accessibility",
+      "website": "https://subtranslateai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096695583327240.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:00",
+      "updatedAt": "2024-07-14 22:21:00"
+    },
+    {
+      "name": "Imaginario AI",
+      "description": "Supercharge your video library with AI",
+      "website": "https://www.imaginario.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170722795279932915.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Search",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "AI Analytics Assistant",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-06 22:04:32",
+      "updatedAt": "2024-02-06 22:04:32"
+    },
+    {
+      "name": "Recast Studio",
+      "description": "Turn your podcast into engaging content with AI.",
+      "website": "https://recast.studio/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262644579454949.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "Captions or Subtitle",
+        "Text to Video",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Repurpose Assistant",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Video Generator",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Content Generator",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:41",
+      "updatedAt": "2023-12-15 15:45:41"
+    },
+    {
+      "name": "Searchie",
+      "description": "Searchie helps users create, sell, and manage their digital content with useful tools and features.",
+      "website": "https://searchie.io/?fpr=toolify69",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168241549391699536.jpg",
+      "category": "AI Course",
+      "pricing": "Paid",
+      "features": [
+        "Free Trial",
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Course",
+        "AI Analytics Assistant",
+        "AI Knowledge Base",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Repurpose Assistant",
+        "AI Coaching",
+        "AI Tutorial",
+        "AI Knowledge Management",
+        "AI Video Recording",
+        "AI Quizzes"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-25 17:38:36",
+      "updatedAt": "2023-04-25 17:38:36"
+    },
+    {
+      "name": "SNAPVID",
+      "description": "AI tool for creating viral shorts",
+      "website": "https://snapvid.ai?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421477726364016.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:13",
+      "updatedAt": "2024-04-27 18:45:13"
+    },
+    {
+      "name": "Choppity",
+      "description": "AI-powered clips from podcasts",
+      "website": "https://choppity.com/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171327950256221450.webp",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-16 23:36:41",
+      "updatedAt": "2024-04-16 23:36:41"
+    },
+    {
+      "name": "ollang.com",
+      "description": "Enhance your multimedia content with AI dubbing, subtitle translations, and closed captions.",
+      "website": "https://ollang.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230511766554369.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:58",
+      "updatedAt": "2024-04-05 16:15:58"
+    },
+    {
+      "name": "Akkadu AI Subtitles",
+      "description": "Akkadu enables real-time AI subtitles for easy understanding of videos and live events in multiple languages.",
+      "website": "https://akkadu.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053857812515585.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Speech Recognition",
+        "Recording",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "QuickVid.Ai",
+      "description": "QuickVid is an AI platform for quick and easy YouTube Shorts generation.",
+      "website": "https://quickvid.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/0320b5511ffb5ead75f16e47b6aba1aa.jpeg",
+      "category": "Captions or Subtitle",
+      "pricing": "Paid",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Text to Video",
+        "AI YouTube Assistant",
+        "AI Ad Generator",
+        "Digital Marketing Generator",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "Short AI",
+      "description": "AI video generator for viral social media videos",
+      "website": "https://www.short.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062343960757042.jpg",
+      "category": "Text to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Video",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:01:11",
+      "updatedAt": "2024-07-10 23:01:11"
+    },
+    {
+      "name": "Felo Subtitles",
+      "description": "Seamless multilingual communication with real-time transcription and translation.",
+      "website": "https://subtitles.felo.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100877053523909.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Translate",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:41",
+      "updatedAt": "2023-11-26 22:24:41"
+    },
+    {
+      "name": "Scribebuddy",
+      "description": "AI tool for audio/video transcription, translation, and subtitles.",
+      "website": "https://scribebuddy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007968071195663.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Podcast Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:46",
+      "updatedAt": "2024-10-28 09:39:46"
+    },
+    {
+      "name": "FastCut",
+      "description": "AI tool for engaging video captions",
+      "website": "https://www.fastcutai.co/?gr_pk=WZOa",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185047441697160.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:58",
+      "updatedAt": "2023-12-06 16:13:58"
+    },
+    {
+      "name": "AICO",
+      "description": "AI-powered video editing service for YouTube shorts.",
+      "website": "https://aico.tv?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169711488797210384.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 20:46:19",
+      "updatedAt": "2023-10-12 20:46:19"
+    },
+    {
+      "name": "TranscribetoText.AI",
+      "description": "AI service for transcribing audio and video to text.",
+      "website": "https://transcribetotext.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008225876959034.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:45",
+      "updatedAt": "2024-10-28 10:27:45"
+    },
+    {
+      "name": "GPT Subtitler",
+      "description": "Fast, accurate subtitle translations using AI language models.",
+      "website": "https://gptsubtitler.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481147310081693.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:38",
+      "updatedAt": "2024-08-28 10:14:38"
+    },
+    {
+      "name": "SubtitleO",
+      "description": "Summary: SubtitleO is a user-friendly tool for content creators to add auto subtitles to videos, improving engagement, accessibility, and SEO.",
+      "website": "https://subtitleo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863779730842568.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Captions or Subtitle",
+        "AI Product Description Generator",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 18:02:42",
+      "updatedAt": "2023-07-06 18:02:42"
+    },
+    {
+      "name": "YouTube Dubbing",
+      "description": "Eliminate language barriers for watching videos",
+      "website": "https://yd.transduck.com/admin/signup?code=30076",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245854080424086.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:22",
+      "updatedAt": "2024-04-07 10:54:22"
+    },
+    {
+      "name": "CapGen AI Captions for Instagram",
+      "description": "Generate captions using AI for social media.",
+      "website": "https://capgen.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589361370793676.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Captions or Subtitle",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:25",
+      "updatedAt": "2024-01-22 11:18:25"
+    },
+    {
+      "name": "SubTitles.Love",
+      "description": "Add subtitles to social media videos and increase engagement.",
+      "website": "https://subtitles.love?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350406416050205.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Video Editor",
+        "Captions or Subtitle",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:16",
+      "updatedAt": "2023-12-25 18:20:16"
+    },
+    {
+      "name": "Miraa",
+      "description": "Bilingual learning with AI-powered transcription and subtitles.",
+      "website": "https://miraa.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171172105391979071.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-29 22:03:21",
+      "updatedAt": "2024-03-29 22:03:21"
+    },
+    {
+      "name": "KapKap",
+      "description": "AI-powered video generator for high-conversion marketing videos",
+      "website": "https://www.kapkap.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171246046892952926.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Photo & Image Editor",
+        "AI Lip Sync Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 15:35:55",
+      "updatedAt": "2024-04-07 15:35:55"
+    },
+    {
+      "name": "Scribba AI",
+      "description": "Transcription and subtitles with AI in minutes.",
+      "website": "https://scribba.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357213544348955.jpg",
+      "category": "Transcription",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "Captions or Subtitle",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:23",
+      "updatedAt": "2023-09-01 20:40:23"
+    },
+    {
+      "name": "EasyDictation.app",
+      "description": "A web app to enhance English skills through dictation and YouTube.",
+      "website": "https://easydictation.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172423544231869031.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-21 18:17:06",
+      "updatedAt": "2024-08-21 18:17:06"
+    },
+    {
+      "name": "OneAccord",
+      "description": "Live AI Translation for churches...with a human touch",
+      "website": "https://www.oneaccord.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171284463783984678.webp",
+      "category": "Religion",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Religion",
+        "Translate",
+        "Large Language Models (LLMs)",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 22:09:53",
+      "updatedAt": "2024-04-11 22:09:53"
+    },
+    {
+      "name": "Transcriptal",
+      "description": "Free AI-powered YouTube transcription platform.",
+      "website": "https://transcriptal.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170049531491502792.jpg",
+      "category": "Transcriber",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Transcriber",
+        "Captions or Subtitle",
+        "Transcription",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-20 23:48:06",
+      "updatedAt": "2023-11-20 23:48:06"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

@@ -1,0 +1,3281 @@
+{
+  "tools": [
+    {
+      "name": "Freepik AI Image Generator",
+      "description": "Real-time AI image generator",
+      "website": "https://www.freepik.com/ai/image-generator?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171915266699559042.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-23 22:27:45",
+      "updatedAt": "2024-06-23 22:27:45"
+    },
+    {
+      "name": "Artguru AI Art Generator",
+      "description": "Create beautiful art with the power of AI.",
+      "website": "https://www.artguru.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804540535257073.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Face Swap Generator",
+        "AI Background Generator",
+        "Image to Image",
+        "AI Selfie & Portrait",
+        "AI Image Enhancer",
+        "Text to Image",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Art Generator",
+        "AI Logo Generator",
+        "AI Cover Generator",
+        "AI Banner Generator",
+        "AI Avatar Generator",
+        "AI Anime & Cartoon Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:29:54",
+      "updatedAt": "2023-06-29 21:29:54"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Pica AI",
+      "description": "Pica AI Art Generator is an online tool for creating impressive AI-generated art.",
+      "website": "https://www.pica-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804402589972844.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:06:32",
+      "updatedAt": "2023-06-29 21:06:32"
+    },
+    {
+      "name": "Yodayo AI",
+      "description": "Anime art creation platform",
+      "website": "https://yodayo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171671443497658371.webp",
+      "category": "AI Anime & Cartoon Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Anime & Cartoon Generator",
+        "AI Cover Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Anime Art",
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Manga & Comic",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 17:12:40",
+      "updatedAt": "2024-05-26 17:12:40"
+    },
+    {
+      "name": "Mage",
+      "description": "Mage is an advanced A.I. platform that generates unique images easily and quickly.",
+      "website": "https://www.mage.space?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9faa13ee4607738a92ccdbc336f606c8.jpeg",
+      "category": "AI Anime & Cartoon Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Anime & Cartoon Generator",
+        "AI Logo Generator",
+        "AI Poster Generator",
+        "Image to Image",
+        "AI Selfie & Portrait",
+        "AI Wallpaper Generator",
+        "AI Profile Picture Generator",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Icon Generator",
+        "AI Cover Generator",
+        "AI Banner Generator",
+        "AI Background Generator",
+        "AI Avatar Generator",
+        "AI Illustration Generator",
+        "AI Photo & Image Generator",
+        "Text to Image",
+        "Large Language Models (LLMs)",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:49",
+      "updatedAt": "2023-03-07 16:48:49"
+    },
+    {
+      "name": "Lensgo",
+      "description": "LensGo is an innovative artificial intelligence tool that has revolutionized digital content creation by allowing users to generate high-quality images and videos from text descriptions or reference images. Our platform offers a comprehensive set of AI-based image and video processing capabilities for creators of all skill levels, from beginners to professionals. The strength of our products is the ability to help users generate content quickly by providing professional-grade tools that do not require extensive technical skills or expensive software. The style transfer of the product can help you quickly transform the video style, and the model training function can help you customize the generated content.",
+      "website": "https://lensgo.ai/?sourceSite=seo&sourceName=foolify&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176313362791946.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Emoji Generator",
+        "AI Wallpaper Generator",
+        "AI Pattern Generator",
+        "AI Anime & Cartoon Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Pixel Art",
+        "AI Anime Art",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:24:31",
+      "updatedAt": "2024-11-16 21:24:31"
+    },
+    {
+      "name": "Holara - Anime Image Generation",
+      "description": "AI platform for creating anime artwork",
+      "website": "https://holara.ai/holara?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171958072559595352.webp",
+      "category": "AI Anime Art",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Anime Art",
+        "Prompt",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Anime & Cartoon Generator",
+        "AI Character",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-28 21:28:44",
+      "updatedAt": "2024-06-28 21:28:44"
+    },
+    {
+      "name": "mixart.ai",
+      "description": "Instantly Transform and Generate Photos with Mixart.ai Advanced AI Tools",
+      "website": "https://mixart.ai/?utm_source=toolifyai&utm_medium=catalog&utm_campaign=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172075303049599643.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Wallpaper Generator",
+        "Prompt",
+        "AI Anime Art",
+        "AI Art Generator",
+        "AI Clothing Generator",
+        "AI Face Swap Generator",
+        "AI Cosplay Generator",
+        "Image to Image",
+        "AI Selfie & Portrait",
+        "AI Manga & Comic",
+        "AI Profile Picture Generator",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Emoji Generator",
+        "AI Cover Generator",
+        "AI Banner Generator",
+        "AI Background Generator",
+        "AI Avatar Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-12 10:58:13",
+      "updatedAt": "2024-07-12 10:58:13"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Pixela AI",
+      "description": "Pixela.ai uses AI to create game textures online, ensuring quality.",
+      "website": "https://pixela.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c84006c9337b6626bbe488bc1dac3e7a.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Pixel Art",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "AI Maze Generator",
+      "description": "AI-powered maze creation tool",
+      "website": "https://ai-mazegenerator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592122510950789.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:57:26",
+      "updatedAt": "2024-05-17 12:57:26"
+    },
+    {
+      "name": "AIFluencerPro",
+      "description": "Create AI influencers in minutes with advanced AI technology.",
+      "website": "https://aifluencerpro.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129907192794685.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Face Swap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:06",
+      "updatedAt": "2024-11-11 12:24:06"
+    },
+    {
+      "name": "PromptDoDo",
+      "description": "Promptdodo is an AI image generator that turns art into design",
+      "website": "https://www.promptdodo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171915856455023622.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Icon Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Manga & Comic",
+        "Image to Image",
+        "AI Clothing Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-24 00:19:52",
+      "updatedAt": "2024-06-24 00:19:52"
+    },
+    {
+      "name": "Free Wallpaper Maker",
+      "description": "Generate custom wallpapers using AI or digital notes.",
+      "website": "https://freewallpapermaker.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235948110463036.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "aestheticwallpaperai",
+      "description": "Create stunning wallpapers with AI",
+      "website": "https://aestheticwallpaperai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171647506318149545.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:37:00",
+      "updatedAt": "2024-05-23 22:37:00"
+    },
+    {
+      "name": "AI Wallpaper",
+      "description": "Generate beautiful wallpapers with AI.",
+      "website": "https://aiwallpaper.shop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493967436368648.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Background Generator",
+        "AI Photo & Image Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:55",
+      "updatedAt": "2024-01-11 10:19:55"
+    },
+    {
+      "name": "Ai Concept Generator",
+      "description": "Unleash creativity with cutting-edge AI concept generator.",
+      "website": "https://ai-concept.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168725720051954166.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Icon Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-20 18:32:55",
+      "updatedAt": "2023-06-20 18:32:55"
+    },
+    {
+      "name": "Artssy",
+      "description": "Create unlimited images in one click.",
+      "website": "https://www.artssy.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/cf5db00aebef37e3e31030c2e25ed240.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator",
+        "AI Pattern Generator",
+        "Image to Image",
+        "AI Landscape Generator",
+        "AI Design Generator",
+        "AI Ad Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:37",
+      "updatedAt": "2023-03-07 16:48:37"
+    },
+    {
+      "name": "AI Wallpapers Generator",
+      "description": "AI-powered platform for creating and sharing wallpapers.",
+      "website": "https://apps.apple.com/app/ai-wallpapers-generator/id1662227892?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477136691606574.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Video Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Background Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:17",
+      "updatedAt": "2023-05-23 00:02:17"
+    },
+    {
+      "name": "My Wall AI",
+      "description": "A customizable wall-decorating tool powered by AI to beautify walls.",
+      "website": "https://mywallai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477164276058958.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Product Description Generator",
+        "AI Wallpaper Generator",
+        "AI Advertising Assistant",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:06:45",
+      "updatedAt": "2023-05-23 00:06:45"
+    },
+    {
+      "name": "Dreamer: AI Art Generator",
+      "description": "Generate art with Stable Diffusion v2 on the Dreamer app.",
+      "website": "https://play.google.com/store/apps/details?id=com.stablediffusion.dream_art_app&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577911297610738.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Text to Image",
+        "AI Anime Art",
+        "AI Content Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:57:23",
+      "updatedAt": "2023-06-03 15:57:23"
+    },
+    {
+      "name": "Never",
+      "description": "PicEnhance is a website that enhances and transforms pictures into unique masterpieces.",
+      "website": "https://www.never.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584476218478900.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Avatar Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:11:45",
+      "updatedAt": "2023-06-04 10:11:45"
+    },
+    {
+      "name": "Wallpaper AI - AI Generated Wallpapers",
+      "description": "Discover personalized wallpapers for your phone in seconds.",
+      "website": "https://apps.apple.com/tr/app/wallpaper-ai-phone-wallpaper/id6451056034?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168934987398011221.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Photo & Image Generator",
+        "AI Advertising Assistant",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-14 23:50:45",
+      "updatedAt": "2023-07-14 23:50:45"
+    },
+    {
+      "name": "UltraWallpapers AI",
+      "description": "Generate beautiful wallpapers using AI at UltraWallpapers and customize the experience.",
+      "website": "https://ultrawallpapersai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098393711594064.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Background Generator",
+        "AI Photo & Image Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "TextWallpaper",
+      "description": "Create stunning wallpapers by combining photos and words with TextWallpaper.",
+      "website": "https://textwallpaper.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169106998591100963.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI WORD"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-03 21:39:26",
+      "updatedAt": "2023-08-03 21:39:26"
+    },
+    {
+      "name": "ChangeFace.AI",
+      "description": "See your face in iconic images.",
+      "website": "https://www.changeface.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169340884041953085.jpg",
+      "category": "AI Face Swap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Face Swap Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Poster Generator",
+        "AI Anime & Cartoon Generator",
+        "AI Avatar Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-30 23:19:03",
+      "updatedAt": "2023-08-30 23:19:03"
+    },
+    {
+      "name": "Walpium AI",
+      "description": "AI-powered wallpapers that inspire.",
+      "website": "https://apps.apple.com/us/app/walpium-ai-4k-wallpapers/id6473654488?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262651022796236.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Art Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:45",
+      "updatedAt": "2023-12-15 15:45:45"
+    },
+    {
+      "name": "Wallpaperee",
+      "description": "Create stunning wallpapers with your name.",
+      "website": "https://wallpaper.ee?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651771741534624.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:03",
+      "updatedAt": "2024-01-29 16:40:03"
+    },
+    {
+      "name": "artifactory.ai",
+      "description": "Create game assets from text description.",
+      "website": "https://artifactory.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000174180891705.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Icon Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:31",
+      "updatedAt": "2024-03-10 00:27:31"
+    },
+    {
+      "name": "stable-diffusion-prompts.com",
+      "description": "High-quality stable diffusion prompts",
+      "website": "https://stable-diffusion-prompts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073040897420314.webp",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Prompt",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:51",
+      "updatedAt": "2024-03-18 10:51:51"
+    },
+    {
+      "name": "IDomains",
+      "description": "Generate your web domain instantly with AI",
+      "website": "https://idomains.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094119911013858.webp",
+      "category": "Domain Name Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Domain Name Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:26:13",
+      "updatedAt": "2024-03-20 21:26:13"
+    },
+    {
+      "name": "Funky Designs",
+      "description": "Generate funky designs, typography, and color palettes with AI.",
+      "website": "https://funkydesigns.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171241813765129274.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Website Designer",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-06 23:41:32",
+      "updatedAt": "2024-04-06 23:41:32"
+    },
+    {
+      "name": "SecurePass",
+      "description": "Customize and secure",
+      "website": "https://chromewebstore.google.com/detail/securepass/ogbhihbhpnpnaoijjnlgijhjnkagoklp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679941120015264.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:48",
+      "updatedAt": "2024-05-25 21:30:48"
+    },
+    {
+      "name": "AI Anime Character Generator - Text To Anime",
+      "description": "Create AI anime characters instantly",
+      "website": "https://chromewebstore.google.com/detail/ai-anime-character-genera/gjgpkaoddmagbljkjfcefhpdnkhknijb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687104754893953.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Photo & Image Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Anime & Cartoon Generator",
+        "AI Anime Art"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:09",
+      "updatedAt": "2024-05-28 12:37:09"
+    },
+    {
+      "name": "Send To RoomDeco",
+      "description": "AI platform for transforming interior styles",
+      "website": "https://chromewebstore.google.com/detail/send-to-roomdeco/oebpgellidmlgajloichaoclifhpfgcc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687105512900157.jpg",
+      "category": "AI Interior & Room Design",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Interior & Room Design",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:09",
+      "updatedAt": "2024-05-28 12:37:09"
+    },
+    {
+      "name": "Right Click Composer",
+      "description": "Convert text to images",
+      "website": "https://chromewebstore.google.com/detail/right-click-composer/moiahbpcfecddkeknmcplhpjndndedhp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687105642169365.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:09",
+      "updatedAt": "2024-05-28 12:37:09"
+    },
+    {
+      "name": "Stable Diffusion 3 AI Image Generator Free",
+      "description": "AI Image Generator with text rendering",
+      "website": "https://chromewebstore.google.com/detail/stable-diffusion-3-ai-ima/ladokleljhndmdbjpnbmeenibcjdmcdl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687106747877490.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:10",
+      "updatedAt": "2024-05-28 12:37:10"
+    },
+    {
+      "name": "ChromaColorizer",
+      "description": "Revive old photos with vibrant colors.",
+      "website": "https://chromewebstore.google.com/detail/chromacolorizer/pjadojkkflmghgkecfnkinkbgokokgjn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687107222870402.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Colorize",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Wallpaper Generator",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:11",
+      "updatedAt": "2024-05-28 12:37:11"
+    },
+    {
+      "name": "TryYourAI",
+      "description": "Easily create art with StableDiffusion models.",
+      "website": "https://chromewebstore.google.com/detail/tryyourai/jgelibifajkjfimoagceenfcfaokeipj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703912551446557.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Wallpaper Generator",
+        "AI Pattern Generator",
+        "Image to Image",
+        "AI Poster Generator",
+        "AI Avatar Generator",
+        "AI Cover Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:31",
+      "updatedAt": "2024-05-30 11:18:31"
+    },
+    {
+      "name": "ArtChat \u4eba\u5de5\u667a\u80fd\u5de5\u5177",
+      "description": "Ideal AI product fusion",
+      "website": "https://chromewebstore.google.com/detail/artchat-\u4eba\u5de5\u667a\u80fd\u5de5\u5177/dllleooklccnkhofbgdinjljiifmllah?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703942984726341.jpg",
+      "category": "AI Background Remover",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "Text to Image",
+        "Photo & Image Editor",
+        "AI Logo Generator",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator",
+        "AI Photo Restoration",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "Ambience: AI Wallpapers & Quotes",
+      "description": "Chrome extension blending productivity, inspiration, visual art.",
+      "website": "https://chromewebstore.google.com/detail/ambience-ai-wallpapers-qu/ndgjbbjefciomenkpggaepmhbkhmapap?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738101377073993.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:09",
+      "updatedAt": "2024-06-03 10:16:09"
+    },
+    {
+      "name": "TabJourney",
+      "description": "Enhance new tab with AI art",
+      "website": "https://chromewebstore.google.com/detail/tabjourney/jppaehbpdcalkajjbjobapckaeihdgik?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763908044140026.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:27",
+      "updatedAt": "2024-06-06 09:56:27"
+    },
+    {
+      "name": "ohmywall AI Wallpapers",
+      "description": "AI wallpaper app for iOS devices",
+      "website": "https://apps.apple.com/us/app/ohmywall-ai-wallpapers/id6479354574?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998311032210162.jpg",
+      "category": "AI Background Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Background Generator",
+        "AI Wallpaper Generator",
+        "AI Photo & Image Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:01:39",
+      "updatedAt": "2024-07-03 13:01:39"
+    },
+    {
+      "name": "AI Thriving",
+      "description": "AI-driven image generation APIs",
+      "website": "https://www.aithriving.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208858144663248.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Customer Service Assistant",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:56",
+      "updatedAt": "2024-07-27 21:54:56"
+    },
+    {
+      "name": "FanmeAI",
+      "description": "Celebrity face replacement platform",
+      "website": "https://www.fanmeai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230643492718014.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Face Swap Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Poster Generator",
+        "Bio Link",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:07",
+      "updatedAt": "2024-07-30 10:25:07"
+    },
+    {
+      "name": "Flair",
+      "description": "AI-generated and HD wallpapers extension",
+      "website": "https://chromewebstore.google.com/detail/flair/fdemdmeahbchcboonadaegnniniammgp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282851082358774.jpg",
+      "category": "AI Background Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Background Generator",
+        "AI Wallpaper Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:21",
+      "updatedAt": "2024-08-05 11:28:21"
+    },
+    {
+      "name": "GPT Personal Companion",
+      "description": "Enhancing ChatGPT with anime girls",
+      "website": "https://chromewebstore.google.com/detail/gpt-personal-companion/cbnhfckdkfclnfkmphimaocjdpjofekd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282852114737104.jpg",
+      "category": "AI Girlfriend",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Girlfriend",
+        "AI Character",
+        "AI Avatar Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Anime & Cartoon Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:23",
+      "updatedAt": "2024-08-05 11:28:23"
+    },
+    {
+      "name": "PicTrix.ai",
+      "description": "AI tool for creating unique images from text prompts.",
+      "website": "https://pictrix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007954011048971.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "Large Language Models (LLMs)",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:45",
+      "updatedAt": "2024-10-28 09:37:45"
+    },
+    {
+      "name": "Generate Image with CloudflareAI",
+      "description": "AI-powered image generation tool",
+      "website": "https://chromewebstore.google.com/detail/generate-image-with-cloud/dnppmgalimgkplpplccdpjlpjnhaegnk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068406258416873.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Logo Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Photo & Image Generator",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 09:34:06",
+      "updatedAt": "2024-11-04 09:34:06"
+    },
+    {
+      "name": "AiSource",
+      "description": "Generate and compare visuals from AI engines with one prompt.",
+      "website": "https://aisource.fun?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129924892774255.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:26",
+      "updatedAt": "2024-11-11 12:24:26"
+    },
+    {
+      "name": "Aesthetic Backgrounds",
+      "description": "Diverse aesthetic backgrounds for personalizing online spaces.",
+      "website": "https://www.aestheticbackground.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129946553462692.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:34:47",
+      "updatedAt": "2024-11-11 12:34:47"
+    },
+    {
+      "name": "WallSphere",
+      "description": "AI-generated wallpapers that enhance device aesthetics.",
+      "website": "https://www.wallsphere.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176312444281367.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:28",
+      "updatedAt": "2024-11-16 21:15:28"
+    },
+    {
+      "name": "Luppa AI",
+      "description": "Luppa is the all-in-one AI-powered content creation platform that helps businesses and creators effortlessly produce, manage, and grow their brand across all digital channels.",
+      "website": "https://luppa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173208152590769726.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
+    },
+    {
+      "name": "StockImg AI",
+      "description": "Stockimg AI is an AI-powered platform for creating logos, book covers, and posters.",
+      "website": "https://stockimg.ai/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c2a06edf3ce4d9e58ba06c046675475a.jpeg",
+      "category": "Text to Image",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Poster Generator",
+        "AI Icon Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Wallpapers.ai",
+      "description": "Wallpapers.ai generates AI-powered HD wallpapers for PC and mobile devices.",
+      "website": "https://wallpapers.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168701043231772403.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-17 22:00:10",
+      "updatedAt": "2023-06-17 22:00:10"
+    },
+    {
+      "name": "Dreampix",
+      "description": "AI platform for generating personalized wallpapers",
+      "website": "https://dreampix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656298548979438.jpg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator",
+        "AI Art Generator",
+        "AI Design Generator",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:13",
+      "updatedAt": "2024-09-17 16:47:13"
+    },
+    {
+      "name": "Zoomscape AI",
+      "description": "ZoomScape.ai is a website for creating beautiful Zoom backgrounds with AI.",
+      "website": "https://zoomscape.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476380551830528.jpg",
+      "category": "AI Background Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Background Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Wallpaper Generator",
+        "AI Thumbnail Maker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:45:37",
+      "updatedAt": "2023-05-22 20:45:37"
+    },
+    {
+      "name": "Zyng AI",
+      "description": "Zyng is a user-friendly ad creation tool that simplifies product photography.",
+      "website": "https://www.zyngai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517557550633445.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Avatar Generator",
+        "AI Profile Picture Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:19:10",
+      "updatedAt": "2023-05-27 16:19:10"
+    },
+    {
+      "name": "ComfyUI Marketplace",
+      "description": "Marketplace for buying and selling ComfyUI configurations.",
+      "website": "https://comfyui-market.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007977741845804.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "AI Wallpaper Generator",
+        "AI Illustration Generator",
+        "AI Photo & Image Generator",
+        "AI Photo Restoration",
+        "AI Background Remover",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:41:53",
+      "updatedAt": "2024-10-28 09:41:53"
+    },
+    {
+      "name": "AI Icon Generator for Apps",
+      "description": "Effortlessly create unique icons without design skills.",
+      "website": "https://iconai.shop?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169763969546464283.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Icon Generator",
+        "AI Profile Picture Generator",
+        "AI Tattoo Generator",
+        "AI Wallpaper Generator",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "Photo & Image Editor",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-18 22:33:59",
+      "updatedAt": "2023-10-18 22:33:59"
+    },
+    {
+      "name": "Hello Kitty Wallpaper",
+      "description": "AI-generated cute Hello Kitty wallpapers for various devices.",
+      "website": "https://hellokittywallpaperai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172415191372003259.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-20 19:04:48",
+      "updatedAt": "2024-08-20 19:04:48"
+    },
+    {
+      "name": "Logoscapes.ai",
+      "description": "Create professional logos easily with Logoscapes.ai, an online AI-powered logo design tool.",
+      "website": "https://logoscapes.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168519827048679775.jpg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Design Generator",
+        "AI Ad Creative Assistant",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 22:37:23",
+      "updatedAt": "2023-05-27 22:37:23"
+    },
+    {
+      "name": "Vieutopia",
+      "description": "Transform ideas into art without limitations.",
+      "website": "https://apps.apple.com/gb/app/vieutopia/id1660264569?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167932008361016630.png",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "App"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:32",
+      "updatedAt": "2023-03-07 16:48:32"
+    },
+    {
+      "name": "Mixxer - AI Art Generator",
+      "description": "Limitless artistic possibilities with Mixxer",
+      "website": "https://apps.apple.com/app/id6459831794?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228006641457959.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Video Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "Text to Image",
+        "AI Profile Picture Generator",
+        "AI Illustration Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "MonsterImage.AI",
+      "description": "Create unique images with AI and geometric patterns.",
+      "website": "https://www.monsterimage.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169511914722688566.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Pattern Generator",
+        "AI Photo & Image Generator",
+        "Image to Image",
+        "Prompt",
+        "Text to Image",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-19 18:24:44",
+      "updatedAt": "2023-09-19 18:24:44"
+    },
+    {
+      "name": "Ella The Gift Finder",
+      "description": "Gift finder for personalized gift ideas.",
+      "website": "https://EllaGiftFinder.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548531999338357.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Gift Ideas",
+        "AI Chatbot",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Recipe Assistant",
+        "Life Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:53:58",
+      "updatedAt": "2024-01-17 17:53:58"
+    },
+    {
+      "name": "Wallpaper FANS",
+      "description": "Infusing intelligence with aesthetics",
+      "website": "https://gumroad.com?a=880443411",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073440625102217.webp",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Photography",
+        "AI Instagram Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 11:58:00",
+      "updatedAt": "2024-03-18 11:58:00"
+    },
+    {
+      "name": "KoppieOS-Your Personalized Desktop",
+      "description": "AI chat and productivity tool with 3D Avatar.",
+      "website": "https://koppieos.koppie.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421841866250982.webp",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 19:45:12",
+      "updatedAt": "2024-04-27 19:45:12"
+    },
+    {
+      "name": "\u5e7f\u544a\u667a\u80fd\u914d\u56fe",
+      "description": "Generate HD ad and product images online.",
+      "website": "https://chromewebstore.google.com/detail/\u5e7f\u544a\u667a\u80fd\u914d\u56fe/hncgaefmffgkolcnnlihilepcokojaab?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703927062762331.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Graphic Design",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Illustration Generator",
+        "AI Image Enhancer",
+        "AI Poster Generator",
+        "AI Logo Generator",
+        "AI Pattern Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:20:23",
+      "updatedAt": "2024-05-30 11:20:23"
+    },
+    {
+      "name": "LinkFolio AI - Personalised New Tab Dashboard",
+      "description": "Boost productivity and stay inspired",
+      "website": "https://chromewebstore.google.com/detail/linkfolio-ai-personalised/pdhgolbhkdmkdeamfiikhkjopffadaea?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738082891798121.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:31",
+      "updatedAt": "2024-06-03 10:13:31"
+    },
+    {
+      "name": "Free AIDomain Generator - Brandable Domains",
+      "description": "Generate unique domain names with AI.",
+      "website": "https://chromewebstore.google.com/detail/free-aidomain-generator-b/ldgenemlgcogdjilnfipjncdlmmohlpp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776762050208893.webp",
+      "category": "Domain Name Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Domain Name Generator",
+        "AI Logo Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Icon Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:38",
+      "updatedAt": "2024-06-07 21:39:38"
+    },
+    {
+      "name": "Renaisance",
+      "description": "AI wallpapers for new tabs",
+      "website": "https://chromewebstore.google.com/detail/renaisance/nflinpdpmnljpmlodkcbmaoofjdjhaha?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776920286932023.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:29",
+      "updatedAt": "2024-06-07 22:06:29"
+    },
+    {
+      "name": "Rock and Search",
+      "description": "Enhanced browsing with AI wallpapers & real-time data",
+      "website": "https://chromewebstore.google.com/detail/rock-and-search/pngijcakecmnmpefijhdofcoemmmeffe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776923871663887.jpg",
+      "category": "AI Wallpaper Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Wallpaper Generator",
+        "AI Background Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:52",
+      "updatedAt": "2024-06-07 22:06:52"
+    },
+    {
+      "name": "AiWallz",
+      "description": "AI wallpaper app for visually appealing designs",
+      "website": "https://www.aiwallz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061169229659708.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Photo & Image Generator",
+        "AI Wallpaper Generator",
+        "AI Background Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:03",
+      "updatedAt": "2024-07-10 19:40:03"
+    },
+    {
+      "name": "Lyvia AI",
+      "description": "AI image and faceswap generator available on multiple platforms.",
+      "website": "https://lyvia.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172924082444077438.jpg",
+      "category": "AI Face Swap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Face Swap Generator",
+        "AI Poster Generator",
+        "AI Photo & Image Generator",
+        "AI Cover Generator",
+        "Image to Image",
+        "AI Wallpaper Generator",
+        "AI Profile Picture Generator",
+        "Text to Image",
+        "AI Logo Generator",
+        "AI Banner Generator",
+        "AI Background Generator",
+        "AI Avatar Generator",
+        "AI Illustration Generator",
+        "AI Selfie & Portrait",
+        "Photo & Image Editor",
+        "AI Art Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Background Remover",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-18 16:39:49",
+      "updatedAt": "2024-10-18 16:39:49"
+    },
+    {
+      "name": "Unlock.domain",
+      "description": "AI-powered domain name search for businesses and projects.",
+      "website": "https://unlock.domains?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965777167157269.jpg",
+      "category": "Domain Name Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Domain Name Generator",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Illustration Generator",
+        "Photo & Image Editor",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:38",
+      "updatedAt": "2024-10-23 12:26:38"
+    },
+    {
+      "name": "Shakker.Ai",
+      "description": "Transforming Imagery with AI",
+      "website": "https://www.shakker.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170616990078379330.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Pattern Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-25 16:04:10",
+      "updatedAt": "2024-01-25 16:04:10"
+    },
+    {
+      "name": "AI Art Generator by Enhance AI",
+      "description": "Create stunning images effortlessly with AI.",
+      "website": "https://enhanceai.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170696213648633813.jpg",
+      "category": "AI Image Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Enhancer",
+        "Image to Image",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Photo Restoration",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Background Generator",
+        "AI Graphic Design",
+        "AI Illustration Generator",
+        "AI Art Generator",
+        "AI Cover Generator",
+        "AI Logo Generator",
+        "AI Banner Generator",
+        "AI Wallpaper Generator",
+        "AI Design Generator",
+        "AI Profile Picture Generator",
+        "AI Poster Generator",
+        "AI Icon Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-03 20:08:14",
+      "updatedAt": "2024-02-03 20:08:14"
+    },
+    {
+      "name": "Allchemy",
+      "description": "An AI-powered alchemy game inspired by Little Alchemy.",
+      "website": "https://allchemy.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170584756966007267.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "Image to Image",
+        "AI Landscape Generator",
+        "AI Photography",
+        "Text to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-21 22:31:50",
+      "updatedAt": "2024-01-21 22:31:50"
+    },
+    {
+      "name": "Every AI Image",
+      "description": "Find AI Images on the largest AI Image gallery",
+      "website": "https://everyaiimage.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171009102840028100.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-11 01:16:43",
+      "updatedAt": "2024-03-11 01:16:43"
+    },
+    {
+      "name": "smexy.ai",
+      "description": "Generate and share custom porn images with Smexy AI, the easiest, fastest, and best platform.",
+      "website": "https://www.smexy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168346698379453142.jpg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Image to Image",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Wallpaper Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 21:43:15",
+      "updatedAt": "2023-05-07 21:43:15"
+    },
+    {
+      "name": "Art.ai",
+      "description": "AI art platform for creators & art lovers.",
+      "website": "https://art.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763928156212390.webp",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Social Media Assistant",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:57:28",
+      "updatedAt": "2024-06-06 09:57:28"
+    },
+    {
+      "name": "AI GENIUS",
+      "description": "AI-powered image generator.",
+      "website": "https://aigenius.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171103101583743408.webp",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Logo Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Icon Generator",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-21 22:22:46",
+      "updatedAt": "2024-03-21 22:22:46"
+    },
+    {
+      "name": "SoraPix AI",
+      "description": "Generate pictures with AI",
+      "website": "https://sorapix.ai/home?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171317843443640057.webp",
+      "category": "AI Girlfriend",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Girlfriend",
+        "AI Photo & Image Generator",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Anime Art",
+        "Photo & Image Editor",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Anime & Cartoon Generator",
+        "AI Illustration Generator",
+        "AI Photo Enhancer",
+        "AI Clothing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 18:53:30",
+      "updatedAt": "2024-04-15 18:53:30"
+    },
+    {
+      "name": "Kazimir.ai",
+      "description": "Explore millions of AI-generated images of celebrities.",
+      "website": "https://kazimir.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315306582250836.webp",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Character",
+        "Large Language Models (LLMs)",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Wallpaper Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Avatar Generator",
+        "AI Profile Picture Generator",
+        "AI Banner Generator",
+        "AI Logo Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:02",
+      "updatedAt": "2024-04-15 11:50:02"
+    },
+    {
+      "name": "MeinProfilbild.de",
+      "description": "Elevate your professional image effortlessly",
+      "website": "https://meinprofilbild.de/?linkId=lp_702331&sourceId=toolify&tenantId=meinprofilbild",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900425561169579.webp",
+      "category": "AI Profile Picture Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Profile Picture Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photo Enhancer",
+        "AI Selfie & Portrait",
+        "AI Tiktok Assistant",
+        "AI Wallpaper Generator",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Twitter Assistant",
+        "AI Facebook Assistant",
+        "AI Photo Restoration",
+        "Bio Link",
+        "AI Image Enhancer",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:47",
+      "updatedAt": "2024-02-27 11:22:47"
+    },
+    {
+      "name": "Flux 1.1 Pro",
+      "description": "AI tool for creating images from text prompts.",
+      "website": "https://flux1-1.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007971170791332.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Graphic Design",
+        "AI Design Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Wallpaper Generator",
+        "AI Photo Enhancer",
+        "AI Image Enhancer",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:47",
+      "updatedAt": "2024-10-28 09:39:47"
+    },
+    {
+      "name": "Creatoor AI",
+      "description": "Create premium videos with AI avatars in seconds.",
+      "website": "https://creatoorai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067744679759164.webp",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Avatar Generator",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:35",
+      "updatedAt": "2024-03-17 20:07:35"
+    },
+    {
+      "name": "Style Transfer AI",
+      "description": "AI design tools for rapid high-quality outcomes",
+      "website": "https://www.promptdodo.com/ai-tools/prepare?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027256961164728.jpg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "AI Illustration Generator",
+        "AI Poster Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Icon Generator",
+        "AI Logo Generator",
+        "Image to Image",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Background Remover",
+        "AI Pattern Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 21:33:18",
+      "updatedAt": "2024-07-06 21:33:18"
+    },
+    {
+      "name": "GAIM.AI Desktop App",
+      "description": "GAIM Network empowers developers, marketers, and gamers with AI tools for innovation and growth.",
+      "website": "https://gaim.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169045637294244010.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Analytics Assistant",
+        "AI Illustration Generator",
+        "Image to Image",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 19:11:26",
+      "updatedAt": "2023-07-27 19:11:26"
+    },
+    {
+      "name": "Zipik",
+      "description": "An AI filter app that creates enchanting fantasy portraits.",
+      "website": "https://www.zipik.com/app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170295041225572088.jpg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Poster Generator",
+        "AI Product Description Generator",
+        "AI Profile Picture Generator",
+        "AI Selfie & Portrait",
+        "AI Wallpaper Generator",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-19 09:56:13",
+      "updatedAt": "2023-12-19 09:56:13"
+    },
+    {
+      "name": "Text2Color for Canva",
+      "description": "AI-powered color transformation for Canva",
+      "website": "https://text2color.com/forcanva.html?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172258697638256659.jpg",
+      "category": "AI Colorize",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Colorize",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "Photo & Image Editor",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-02 16:22:30",
+      "updatedAt": "2024-08-02 16:22:30"
+    },
+    {
+      "name": "Icon Maker",
+      "description": "IconMaker is an online store offering custom AI-generated app icons for high-quality and unique designs.",
+      "website": "https://www.iconmaker.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16834745110707918.jpg",
+      "category": "AI Icon Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Icon Generator",
+        "AI Photo & Image Generator",
+        "AI Design Generator",
+        "AI Background Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 23:48:46",
+      "updatedAt": "2023-05-07 23:48:46"
+    },
+    {
+      "name": "Furry AI Art Generator",
+      "description": "Ultimate furry AI art generator",
+      "website": "https://www.furryaiart.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096706745391027.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "Image to Image",
+        "AI Photo & Image Generator",
+        "AI Art Generator",
+        "AI Cover Generator",
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Selfie & Portrait",
+        "AI Anime & Cartoon Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:26",
+      "updatedAt": "2024-07-14 22:21:26"
+    },
+    {
+      "name": "Lorai",
+      "description": "Create branded design assets faster with Lorai's browser-based Low-Rank Adaptations training.",
+      "website": "https://www.lorai.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220594812205192.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "Omagine wallpapers",
+      "description": "AI-powered wallpaper app for iOS devices.",
+      "website": "https://apps.apple.com/kw/app/omagine/id1642694799?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169574598558909566.jpg",
+      "category": "AI Background Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Background Generator",
+        "AI Art Generator",
+        "AI Wallpaper Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 00:32:54",
+      "updatedAt": "2023-09-27 00:32:54"
+    },
+    {
+      "name": "SLASH IMAGINE",
+      "description": "AI-powered visual creation integrated via REST API",
+      "website": "https://slashimagine.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349895228918088.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Wallpaper Generator",
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Logo Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Profile Picture Generator",
+        "AI Art Generator",
+        "Image to Image",
+        "AI Banner Generator",
+        "AI Icon Generator",
+        "AI Avatar Generator",
+        "AI Interior & Room Design",
+        "AI Colorize",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:17",
+      "updatedAt": "2023-12-25 18:02:17"
+    },
+    {
+      "name": "Eliteyez",
+      "description": "AI-driven IP protection and rights management.",
+      "website": "https://www.eliteyez.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073038184198173.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Wallpaper Generator",
+        "AI Profile Picture Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:51",
+      "updatedAt": "2024-03-18 10:51:51"
+    },
+    {
+      "name": "Face-To-Many",
+      "description": "Transform your face into any style",
+      "website": "https://www.face-to-many.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215013986696886.webp",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Text to Image",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:34",
+      "updatedAt": "2024-04-03 21:13:34"
+    },
+    {
+      "name": "AI Dream - ChatGPT Dream Assistant",
+      "description": "AI tool for interpreting dreams & generating images",
+      "website": "https://chromewebstore.google.com/detail/ai-dream-chatgpt-dream-as/mlnhlpckjmedbmmocjljephgmlpjiooi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679944848555095.jpg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Illustration Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Landscape Generator",
+        "AI Poster Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:43",
+      "updatedAt": "2024-05-25 21:31:43"
+    },
+    {
+      "name": "AI Gril Generator",
+      "description": "Generate AI images from text prompts",
+      "website": "https://girlgenerator.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171664397698497749.webp",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Photo & Image Generator",
+        "AI Cover Generator",
+        "AI Anime & Cartoon Generator",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Text to Image",
+        "AI Banner Generator",
+        "AI Background Generator",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Wallpaper Generator",
+        "Image to Image",
+        "AI Poster Generator",
+        "AI Character",
+        "AI Girlfriend",
+        "AI Image Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Icon Generator",
+        "AI Profile Picture Generator",
+        "AI Design Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:32:28",
+      "updatedAt": "2024-05-25 21:32:28"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

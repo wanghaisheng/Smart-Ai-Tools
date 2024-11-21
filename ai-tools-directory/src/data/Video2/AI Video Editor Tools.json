@@ -1,0 +1,2860 @@
+{
+  "tools": [
+    {
+      "name": "Fotor",
+      "description": "Easy online photo editor with a wide range of features and tools.",
+      "website": "https://fotor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413397556614.jpg",
+      "category": "AI Photo Enhancer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Cutout.Pro",
+      "description": "AI photo editing and content generation platform.",
+      "website": "https://www.cutout.pro?vsource=cutout_share-557564158235973",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171163870794048363.webp",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Background Remover",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "AI Image Enhancer",
+        "AI Image Segmentation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 23:15:38",
+      "updatedAt": "2024-03-28 23:15:38"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Kapwing",
+      "description": "Create, edit, and grow content with Kapwing's collaborative online platform.",
+      "website": "https://kapwing.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349961587617039.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Social Media Assistant",
+        "AI Video Recording",
+        "Captions or Subtitle",
+        "AI Repurpose Assistant",
+        "Photo & Image Editor",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:27",
+      "updatedAt": "2023-12-25 18:13:27"
+    },
+    {
+      "name": "Befunky",
+      "description": "BeFunky is an online platform for editing photos, creating collages, and designing graphics.",
+      "website": "https://www.befunky.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/66f2f6aeab71e5290e9ed7253e85aa25.jpeg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "The New Riverside",
+      "description": "Riverside.fm is a virtual studio enabling podcasters to create professional content remotely.",
+      "website": "https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168575969684676597.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI Tutorial",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:34:36",
+      "updatedAt": "2023-06-03 10:34:36"
+    },
+    {
+      "name": "Captions",
+      "description": "Creating professional videos made easy with Captions' AI-powered studio.",
+      "website": "https://www.captions.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7b785e2a6f21741f6e837260bddc95fe.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "AI Video Recording",
+        "Recording",
+        "Captions or Subtitle",
+        "AI Background Remover",
+        "AI Content Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "Wondershare Filmora ES",
+      "description": "Powerful video editor with AI capabilities",
+      "website": "https://filmora.wondershare.es?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171629692464351955.webp",
+      "category": "AI Video Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 21:15:54",
+      "updatedAt": "2024-05-21 21:15:54"
+    },
+    {
+      "name": "Vizard",
+      "description": "Vizard.ai enables quick creation of viral social media videos through AI-powered editing.",
+      "website": "https://vizard.ai/?via=wenhua",
+      "image": "https://cdn-images.toolify.ai/image/be898d23befd0f3afa6941b44061afc3.jpeg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "WonderShare Virbo",
+      "description": "Wondershare Virbo uses AI to create realistic avatar videos in 120+ languages. With 300+ avatars and customizable templates, it's perfect for marketing, tutorials, and presentations. Create professional videos effortlessly without hiring a crew or actors.",
+      "website": "https://virbo.wondershare.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176310438326755.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Thumbnail Maker",
+        "AI Art Generator",
+        "AI Lip Sync Generator",
+        "AI Short Clips Generator",
+        "AI Video Generator",
+        "AI Personalized Video Generator",
+        "Video to Video",
+        "AI Video Search",
+        "AI UGC Video Generator",
+        "Text to Video",
+        "Text to Image",
+        "AI Video Enhancer",
+        "AI Video Editor",
+        "AI Music Video Generator",
+        "Image to Video",
+        "AI Animated Video",
+        "AI Anime & Cartoon Generator",
+        "AI Cover Generator",
+        "AI Avatar Generator",
+        "AI Photo & Image Generator",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:23:21",
+      "updatedAt": "2024-11-16 21:23:21"
+    },
+    {
+      "name": "Lumen5",
+      "description": "Lumen5 is an AI-powered platform that allows anyone to create engaging videos quickly.",
+      "website": "https://lumen5.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/890b3a6ab41e4c33b2386dcd91784bc3.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Animated Video",
+        "AI Video Generator",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "DeepBrain AI",
+      "description": "\"DeepBrain AI is a versatile video generator with realistic AI avatars.\"",
+      "website": "https://www.deepbrain.io/aistudios?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543655491377448.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 16:48:39",
+      "updatedAt": "2023-05-30 16:48:39"
+    },
+    {
+      "name": "Wondershare Filmora BR",
+      "description": "User-friendly video editor with advanced editing features",
+      "website": "https://click.linksynergy.com/deeplink?id=1R8N9G*h/hM&mid=37160&murl=https%3A%2F%2Ffilmora.wondershare.com&u1=4282726",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171629693154565210.webp",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 21:16:08",
+      "updatedAt": "2024-05-21 21:16:08"
+    },
+    {
+      "name": "Evoto AI",
+      "description": "Next-gen AI photo editor for fast and high-quality photo processing.",
+      "website": "https://www.evoto.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/8d5bf9085b3f284d81d98cb8d9c1c3c0.jpeg",
+      "category": "AI Image Enhancer",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Photo & Image Editor",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:41",
+      "updatedAt": "2023-03-07 16:48:41"
+    },
+    {
+      "name": "BIGVU",
+      "description": "BIGVU is a versatile tool for creating professional videos with teleprompter, captioning, and video editing features.",
+      "website": "https://desk.bigvu.tv?fpr=toolify-chen76",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168264849901471132.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI Short Clips Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 10:22:18",
+      "updatedAt": "2023-04-28 10:22:18"
+    },
+    {
+      "name": "BeautyPlus - AI Photo Editor",
+      "description": "AI-powered beauty camera & photo editing app",
+      "website": "https://www.beautyplus.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170936513363401125.webp",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Video Editor",
+        "AI Photo Enhancer",
+        "AI Photo & Image Generator",
+        "AI Background Remover",
+        "AI Social Media Assistant",
+        "AI Image Enhancer",
+        "AI Video Enhancer",
+        "AI Background Generator",
+        "AI Selfie & Portrait"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-02 15:38:16",
+      "updatedAt": "2024-03-02 15:38:16"
+    },
+    {
+      "name": "Clipfly",
+      "description": "Easy AI video editor for stunning videos.",
+      "website": "https://www.clipfly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651766632296209.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:02",
+      "updatedAt": "2024-01-29 16:40:02"
+    },
+    {
+      "name": "Gling",
+      "description": "Gling AI is an AI-powered video editing tool that automates the editing process for YouTubers.",
+      "website": "https://gling.ai/?via=wenhua",
+      "image": "https://cdn-images.toolify.ai/image/8f9989fc100dad1b6c16fd8c6f613fd4.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI YouTube Assistant",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "Gling AI",
+      "description": "AI-powered video editing tool that automatically detects and removes silences and bad takes.",
+      "website": "https://gling.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218836773048951.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "Voice & Audio Editing",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "VidAU",
+      "description": "Generate engaging videos in batches within a few minutes",
+      "website": "https://affiliates.vidau.ai/XfqLzb",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807163103347710.webp",
+      "category": "AI Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Short Clips Generator",
+        "AI Personalized Video Generator",
+        "AI Speech Synthesis",
+        "AI Voice Cloning",
+        "Text-to-Speech",
+        "AI Lip Sync Generator",
+        "Captions or Subtitle",
+        "Video to Video",
+        "Translate",
+        "Text to Video",
+        "Image to Video",
+        "AI Face Swap Generator",
+        "AI Background Remover",
+        "AI Photo Enhancer",
+        "Photo & Image Editor",
+        "AI Avatar Generator",
+        "AI Content Generator",
+        "AI Video Enhancer",
+        "AI Tiktok Assistant",
+        "AI Ad Creative Assistant",
+        "AI Repurpose Assistant",
+        "AI Social Media Assistant",
+        "AI Advertising Assistant",
+        "AI Facebook Assistant",
+        "AI YouTube Assistant",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:16:24",
+      "updatedAt": "2024-06-11 10:16:24"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "FireCut AI",
+      "description": "Automate editing tasks in Adobe Premiere Pro.",
+      "website": "https://firecut.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578508667804988.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Bith.AI [Ghost]",
+      "description": "Text-to-Video AI Generator for Faceless Creators",
+      "website": "https://bith.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171094075637417324.webp",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-20 21:19:02",
+      "updatedAt": "2024-03-20 21:19:02"
+    },
+    {
+      "name": "VMEG - Clips to Videos",
+      "description": "Transform Clips into Captivating Marketing Videos with AI",
+      "website": "https://www.vmeg.pro/clips-to-videos?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172251915158991985.png",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Video Editor",
+        "AI Advertising Assistant",
+        "Digital Marketing Generator",
+        "AI Instagram Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "Video to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-01 21:21:31",
+      "updatedAt": "2024-08-01 21:21:31"
+    },
+    {
+      "name": "LipDub AI",
+      "description": "AI tool for lip syncing and video translation across multiple languages.",
+      "website": "https://www.lipdub.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007973491249275.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Lip Sync Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:47",
+      "updatedAt": "2024-10-28 09:39:47"
+    },
+    {
+      "name": "Video Face Swap",
+      "description": "Swap faces in any video effortlessly with our completely free AI face swap tool!",
+      "website": "https://videofaceswap.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172966863935723777.jpg",
+      "category": "AI Face Swap Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Face Swap Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 16:40:57",
+      "updatedAt": "2024-10-23 16:40:57"
+    },
+    {
+      "name": "Wisecut",
+      "description": "A time-saving video editor that transforms long videos into short, engaging clips with AI-powered tools.",
+      "website": "https://www.wisecut.video?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c82e27804fe9a124dcd28cdc83739b53.jpeg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Oxolo",
+      "description": "Transform URLs into captivating videos effortlessly.",
+      "website": "https://oxolo.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373308265293884.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Animated Video",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Analytics Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:13",
+      "updatedAt": "2023-12-28 11:11:13"
+    },
+    {
+      "name": "Shortmake AI",
+      "description": "Create viral TikTok with AI in one click, not one hour \u23f1\ufe0f",
+      "website": "https://app.shortmake.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173077013985940320.jpg",
+      "category": "AI Animated Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Animated Video",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "Text to Image",
+        "AI Video Search",
+        "AI Personalized Video Generator",
+        "Image to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-05 09:32:11",
+      "updatedAt": "2024-11-05 09:32:11"
+    },
+    {
+      "name": "Slick",
+      "description": "Convert videos to viral shorts in minutes.",
+      "website": "https://slick.is?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170049532590127357.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant",
+        "AI Video Editor",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-20 23:48:07",
+      "updatedAt": "2023-11-20 23:48:07"
+    },
+    {
+      "name": "WowTo",
+      "description": "Create videos and host video knowledge base easily.",
+      "website": "https://wowto.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ff905fa32ce7db86293f1147eb711457.jpeg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Product Description Generator",
+        "AI Short Clips Generator",
+        "AI Tutorial",
+        "AI Video Editor",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:45",
+      "updatedAt": "2023-03-07 16:48:45"
+    },
+    {
+      "name": "Autopilot Shorts",
+      "description": "Automate your social media video shorts with AI-generated content.",
+      "website": "https://autopilotshorts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068428097264361.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 12:35:38",
+      "updatedAt": "2024-11-04 12:35:38"
+    },
+    {
+      "name": "yuzzit.video",
+      "description": "Edit, publish, and broadcast videos on social networks.",
+      "website": "https://yuzzit.video?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073432250027325.webp",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Social Media Assistant",
+        "AI Customer Service Assistant",
+        "Captions or Subtitle",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 11:57:59",
+      "updatedAt": "2024-03-18 11:57:59"
+    },
+    {
+      "name": "Renderfire AI",
+      "description": "Faceless videos on autopilot",
+      "website": "https://renderfire.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172277755369339712.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-04 21:22:26",
+      "updatedAt": "2024-08-04 21:22:26"
+    },
+    {
+      "name": "Replayed",
+      "description": "YouTube channel growth with personalized editing.",
+      "website": "https://replayed.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566220186391137.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Photo & Image Editor",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:43",
+      "updatedAt": "2024-05-14 12:49:43"
+    },
+    {
+      "name": "Banva",
+      "description": "Banva is a powerful subtitle generator and editor with fast and accurate automatic generation in over 50 languages.",
+      "website": "https://banva.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987690910178697.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 02:14:20",
+      "updatedAt": "2023-07-21 02:14:20"
+    },
+    {
+      "name": "Wannafake",
+      "description": "Swap faces in videos with just one photo.",
+      "website": "https://wannafake.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349868253071293.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Face Swap Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Voice Cloning",
+        "AI Video Generator",
+        "Video to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:54",
+      "updatedAt": "2023-12-25 18:00:54"
+    },
+    {
+      "name": "Creative magic panel",
+      "description": "\"CreativeMagicPanel simplifies photo retouching in Photoshop with 277 features, saving time for professionals and enthusiasts.\"",
+      "website": "https://creativemagicpanel.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134169331641287.jpg",
+      "category": "AI Photo Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo Enhancer",
+        "AI Product Description Generator",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "Change Face With AI",
+      "description": "Realistic and seamless AI-generated face swaps.",
+      "website": "https://www.changeface.online?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530652299222059.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Face Swap Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:46",
+      "updatedAt": "2024-01-15 16:12:46"
+    },
+    {
+      "name": "MobbyDownload",
+      "description": "Online tool for cutting and editing YouTube videos.",
+      "website": "https://www.mobbydownload.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159689744087453.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Video Recording",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:02",
+      "updatedAt": "2024-11-14 23:10:02"
+    },
+    {
+      "name": "Focal",
+      "description": "Focal is a platform where you can create your own TV shows and movies with AI.",
+      "website": "https://focalml.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173035045157499296.jpg",
+      "category": "AI Anime & Cartoon Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Anime & Cartoon Generator",
+        "AI Animated Video",
+        "Image to Video",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-31 12:57:05",
+      "updatedAt": "2024-10-31 12:57:05"
+    },
+    {
+      "name": "Aug X Labs AI video editing",
+      "description": "Aug X Labs is an AI startup that converts words into personalized video content.",
+      "website": "https://www.augxlabs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168346268806197375.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Generator",
+        "AI Animated Video",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 20:32:30",
+      "updatedAt": "2023-05-07 20:32:30"
+    },
+    {
+      "name": "Dubbah.co",
+      "description": "AI video dubbing for accessibility",
+      "website": "https://dubbah.co/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171498116623875340.webp",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "AI Voice Cloning",
+        "AI Video Editor",
+        "Text-to-Speech",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-06 15:39:11",
+      "updatedAt": "2024-05-06 15:39:11"
+    },
+    {
+      "name": "Klipme",
+      "description": "Klipme is a visual AI video editor that automates video editing and allows users to create reels.",
+      "website": "https://klipmeapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295779451788045.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "dojo clip video editing",
+      "description": "AI copilot for video editing",
+      "website": "https://dojoclip.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170030584436279964.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-18 19:10:24",
+      "updatedAt": "2023-11-18 19:10:24"
+    },
+    {
+      "name": "AutoCut",
+      "description": "Premiere Pro plugin with AI for automated video editing.",
+      "website": "https://www.autocut.fr/en/?coupon=a3Z5Uumo72nw5cW#pricing",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350458074656860.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Advertising Assistant",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:39",
+      "updatedAt": "2023-12-25 18:16:39"
+    },
+    {
+      "name": "Video Editor AI",
+      "description": "Online platform, Video Editor AI, lets users edit or create videos using artificial intelligence.",
+      "website": "https://videoeditorai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476365012507397.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Personalized Video Generator",
+        "AI Animated Video",
+        "AI Background Remover"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:27:03",
+      "updatedAt": "2023-05-22 20:27:03"
+    },
+    {
+      "name": "ByteSense",
+      "description": "Optimizes YouTube video quality based on content type.",
+      "website": "https://chromewebstore.google.com/detail/bytesense/fodecdicocihkpcepeegojnmmijnobef?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776759414183630.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:36",
+      "updatedAt": "2024-06-07 21:39:36"
+    },
+    {
+      "name": "MotionMate",
+      "description": "Boost your brand with captivating animations, explainer videos, social media ads, product demos, logo animations, and more.",
+      "website": "https://motionmate.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159312785089917.webp",
+      "category": "AI Logo Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Logo Generator",
+        "Image to Video",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Background Generator",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:33",
+      "updatedAt": "2024-03-28 10:30:33"
+    },
+    {
+      "name": "VidMaskPro",
+      "description": "Apply AI filters to your videos.",
+      "website": "https://www.vidmask.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191982391712198.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Video Enhancer",
+        "AI Video Generator",
+        "AI Animated Video",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:58",
+      "updatedAt": "2023-12-07 11:28:58"
+    },
+    {
+      "name": "ImageFixPro",
+      "description": "Enhance your photos with AI technology.",
+      "website": "https://imagefixpro.de?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152559114442933.jpg",
+      "category": "AI Background Remover",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "AI Image Enhancer",
+        "Image to Image",
+        "Photo & Image Editor",
+        "AI Video Editor",
+        "AI Photo Enhancer",
+        "AI Photo Restoration",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:21",
+      "updatedAt": "2023-12-02 21:59:21"
+    },
+    {
+      "name": "Million Dollar Edit: AI Video Editing",
+      "description": "AI-powered video editing course for effortless content creation.",
+      "website": "https://www.milliondollaredit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969515270686093.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Tutorial",
+        "AI Video Editor",
+        "AI Course",
+        "AI Coaching"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:10",
+      "updatedAt": "2023-11-11 17:32:10"
+    },
+    {
+      "name": "VideoGPT",
+      "description": "Effortlessly extract still frames from videos for ChatGPT-4V.",
+      "website": "https://video-gpt.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169885100464978054.jpg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Generator",
+        "Video to Video",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-01 23:01:37",
+      "updatedAt": "2023-11-01 23:01:37"
+    },
+    {
+      "name": "Obiklip",
+      "description": "Streamline video editing for speech and podcast content with auto-transcription and easy segment clipping.",
+      "website": "https://obiklip.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169798056516573677.jpg",
+      "category": "AI Podcast Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Podcast Assistant",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "Transcription"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-22 21:15:51",
+      "updatedAt": "2023-10-22 21:15:51"
+    },
+    {
+      "name": "AccessBell",
+      "description": "Instant video conferencing solution",
+      "website": "https://chromewebstore.google.com/detail/accessbell/clliajiobonlidbbleicfiafhgaaddbp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679944772227956.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Customer Service Assistant",
+        "AI Video Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:43",
+      "updatedAt": "2024-05-25 21:31:43"
+    },
+    {
+      "name": "SmartYouTube Music",
+      "description": "Skip ads while listening to YouTube music.",
+      "website": "https://chromewebstore.google.com/detail/smartyoutube-music/egceloldfohnnjgnejgioilkdpocknac?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679945199047113.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:43",
+      "updatedAt": "2024-05-25 21:31:43"
+    },
+    {
+      "name": "YouTube Create",
+      "description": "Enhance your videos easily with YouTube Create.",
+      "website": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.producer&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169574501825166852.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Short Clips Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 00:16:17",
+      "updatedAt": "2023-09-27 00:16:17"
+    },
+    {
+      "name": "ToobSquid: AI Youtube Titles and Descriptions",
+      "description": "AI tool for YouTube titles",
+      "website": "https://chromewebstore.google.com/detail/toobsquid-ai-youtube-titl/gmaafomgeemhdedjkfbcjdgfeedffemi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954114900406.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Thumbnail Maker",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:07",
+      "updatedAt": "2024-05-26 18:30:07"
+    },
+    {
+      "name": "VidAI",
+      "description": "AI-powered YouTube content enhancement",
+      "website": "https://chromewebstore.google.com/detail/vidai/hphfliggkgombflhagnibkclkllpbkpk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687103431402678.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "AI SEO Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:07",
+      "updatedAt": "2024-05-28 12:37:07"
+    },
+    {
+      "name": "Servomancer Tennis Browser Extension",
+      "description": "AI removes non-playing time",
+      "website": "https://chromewebstore.google.com/detail/servomancer-tennis-browse/dpkkdfdpbmefefelfcolibkdipmgdido?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687106013729186.jpg",
+      "category": "Sports",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Sports",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:10",
+      "updatedAt": "2024-05-28 12:37:10"
+    },
+    {
+      "name": "Voice Control for Disney+",
+      "description": "Voice commands for Disney+",
+      "website": "https://chromewebstore.google.com/detail/voice-control-for-disney+/fbheobmgobjcckenpgighhjeoibhkkca?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687106412105918.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:10",
+      "updatedAt": "2024-05-28 12:37:10"
+    },
+    {
+      "name": "FasTube",
+      "description": "AI-generated timestamps for quick access",
+      "website": "https://chromewebstore.google.com/detail/fastube/pmpollhgkcnhglgokbbjfgeecbnfhnll?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687108627013908.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "Summarizer",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:21",
+      "updatedAt": "2024-05-28 12:37:21"
+    },
+    {
+      "name": "Youtube AI Speed Adjuster",
+      "description": "AI-driven speed adjustments for YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube-ai-speed-adjuster/jdhlnonnbpgcbhdmkelofhebanpgohca?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687108939987474.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:21",
+      "updatedAt": "2024-05-28 12:37:21"
+    },
+    {
+      "name": "YouTube Ad Skip",
+      "description": "Skip video and close banner ads on YouTube.",
+      "website": "https://chromewebstore.google.com/detail/youtube-ad-skip/lnkkcbkdoeglilbeidpongfojhbepkpl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703917056831950.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:35",
+      "updatedAt": "2024-05-30 11:18:35"
+    },
+    {
+      "name": "Yishow: Create video how-to guide",
+      "description": "Revolutionizing guide creation process",
+      "website": "https://chromewebstore.google.com/detail/yishow-create-video-how-t/jgoagflhhhbooeefkgiflgdnbhfgdbpn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703944313115833.jpg",
+      "category": "AI Tutorial",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tutorial",
+        "AI PDF",
+        "AI Video Recording",
+        "AI Video Editor",
+        "AI Repurpose Assistant",
+        "AI Response Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Roadmap Generator",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:25",
+      "updatedAt": "2024-05-30 11:23:25"
+    },
+    {
+      "name": "VidDigest - ChatGPT for Youtube Videos",
+      "description": "Enhance YouTube with ChatGPT",
+      "website": "https://chromewebstore.google.com/detail/viddigest-chatgpt-for-you/ikbdnbdoajnfbekhkcklgebljgdfolfe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703943516878713.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "Luppa AI",
+      "description": "Luppa is the all-in-one AI-powered content creation platform that helps businesses and creators effortlessly produce, manage, and grow their brand across all digital channels.",
+      "website": "https://luppa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173208152590769726.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
+    },
+    {
+      "name": "MotionX",
+      "description": "AI-based video editing and generation platform",
+      "website": "https://motionnx.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016981146303280.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Script Writing",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:23",
+      "updatedAt": "2024-07-05 16:56:23"
+    },
+    {
+      "name": "Syft",
+      "description": "Syft automates the process of creating short videos from long videos, saving time for content creators.",
+      "website": "https://www.syft.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168647174065866384.jpg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Content Generator",
+        "AI Animated Video",
+        "AI Podcast Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 16:22:09",
+      "updatedAt": "2023-06-11 16:22:09"
+    },
+    {
+      "name": "Captora AI",
+      "description": "Automated faceless video creation using AI",
+      "website": "https://www.captora.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043226185371479.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI Tiktok Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:07",
+      "updatedAt": "2024-07-08 17:48:07"
+    },
+    {
+      "name": "AskKarlMarx.com",
+      "description": "Summary: AskKarlMarx is a website providing insights into Karl Marx's ideas and their historical and societal impact.",
+      "website": "https://askkarlmarx.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622710435926949.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 20:24:34",
+      "updatedAt": "2023-06-08 20:24:34"
+    },
+    {
+      "name": "Smart Media Cutter",
+      "description": "AI-powered tool for fast, lossless video and audio cutting",
+      "website": "https://smartmediacutter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052440122255886.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Podcast Assistant",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "AI Audio Enhancer",
+        "Voice & Audio Editing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:29",
+      "updatedAt": "2024-07-09 19:23:29"
+    },
+    {
+      "name": "Decoherence",
+      "description": "Decoherence uses AI to create unfilmable music videos based on user's descriptions.",
+      "website": "https://www.decoherence.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3ddb1bf92d0e77c818832f96db9090c9.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Music Video Generator",
+        "AI Short Clips Generator",
+        "AI UGC Video Generator",
+        "AI Video Editor",
+        "AI Video Generator",
+        "AI Animated Video",
+        "AI Advertising Assistant",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "TubeNXT",
+      "description": "AI Chrome extension for optimizing YouTube content creation.",
+      "website": "https://chromewebstore.google.com/detail/tubenxt/meaieklbnkpcmaafcphibnlmpfapbjpg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176289537258670.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "AI SEO Assistant",
+        "AI Thumbnail Maker",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:14:45",
+      "updatedAt": "2024-11-16 21:14:45"
+    },
+    {
+      "name": "TinyStudio",
+      "description": "Effortlessly generate subtitles for video and audio files on your Mac.",
+      "website": "https://apps.apple.com/us/app/tinystudio/id6448954288?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528294325098670.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:08:09",
+      "updatedAt": "2023-05-28 22:08:09"
+    },
+    {
+      "name": "Bleepify",
+      "description": "Automatically remove profanity from any video",
+      "website": "https://bleepify.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172619277856785244.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-13 10:09:58",
+      "updatedAt": "2024-09-13 10:09:58"
+    },
+    {
+      "name": "Kill Frames",
+      "description": "AI montage editor for Valorant gameplay recordings.",
+      "website": "https://www.killframes.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709750476176535.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "Immagin",
+      "description": "Immagin is an AI-powered image processing API and CDN for optimization and storage.",
+      "website": "https://immag.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476396290058235.jpg",
+      "category": "Image to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Image to Image",
+        "AI Video Editor",
+        "Photo & Image Editor",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 21:04:20",
+      "updatedAt": "2023-05-22 21:04:20"
+    },
+    {
+      "name": "AI Video Narration",
+      "description": "Easy AI-driven video narration for professional-quality results.",
+      "website": "https://spaceshub.live?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855765229728603.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:52:51",
+      "updatedAt": "2024-10-10 18:52:51"
+    },
+    {
+      "name": "InVideo",
+      "description": "InVideo is an online video editor with premium templates, images, and music.",
+      "website": "https://invideo.sjv.io/zN76Mm",
+      "image": "https://cdn-images.toolify.ai/image/b6d5647300437121a7941a8933ca40a1.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Advertising Assistant",
+        "AI Personalized Video Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Animated Video",
+        "AI Video Generator",
+        "AI Logo Generator",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:47",
+      "updatedAt": "2023-03-07 16:48:47"
+    },
+    {
+      "name": "Ssemble YouTube Shorts Maker",
+      "description": "AI-powered video clip creator",
+      "website": "https://ssemble.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171964960677713071.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI YouTube Assistant",
+        "AI Thumbnail Maker",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-29 16:40:29",
+      "updatedAt": "2024-06-29 16:40:29"
+    },
+    {
+      "name": "Remove Background AI",
+      "description": "An online AI tool that removes backgrounds from images and videos, with seamless integration options.",
+      "website": "https://removebackgroundai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415736285942788.jpg",
+      "category": "AI Background Remover",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "AI Video Editor",
+        "AI Background Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 21:28:44",
+      "updatedAt": "2023-05-15 21:28:44"
+    },
+    {
+      "name": "Chat2VideoEdit",
+      "description": "Edit videos without watermark",
+      "website": "https://www.bestfreevideoeditingsoftwarenowatermark.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350573649155458.webp",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:55:33",
+      "updatedAt": "2024-04-19 13:55:33"
+    },
+    {
+      "name": "CapCut",
+      "description": "AI-powered video editor and graphic design tool for all platforms.",
+      "website": "https://capcut.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350414718083204.jpg",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "AI Video Editor",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "wondershare.com",
+      "description": "Creativity, productivity, and utility solutions.",
+      "website": "https://wondershare.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350415727375190.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Product Description Generator",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "VEED.IO",
+      "description": "Free AI video editor with text to video, avatars, auto-subtitles, voice translations.",
+      "website": "https://veed.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350418441260041.jpg",
+      "category": "AI Background Remover",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Background Remover",
+        "AI Advertising Assistant",
+        "AI Animated Video",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Image Enhancer",
+        "AI Noise Cancellation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:21",
+      "updatedAt": "2023-12-25 18:20:21"
+    },
+    {
+      "name": "Zeemo",
+      "description": "Zeemo AI is a powerful tool for captioning videos with accurate and fast audio to text transcription.",
+      "website": "https://zeemo.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169149925454586845.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "Transcription",
+        "AI Speech Recognition",
+        "AI Video Editor",
+        "Speech-to-Text",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "SnapEdit - All-in-one AI Photo Editor",
+      "description": "SnapEdit.App is a free online photo editor that utilizes AI to remove objects/people and enhance photos.",
+      "website": "https://snapedit.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577931569751752.jpg",
+      "category": "Photo & Image Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Photo & Image Editor",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Product Description Generator",
+        "AI Video Editor",
+        "AI Tutorial",
+        "AI Background Remover",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:01:44",
+      "updatedAt": "2023-06-03 16:01:44"
+    },
+    {
+      "name": "FlexClip",
+      "description": "Create and edit videos easily with FlexClip, a free online video editor.",
+      "website": "https://www.flexclip.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168847725267764089.jpg",
+      "category": "AI Animated Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Animated Video",
+        "AI Personalized Video Generator",
+        "AI Short Clips Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:45:37",
+      "updatedAt": "2023-05-22 20:45:37"
+    },
+    {
+      "name": "Descript",
+      "description": "An all-in-one editing software for videos and podcasts with AI technology.",
+      "website": "https://www.descript.com/?lmref=LZUtWw",
+      "image": "https://cdn-images.toolify.ai/image/3ebd7a653ecae95571bcc74258b36f3e.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Product Description Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "HitPaw Edimakor",
+      "description": "AI video editor with advanced features",
+      "website": "https://www.hitpaw.com/video-editor.html?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1714052499193587.webp",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-25 21:47:49",
+      "updatedAt": "2024-04-25 21:47:49"
+    },
+    {
+      "name": "Wondershare Filmora",
+      "description": "Edit videos with ease.",
+      "website": "https://click.linksynergy.com/deeplink?id=1R8N9G*h/hM&mid=37160&murl=https%3A%2F%2Ffilmora.wondershare.com&u1=4282726",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17140524882726672.webp",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-25 21:47:40",
+      "updatedAt": "2024-04-25 21:47:40"
+    },
+    {
+      "name": "Nero Software",
+      "description": "Premium multimedia software for burning, editing, and more.",
+      "website": "https://nero.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350421414591676.jpg",
+      "category": "AI Video Editor",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Recording"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:23",
+      "updatedAt": "2023-12-25 18:20:23"
+    },
+    {
+      "name": "VideoGen - AI Video Generator",
+      "description": "Create AI-generated videos in seconds.",
+      "website": "https://videogen.io/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349864527105780.jpg",
+      "category": "AI Video Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Generator",
+        "Text to Video",
+        "Text-to-Speech",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator",
+        "AI Analytics Assistant",
+        "Captions or Subtitle",
+        "AI Speech Synthesis",
+        "AI SEO Assistant",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:52",
+      "updatedAt": "2023-12-25 18:00:52"
+    },
+    {
+      "name": "TopView.ai",
+      "description": "The best AI video editor. You upload, AI edit.",
+      "website": "https://www.topview.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171188588859468853.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Video Editor",
+        "AI Tiktok Assistant",
+        "AI Content Generator",
+        "Photo & Image Editor",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 19:54:48",
+      "updatedAt": "2024-03-31 19:54:48"
+    },
+    {
+      "name": "FocuSee",
+      "description": "Automatic screen recording with zoom effects and professional editing.",
+      "website": "https://gemoo.com/focusee?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169961527755136304.jpg",
+      "category": "AI Video Recording",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "AI Short Clips Generator",
+        "AI Tutorial",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-10 19:36:29",
+      "updatedAt": "2023-11-10 19:36:29"
+    },
+    {
+      "name": "Ssemble",
+      "description": "AI tool to create engaging video shorts",
+      "website": "https://www.ssemble.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208850940999754.jpg",
+      "category": "Captions or Subtitle",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Captions or Subtitle",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant",
+        "AI Video Recording",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:54",
+      "updatedAt": "2024-07-27 21:54:54"
+    },
+    {
+      "name": "Vidyo.ai",
+      "description": "vidyo.ai helps repurpose podcasts and videos into shareable clips for social media.",
+      "website": "https://vidyo.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167930397552566969.png",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Short Clips Generator",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI Video Generator",
+        "Captions or Subtitle",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Cococlip AI",
+      "description": "AI video editor for social media creators",
+      "website": "https://cococlip.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052434458078582.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant",
+        "AI Video Editor",
+        "Large Language Models (LLMs)",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Repurpose Assistant",
+        "AI UGC Video Generator",
+        "AI Personalized Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:27",
+      "updatedAt": "2024-07-09 19:23:27"
+    },
+    {
+      "name": "Visla",
+      "description": "Visla is an AI-powered platform for easy video recording, editing, and sharing.",
+      "website": "https://www.visla.us?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/8879077ac115947726b2a2c69fdcee0e.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Video Recording",
+        "AI Short Clips Generator",
+        "AI Video Editor",
+        "AI Video Generator",
+        "Recording",
+        "AI Product Description Generator",
+        "AI Team Collaboration",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Panda Video",
+      "description": "Plataforma de hospedagem de v\u00eddeos com recursos avan\u00e7ados para aumentar a venda de produtos digitais e garantir a seguran\u00e7a contra pirataria. Pre\u00e7o baixo, reprodu\u00e7\u00e3o r\u00e1pida, DRM, Lives HD e muito mais.",
+      "website": "https://pandavideo.com.br?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349919864953327.jpg",
+      "category": "AI Video Recording",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Recording",
+        "AI Short Clips Generator",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:27",
+      "updatedAt": "2023-12-25 18:09:27"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

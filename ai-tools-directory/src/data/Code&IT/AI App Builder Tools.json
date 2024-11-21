@@ -1,0 +1,2681 @@
+{
+  "tools": [
+    {
+      "name": "Appy Pie",
+      "description": "Codeless app development with AI.",
+      "website": "https://appypie.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413546561734.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Coze",
+      "description": "An AI chat bot development platform with LLMs.",
+      "website": "https://www.coze.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477858937753392.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Chatbot",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Hex",
+      "description": "Modern data platform for collaborative analytics.",
+      "website": "https://hex.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349949851394980.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Team Collaboration",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:24",
+      "updatedAt": "2023-12-25 18:13:24"
+    },
+    {
+      "name": "Pickaxe",
+      "description": "No-code platform Pickaxe enables prompt engineers to build and manage AI apps easily.",
+      "website": "https://www.pickaxeproject.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/681a1d7c7c722171e26eb7adec5695f8.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Content Generator",
+        "AI Developer Tools",
+        "AI Tools Directory",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "NCF3",
+      "description": "No Code Founders helps non-technical founders build online businesses without coding.",
+      "website": "https://nocodefounders.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168381156081151589.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 21:25:48",
+      "updatedAt": "2023-05-11 21:25:48"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "gptengineer.app",
+      "description": "Build web apps with English, rapid and easy prototyping.",
+      "website": "https://gptengineer.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477859754087289.jpg",
+      "category": "AI Landing Page Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Landing Page Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "PartyRock",
+      "description": "Build AI apps easily and learn generative AI with PartyRock.",
+      "website": "https://partyrock.aws?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170023882797892810.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-18 00:32:49",
+      "updatedAt": "2023-11-18 00:32:49"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "AlTable.ai: No-code Al Agents Builder",
+      "description": "Turn tables into AI chatbots with one click.",
+      "website": "https://aitable.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169917803731451943.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI API Design",
+        "No-Code&Low-Code",
+        "AI Developer Tools",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-05 17:52:55",
+      "updatedAt": "2023-11-05 17:52:55"
+    },
+    {
+      "name": "Autodevs by Create",
+      "description": "AI powered devs for fast app development.",
+      "website": "https://www.create.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169530366257190701.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Product Description Generator",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-21 21:39:07",
+      "updatedAt": "2023-09-21 21:39:07"
+    },
+    {
+      "name": "Brancher AI",
+      "description": "Create powerful AI apps without coding. Monetize and share your creations.",
+      "website": "https://www.brancher.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/529489aaf69b447bea59c9b3d05158f0.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "BuildAI space",
+      "description": "BuildAI is a user-friendly platform that empowers businesses to create AI-driven web apps without coding.",
+      "website": "https://www.buildai.space?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167897426671765701.png",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Trip Planner"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-16 21:47:02",
+      "updatedAt": "2023-03-16 21:47:02"
+    },
+    {
+      "name": "AI-assisted Bravorizer",
+      "description": "Bravo Studio is a Figma plugin that efficiently converts designs into interactive prototypes.",
+      "website": "https://www.bravostudio.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168684695567531767.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 00:35:33",
+      "updatedAt": "2023-06-16 00:35:33"
+    },
+    {
+      "name": "GPTBots.AI",
+      "description": "Powerful AI Bot Platform Built for Business",
+      "website": "https://www.gptbots.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053863363482648.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Social Media Assistant",
+        "AI SEO Assistant",
+        "AI Podcast Assistant",
+        "AI Customer Service Assistant",
+        "AI Blog Writer",
+        "AI Facebook Assistant",
+        "AI Email Generator",
+        "AI YouTube Assistant",
+        "AI Creative Writing",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Email Writer",
+        "Sales Assistant",
+        "AI Interview Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "questAI",
+      "description": "Generate clean, extendable React components from Figma designs without manual coding with Quest.",
+      "website": "https://quest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267213286230679.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 16:57:22",
+      "updatedAt": "2023-04-28 16:57:22"
+    },
+    {
+      "name": "Quest AI",
+      "description": "Quest platform generates React components and clean code from Figma designs.",
+      "website": "https://www.quest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585182823653293.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Landing Page Builder",
+        "AI Product Description Generator",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:20",
+      "updatedAt": "2023-06-04 12:09:20"
+    },
+    {
+      "name": "Automagical Apps",
+      "description": "Productivity apps for Google Workspace and Chrome Extensions. Used by over 3 million users.",
+      "website": "https://automagicalapps.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350458991983355.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Productivity Tools",
+        "AI Forms & Surveys"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:40",
+      "updatedAt": "2023-12-25 18:16:40"
+    },
+    {
+      "name": "Sparkle 5",
+      "description": "Sparkle is a user-friendly Mac website builder for beginners, businesses, and designers.",
+      "website": "https://sparkleapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494011561152477.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:54:15",
+      "updatedAt": "2023-05-24 22:54:15"
+    },
+    {
+      "name": "Pico",
+      "description": "Summary: Pico is a user-friendly website builder that enables easy creation and customization of websites without coding skills.",
+      "website": "https://picoapps.xyz/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584866699582697.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 11:16:46",
+      "updatedAt": "2023-06-04 11:16:46"
+    },
+    {
+      "name": "Trible",
+      "description": "Trible is a platform that helps coaches and creators monetize their expertise.",
+      "website": "https://trible.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168459514196745058.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "AI Website Designer",
+        "No-Code&Low-Code",
+        "AI Course",
+        "AI Coaching",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-20 23:05:03",
+      "updatedAt": "2023-05-20 23:05:03"
+    },
+    {
+      "name": "AI-assisted Contember Studio",
+      "description": "Contember is a backend platform that enables users to launch their backends quickly, with customizable code and unlimited scalability.",
+      "website": "https://www.contember.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053866938307813.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "AI Code Generator",
+        "AI API Design",
+        "AI Website Builder",
+        "AI Website Designer",
+        "AI Code Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Patterns",
+      "description": "Patterns enables users to effortlessly build powerful AI systems using reusable components.",
+      "website": "https://www.patterns.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517130256253536.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 15:08:03",
+      "updatedAt": "2023-05-27 15:08:03"
+    },
+    {
+      "name": "Alta",
+      "description": "Create AI chatbots, websites, and mobile apps easily without coding using Alta platform.",
+      "website": "https://alta.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543955961983239.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Chatbot",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:38:36",
+      "updatedAt": "2023-05-30 17:38:36"
+    },
+    {
+      "name": "SpeakNotes",
+      "description": "AI-driven app, SpeakNotes, transcribes and summarizes voice notes into actionable text.",
+      "website": "https://speaknotes.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168632470966047309.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Product Description Generator",
+        "AI Notes Assistant",
+        "Speech-to-Text",
+        "Summarizer",
+        "Transcription",
+        "AI Voice Assistants",
+        "Transcriber",
+        "AI Speech Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-09 23:31:25",
+      "updatedAt": "2023-06-09 23:31:25"
+    },
+    {
+      "name": "SmartGym",
+      "description": "Personalized workouts with real-time suggestions.",
+      "website": "https://smartgymapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477865027803872.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder",
+        "AI Advertising Assistant",
+        "Fitness"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:43",
+      "updatedAt": "2024-01-09 13:35:43"
+    },
+    {
+      "name": "Avais AI",
+      "description": "Avais is a volleyball training app that offers personalized coaching and real-time performance tracking.",
+      "website": "https://www.avais.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168347791035439294.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Coaching",
+        "AI Short Clips Generator",
+        "AI Video Recording",
+        "Large Language Models (LLMs)",
+        "Recording",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 01:03:14",
+      "updatedAt": "2023-05-08 01:03:14"
+    },
+    {
+      "name": "Clevis",
+      "description": "Create AI-powered apps without code.",
+      "website": "https://clevis.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169470841193678014.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-15 00:19:24",
+      "updatedAt": "2023-09-15 00:19:24"
+    },
+    {
+      "name": "Design My Room",
+      "description": "\"Design My Room is an AI-powered app that helps users redesign their rooms through photos or uploaded images, providing 5 design ideas.\"",
+      "website": "https://designmyroom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959903325585072.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Interior & Room Design",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 21:02:48",
+      "updatedAt": "2023-07-17 21:02:48"
+    },
+    {
+      "name": "Props AI",
+      "description": "Build complex AI API's with a simple interface.",
+      "website": "https://getprops.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169340882885181203.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-30 23:19:03",
+      "updatedAt": "2023-08-30 23:19:03"
+    },
+    {
+      "name": "Bricabrac AI",
+      "description": "Generate web apps using AI from text.",
+      "website": "https://bricabrac.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350464570054422.jpg",
+      "category": "AI App Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Code Generator",
+        "AI Task Management",
+        "AI Advertising Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:42",
+      "updatedAt": "2023-12-25 18:16:42"
+    },
+    {
+      "name": "Appomate",
+      "description": "Tailored AI solutions for your business",
+      "website": "https://appomate.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159308886471083.webp",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "AppManager",
+      "description": "Simplify IT for startups with AppManager's AI-powered app and user provisioning. Focus on growth while we take care of your IT needs.",
+      "website": "https://appmanager.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169711485870025524.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Documents Assistant",
+        "AI Files Assistant",
+        "AI CRM Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 20:46:19",
+      "updatedAt": "2023-10-12 20:46:19"
+    },
+    {
+      "name": "AI Photo",
+      "description": "IXEAU publishes apps for macOS and iOS, developed by Martin Lexow, enhancing Apple device experience.",
+      "website": "https://ixeau.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476421998513145.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 22:00:54",
+      "updatedAt": "2023-05-22 22:00:54"
+    },
+    {
+      "name": "ModularMind: No-Code AI Builder",
+      "description": "Connect, build, and optimize powerful AI workflows without coding.",
+      "website": "https://modularmind.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170119806357124497.jpg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Productivity Tools",
+        "AI Workflow Management",
+        "AI Scheduling",
+        "AI Task Management",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 03:00:30",
+      "updatedAt": "2023-11-29 03:00:30"
+    },
+    {
+      "name": "Applicate",
+      "description": "Applicate is an iPhone app for organizing and personalizing photos.",
+      "website": "https://www.applicate.biz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804552219446969.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:31:11",
+      "updatedAt": "2023-06-29 21:31:11"
+    },
+    {
+      "name": "Samurai",
+      "description": "Transform your save-later articles, videos, and talks into concise summaries using AI.",
+      "website": "https://gosamurai.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169909900082436448.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Summarizer",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 19:56:31",
+      "updatedAt": "2023-11-04 19:56:31"
+    },
+    {
+      "name": "Digital Emperor",
+      "description": "Digital Emperor is an AI Suite that enhances app development, providing design specs and independence.",
+      "website": "https://www.digital-emperor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168347774054493938.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 00:42:37",
+      "updatedAt": "2023-05-08 00:42:37"
+    },
+    {
+      "name": "Typeblock",
+      "description": "Create AI apps without code using a Canva-like editor.",
+      "website": "https://typeblock.co/?linkId=lp_950313&sourceId=toolify-chen&tenantId=typeblock",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169348461024359430.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-31 20:21:57",
+      "updatedAt": "2023-08-31 20:21:57"
+    },
+    {
+      "name": "BrideLook AI: Hairstyle Designer",
+      "description": "BrideLook AI is an app that uses AI to instantly design bridal hairstyles based on users' face shape.",
+      "website": "https://www.bridelookai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169008429881300210.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Selfie & Portrait",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Tutorial",
+        "AI Design Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-23 11:50:28",
+      "updatedAt": "2023-07-23 11:50:28"
+    },
+    {
+      "name": "Solid Apps",
+      "description": "A suite of productivity and organization apps that boost users' productivity and organization.",
+      "website": "https://solidapps.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169330347248023821.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Notes Assistant",
+        "AI Developer Tools",
+        "AI Productivity Tools",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-29 18:03:04",
+      "updatedAt": "2023-08-29 18:03:04"
+    },
+    {
+      "name": "Capit",
+      "description": "Automatically generate creative social captions from images and video.",
+      "website": "https://capit.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262645553846875.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:42",
+      "updatedAt": "2023-12-15 15:45:42"
+    },
+    {
+      "name": "Open Agent Studio",
+      "description": "The most powerful no-code agent editor.",
+      "website": "https://openagent.studio?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315301666382844.webp",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI Developer Tools",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:01",
+      "updatedAt": "2024-04-15 11:50:01"
+    },
+    {
+      "name": "Co-Founder AI",
+      "description": "Unlock your app idea's potential with Co-Founder AI's expert guidance.",
+      "website": "https://cofounderai.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169193534467408229.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-13 22:01:29",
+      "updatedAt": "2023-08-13 22:01:29"
+    },
+    {
+      "name": "Felvin",
+      "description": "\"Create, customize, and monetize AI apps without coding with Felvin.\"",
+      "website": "https://felvin.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/5d3ca110907386889b9b2903ceecc568.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "LocalizeBot",
+      "description": "LocalizeBot simplifies app localization, helps reach more users by translating into multiple languages.",
+      "website": "https://localizebot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295772529431102.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Translate",
+        "AI Website Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "Telepati",
+      "description": "Telepati is a mobile app for accessing ChatGPT and getting AI-powered answers in any language.",
+      "website": "https://telepati.info?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545907524659407.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Product Description Generator",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:04:18",
+      "updatedAt": "2023-05-30 23:04:18"
+    },
+    {
+      "name": "AppifyText.ai",
+      "description": "Create apps easily with AppifyText.ai, using AI to generate descriptions and install instantly.",
+      "website": "https://appifytext.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517556166928626.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:19:09",
+      "updatedAt": "2023-05-27 16:19:09"
+    },
+    {
+      "name": "Pythia World",
+      "description": "Matching founders with relevant apps for automation.",
+      "website": "https://www.pythia.world?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169348460789700428.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-31 20:21:57",
+      "updatedAt": "2023-08-31 20:21:57"
+    },
+    {
+      "name": "MegaPortal for macOS",
+      "description": "Bring trained models on your Apple devices and customize workflow.",
+      "website": "https://www.getmegaportal.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494312545821998.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Workflow Management",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:44:43",
+      "updatedAt": "2023-05-24 23:44:43"
+    },
+    {
+      "name": "Omniparsr",
+      "description": "OmniParser | Revolutionary AI Screen & Comic Analysis Tool",
+      "website": "http://omniparser.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147869940392297.jpg",
+      "category": "AI Manga & Comic",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Manga & Comic",
+        "AI Image Scanning",
+        "AI Developer Tools",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI Content Detector",
+        "Fun Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:24:54",
+      "updatedAt": "2024-11-13 14:24:54"
+    },
+    {
+      "name": "Takomo",
+      "description": "Takomo.ai is a no-code AI builder that simplifies the creation of unique AI applications and integration into projects.",
+      "website": "https://www.takomo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168433919830316174.jpg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI App Builder",
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "AI Content Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 23:59:16",
+      "updatedAt": "2023-05-17 23:59:16"
+    },
+    {
+      "name": "Nearly.AI",
+      "description": "Generate Laravel Backend Builder and reduce cost & time.",
+      "website": "https://nearly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454275556395403.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "No-Code&Low-Code",
+        "AI Project Management",
+        "AI Website Designer",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:03",
+      "updatedAt": "2023-09-13 02:19:03"
+    },
+    {
+      "name": "Glowby Genius by Glowbom",
+      "description": "Quickly develop apps with sketches.",
+      "website": "https://glowbom.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120080974392993.webp",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Designer",
+        "AI Photo & Image Generator",
+        "AI Design Generator",
+        "Photo & Image Editor",
+        "AI Background Generator",
+        "AI Logo Generator",
+        "AI Wallpaper Generator",
+        "AI Photo Enhancer",
+        "AI Banner Generator",
+        "AI Cover Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:06",
+      "updatedAt": "2024-03-23 21:32:06"
+    },
+    {
+      "name": "OppenheimerGPT: two AI brains, one app!",
+      "description": "Use AI models side-by-side on macOS.",
+      "website": "https://www.oppenheimer.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857009285503386.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 16:59:44",
+      "updatedAt": "2023-10-29 16:59:44"
+    },
+    {
+      "name": "AiTransform",
+      "description": "Offline AI toolset for text extraction, word generation, and file conversion.",
+      "website": "https://apps.apple.com/us/app/aitransform/id6447690790?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100875972433608.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Image Scanning"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:40",
+      "updatedAt": "2023-11-26 22:24:40"
+    },
+    {
+      "name": "Ethertext",
+      "description": "AI-powered clipboard for seamless text transformation.",
+      "website": "https://ethertext.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235947216916179.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Tools",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Code Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "Lensco",
+      "description": "AI-powered photo generator for personalized, high-quality photos.",
+      "website": "https://lensco.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c1a14b2bfa8c8f37fc80e01ea2f5c142.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Monitor AI",
+      "description": "Track OpenAI API costs and usage with Monitor AI.",
+      "website": "https://apps.apple.com/app/monitor-ai/id6449524153?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924961673887477.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Monitor & Report Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "GradeGenius",
+      "description": "Analyze and improve your writing with detailed scores and feedback.",
+      "website": "https://gradegenius.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667389040689338.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 00:30:57",
+      "updatedAt": "2023-06-14 00:30:57"
+    },
+    {
+      "name": "Fridge2Food - Transform food into meals",
+      "description": "Instant recipe ideas from your available ingredients",
+      "website": "https://apps.apple.com/us/app/fridge2food/id6474162577?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170416395632763357.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Cooking Assistant",
+        "AI Recipe Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 10:50:29",
+      "updatedAt": "2024-01-02 10:50:29"
+    },
+    {
+      "name": "InstaLingo",
+      "description": "AI app for text extraction, translation, and pronunciation.",
+      "website": "https://apps.apple.com/th/app/instalingo/id6680142408?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966121247168.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "Text-to-Speech",
+        "AI Speech Synthesis",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:13",
+      "updatedAt": "2024-10-28 09:39:13"
+    },
+    {
+      "name": "Prisms AI",
+      "description": "No-code platform Prisms helps users build AI-powered apps by connecting data, user inputs, and building blocks.",
+      "website": "https://prisms.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/122c8f09c5b908f263bca9aae277dd6a.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Large Language Models (LLMs)",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:30",
+      "updatedAt": "2023-03-07 16:48:30"
+    },
+    {
+      "name": "Couple Care AI Counselling",
+      "description": "An AI powered app helping couples & singles with relationship problems.",
+      "website": "https://play.google.com/store/apps/details?id=com.arijit.couplecare&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582579979339696.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Mental Health",
+        "AI Product Description Generator",
+        "AI Coaching",
+        "AI Consulting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "AppWeaver",
+      "description": "AI assistant builds apps through conversation.",
+      "website": "https://appweaver.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477861274444752.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "Aii.CX",
+      "description": "Enhance your website with free AI tools and apps.",
+      "website": "https://aii.cx?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170476553507714127.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 10:05:35",
+      "updatedAt": "2024-01-09 10:05:35"
+    },
+    {
+      "name": "Prompta",
+      "description": "AI-powered iOS app for boosted productivity.",
+      "website": "https://apps.apple.com/us/app/prompta-ai-hub-chat/id6446151307?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357208975501357.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:23",
+      "updatedAt": "2023-09-01 20:40:23"
+    },
+    {
+      "name": "WordSnap - AI Flashcards Maker",
+      "description": "AI-powered flashcard maker for efficient language learning.",
+      "website": "https://apps.apple.com/us/app/wordsnap-ai-flashcards-maker/id6475011960?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477165774267530.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 11:40:43",
+      "updatedAt": "2024-01-09 11:40:43"
+    },
+    {
+      "name": "5mino",
+      "description": "5mino is an android app that provides 5 minute activities to beat stress and loneliness.",
+      "website": "https://play.google.com/store/apps/details?id=com.fivemino&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170100876557366134.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-26 22:24:41",
+      "updatedAt": "2023-11-26 22:24:41"
+    },
+    {
+      "name": "healcovery",
+      "description": "AI-driven matching for behavioral healthcare programs.",
+      "website": "https://apps.apple.com/app/healcovery/id6698894036?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007965825072568.jpg",
+      "category": "Mental Health",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Mental Health",
+        "Healthcare",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:13",
+      "updatedAt": "2024-10-28 09:39:13"
+    },
+    {
+      "name": "Kapi: Learn To Write Nepali",
+      "description": "Offline Nepali language-learning app with machine learning for writing practice.",
+      "website": "https://play.google.com/store/apps/details?id=com.susonsapkota.kapi&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534823850655967.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Handwriting",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:46",
+      "updatedAt": "2023-05-29 16:16:46"
+    },
+    {
+      "name": "Xno.ai",
+      "description": "Qoddi is a hosting platform for mobile app deployment and management.",
+      "website": "https://xno.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/8a764d84b66e03498fa5ad240d585e58.jpeg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Docs",
+        "AI Tools Directory",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:41",
+      "updatedAt": "2023-03-07 16:48:41"
+    },
+    {
+      "name": "Aladdin lamp",
+      "description": "Wrist Q&A tool powered by advanced AI.",
+      "website": "https://apps.apple.com/us/app/aladdin-lamp/id6446077052?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168647181285054436.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-11 16:22:35",
+      "updatedAt": "2023-06-11 16:22:35"
+    },
+    {
+      "name": "Quicktype | Enable AI across all apps",
+      "description": "AI-powered typing tool with no context switching.",
+      "website": "https://play.google.com/store/apps/details?id=com.pedromassango.quicktype.ai&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582582429947565.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "Tarot GPT",
+      "description": "AI Tarot provides accurate tarot card readings with insights from AI.",
+      "website": "https://play.google.com/store/apps/details?id=com.appkey.tarotgpt&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580627671836895.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:00:43",
+      "updatedAt": "2023-06-03 22:00:43"
+    },
+    {
+      "name": "Innovaite",
+      "description": "Agency Innovaite creates innovative AI-powered web apps to drive innovation.",
+      "website": "https://innovaite.tech/?linkId=lp_598827&sourceId=toolify&tenantId=innovaite",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168863776872773937.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-06 18:01:40",
+      "updatedAt": "2023-07-06 18:01:40"
+    },
+    {
+      "name": "PostPerfect: GPT posts for social media",
+      "description": "Effortlessly create engaging social media posts.",
+      "website": "https://play.google.com/store/apps/details?id=com.appanie.auto.social.media.posts.post&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578480555358377.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Advertising Assistant",
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:32:38",
+      "updatedAt": "2023-06-03 17:32:38"
+    },
+    {
+      "name": "Good-AI-Writer",
+      "description": "Elevate your skills through inspiring apps.",
+      "website": "https://good-ai-writer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534825815337087.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:48",
+      "updatedAt": "2023-05-29 16:16:48"
+    },
+    {
+      "name": "Easy English Vocabulary",
+      "description": "App for expanding English vocabulary with AI and flashcards.",
+      "website": "https://apps.apple.com/tr/app/easy-english-vocabulary/id6503985659?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709763991486532.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:18:18",
+      "updatedAt": "2024-09-23 21:18:18"
+    },
+    {
+      "name": "Scanfinity",
+      "description": "Simplify document handling with DocHub.",
+      "website": "https://play.google.com/store/apps/details?id=com.nextgenpioneers.scanfinity&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169909901056216889.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Document Extraction",
+        "AI Image Scanning",
+        "AI Product Description Generator",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 19:56:31",
+      "updatedAt": "2023-11-04 19:56:31"
+    },
+    {
+      "name": "Backendflow",
+      "description": "Empower Firebase apps with no-code superpowers.",
+      "website": "https://backendflow.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164907115731204.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "CapGen - AI Caption Generator",
+      "description": "AI-powered tool to automatically generate social media image captions.",
+      "website": "https://play.google.com/store/apps/details?id=aculix.capgen.app&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170126081098022061.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-29 20:25:35",
+      "updatedAt": "2023-11-29 20:25:35"
+    },
+    {
+      "name": "visionZoo",
+      "description": "Bring virtual animals to life in your space",
+      "website": "https://apps.apple.com/app/visionzoo/id6478510727?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170960339768376430.webp",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-05 09:48:57",
+      "updatedAt": "2024-03-05 09:48:57"
+    },
+    {
+      "name": "PhotoDel",
+      "description": "Enhance and delete photos with AI technology.",
+      "website": "https://play.google.com/store/apps/details?id=com.fecstudios.photodelo&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924960688010490.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Photography",
+        "AI Photo Enhancer",
+        "Photo & Image Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:26",
+      "updatedAt": "2023-07-13 19:59:26"
+    },
+    {
+      "name": "AI Personal Website Builder",
+      "description": "Create a personal website in 1 minute with AI-powered design, enhance your chances of getting more interviews.",
+      "website": "https://bloomzing.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168696718028132073.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-17 09:59:04",
+      "updatedAt": "2023-06-17 09:59:04"
+    },
+    {
+      "name": "Homelens X",
+      "description": "Your personal real estate assistant",
+      "website": "https://apps.apple.com/us/app/homelens-x/id6446104940?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170416397277857118.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-02 10:50:29",
+      "updatedAt": "2024-01-02 10:50:29"
+    },
+    {
+      "name": "Kolibri for SwiftUI",
+      "description": "Create SwiftUI designs & animations effortlessly.",
+      "website": "https://noidentity.ch?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168398964692330685.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 22:53:45",
+      "updatedAt": "2023-05-13 22:53:45"
+    },
+    {
+      "name": "Sophic",
+      "description": "AI-powered knowledge-based content feed.",
+      "website": "https://apps.apple.com/us/app/sophic/id6447081404?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987336826553692.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "Resume Builder | PDF CV Maker",
+      "description": "Create professional CVs in minutes.",
+      "website": "https://play.google.com/store/apps/details?id=com.modulx.resumemaker&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440727161225970.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder",
+        "Resume Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:47",
+      "updatedAt": "2023-05-18 18:53:47"
+    },
+    {
+      "name": "NewsParrot",
+      "description": "Customizable newsletter for engaging with preferred topics.",
+      "website": "https://newsparrot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168450502936086421.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 22:02:54",
+      "updatedAt": "2023-05-19 22:02:54"
+    },
+    {
+      "name": "Dashi",
+      "description": "AI-enabled, rapid internal tool creation.",
+      "website": "http://www.dashi.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169357212572729253.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Project Management",
+        "AI Workflow Management",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-01 20:40:23",
+      "updatedAt": "2023-09-01 20:40:23"
+    },
+    {
+      "name": "WAAP",
+      "description": "WAAP helps save time by providing pre-made email templates for scheduling.",
+      "website": "https://www.waap-app.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063114189063401.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "Cantrip",
+      "description": "Effortlessly generate websites using AI-powered magic.",
+      "website": "https://cantrip.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476372255170405.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "AI Content Generator",
+        "AI Forms & Surveys"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:33:16",
+      "updatedAt": "2023-05-22 20:33:16"
+    },
+    {
+      "name": "imagica.ai",
+      "description": "\"Imagica enables users to easily create AI apps without coding skills.\"",
+      "website": "https://www.imagica.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350489073741907.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-10 00:00:54",
+      "updatedAt": "2023-07-10 00:00:54"
+    },
+    {
+      "name": "PurePlates",
+      "description": "AI app for simplifying recipe discovery and organization.",
+      "website": "https://apps.apple.com/ca/app/pureplates/id6621180161?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007966611982192.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:14",
+      "updatedAt": "2024-10-28 09:39:14"
+    },
+    {
+      "name": "App Mint AI",
+      "description": "Empower your creativity with AI text apps.",
+      "website": "http://appmintai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605448412814098.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:13:25",
+      "updatedAt": "2023-09-30 14:13:25"
+    },
+    {
+      "name": "SahNirmatha",
+      "description": "Transform ideas into MVPs in minutes with AI.",
+      "website": "https://sahnirmatha.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170584756044097750.jpg",
+      "category": "AI Website Designer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Designer",
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Website Builder",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-21 22:31:50",
+      "updatedAt": "2024-01-21 22:31:50"
+    },
+    {
+      "name": "AI Website Builder",
+      "description": "Create professional websites in seconds.",
+      "website": "https://hyddle.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168684697238932618.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "No-Code&Low-Code",
+        "AI Workflow Management",
+        "AI Website Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 00:35:38",
+      "updatedAt": "2023-06-16 00:35:38"
+    },
+    {
+      "name": "Fibbr AI Novels",
+      "description": "AI-powered interactive storytelling.",
+      "website": "https://play.google.com/store/apps/details?id=com.utick.fibber&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282388535533102.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "AI App Builder",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:35",
+      "updatedAt": "2023-12-17 22:37:35"
+    },
+    {
+      "name": "MS ShoeSizer",
+      "description": "Accurate foot measurement and shoe sizing app with virtual try-on.",
+      "website": "https://play.google.com/store/apps/details?id=com.mirrorsize.ms_shoesizer&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576117149658769.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI App Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:59:04",
+      "updatedAt": "2023-06-03 10:59:04"
+    },
+    {
+      "name": "A-Bot",
+      "description": "A-Bot is a chatbot for building a positive culture and engaging employees on Microsoft Teams.",
+      "website": "https://a-bot.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518049888781071.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Product Description Generator",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:41:23",
+      "updatedAt": "2023-05-27 17:41:23"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

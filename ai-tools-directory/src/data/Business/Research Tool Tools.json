@@ -1,0 +1,2719 @@
+{
+  "tools": [
+    {
+      "name": "OpenAI",
+      "description": "OpenAI creates safe AGI for humanity through research and advanced models.",
+      "website": "https://openai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267311532311562.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:12:10",
+      "updatedAt": "2023-04-28 17:12:10"
+    },
+    {
+      "name": "Semantic Scholar",
+      "description": "Semantic Scholar is a free AI research tool that helps scholars find relevant scientific literature.",
+      "website": "https://www.semanticscholar.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510379868323166.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:22:36",
+      "updatedAt": "2023-05-26 20:22:36"
+    },
+    {
+      "name": "SciSummary",
+      "description": "AI tool for fast summarization of scientific articles.",
+      "website": "https://scisummary.com?ssref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147865988772191.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "Papers",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:24:25",
+      "updatedAt": "2024-11-13 14:24:25"
+    },
+    {
+      "name": "Scispace",
+      "description": "SciSpace is an AI tool aiding users in comprehending and assessing scientific research papers.",
+      "website": "https://typeset.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/ecab49ea5260875ced09d010456603bb.jpeg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "Papers",
+        "Research Tool",
+        "AI Chatbot",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:48",
+      "updatedAt": "2023-03-07 16:48:48"
+    },
+    {
+      "name": "Smodin",
+      "description": "Smodin is a platform that improves writing with various tools for students, writers, and internet workers globally.",
+      "website": "https://smodin.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7e00d3242140236f33465dbdd783c664.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Research Tool",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "AI Plagiarism Checker",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "Elicit",
+      "description": "AI research assistant for automating workflows.",
+      "website": "https://elicit.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/5f71fe078023dc2fbd8b7618a2f9f03f.jpeg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Papers",
+        "Research Tool",
+        "AI Content Generator",
+        "AI Workflow Management",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:45",
+      "updatedAt": "2023-03-07 16:48:45"
+    },
+    {
+      "name": "Conch AI",
+      "description": "AI-powered writing and research assistant",
+      "website": "https://getconch.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841403315386866.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "Homework Helper",
+        "AI Education Assistant",
+        "Research Tool",
+        "AI Detector",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "General Writing",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:47",
+      "updatedAt": "2024-02-20 15:25:47"
+    },
+    {
+      "name": "Globe Explorer",
+      "description": "Explore topics and provide feedback on Globe Explorer",
+      "website": "https://explorer.globe.engineer?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172269619891435074.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Search Engine",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-03 22:49:29",
+      "updatedAt": "2024-08-03 22:49:29"
+    },
+    {
+      "name": "Rayyan",
+      "description": "AI assisted platform for systematic literature reviews.",
+      "website": "https://www.rayyan.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651773061107683.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:04",
+      "updatedAt": "2024-01-29 16:40:04"
+    },
+    {
+      "name": "Macky AI",
+      "description": "AI-powered consulting platform providing high-level insights from simple questions.",
+      "website": "https://macky.ai",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17018512222658005.png",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:38:06",
+      "updatedAt": "2023-12-06 16:38:06"
+    },
+    {
+      "name": "ResearchRabbit",
+      "description": "ResearchRabbit is a helpful app for researchers that improves their literature discovery and collaboration.",
+      "website": "https://www.researchrabbit.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/66ab064e8b8c706b7a56cc33e88109a9.jpeg",
+      "category": "AI Reviews Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Reviews Assistant",
+        "Papers",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "Paperguide",
+      "description": "AI-powered research platform for reading, writing, and managing research.",
+      "website": "https://paperguide.ai//?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172363259399423116.jpg",
+      "category": "AI PDF",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI PDF",
+        "Research Tool",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "Summarizer",
+        "AI Knowledge Graph",
+        "AI Notes Assistant",
+        "Papers",
+        "Writing Assistants",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-14 18:49:00",
+      "updatedAt": "2024-08-14 18:49:00"
+    },
+    {
+      "name": "Segment Anything",
+      "description": "Segment Anything is an AI platform for advanced data segmentation and analysis.",
+      "website": "https://segment-anything.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577909722920423.jpg",
+      "category": "AI Image Segmentation",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Image Segmentation",
+        "Prompt",
+        "Research Tool",
+        "AI Image Recognition",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:57:22",
+      "updatedAt": "2023-06-03 15:57:22"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "Intellectia.Ai",
+      "description": "Top AI Investment Platform, Where AI meets your ambition\uff01",
+      "website": "https://intellectia.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172584669853926020.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Transcription",
+        "AI Content Generator",
+        "Research Tool",
+        "Investing Assistant",
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 09:52:01",
+      "updatedAt": "2024-09-09 09:52:01"
+    },
+    {
+      "name": "epochai.org",
+      "description": "AI research institute shaping AI trajectory and governance",
+      "website": "https://epochai.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135255988296720.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:46",
+      "updatedAt": "2024-07-19 09:27:46"
+    },
+    {
+      "name": "Topicmojo",
+      "description": "Topic Mojo is a research tool that provides insights for content creators.",
+      "website": "https://topicmojo.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/9f51fd8c5800f5f1c69ec7e4b552080b.jpeg",
+      "category": "Research Tool",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Ottogrid",
+      "description": "AI agents for automating research tasks",
+      "website": "https://ottogrid.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656286836690114.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Prompt",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "AI Response Generator",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:04",
+      "updatedAt": "2024-09-17 16:47:04"
+    },
+    {
+      "name": "Iris.ai",
+      "description": "All-in-one research processing platform.",
+      "website": "https://iris.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c0f849e5caf02e1372cc5377eb73ced8.jpeg",
+      "category": "Research Tool",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "Findr",
+      "description": "Private ChatGPT for your company, running on top of your business data.",
+      "website": "https://www.usefindr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172290821112159815.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "AI Productivity Tools",
+        "AI Team Collaboration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-06 09:40:49",
+      "updatedAt": "2024-08-06 09:40:49"
+    },
+    {
+      "name": "Heyday",
+      "description": "Heyday helps users remember and organize information with AI-powered memory assistance.",
+      "website": "https://heyday.xyz?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a1f7fdc92de271a5d5e93b0bcffcd33c.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "AI Notes Assistant",
+        "Research Tool",
+        "AI Knowledge Management",
+        "AI Knowledge Base",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Octoparse AI - Workflow Automation Software",
+      "description": "Octoparse AI is a no-code platform for quickly creating custom AI processes and RPA bots that work for you.",
+      "website": "https://www.octoparse.ai/?utm_source=toolify&utm_medium=referral&utm_campaign=opai_tool_list_plan",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025363534272879.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "Research Tool",
+        "Investing Assistant",
+        "E-commerce Assistant",
+        "AI Twitter Assistant",
+        "AI Workflow Management",
+        "AI Tiktok Assistant",
+        "Large Language Models (LLMs)",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:02:52",
+      "updatedAt": "2024-10-30 10:02:52"
+    },
+    {
+      "name": "floraincognita.de",
+      "description": "Interaktive Pflanzenbestimmung mit KI und Citizen Science.",
+      "website": "https://floraincognita.de?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230652936016349.webp",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:43",
+      "updatedAt": "2024-04-05 16:41:43"
+    },
+    {
+      "name": "Dr.Oracle",
+      "description": "AI research assistant for medical queries",
+      "website": "https://droracle.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171542249345646038.webp",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Healthcare",
+        "Research Tool",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-11 18:14:19",
+      "updatedAt": "2024-05-11 18:14:19"
+    },
+    {
+      "name": "StockGPT",
+      "description": "StockGPT is an AI-powered search tool with SP500 earnings call transcripts.",
+      "website": "https://www.askstockgpt.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/900380db856e154dc757b599e76fbf9f.jpeg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "AI Search Engine",
+        "Research Tool",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "ViableView",
+      "description": "ViableView is a market intelligence platform that informs entrepreneurs to what markets and niches have the most profit to be made in \u2013 often ones they didn\u2019t even know existed.",
+      "website": "https://www.viableview.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352873325327921.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "AI Analytics Assistant",
+        "AI Task Management",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:59:51",
+      "updatedAt": "2024-08-13 13:59:51"
+    },
+    {
+      "name": "wizdom.ai",
+      "description": "Intelligence for everyone",
+      "website": "https://wizdom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230506619286700.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "Research Tool",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:57",
+      "updatedAt": "2024-04-05 16:15:57"
+    },
+    {
+      "name": "Profundo",
+      "description": "AI research assistant for efficient data analysis",
+      "website": "https://profundo.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172328717929793722.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Knowledge Base",
+        "AI Education Assistant",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Essay Writer",
+        "Papers",
+        "Report Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 18:52:44",
+      "updatedAt": "2024-08-10 18:52:44"
+    },
+    {
+      "name": "ResearchBuddy.app",
+      "description": "ResearchBuddy simplifies literature reviews by filtering and presenting relevant information.",
+      "website": "https://researchbuddy.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168632498938612936.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-09 23:35:50",
+      "updatedAt": "2023-06-09 23:35:50"
+    },
+    {
+      "name": "Insight",
+      "description": "AI-powered medical research studio.",
+      "website": "https://insightai.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253916443896997.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Healthcare",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "mool.ai",
+      "description": "AI platform for fast research and document generation.",
+      "website": "https://www.mool.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709749584177041.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "Research Tool",
+        "AI Knowledge Graph",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "Beloga",
+      "description": "AI-powered knowledge vault for insights",
+      "website": "https://beloga.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016992350999657.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Research Tool",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:30",
+      "updatedAt": "2024-07-05 16:56:30"
+    },
+    {
+      "name": "Three Sigma",
+      "description": "\"Three Sigma provides advanced data analysis tools and statistical methods for predictive modeling.\"",
+      "website": "https://www.threesigma.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508456164417217.jpg",
+      "category": "Research Tool",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Search Engine",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:02:03",
+      "updatedAt": "2023-05-26 15:02:03"
+    },
+    {
+      "name": "Cerebrella",
+      "description": "Sticky Notes, Whiteboard, Research, Visuals, Writing, and AI \u2014 All Under One Umbrella",
+      "website": "https://cerebrella.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172895686168601735.jpg",
+      "category": "AI Creative Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Creative Writing",
+        "Research Tool",
+        "AI Knowledge Base",
+        "AI Presentation Generator",
+        "AI Notes Assistant",
+        "AI Diagram Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-15 09:53:11",
+      "updatedAt": "2024-10-15 09:53:11"
+    },
+    {
+      "name": "Seamless",
+      "description": "AI drafts scientific literature reviews instantly.",
+      "website": "https://seaml.es?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170303993651944484.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-20 10:38:01",
+      "updatedAt": "2023-12-20 10:38:01"
+    },
+    {
+      "name": "Isaac",
+      "description": "AI-powered writing tool for students and researchers.",
+      "website": "https://isaaceditor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485369328370285.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "Essay Writer",
+        "General Writing",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "Research Tool",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:51",
+      "updatedAt": "2023-05-23 22:53:51"
+    },
+    {
+      "name": "Yasna.ai",
+      "description": "Yasna is an empathetic AI agent, that conducts hundreds of high-quality interviews with customer, users, employees in hours.",
+      "website": "https://yasna.ai/?utm_source=toolify&utm_medium=listing",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008221140840284.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "AI Forms & Surveys",
+        "AI Analytics Assistant",
+        "AI Customer Service Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:42",
+      "updatedAt": "2024-10-28 10:27:42"
+    },
+    {
+      "name": "OpinioAI",
+      "description": "AI-powered research platform",
+      "website": "https://www.opinio.ai/?gr_pk=wx8v",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171671952682552205.webp",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:46",
+      "updatedAt": "2024-05-26 18:30:46"
+    },
+    {
+      "name": "PaperBrain",
+      "description": "Simplify research paper exploration and study with PaperBrain.",
+      "website": "https://www.paperbrain.study?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f5ce6116dcac3af25ac8dce9d58dff50.jpeg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "Papers",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Paper Pilot",
+      "description": "Research paper summaries with AI insights",
+      "website": "https://paperpilot.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172209089938837293.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Papers",
+        "Summarizer",
+        "Large Language Models (LLMs)",
+        "AI Notes Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 22:33:27",
+      "updatedAt": "2024-07-27 22:33:27"
+    },
+    {
+      "name": "Ask by Validly",
+      "description": "Validly is an AI-powered research assistant that conducts user interviews, delivers insights, and ensures data security.",
+      "website": "https://www.validly.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517631738142762.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Advertising Assistant",
+        "AI Interview Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 16:30:43",
+      "updatedAt": "2023-05-27 16:30:43"
+    },
+    {
+      "name": "Research Studio",
+      "description": "Transform data into action through AI-powered analysis, with services for UX, Marketing, and Product professionals.",
+      "website": "https://researchstudio.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168803970631273170.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 19:54:40",
+      "updatedAt": "2023-06-29 19:54:40"
+    },
+    {
+      "name": "Lookup",
+      "description": "Altero AI is a platform that uses AI to provide detailed company research reports.",
+      "website": "https://www.uselookup.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/900e83a8f66a4ca6e701bdaa01fd3337.jpeg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Paperade",
+      "description": "AI-powered tool that generates commercial use cases from academic papers.",
+      "website": "https://www.paperade.co?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/552f18097863aa2344144aa3ff948cd5.jpeg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Papers",
+        "AI Business Ideas Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:19",
+      "updatedAt": "2023-03-07 16:48:19"
+    },
+    {
+      "name": "ResearchGPT",
+      "description": "Converse with research papers effortlessly.",
+      "website": "https://github.com/mukulpatnaik/researchgpt?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/167930463993956533.png",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Open Source"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Research Tool",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "Cognify Insights",
+      "description": "Browser extension for in-depth research analysis",
+      "website": "https://cognify.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172209081720473002.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Summarizer",
+        "AI Diagram Generator",
+        "AI Document Extraction",
+        "AI Documents Assistant",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 22:33:25",
+      "updatedAt": "2024-07-27 22:33:25"
+    },
+    {
+      "name": "Brimink",
+      "description": "AI-powered writing assistant for academic productivity",
+      "website": "https://brimink.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070131364775401.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Plagiarism Checker",
+        "AI Education Assistant",
+        "Research Tool",
+        "Homework Helper",
+        "Writing Assistants",
+        "Essay Writer",
+        "General Writing",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:51",
+      "updatedAt": "2024-07-11 20:33:51"
+    },
+    {
+      "name": "StudyRecon",
+      "description": "Literature review tool for efficient research",
+      "website": "https://studyrecon.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016990640268841.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:29",
+      "updatedAt": "2024-07-05 16:56:29"
+    },
+    {
+      "name": "Ripper Web Content | Capture Metadata Content",
+      "description": "Image and document analysis tool",
+      "website": "https://chromewebstore.google.com/detail/ripper-web-content-captur/popfhajlkgkiecedhefhifccngogomgh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020358785677.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI PDF",
+        "AI Document Extraction",
+        "Research Tool",
+        "AI Documents Assistant",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Image Scanning",
+        "AI Image Recognition",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:28",
+      "updatedAt": "2024-06-14 09:56:28"
+    },
+    {
+      "name": "Scientific Paper Advisor",
+      "description": "Explore Google Scholar archives visually.",
+      "website": "https://chromewebstore.google.com/detail/scientific-paper-advisor/pfilcjfeoihhgomdcdegipgphajoedim?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785155410761857.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:20",
+      "updatedAt": "2024-06-08 20:58:20"
+    },
+    {
+      "name": "ChatGPT Academic Monitor",
+      "description": "Preserves academic integrity.",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-academic-monitor/kmplbafkncfjcmalicegdjbjiidjndjd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763911918460796.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:38",
+      "updatedAt": "2024-06-06 09:56:38"
+    },
+    {
+      "name": "SellerSprite - Amazon Research Tool",
+      "description": "Tool for Amazon sellers with research, optimization, and analysis.",
+      "website": "https://chromewebstore.google.com/detail/sellersprite-amazon-resea/lnbmbgocenenhhhdojdielgnmeflbnfb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763901374497298.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "Research Tool",
+        "AI Reviews Assistant",
+        "AI Product Description Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:52",
+      "updatedAt": "2024-06-06 09:55:52"
+    },
+    {
+      "name": "Essence - distill and collect information",
+      "description": "Summarization and note-taking tool",
+      "website": "https://chromewebstore.google.com/detail/essence-distill-and-colle/agokfbniiemgojbmdbhijmhfppgeaeal?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763886653284616.jpg",
+      "category": "AI Notes Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Notes Assistant",
+        "Research Tool",
+        "Summarizer",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:50",
+      "updatedAt": "2024-06-06 09:53:50"
+    },
+    {
+      "name": "Writing Assistant",
+      "description": "Improve English writing for non-native speakers",
+      "website": "https://chromewebstore.google.com/detail/writing-assistant/icfibfjidabjcklhikmodelmopjmghgj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763883851351951.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "Research Tool",
+        "Translate",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:47",
+      "updatedAt": "2024-06-06 09:53:47"
+    },
+    {
+      "name": "Aginsi - AI Summarizer & Research Toolbar",
+      "description": "Boost research productivity",
+      "website": "https://chromewebstore.google.com/detail/aginsi-ai-summarizer-rese/ojihlchbahmcldaabdmmfllfodlnpgkm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747576846990202.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:53",
+      "updatedAt": "2024-06-04 12:34:53"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "Deep Tracking Blocker",
+      "description": "Protect personal data online",
+      "website": "https://chromewebstore.google.com/detail/deep-tracking-blocker/jjhinlfobgkmbbplbaaegglolichbfol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747576716311611.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:53",
+      "updatedAt": "2024-06-04 12:34:53"
+    },
+    {
+      "name": "AskPaper \u2013 Research ChatGPT for any article",
+      "description": "Research tool with intelligent responses",
+      "website": "https://chromewebstore.google.com/detail/askpaper-\u2013-research-chatg/eabkffkifnfojefnnoohamhdfjajgepm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747567210319127.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:33:59",
+      "updatedAt": "2024-06-04 12:33:59"
+    },
+    {
+      "name": "Chord",
+      "description": "AI-powered Chord platform provides organic recommendations from Internet consensus for best experiences.",
+      "website": "https://chord.ooo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517936999092290.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:22:30",
+      "updatedAt": "2023-05-27 17:22:30"
+    },
+    {
+      "name": "BioSeek Reader",
+      "description": "Browser extension for instant exploration",
+      "website": "https://chromewebstore.google.com/detail/bioseek-reader/mkfaibcieogbhcneiohnhggglkdmncmo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738097785838602.jpg",
+      "category": "Bio Link",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Bio Link",
+        "AI Knowledge Graph",
+        "Research Tool",
+        "AI Knowledge Base",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:06",
+      "updatedAt": "2024-06-03 10:16:06"
+    },
+    {
+      "name": "Sheerba",
+      "description": "Online product research for Etsy and Poshmark",
+      "website": "https://chromewebstore.google.com/detail/sheerba/effgadpnajejiggfiimjjnkhaggcgdfb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738081945574229.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:30",
+      "updatedAt": "2024-06-03 10:13:30"
+    },
+    {
+      "name": "ResearchRover",
+      "description": "Effortlessly gather and summarize web content.",
+      "website": "https://chromewebstore.google.com/detail/researchrover/bbmbhokomiicmbielmhleidongbnkind?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679941824459982.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:49",
+      "updatedAt": "2024-05-25 21:30:49"
+    },
+    {
+      "name": "\u9177\u5b66\u672f",
+      "description": "Smart tool for academic research and self-learning",
+      "website": "https://chromewebstore.google.com/detail/\u9177\u5b66\u672f/angphjdghkpkjdbljdfabiphhkolenbn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679935529723332.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Research Tool",
+        "Translate",
+        "AI Plagiarism Checker",
+        "AI Document Extraction"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "\u5b66\u672f\u8d44\u6e90\u5168\u7f51\u641c\u7d22",
+      "description": "AI-powered scholarly search tool",
+      "website": "https://chromewebstore.google.com/detail/\u5b66\u672f\u8d44\u6e90\u5168\u7f51\u641c\u7d22/foidhijnndaakamhcnckjldopopionod?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679935396554262.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool",
+        "AI Plagiarism Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:36",
+      "updatedAt": "2024-05-23 22:00:36"
+    },
+    {
+      "name": "ResearchAIde",
+      "description": "ResearchAIde saves time by assisting in extracting relevant information from research papers for students and professionals.",
+      "website": "https://www.researchaide.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584475533407207.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Papers"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 10:11:45",
+      "updatedAt": "2023-06-04 10:11:45"
+    },
+    {
+      "name": "Aginsi AI",
+      "description": "Aginsi is an AI tool that helps researchers summarize and organize their research easily.",
+      "website": "https://aginsi.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168632471446906484.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-09 23:31:27",
+      "updatedAt": "2023-06-09 23:31:27"
+    },
+    {
+      "name": "SOMA",
+      "description": "AI-powered research automation platform for uncovering pathways in medical research.",
+      "website": "https://soma.science?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168684958250481328.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Knowledge Graph"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-16 01:19:31",
+      "updatedAt": "2023-06-16 01:19:31"
+    },
+    {
+      "name": "AI Summarizer best",
+      "description": "Transforms long articles into concise summaries quickly.",
+      "website": "https://summarizer.best?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173077093335106253.jpg",
+      "category": "AI Productivity Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Productivity Tools",
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-05 09:49:17",
+      "updatedAt": "2024-11-05 09:49:17"
+    },
+    {
+      "name": "Tremello",
+      "description": "Delivering unique off-market data using AI and research expertise",
+      "website": "https://tremello.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067738395093680.webp",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:34",
+      "updatedAt": "2024-03-17 20:07:34"
+    },
+    {
+      "name": "GPT Law",
+      "description": "GPT Law provides legal information, but consult a lawyer for tailored advice.",
+      "website": "https://getgptlaw.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924965910785611.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Legal Assistant",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:28",
+      "updatedAt": "2023-07-13 19:59:28"
+    },
+    {
+      "name": "HippocratesAI",
+      "description": "AI platform enhancing efficiency in healthcare diagnostics and research.",
+      "website": "https://www.hippocrates.es?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007973221701285.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Healthcare",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Knowledge Management",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:47",
+      "updatedAt": "2024-10-28 09:39:47"
+    },
+    {
+      "name": "helpmefindlaw",
+      "description": "HelpMeFindLaw is an AI platform allowing users to search and access community law information.",
+      "website": "https://helpmefindlaw.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003642198440691.jpg",
+      "category": "Legal Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Legal Assistant",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:42",
+      "updatedAt": "2023-07-22 22:31:42"
+    },
+    {
+      "name": "MeaningIn.Chat",
+      "description": "MeaningIn.Chat is a website that explains chat symbols, emojis, and internet slang.",
+      "website": "https://www.meaningin.chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169149133197311323.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Content Detector",
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Search Engine"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-08 18:41:16",
+      "updatedAt": "2023-08-08 18:41:16"
+    },
+    {
+      "name": "SciReviewHub",
+      "description": "SciReviewHub uses AI to accelerate scientific writing and literature reviews.",
+      "website": "https://sciReviewHub.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218834176308335.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Content Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:40",
+      "updatedAt": "2023-08-16 20:18:40"
+    },
+    {
+      "name": "txyz.ai",
+      "description": "Revolutionary AI platform for efficient research",
+      "website": "https://txyz.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171211281454730065.webp",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Knowledge Base",
+        "Papers",
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI Tools Directory",
+        "AI Documents Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 10:52:29",
+      "updatedAt": "2024-04-03 10:52:29"
+    },
+    {
+      "name": "benevolent.ai",
+      "description": "AI-powered drug discovery for biopharma",
+      "website": "https://benevolent.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172118495814656385.jpg",
+      "category": "Healthcare",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Healthcare",
+        "Large Language Models (LLMs)",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-17 10:55:20",
+      "updatedAt": "2024-07-17 10:55:20"
+    },
+    {
+      "name": "Midjourney",
+      "description": "Research lab expanding human imagination",
+      "website": "https://www.midjourney.com/home?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/061974a37d4e72b930f60631e3d5f999.jpeg",
+      "category": "AI Art Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Art Generator",
+        "AI Illustration Generator",
+        "AI Photo & Image Generator",
+        "AI Tools Directory",
+        "Research Tool",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Chatpdf",
+      "description": "AI-powered service ChatPDF allows users to chat with any PDF, providing instant answers and better understanding.",
+      "website": "https://www.chatpdf.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168197409571939545.jpg",
+      "category": "AI PDF",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI PDF",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-20 15:06:03",
+      "updatedAt": "2023-04-20 15:06:03"
+    },
+    {
+      "name": "Stable Diffusion",
+      "description": "Stability AI activates human potential by building an AI foundation for and by the people.",
+      "website": "https://stability.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/a153b1aa57ace58e7711c83c97a6e7bd.jpeg",
+      "category": "Research Tool",
+      "pricing": "Paid",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Large Language Models (LLMs)",
+        "AI API Design",
+        "AI Art Generator",
+        "AI Content Generator",
+        "AI Illustration Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "Connected Papers",
+      "description": "A visual tool to find academic papers.",
+      "website": "https://www.connectedpapers.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/74a196f3f6bfa97694c282811c50c90f.jpeg",
+      "category": "Papers",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Papers",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "FinChat io",
+      "description": "AI-powered stock research platform",
+      "website": "https://finchat.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172253074566012366.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "Research Tool",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-02 00:49:23",
+      "updatedAt": "2024-08-02 00:49:23"
+    },
+    {
+      "name": "openknowledgemaps.org",
+      "description": "AI-based search engine for scientific knowledge",
+      "website": "https://openknowledgemaps.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153177287934343.jpg",
+      "category": "AI Knowledge Base",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:15:27",
+      "updatedAt": "2024-07-21 11:15:27"
+    },
+    {
+      "name": "MediSearch",
+      "description": "MediSearch is a reliable search engine for science-based medical answers.",
+      "website": "https://medisearch.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416201226217214.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Search Engine",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 22:46:00",
+      "updatedAt": "2023-05-15 22:46:00"
+    },
+    {
+      "name": "OpenRead",
+      "description": "OpenRead revolutionizes research with AI-powered interactive papers and advanced features.",
+      "website": "https://www.openread.academy?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577962257404237.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "Papers",
+        "Research Tool",
+        "No-Code&Low-Code",
+        "AI Presentation Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:06:36",
+      "updatedAt": "2023-06-03 16:06:36"
+    },
+    {
+      "name": "speakai.co",
+      "description": "Transcription, research, data analysis, and NLP software",
+      "website": "https://speakai.co/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073044970998412.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Meeting Assistant",
+        "AI Notes Assistant",
+        "Research Tool",
+        "Transcription",
+        "Transcriber",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:52",
+      "updatedAt": "2024-03-18 10:51:52"
+    },
+    {
+      "name": "ExplainPaper",
+      "description": "Highlight and explain confusing text on research papers.",
+      "website": "https://www.explainpaper.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f3758634ffa0fbb0c68a64dba36a2f9f.jpeg",
+      "category": "Code Explanation",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Code Explanation",
+        "AI Tools Directory",
+        "Papers",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "realeye.io",
+      "description": "Research platform with webcam eye-tracking",
+      "website": "https://realeye.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000169111060127.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Website Designer",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:30",
+      "updatedAt": "2024-03-10 00:27:30"
+    },
+    {
+      "name": "buzzabout",
+      "description": "AI audience research for marketing insights",
+      "website": "https://buzzabout.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061165257143633.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:02",
+      "updatedAt": "2024-07-10 19:40:02"
+    },
+    {
+      "name": "Synthical: Science, Simplified",
+      "description": "Synthical simplifies scientific research by providing updated content from various sources.",
+      "website": "https://synthical.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169071059573750357.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-30 17:49:16",
+      "updatedAt": "2023-07-30 17:49:16"
+    },
+    {
+      "name": "Peeksta",
+      "description": "Powerful dropshipping product research tool.",
+      "website": "https://peeksta.com/amember/aff/go/toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350415325506980.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "Research Tool",
+        "AI Tiktok Assistant",
+        "AI Lead Generation",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "AlphaResearch",
+      "description": "AlphaResearch is an AI-powered platform for investors to search through company documents and gain insights.",
+      "website": "https://alpharesearch.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/eec1b5b5c53010a50fe694345deb5b50.jpeg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Homeworkify",
+      "description": "AI-powered homework-helping website.",
+      "website": "https://homeworkifyy.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170109911663514036.jpg",
+      "category": "Homework Helper",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "AI Search Engine",
+        "Research Tool",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-27 23:31:34",
+      "updatedAt": "2023-11-27 23:31:34"
+    },
+    {
+      "name": "Ai-Powered Document Analysis Platform",
+      "description": "AI-powered platform for document analysis, chat, collaboration, and content creation.",
+      "website": "https://petal.org/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168266661753191746.jpg",
+      "category": "AI Documents Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Documents Assistant",
+        "AI Knowledge Management",
+        "AI Product Description Generator",
+        "Research Tool",
+        "AI Document Extraction",
+        "AI Knowledge Base",
+        "AI Files Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 15:24:41",
+      "updatedAt": "2023-04-28 15:24:41"
+    },
+    {
+      "name": "Typed",
+      "description": "\"The collaborative document tool, Typed, connects scattered documents, optimizes teamwork, and enhances research and productivity.\"",
+      "website": "https://typed.do?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1682487752948877.jpg",
+      "category": "AI Documents Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Documents Assistant",
+        "AI Knowledge Management",
+        "AI Team Collaboration",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "Research Tool",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 13:46:20",
+      "updatedAt": "2023-04-26 13:46:20"
+    },
+    {
+      "name": "Cradle",
+      "description": "Cradle platform speeds up protein design with AI algorithms.",
+      "website": "https://cradle.bio?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3a0a8c2b22d0c113b9fd3cf8c4fb58d2.jpeg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:44",
+      "updatedAt": "2023-03-07 16:48:44"
+    },
+    {
+      "name": "waldo.fyi",
+      "description": "Fast and reliable AI research assistant.",
+      "website": "https://waldo.fyi?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350400560288490.jpg",
+      "category": "Research Tool",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Search Engine",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:13",
+      "updatedAt": "2023-12-25 18:20:13"
+    },
+    {
+      "name": "Competely",
+      "description": "AI-powered competitive analysis in minutes.",
+      "website": "https://competely.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145456985971462.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Product Description Generator",
+        "Research Tool",
+        "Large Language Models (LLMs)",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:14:03",
+      "updatedAt": "2023-12-02 02:14:03"
+    },
+    {
+      "name": "bethgelab.org",
+      "description": "Research group bridging ML and neuroscience",
+      "website": "https://bethgelab.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172153176870380040.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-21 11:15:27",
+      "updatedAt": "2024-07-21 11:15:27"
+    },
+    {
+      "name": "Getfocal",
+      "description": "AI powered reading and research platform.",
+      "website": "https://getfocal.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831841054557571.jpg",
+      "category": "Research Tool",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:32",
+      "updatedAt": "2024-02-19 12:50:32"
+    },
+    {
+      "name": "B2B Research AI Agent",
+      "description": "AI agent for automating B2B research tasks.",
+      "website": "https://kuration.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172561990618864341.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "Research Tool",
+        "Writing Assistants",
+        "AI Voice Assistants",
+        "Web Scraping",
+        "AI CRM Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-06 18:51:01",
+      "updatedAt": "2024-09-06 18:51:01"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

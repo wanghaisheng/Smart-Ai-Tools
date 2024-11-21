@@ -1,0 +1,605 @@
+{
+  "tools": [
+    {
+      "name": "QA.tech",
+      "description": "QA.tech\u2019s AI-driven platform provides fast E2E testing for your web application.",
+      "website": "https://qa.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159690339793123.jpg",
+      "category": "AI DevOps Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI DevOps Assistant",
+        "AI Testing & QA",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:20",
+      "updatedAt": "2024-11-14 23:10:20"
+    },
+    {
+      "name": "AIaC",
+      "description": "Firefly's AIaC simplifies and automates IaC script generation for fast infrastructure provisioning.",
+      "website": "https://aiac.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477287685614774.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:26:46",
+      "updatedAt": "2023-05-23 00:26:46"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "OmniOpsAI",
+      "description": "AI-powered platform for natural conversations with Azure infrastructure.",
+      "website": "https://omniops.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169909901538093462.jpg",
+      "category": "AI DevOps Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI DevOps Assistant",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI API Design",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 19:56:31",
+      "updatedAt": "2023-11-04 19:56:31"
+    },
+    {
+      "name": "Wiz: Cloud Security in Your Cloud Portal",
+      "description": "Real-time security alerts and insights for cloud portals",
+      "website": "https://chromewebstore.google.com/detail/wiz-cloud-security-in-you/koellablckildiakdjcchdfnagjfbpbh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954315650369.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:07",
+      "updatedAt": "2024-05-26 18:30:07"
+    },
+    {
+      "name": "FL0",
+      "description": "Effortlessly deploy and scale your code with FL0 in minutes.",
+      "website": "https://www.fl0.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686005743789289.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI DevOps Assistant",
+        "AI Website Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Theta Edge Extension",
+      "description": "AI coding, smart contract deployment, Theta integration hub",
+      "website": "https://chromewebstore.google.com/detail/theta-edge-extension/mghlmblnlegiompmipiccbckcaaigpkg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172352861223294020.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-13 13:56:41",
+      "updatedAt": "2024-08-13 13:56:41"
+    },
+    {
+      "name": "theterminal.app",
+      "description": "Interactive platform for DevOps and SRE skill development.",
+      "website": "https://theterminal.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176294970703271.jpg",
+      "category": "AI DevOps Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI DevOps Assistant",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:19",
+      "updatedAt": "2024-11-16 21:15:19"
+    },
+    {
+      "name": "DevAssistant.AI",
+      "description": "Devassistant.ai is an AI tool that helps developers with coding tasks and workflow automation.",
+      "website": "https://devassistant.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476355624247373.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI DevOps Assistant",
+        "AI App Builder",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 19:47:13",
+      "updatedAt": "2023-05-22 19:47:13"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "Launchpad Stack",
+      "description": "Quickly launch scalable full-stack applications with no lock-in.",
+      "website": "https://launchpadstack.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855767577402054.jpg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "No-Code&Low-Code",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:53:45",
+      "updatedAt": "2024-10-10 18:53:45"
+    },
+    {
+      "name": "Rely.io",
+      "description": "An Internal Developer Portal with an AI assistant to boost engineering productivity.",
+      "website": "https://rely.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493966243302331.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base",
+        "AI Product Description Generator",
+        "AI Chatbot",
+        "AI API Design",
+        "AI Knowledge Management",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:55",
+      "updatedAt": "2024-01-11 10:19:55"
+    },
+    {
+      "name": "GenPen AI",
+      "description": "Revolutionizing code generation and project management.",
+      "website": "https://genpen.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169039396077040718.jpg",
+      "category": "AI API Design",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI API Design",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "No-Code&Low-Code",
+        "AI Tools Directory",
+        "AI Developer Docs",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 01:51:11",
+      "updatedAt": "2023-07-27 01:51:11"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "Cabina.AI",
+      "description": "All-in-one AI Chats workspace: productivity, communication & education",
+      "website": "https://cabina.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172714256271797645.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Copywriting",
+        "Text to Image",
+        "AI Blog Writer",
+        "Summarizer",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "AI Email Writer",
+        "Writing Assistants",
+        "General Writing",
+        "Transcription",
+        "Transcriber",
+        "Translate",
+        "AI Story Writing",
+        "AI Script Writing",
+        "Letter Writer",
+        "Captions or Subtitle",
+        "Handwriting",
+        "Paraphraser",
+        "AI Hashtag Assistant",
+        "Research Tool",
+        "AI Advertising Assistant",
+        "AI Twitter Assistant",
+        "AI Analytics Assistant",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Grammar Checker",
+        "AI Reviews Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "AI Email Generator",
+        "Design Assistant",
+        "AI Developer Docs",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "Large Language Models (LLMs)",
+        "AI SQL Query Builder",
+        "AI Thumbnail Maker",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Poem & Poetry Generator",
+        "AI Avatar Generator",
+        "AI Photography",
+        "Image to Image",
+        "AI Image Recognition",
+        "AI Icon Generator",
+        "AI YouTube Assistant",
+        "Code Explanation",
+        "AI Documents Assistant",
+        "AI PDF",
+        "AI Instagram Assistant",
+        "AI Ad Creative Assistant",
+        "AI Code Generator",
+        "AI Emoji Generator",
+        "AI Cover Generator",
+        "AI Facebook Assistant",
+        "AI Tiktok Assistant",
+        "AI Code Assistant",
+        "AI Speech Recognition",
+        "AI Creative Writing",
+        "AI Interior & Room Design",
+        "AI Graphic Design",
+        "AI Checker Essay",
+        "Text-to-Speech",
+        "AI Design Generator",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Education Assistant",
+        "AI Landing Page Builder",
+        "AI DevOps Assistant",
+        "AI Website Designer",
+        "Prompt",
+        "AI Productivity Tools",
+        "AI Files Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-24 09:52:16",
+      "updatedAt": "2024-09-24 09:52:16"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

@@ -1,0 +1,2603 @@
+{
+  "tools": [
+    {
+      "name": "VidIq",
+      "description": "YouTube growth tool with AI-powered prompts and analytics.",
+      "website": "https://vidiq.com/?afmc=wenhua",
+      "image": "https://cdn-images.toolify.ai/image/b79113ce6ef94d1061177a3a1de97571.jpeg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Coaching",
+        "AI Advertising Assistant",
+        "AI Tools Directory",
+        "AI Analytics Assistant",
+        "AI Course"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:17",
+      "updatedAt": "2023-03-07 16:48:17"
+    },
+    {
+      "name": "Summarize-Youtube Video Summarizer",
+      "description": "Watch less, learn more and fast from long videos.",
+      "website": "https://summarize.ing?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170960337362609754.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-05 09:48:56",
+      "updatedAt": "2024-03-05 09:48:56"
+    },
+    {
+      "name": "SkipWatch: AI YouTube Summarizer",
+      "description": "AI tool for quick video summaries on YouTube.",
+      "website": "https://chromewebstore.google.com/detail/skipwatch-ai-youtube-summ/dcmieaeohdmdlpbconjfmepnmhohaemd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172895686912131690.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-15 09:53:07",
+      "updatedAt": "2024-10-15 09:53:07"
+    },
+    {
+      "name": "TubeBuddy",
+      "description": "YouTube workflow optimization software for creators",
+      "website": "https://tubebuddy.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350415674188069.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Developer Tools",
+        "AI SEO Assistant",
+        "AI Data Mining",
+        "AI Thumbnail Maker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "YOU-TLDR 2.0",
+      "description": "Get TLDR summaries of YouTube videos and more on You-tldr website.",
+      "website": "https://www.you-tldr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577757417758187.jpg",
+      "category": "AI Video Search",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Search",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:32:05",
+      "updatedAt": "2023-06-03 15:32:05"
+    },
+    {
+      "name": "Gling",
+      "description": "Gling AI is an AI-powered video editing tool that automates the editing process for YouTubers.",
+      "website": "https://gling.ai/?via=wenhua",
+      "image": "https://cdn-images.toolify.ai/image/8f9989fc100dad1b6c16fd8c6f613fd4.jpeg",
+      "category": "AI Video Editor",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Video Editor",
+        "AI Video Recording",
+        "AI YouTube Assistant",
+        "AI Content Detector",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "Gling AI",
+      "description": "AI-powered video editing tool that automatically detects and removes silences and bad takes.",
+      "website": "https://gling.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169218836773048951.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "Voice & Audio Editing",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-16 20:18:41",
+      "updatedAt": "2023-08-16 20:18:41"
+    },
+    {
+      "name": "YouTube Summarized",
+      "description": "YouTube Summarized is an AI tool that generates video summaries from YouTube and podcasts.",
+      "website": "https://youtubesummarized.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d7435e03240d0136ce85941d53d0ca55.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Notes Assistant",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:26",
+      "updatedAt": "2023-03-07 16:48:26"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Skipit.ai",
+      "description": "AI platform for summarizing YouTube videos and generating chatbots",
+      "website": "https://www.skipit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052431380401311.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Reply Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:27",
+      "updatedAt": "2024-07-09 19:23:27"
+    },
+    {
+      "name": "Thumblytics",
+      "description": "Pick the best thumbnail and title combination with Thumblytics",
+      "website": "https://thumblytics.com/?aff=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067734588051324.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Thumbnail Maker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:33",
+      "updatedAt": "2024-03-17 20:07:33"
+    },
+    {
+      "name": "TubeOnAI",
+      "description": "AI-driven summaries for efficient video consumption.",
+      "website": "https://www.tubeonai.com//?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262655670840993.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:47",
+      "updatedAt": "2023-12-15 15:45:47"
+    },
+    {
+      "name": "ShortCast.ai",
+      "description": "AI-driven YouTube & Podcast Summaries!",
+      "website": "https://shortcast.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169506078990186025.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "AI YouTube Assistant",
+        "AI Podcast Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-19 02:13:01",
+      "updatedAt": "2023-09-19 02:13:01"
+    },
+    {
+      "name": "Vidalgo",
+      "description": "Effortless vertical video creation for top social platforms.",
+      "website": "https://www.vidalgo.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703996249649504.webp",
+      "category": "AI Tiktok Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tiktok Assistant",
+        "AI YouTube Assistant",
+        "AI Video Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:38:18",
+      "updatedAt": "2024-05-30 11:38:18"
+    },
+    {
+      "name": "Creator tools",
+      "description": "Translate captions and descriptions in YouTube Studio into 140+ languages to save time and expand video reach.",
+      "website": "https://creator-tools.com/en?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545865225430539.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:57:10",
+      "updatedAt": "2023-05-30 22:57:10"
+    },
+    {
+      "name": "InstantChapters",
+      "description": "Instant Chapters uses AI to generate chapters for YouTube videos, enhancing viewer experience and increasing watch time.",
+      "website": "https://instantchapters.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168673518624949121.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI YouTube Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 17:32:35",
+      "updatedAt": "2023-06-14 17:32:35"
+    },
+    {
+      "name": "AICO",
+      "description": "AI-powered video editing service for YouTube shorts.",
+      "website": "https://aico.tv?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169711488797210384.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Social Media Assistant",
+        "AI Tiktok Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-12 20:46:19",
+      "updatedAt": "2023-10-12 20:46:19"
+    },
+    {
+      "name": "Summarify AI For YouTube",
+      "description": "Summarify is an iOS app that uses AI to summarize YouTube videos for efficient consumption.",
+      "website": "https://summarify.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585177627592293.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:16",
+      "updatedAt": "2023-06-04 12:09:16"
+    },
+    {
+      "name": "Autopilot Shorts",
+      "description": "Automate your social media video shorts with AI-generated content.",
+      "website": "https://autopilotshorts.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068428097264361.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "Text to Video",
+        "AI Video Generator",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 12:35:38",
+      "updatedAt": "2024-11-04 12:35:38"
+    },
+    {
+      "name": "Lookie AI: Make YouTube Your Brain",
+      "description": "AI tool for summarizing YouTube videos efficiently.",
+      "website": "https://lookie.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709749172989770.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "YouTube Dubbing",
+      "description": "Eliminate language barriers for watching videos",
+      "website": "https://yd.transduck.com/admin/signup?code=30076",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245854080424086.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:22",
+      "updatedAt": "2024-04-07 10:54:22"
+    },
+    {
+      "name": "Replayed",
+      "description": "YouTube channel growth with personalized editing.",
+      "website": "https://replayed.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566220186391137.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Photo & Image Editor",
+        "AI Video Editor"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:49:43",
+      "updatedAt": "2024-05-14 12:49:43"
+    },
+    {
+      "name": "ytRank.ai",
+      "description": "AI tools to enhance YouTube content strategy and growth.",
+      "website": "https://www.ytrank.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172528005897806276.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-02 20:27:03",
+      "updatedAt": "2024-09-02 20:27:03"
+    },
+    {
+      "name": "VisionStory AI",
+      "description": "VisionStory AI creates avatar videos with photos, voice cloning and more, expressively and instantly.",
+      "website": "https://www.visionstory.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172732085745543152.jpg",
+      "category": "AI Personalized Video Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "AI YouTube Assistant",
+        "AI Tiktok Assistant",
+        "Image to Video",
+        "Text to Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-26 11:22:56",
+      "updatedAt": "2024-09-26 11:22:56"
+    },
+    {
+      "name": "YouTube Video Summarizer AI-Powered",
+      "description": "AI tool for concise YouTube video summaries.",
+      "website": "https://summarizeyou.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176308925478969.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:22:29",
+      "updatedAt": "2024-11-16 21:22:29"
+    },
+    {
+      "name": "Traw AI Summaries",
+      "description": "Save time with traw, a GPT-powered service that provides concise YouTube video summaries.",
+      "website": "https://traw.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882917640222001.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "ChatTube AI",
+      "description": "Enhance education experience with interactive learning",
+      "website": "https://chattubeai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900425497975610.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Education Assistant",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:47",
+      "updatedAt": "2024-02-27 11:22:47"
+    },
+    {
+      "name": "Chat with YouTube",
+      "description": "AI-powered conversations with YouTube videos",
+      "website": "https://chatwithyoutube.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229748673931269.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:18",
+      "updatedAt": "2023-12-11 20:21:18"
+    },
+    {
+      "name": "Fanfuel",
+      "description": "Boost your YouTube channel with AI-powered creativity and reach in simple steps.",
+      "website": "https://fanfuel.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373315190273606.jpg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI YouTube Assistant",
+        "AI Thumbnail Maker",
+        "AI Analytics Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:15",
+      "updatedAt": "2023-12-28 11:11:15"
+    },
+    {
+      "name": "VidChapter",
+      "description": "AI-powered video optimization for YouTube & Vimeo videos",
+      "website": "https://toolify--able.thrivecart.com/vidchapter-aultra-annual/",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073508437365208.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Product Description Generator",
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Short Clips Generator",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 18:24:21",
+      "updatedAt": "2023-11-23 18:24:21"
+    },
+    {
+      "name": "SummarizeYT",
+      "description": "Save time by summarizing YouTube videos as you browse with SummarizeYT.",
+      "website": "https://summarizeyt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543292493430062.jpg",
+      "category": "AI Video Search",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Search",
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 15:48:16",
+      "updatedAt": "2023-05-30 15:48:16"
+    },
+    {
+      "name": "MobbyDownload",
+      "description": "Online tool for cutting and editing YouTube videos.",
+      "website": "https://www.mobbydownload.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159689744087453.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI YouTube Assistant",
+        "AI Video Recording",
+        "AI Video Editor",
+        "AI Short Clips Generator",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:02",
+      "updatedAt": "2024-11-14 23:10:02"
+    },
+    {
+      "name": "Proust",
+      "description": "Proust is a transcription tool for YouTube videos that enhances accessibility.",
+      "website": "https://proust.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476375060228308.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Transcription",
+        "AI Speech Recognition",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:37:39",
+      "updatedAt": "2023-05-22 20:37:39"
+    },
+    {
+      "name": "YouBrief",
+      "description": "Get concise YouTube video summaries instantly.",
+      "website": "https://www.777ccc.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215007427099170.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:33",
+      "updatedAt": "2024-04-03 21:13:33"
+    },
+    {
+      "name": "Ask Youtube",
+      "description": "\"Ask Youtube is a powerful AI tool that provides video insights and uncovers best moments.\"",
+      "website": "https://askyoutube.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228012234610739.jpg",
+      "category": "AI Short Clips Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Short Clips Generator",
+        "AI Video Search",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Youtube Chapters",
+      "description": "Simplify extracting key points from long YouTube videos.",
+      "website": "https://youtubechapters.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169401556351677449.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-06 23:50:52",
+      "updatedAt": "2023-09-06 23:50:52"
+    },
+    {
+      "name": "Ploady",
+      "description": "AI tool for youtube video enhancement",
+      "website": "https://www.ploady.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171072806072208791.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Repurpose Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:13:13",
+      "updatedAt": "2024-03-18 10:13:13"
+    },
+    {
+      "name": "AI YouTube Tag Generator",
+      "description": "A user-friendly YouTube tag generator for boosting video visibility and maximizing channel reach.",
+      "website": "https://tagifynow.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477859518660827.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:41",
+      "updatedAt": "2024-01-09 13:35:41"
+    },
+    {
+      "name": "ClarityClips",
+      "description": "\"ClarityClips is a web app that extracts key points from YouTube videos effortlessly.\"",
+      "website": "https://www.clarityclips.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576943641703369.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Short Clips Generator",
+        "AI Video Search",
+        "AI Document Extraction",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:17:00",
+      "updatedAt": "2023-06-03 13:17:00"
+    },
+    {
+      "name": "CleverTrend AI",
+      "description": "AI tool for YouTube video analysis and content inspiration.",
+      "website": "https://clevertrendai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172619152834221801.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-13 09:38:38",
+      "updatedAt": "2024-09-13 09:38:38"
+    },
+    {
+      "name": "Speechimo",
+      "description": "Transform text into high-quality audio effortlessly.",
+      "website": "https://speechimo.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170546148624145440.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Text-to-Speech",
+        "AI Tiktok Assistant",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 11:25:01",
+      "updatedAt": "2024-01-17 11:25:01"
+    },
+    {
+      "name": "BlitzVideo.AI",
+      "description": "All-in-one AI platform for Faceless YouTube Channels.",
+      "website": "https://www.blitzvideo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566241085610642.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Recording",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Video Generator",
+        "AI Photo & Image Generator",
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Video Editor",
+        "AI Script Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:15",
+      "updatedAt": "2024-05-14 12:51:15"
+    },
+    {
+      "name": "The SORA Museum",
+      "description": "Curated selection of SORA-generated videos",
+      "website": "https://soravideos.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170831833873162422.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Content Generator",
+        "AI Personalized Video Generator",
+        "AI Video Generator",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-19 12:50:30",
+      "updatedAt": "2024-02-19 12:50:30"
+    },
+    {
+      "name": "AskYoutube",
+      "description": "Instantly find up-to-date information and save time with AskYoutube.",
+      "website": "https://www.askyoutube.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486205234791610.jpg",
+      "category": "AI Video Search",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Video Search",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "Summarize AI",
+      "description": "Efficient video comprehension with AI",
+      "website": "https://www.summarizeai.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215018393446224.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:35",
+      "updatedAt": "2024-04-03 21:13:35"
+    },
+    {
+      "name": "Morise.ai",
+      "description": "AI-powered toolbox for YouTube creators.",
+      "website": "https://morise.ai?via=Toolify",
+      "image": "https://cdn-images.toolify.ai/image/7048e32df2df0fdf15ce78e979122da7.jpeg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "Youtube Summary With ChatGPT",
+      "description": "Efficiently summarize YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube-summary-with-chat/leidjgpcaiceoeebkdjfcaeboidcjiea?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833019591193924.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:27",
+      "updatedAt": "2024-06-14 09:56:27"
+    },
+    {
+      "name": "Youtube\u52d5\u753b AI\u8981\u7d04 | \u6642\u77ed\u3001\u52b9\u7387\u5316\u3001\u6587\u5b57\u8d77\u3053\u3057",
+      "description": "AI summarization of YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube\u52d5\u753b-ai\u8981\u7d04-\u6642\u77ed\u3001\u52b9\u7387\u5316\u3001\u6587\u5b57\u8d77/mgbkpjfapfdjaonibmiagifdhnchghnl?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:32",
+      "updatedAt": "2024-10-23 12:24:32"
+    },
+    {
+      "name": "Wayin AI",
+      "description": "A Free Video Copilot for YouTube Summaries and Chats.",
+      "website": "https://chromewebstore.google.com/detail/wayin-ai-understanding-vi/cedgndijpacnfbdggppddacngjfdkaca?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369268823333541.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Chatbot",
+        "AI Productivity Tools",
+        "AI Video Search",
+        "Research Tool",
+        "AI Interview Assistant",
+        "AI Tutorial",
+        "AI Course",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:36:54",
+      "updatedAt": "2024-08-15 11:36:54"
+    },
+    {
+      "name": "YouTube Transcript to AI",
+      "description": "AI extension for enhancing YouTube experience",
+      "website": "https://chromewebstore.google.com/detail/youtube-transcript-to-ai/aoegdpgghhafohbeikogdjhigjinhkal?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965750735314043.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Transcription",
+        "Transcriber",
+        "Summarizer",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:32",
+      "updatedAt": "2024-10-23 12:24:32"
+    },
+    {
+      "name": "Sponsor Stream",
+      "description": "AI-powered sponsor matchmaking",
+      "website": "https://www.sponsorstreamai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171421478611238328.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-27 18:45:13",
+      "updatedAt": "2024-04-27 18:45:13"
+    },
+    {
+      "name": "YouTube Copilot",
+      "description": "Enhance YouTube viewing with AI.",
+      "website": "https://chromewebstore.google.com/detail/youtube-copilot/afccafgpkkpnnbbalnpbjhacljoboned?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785151746625784.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:04",
+      "updatedAt": "2024-06-08 20:58:04"
+    },
+    {
+      "name": "Sponsor Skipper - for YouTube\u2122",
+      "description": "Enhance YouTube by skipping sponsors.",
+      "website": "https://chromewebstore.google.com/detail/sponsor-skipper-for-youtu/achoncmlomeamkfiaoonjnipkjkpomkl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776762434073110.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Image Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:51",
+      "updatedAt": "2024-06-07 21:39:51"
+    },
+    {
+      "name": "ONNO AI",
+      "description": "AI-powered YouTube summarizer and translator.",
+      "website": "https://chromewebstore.google.com/detail/onno-ai/jdjcifgkfajhdagndfmlhdmhimhicddc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763908482780889.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:27",
+      "updatedAt": "2024-06-06 09:56:27"
+    },
+    {
+      "name": "CommentReply.AI",
+      "description": "Generate personalized YouTube comment replies with ease.",
+      "website": "https://www.commentreply.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572060762436910.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 23:43:09",
+      "updatedAt": "2023-06-02 23:43:09"
+    },
+    {
+      "name": "Youtube Helper",
+      "description": "Summarizes YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube-helper/caikckiolnligfeagphppmcadlkjdlmh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687131152190772.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "Captions or Subtitle",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:37",
+      "updatedAt": "2024-05-28 12:41:37"
+    },
+    {
+      "name": "VidDigest - ChatGPT for Youtube Videos",
+      "description": "Enhance YouTube with ChatGPT",
+      "website": "https://chromewebstore.google.com/detail/viddigest-chatgpt-for-you/ikbdnbdoajnfbekhkcklgebljgdfolfe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703943516878713.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "Preview",
+      "description": "Summarize YouTube videos efficiently.",
+      "website": "https://chromewebstore.google.com/detail/preview/nlnfejbfnedapcnicokecaboljkbefkf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776760036957646.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:36",
+      "updatedAt": "2024-06-07 21:39:36"
+    },
+    {
+      "name": "Fantaclaus",
+      "description": "AI-powered app for personalized YouTube comment replies.",
+      "website": "https://fantaclaus.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580635391339784.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Reply Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:00:47",
+      "updatedAt": "2023-06-03 22:00:47"
+    },
+    {
+      "name": "Youtube Ultimate Search",
+      "description": "Enhance YouTube browsing with transcript search",
+      "website": "https://chromewebstore.google.com/detail/youtube-ultimate-search/ohnhbnblplfmbbgfchgbcnmjcecmioon?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776765292814460.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:56",
+      "updatedAt": "2024-06-07 21:39:56"
+    },
+    {
+      "name": "TransDub",
+      "description": "YouTube video translation and dubbing",
+      "website": "https://transdub.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096705120495660.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "Captions or Subtitle",
+        "Text-to-Speech",
+        "AI Speech Synthesis"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:21:25",
+      "updatedAt": "2024-07-14 22:21:25"
+    },
+    {
+      "name": "TubeX: Your YouTube AI Copilot(Free Tool)",
+      "description": "Enhance YouTube experience with AI video translation.",
+      "website": "https://chromewebstore.google.com/detail/tubex-your-youtube-ai-cop/bifndkhccndcnabjhllngpdapfakfcif?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833019348786022.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:27",
+      "updatedAt": "2024-06-14 09:56:27"
+    },
+    {
+      "name": "ByteSense",
+      "description": "Optimizes YouTube video quality based on content type.",
+      "website": "https://chromewebstore.google.com/detail/bytesense/fodecdicocihkpcepeegojnmmijnobef?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776759414183630.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Video Editor",
+        "AI Video Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:36",
+      "updatedAt": "2024-06-07 21:39:36"
+    },
+    {
+      "name": "YouAsk AI",
+      "description": "Instantly interact with YouTube videos.",
+      "website": "https://apps.apple.com/tr/app/youask-ai-youtube-chat/id6480341739?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171617103432064636.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-20 10:09:58",
+      "updatedAt": "2024-05-20 10:09:58"
+    },
+    {
+      "name": "YTSummarizer.io",
+      "description": "Digest YouTube content quickly",
+      "website": "https://ytsummarizer.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171498125668661547.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-06 15:39:13",
+      "updatedAt": "2024-05-06 15:39:13"
+    },
+    {
+      "name": "YouTube \u5b57\u5e55\u7ffb\u8bd1",
+      "description": "Browser plugin for YouTube with auto-subtitle translation",
+      "website": "https://chromewebstore.google.com/detail/youtube-\u5b57\u5e55\u7ffb\u8bd1/knncklmmdejcadilnfeabejdfekhgdhe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738114381254755.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:51",
+      "updatedAt": "2024-06-03 10:18:51"
+    },
+    {
+      "name": "Houidini",
+      "description": "Generate YouTube video timestamps and summaries",
+      "website": "https://chromewebstore.google.com/detail/houidini/ijdmifdlpncapjbcmkkenhkcobgdbogl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738088627506418.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Captions or Subtitle",
+        "Summarizer",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:40",
+      "updatedAt": "2024-06-03 10:13:40"
+    },
+    {
+      "name": "Respark",
+      "description": "Travel narratives and highlights platform",
+      "website": "https://chromewebstore.google.com/detail/respark/nhgeimghjjigkncmeclichokdnaeodhl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763903016203100.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI YouTube Assistant",
+        "AI Facebook Assistant",
+        "Summarizer",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:56:25",
+      "updatedAt": "2024-06-06 09:56:25"
+    },
+    {
+      "name": "Summatim",
+      "description": "Save time watching videos",
+      "website": "https://chromewebstore.google.com/detail/summatim/gjpmpcddpeemanolopmkidmfljmidpgh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747571018936235.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:38",
+      "updatedAt": "2024-06-04 12:34:38"
+    },
+    {
+      "name": "ChatGPT for Chrome & YouTube Summary by Glasp",
+      "description": "Enhances YouTube experience with transcripts & summaries.",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815759973958676.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:46",
+      "updatedAt": "2024-06-12 09:59:46"
+    },
+    {
+      "name": "ireadfaster",
+      "description": "Enhances YouTube with AI summaries.",
+      "website": "https://chromewebstore.google.com/detail/ireadfaster/anfeloimdjdeilmiklmpnckkpdgjehhp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767910380437.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:14",
+      "updatedAt": "2024-06-07 21:40:14"
+    },
+    {
+      "name": "Yt-sum 1.15 beta",
+      "description": "Analyzes YouTube video transcripts for summaries and bias.",
+      "website": "https://chromewebstore.google.com/detail/yt-sum-115-beta/hjljbhmpjindicdhibkiehnpbdgnpfkl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147846347380627.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Large Language Models (LLMs)",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:07",
+      "updatedAt": "2024-11-13 14:14:07"
+    },
+    {
+      "name": "Youtube Ultra Focus Mode",
+      "description": "Enhance YouTube focus by eliminating distractions.",
+      "website": "https://chromewebstore.google.com/detail/youtube-ultra-focus-mode/ogbodhhmdhhbfoidbgafnnikkangfebe?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747585980524759.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:34",
+      "updatedAt": "2024-06-04 12:35:34"
+    },
+    {
+      "name": "YouTube Comment Generator&Analyse-EasyComment",
+      "description": "YouTube tool for comment creation and analysis",
+      "website": "https://chromewebstore.google.com/detail/youtube-comment-generator/hpncbpdkbckdknghjlnephibcallkpim?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687103738023441.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI YouTube Assistant",
+        "AI Response Generator",
+        "AI Content Generator",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:07",
+      "updatedAt": "2024-05-28 12:37:07"
+    },
+    {
+      "name": "TubeInsights",
+      "description": "Enhance YouTube content with automated support.",
+      "website": "https://chromewebstore.google.com/detail/tubeinsights/ecnepininffodhhimnlocaehgpmcnnlk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776926857868553.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:56",
+      "updatedAt": "2024-06-07 22:06:56"
+    },
+    {
+      "name": "Coursnap - Summarizer for Long YouTube Videos",
+      "description": "Improve learning speed with advanced video summarization.",
+      "website": "https://chromewebstore.google.com/detail/coursnap-summarizer-for-l/clhacnjjfngbccgjbfbioajeoclpmggk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785153668273032.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Tutorial",
+        "AI Course",
+        "AI Video Recording",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:17",
+      "updatedAt": "2024-06-08 20:58:17"
+    },
+    {
+      "name": "Magic Publish",
+      "description": "AI metadata generator for YouTube",
+      "website": "https://www.magicpublish.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043225496638736.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:07",
+      "updatedAt": "2024-07-08 17:48:07"
+    },
+    {
+      "name": "YouTube Video Summarizer",
+      "description": "Enhances YouTube experience with AI summaries",
+      "website": "https://chromewebstore.google.com/detail/youtube-video-summarizer/oalcpaoklohkefmhocdjafnploloaibm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807155151371561.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "Transcription",
+        "Transcriber"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:12",
+      "updatedAt": "2024-06-11 10:05:12"
+    },
+    {
+      "name": "KeyPoints - Youtube Video Summarizer",
+      "description": "Summarize YouTube videos with key points",
+      "website": "https://chromewebstore.google.com/detail/keypoints-youtube-video-s/cmpegjdbmjinegeoloignbnnchhaeafj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763885937166531.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:49",
+      "updatedAt": "2024-06-06 09:53:49"
+    },
+    {
+      "name": "Autoclipr l Grow on autopilot",
+      "description": "Create captivating YouTube clips effortlessly.",
+      "website": "https://autoclipr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169953519112121000.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "Captions or Subtitle",
+        "AI Short Clips Generator",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-09 21:06:00",
+      "updatedAt": "2023-11-09 21:06:00"
+    },
+    {
+      "name": "PodulateAI",
+      "description": "Turn YouTube videos into interactive experiences.",
+      "website": "https://podulate.azen.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072950785707340.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Chatbot",
+        "AI Content Generator",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:40",
+      "updatedAt": "2023-11-23 16:50:40"
+    },
+    {
+      "name": "YouTube Real Time Translation",
+      "description": "Real-time YouTube video translation.",
+      "website": "https://chromewebstore.google.com/detail/youtube-real-time-transla/ndbhldoclidahhoogmgklimmomnnepjg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171998288039995999.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-03 13:00:58",
+      "updatedAt": "2024-07-03 13:00:58"
+    },
+    {
+      "name": "Yt-Music skip heard",
+      "description": "Smart playlist management for YouTube Music.",
+      "website": "https://chromewebstore.google.com/detail/yt-music-skip-heard/idmkcmdgldbpepoakppkconjhjecjopc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679938050854574.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:30:46",
+      "updatedAt": "2024-05-25 21:30:46"
+    },
+    {
+      "name": "YouTube SEO Optimizer",
+      "description": "AI-powered script generation for YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/youtube-seo-optimizer/bgbcmfjoponelncefgpapioncfbokied?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282851132084479.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Script Writing",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:21",
+      "updatedAt": "2024-08-05 11:28:21"
+    },
+    {
+      "name": "What's The Gist",
+      "description": "Summarize YouTube videos instantly",
+      "website": "https://chromewebstore.google.com/detail/whats-the-gist/bfjfjkoohodcepigghcadinmojpibbek?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703942193381762.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:23",
+      "updatedAt": "2024-05-30 11:23:23"
+    },
+    {
+      "name": "Vidviz GPT: AI for YouTube",
+      "description": "AI Chrome extension for interactive video learning",
+      "website": "https://chromewebstore.google.com/detail/vidviz-gpt-ai-for-youtube/habbmgheecgiehmigmojgimhdbdbafjb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776927240880398.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Document Extraction",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:56",
+      "updatedAt": "2024-06-07 22:06:56"
+    },
+    {
+      "name": "Youtube Scripter",
+      "description": "AI companion for personalized YouTube experience.",
+      "website": "https://chromewebstore.google.com/detail/youtube-scripter/nkenhionmhdegjkgghhigaifcmpioeff?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747578068870654.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Script Writing",
+        "AI Podcast Assistant",
+        "Captions or Subtitle",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:54",
+      "updatedAt": "2024-06-04 12:34:54"
+    },
+    {
+      "name": "Youtube Assistant",
+      "description": "AI-powered YouTube video insights",
+      "website": "https://chromewebstore.google.com/detail/youtube-assistant/hjgdomehmbbnamplldiennbamkiiomge?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747586070163959.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:34",
+      "updatedAt": "2024-06-04 12:35:34"
+    },
+    {
+      "name": "YouTube Summary Generator",
+      "description": "Efficient video summaries on YouTube",
+      "website": "https://chromewebstore.google.com/detail/youtube-summary-generator/loijikpkflmdfpgbaaddaophfoohlamp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747585369244977.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:33",
+      "updatedAt": "2024-06-04 12:35:33"
+    },
+    {
+      "name": "AI Voice Over for YouTube",
+      "description": "AI-powered translation for YouTube videos",
+      "website": "https://chromewebstore.google.com/detail/ai-voice-over-for-youtube/kfdciffkkkjlkfhgiilcncenililheed?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785152940033492.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:17",
+      "updatedAt": "2024-06-08 20:58:17"
+    },
+    {
+      "name": "daglo - \ubaa8\ub4e0 \uc74c\uc131\uc744 \ub2e4 \uae00\ub85c",
+      "description": "Transcribe YouTube videos accurately.",
+      "website": "https://chromewebstore.google.com/detail/daglo-\ubaa8\ub4e0-\uc74c\uc131\uc744-\ub2e4-\uae00\ub85c/iajdmpepdbljgbagcpllalfnmodhnfdd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738097129934244.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "Transcription",
+        "Transcriber",
+        "Speech-to-Text",
+        "AI Speech Recognition",
+        "Captions or Subtitle"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:05",
+      "updatedAt": "2024-06-03 10:16:05"
+    },
+    {
+      "name": "Free Ai Youtube Video Title Generator",
+      "description": "AI tool for YouTube optimization",
+      "website": "https://chromewebstore.google.com/detail/free-ai-youtube-video-tit/holfnplikookkjkmdjodchnobhknkhmj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833020233738391.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:28",
+      "updatedAt": "2024-06-14 09:56:28"
+    },
+    {
+      "name": "Thumbnail.bot",
+      "description": "Transform videos with engaging thumbnails",
+      "website": "https://thumbnail.bot?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171315309818406862.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Thumbnail Maker",
+        "AI Photo & Image Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-15 11:50:03",
+      "updatedAt": "2024-04-15 11:50:03"
+    },
+    {
+      "name": "YTSummary: YouTube Summarizer with ChatGPT",
+      "description": "AI-powered video summaries",
+      "website": "https://chromewebstore.google.com/detail/ytsummary-youtube-summari/gbhpdgodkjichnmknlkeeemanikneopa?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747577778080918.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Tutorial",
+        "AI Education Assistant",
+        "AI Video Recording",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:54",
+      "updatedAt": "2024-06-04 12:34:54"
+    },
+    {
+      "name": "Coursnap",
+      "description": "Learn YouTube courses easier with Coursnap.",
+      "website": "https://coursnap.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17060845552547809.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Tutorial",
+        "AI Course"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-24 16:44:09",
+      "updatedAt": "2024-01-24 16:44:09"
+    },
+    {
+      "name": "CozyEQ",
+      "description": "Enhance YouTube listening comfort",
+      "website": "https://chromewebstore.google.com/detail/cozyeq/oahdihianbigojpobnkhmihiejnjpdch?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776926520322513.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Image Enhancer",
+        "AI Audio Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:55",
+      "updatedAt": "2024-06-07 22:06:55"
+    },
+    {
+      "name": "Youtube Sentiment Analysis",
+      "description": "Analyze YouTube comments sentiment",
+      "website": "https://chromewebstore.google.com/detail/youtube-sentiment-analysi/fjgpfjohfddffjhkekipahjnfdioijad?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679932657850583.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:34",
+      "updatedAt": "2024-05-23 22:00:34"
+    },
+    {
+      "name": "Insightfly: ChatGPT YouTube Summary",
+      "description": "Extract key insights from YouTube videos efficiently.",
+      "website": "https://chromewebstore.google.com/detail/insightfly-chatgpt-youtub/eflhibkehcgonglaobnnllnoafhocikf?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738086989207177.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "AI Podcast Assistant",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:38",
+      "updatedAt": "2024-06-03 10:13:38"
+    },
+    {
+      "name": "Youtube AI",
+      "description": "Revolutionize video-watching with AI",
+      "website": "https://chromewebstore.google.com/detail/youtube-ai/fdilabkhambeiklhapppncdlhobanail?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747578281673907.jpg",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:55",
+      "updatedAt": "2024-06-04 12:34:55"
+    },
+    {
+      "name": "TranslateTracks",
+      "description": "Unlock global audience engagement with TranslateTracks' high quality AI-powered dubbing and video translation services.",
+      "website": "https://www.translatetracks.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900424649582441.webp",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Translate",
+        "AI Repurpose Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:47",
+      "updatedAt": "2024-02-27 11:22:47"
+    },
+    {
+      "name": "Quicks \u2013 YouTube Video Summary with ChatGPT",
+      "description": "Extract key-points from videos",
+      "website": "https://chromewebstore.google.com/detail/quicks-\u2013-youtube-video-su/gfkmhflfkkpapkgdjijoljbdanjdnade?utm_source=toolify",
+      "image": "https://via.placeholder.com/400x225?text=AI+Tool",
+      "category": "AI YouTube Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI YouTube Assistant",
+        "Summarizer",
+        "Research Tool"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:24",
+      "updatedAt": "2024-05-30 11:23:24"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

@@ -1,0 +1,2775 @@
+{
+  "tools": [
+    {
+      "name": "Vmake AI",
+      "description": "AI image & video editing studio for e-commerce",
+      "website": "https://vmake.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172269884946184293.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-03 23:42:26",
+      "updatedAt": "2024-08-03 23:42:26"
+    },
+    {
+      "name": "POKY",
+      "description": "Import products from multiple platforms to your online stores.",
+      "website": "https://poky.app/?a=sfqv4",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171474102499045134.webp",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-03 21:00:28",
+      "updatedAt": "2024-05-03 21:00:28"
+    },
+    {
+      "name": "DressPlay",
+      "description": "DressPlay is an innovative AI Clothes Changer app designed for users who enjoy exploring different styles and for e-commerce businesses.",
+      "website": "https://dressplay.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172501513253474041.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Pattern Generator",
+        "Image to Image",
+        "AI Charting",
+        "AI UGC Video Generator",
+        "AI Short Clips Generator",
+        "Research Tool",
+        "Sales Assistant",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 18:53:11",
+      "updatedAt": "2024-08-30 18:53:11"
+    },
+    {
+      "name": "Adminer",
+      "description": "Plataforma de pesquisa e an\u00e1lise de produtos para alavancar neg\u00f3cios digitais.",
+      "website": "https://adminer.pro?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350448915323216.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Task Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:36",
+      "updatedAt": "2023-12-25 18:16:36"
+    },
+    {
+      "name": "Peeksta",
+      "description": "Powerful dropshipping product research tool.",
+      "website": "https://peeksta.com/amember/aff/go/toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350415325506980.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "Research Tool",
+        "AI Tiktok Assistant",
+        "AI Lead Generation",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "aasaan",
+      "description": "Aasaan is an easy, no-code storefront builder for creating stunning online stores in minutes.",
+      "website": "https://admin.aasaan.app/auth/register/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545597068568964.jpg",
+      "category": "AI Website Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Builder",
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "AI App Builder",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:19",
+      "updatedAt": "2023-05-30 22:12:19"
+    },
+    {
+      "name": "ConvertMate",
+      "description": "AI-powered optimization for Shopify product pages.",
+      "website": "https://app.partnerjam.com/install?key=3e530fa2-dcbe-4de3-8f48-9192b55c84bb",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169890953250406580.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-02 15:17:04",
+      "updatedAt": "2023-11-02 15:17:04"
+    },
+    {
+      "name": "Evolup",
+      "description": "Create affiliate stores effortlessly with Evolup, powered by AI, and earn commissions on sales.",
+      "website": "https://evolup.com/?afmc=4y11ih",
+      "image": "https://cdn-images.toolify.ai/image/d037264476165bbcb9f817a79a835103.jpeg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "E-commerce Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "DropGenius",
+      "description": "AI-powered dropshipping store platform",
+      "website": "https://dropgenius.partnerlinks.io/xdn9idwcn1bm",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043216510461342.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Customer Service Assistant",
+        "AI Rewriter",
+        "AI Content Generator",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:05",
+      "updatedAt": "2024-07-08 17:48:05"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "Octoparse AI - Workflow Automation Software",
+      "description": "Octoparse AI is a no-code platform for quickly creating custom AI processes and RPA bots that work for you.",
+      "website": "https://www.octoparse.ai/?utm_source=toolify&utm_medium=referral&utm_campaign=opai_tool_list_plan",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173025363534272879.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "Research Tool",
+        "Investing Assistant",
+        "E-commerce Assistant",
+        "AI Twitter Assistant",
+        "AI Workflow Management",
+        "AI Tiktok Assistant",
+        "Large Language Models (LLMs)",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-30 10:02:52",
+      "updatedAt": "2024-10-30 10:02:52"
+    },
+    {
+      "name": "ZipChat AI",
+      "description": "ZipChat is an AI-powered chatbot that boosts e-commerce sales and cuts costs.",
+      "website": "https://apps.shopify.com/zipchat?mref=rpwayfrk",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168088808157289206.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Advertising Assistant",
+        "AI Reply Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-08 01:23:00",
+      "updatedAt": "2023-04-08 01:23:00"
+    },
+    {
+      "name": "Ecomtent",
+      "description": "Ecomtent helps brands generate content using AI, including images and copy for product listings.",
+      "website": "https://www.ecomtent.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508754344062962.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:51:56",
+      "updatedAt": "2023-05-26 15:51:56"
+    },
+    {
+      "name": "Vanchat",
+      "description": "AI shopping assistant for Shopify enhancing customer interactions.",
+      "website": "https://vanchat.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172458968741667209.jpeg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-25 20:56:47",
+      "updatedAt": "2024-08-25 20:56:47"
+    },
+    {
+      "name": "True ROAS",
+      "description": "Accurate ad tracking and attribution for Shopify orders.",
+      "website": "https://trueroas.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349854153825567.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Analytics Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:48",
+      "updatedAt": "2023-12-25 18:00:48"
+    },
+    {
+      "name": "loop54.com",
+      "description": "eCommerce personalisation technology",
+      "website": "https://loop54.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172118502591473775.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-17 10:55:22",
+      "updatedAt": "2024-07-17 10:55:22"
+    },
+    {
+      "name": "Zolak",
+      "description": "Zolak is a 3D visualization software for furniture retailers, enhancing the shopping experience.",
+      "website": "https://zolak.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169134154796707330.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI 3D Model Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-07 01:04:47",
+      "updatedAt": "2023-08-07 01:04:47"
+    },
+    {
+      "name": "Enalito 2.0",
+      "description": "Enalito helps eCommerce businesses grow through AI-driven marketing strategies.",
+      "website": "https://enalito.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545529234629331.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "AI Email Assistant",
+        "AI CRM Assistant",
+        "AI Email Generator",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:01:19",
+      "updatedAt": "2023-05-30 22:01:19"
+    },
+    {
+      "name": "Potions",
+      "description": "Potions provides personalized e-commerce experiences without cookies for your visitors.",
+      "website": "https://get-potions.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168821807012104726.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-01 21:27:26",
+      "updatedAt": "2023-07-01 21:27:26"
+    },
+    {
+      "name": "Convictional",
+      "description": "Dropship and marketplace platform for retailers.",
+      "website": "https://convictional.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349982023991241.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Website Builder",
+        "AI Website Designer",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:45",
+      "updatedAt": "2023-12-25 18:14:45"
+    },
+    {
+      "name": "SalesCloser AI",
+      "description": "Build AI agents capable of handling phone calls, zoom calls, handling scheduling, and more. No coding required.",
+      "website": "https://salescloser.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481142935772812.jpg",
+      "category": "AI Voice Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Assistants",
+        "AI Accounting Assistant",
+        "AI Consulting Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Knowledge Graph",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:21:29",
+      "updatedAt": "2024-08-28 10:21:29"
+    },
+    {
+      "name": "Zegashop",
+      "description": "AI eCommerce platform for building and growing online stores.",
+      "website": "https://www.zegashop.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176304232899064.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Website Designer",
+        "AI Website Builder",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:15:21",
+      "updatedAt": "2024-11-16 21:15:21"
+    },
+    {
+      "name": "Metric.tech",
+      "description": "AI-driven marketing platform for Shopify store automation.",
+      "website": "https://www.metric.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007957033553590.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:37:46",
+      "updatedAt": "2024-10-28 09:37:46"
+    },
+    {
+      "name": "Brightflow AI",
+      "description": "Take control of cash flow with Brightflow AI",
+      "website": "https://brightflow.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578519613706015.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "Roach",
+      "description": "An all-in-one tool for e-commerce entrepreneurs to uncover winning products and create compelling creatives.",
+      "website": "https://roach.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349885433332821.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:13",
+      "updatedAt": "2023-12-25 18:02:13"
+    },
+    {
+      "name": "getwiser.ai",
+      "description": "AI product recommendation app for Shopify",
+      "website": "https://getwiser.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208872139465470.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "Sales Assistant",
+        "AI Reviews Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:55:00",
+      "updatedAt": "2024-07-27 21:55:00"
+    },
+    {
+      "name": "Genie",
+      "description": "Inventory management tool for Shopify brands to streamline operations.",
+      "website": "https://genie.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159691312627286.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "E-commerce Assistant",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:38",
+      "updatedAt": "2024-11-14 23:10:38"
+    },
+    {
+      "name": "shopeasy.ai",
+      "description": "Boost sales with Shopeasy AI ecommerce store builder.",
+      "website": "https://shopeasy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215023155629207.webp",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Website Designer",
+        "AI Customer Service Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:35",
+      "updatedAt": "2024-04-03 21:13:35"
+    },
+    {
+      "name": "AI Store Manager",
+      "description": "AI Store Manager: an AI assistant automating tasks in your online store to optimize your eCommerce business.",
+      "website": "https://aistoremanager.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415571640580273.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "AI Product Description Generator",
+        "AI CRM Assistant",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 21:00:55",
+      "updatedAt": "2023-05-15 21:00:55"
+    },
+    {
+      "name": "ReSponse CX",
+      "description": "Enhance CX with AI agents",
+      "website": "https://response.cx?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566209836085613.webp",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "Large Language Models (LLMs)",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:10",
+      "updatedAt": "2024-05-14 12:47:10"
+    },
+    {
+      "name": "Whautomate",
+      "description": "Whautomate is a platform that uses automation and AI to improve customer engagement and productivity.",
+      "website": "https://app.whautomate.com?via=ha0di7aebaz7tes7z47f",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168396864582688139.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Scheduling",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 17:03:08",
+      "updatedAt": "2023-05-13 17:03:08"
+    },
+    {
+      "name": "DepopAid",
+      "description": "Boost your Depop success effortlessly.",
+      "website": "https://depopaid.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169605444638738982.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Social Media Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-30 14:13:25",
+      "updatedAt": "2023-09-30 14:13:25"
+    },
+    {
+      "name": "My Booking Hub",
+      "description": "BookingHub.AI automates customer bookings for businesses with mobile workforce.",
+      "website": "https://www.mybookinghub.co.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485338114532066.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Scheduling",
+        "AI Workflow Management",
+        "AI Task Management",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:49:12",
+      "updatedAt": "2023-05-23 22:49:12"
+    },
+    {
+      "name": "sellesta.com",
+      "description": "AI-powered tools to scale e-commerce sales",
+      "website": "https://sellesta.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349889950771065.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:14",
+      "updatedAt": "2023-12-25 18:02:14"
+    },
+    {
+      "name": "Zama",
+      "description": "Boost conversions with an engaging inbox experience!",
+      "website": "https://www.zama.agency?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120080846270584.webp",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Marketing",
+        "E-commerce Assistant",
+        "AI Email Generator",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 21:32:06",
+      "updatedAt": "2024-03-23 21:32:06"
+    },
+    {
+      "name": "JsRates: Custom Shipping Rates",
+      "description": "JavaScript-powered Shopify app for customizable shipping rates.",
+      "website": "https://jsrates.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170281793425513586.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Website Builder",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 20:58:45",
+      "updatedAt": "2023-12-17 20:58:45"
+    },
+    {
+      "name": "cretorial AI",
+      "description": "AI-powered Cretorial helps users create high-quality content for various purposes.",
+      "website": "https://www.cretorial.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168460341489087933.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "Digital Marketing Generator",
+        "AI Blog Writer",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI SEO Assistant",
+        "AI Content Generator",
+        "AI Ad Generator",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Hashtag Assistant",
+        "Writing Assistants",
+        "Copywriting",
+        "Large Language Models (LLMs)",
+        "General Writing",
+        "Photo & Image Editor",
+        "AI Background Remover",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "Research Tool",
+        "Marketing Plan Generator",
+        "Design Assistant",
+        "AI Design Generator",
+        "AI Lead Generation",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-21 01:23:49",
+      "updatedAt": "2023-05-21 01:23:49"
+    },
+    {
+      "name": "{descrb}",
+      "description": "Craft high-converting e-commerce product pages effortlessly.",
+      "website": "https://descrb.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171186666910231192.webp",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Lead Generation",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-31 14:29:16",
+      "updatedAt": "2024-03-31 14:29:16"
+    },
+    {
+      "name": "branchbob.ai",
+      "description": "Build an online store easily with branchbob, no coding skills required.",
+      "website": "https://www.branchbob.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528220278845523.jpg",
+      "category": "AI Website Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Builder",
+        "E-commerce Assistant",
+        "No-Code&Low-Code",
+        "AI App Builder",
+        "AI Landing Page Builder",
+        "AI Product Description Generator",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 21:55:55",
+      "updatedAt": "2023-05-28 21:55:55"
+    },
+    {
+      "name": "Prompt Commerce",
+      "description": "Tool for creating ads and texts for e-commerce.",
+      "website": "https://promptcommerce.site?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173147853873272483.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator",
+        "Prompt",
+        "E-commerce Assistant",
+        "Copywriting",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 14:14:34",
+      "updatedAt": "2024-11-13 14:14:34"
+    },
+    {
+      "name": "EcomSuite",
+      "description": "AI marketing plans & content creation",
+      "website": "https://www.ecomsuite.co.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566204429524025.webp",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "Marketing Plan Generator",
+        "AI Product Description Generator",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Digital Marketing Generator",
+        "Copywriting",
+        "General Writing",
+        "AI Email Writer",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:09",
+      "updatedAt": "2024-05-14 12:47:09"
+    },
+    {
+      "name": "PrompToPrint",
+      "description": "PrompToPrint offers AI-designed t-shirts, with new designs added weekly for unique choices.",
+      "website": "https://www.promptoprint.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168415733419086901.jpg",
+      "category": "AI Clothing Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Clothing Generator",
+        "AI Design Generator",
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Art Generator",
+        "AI Tattoo Generator",
+        "Image to Image",
+        "Photo & Image Editor",
+        "Text to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 21:28:43",
+      "updatedAt": "2023-05-15 21:28:43"
+    },
+    {
+      "name": "Intellifox",
+      "description": "Optimize Amazon listings for maximum sales in minutes.",
+      "website": "https://intellifox.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350404077981034.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI SEO Assistant",
+        "AI Banner Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:15",
+      "updatedAt": "2023-12-25 18:20:15"
+    },
+    {
+      "name": "Cartfuls",
+      "description": "The future of e-commerce, turning conversations into conversions.",
+      "website": "https://cartfuls.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170434010712198025.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Email Marketing",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-04 11:48:10",
+      "updatedAt": "2024-01-04 11:48:10"
+    },
+    {
+      "name": "Accio",
+      "description": "The World\u2019s First AI-Powered B2B Sourcing Engine",
+      "website": "https://www.accio.com/?code=TOO&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173137532453088513.jpg",
+      "category": "AI Business Ideas Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Business Ideas Generator",
+        "AI Consulting Assistant",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-12 09:37:55",
+      "updatedAt": "2024-11-12 09:37:55"
+    },
+    {
+      "name": "aoGen",
+      "description": "An all-in-one ecommerce creative solution to get professional model photos for free.",
+      "website": "https://aogen.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172741757651989909.jpg",
+      "category": "Image to Video",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Image to Video",
+        "AI Clothing Generator",
+        "E-commerce Assistant",
+        "AI Face Swap Generator",
+        "AI Photo & Image Generator",
+        "AI Image Enhancer",
+        "Photo & Image Editor",
+        "AI Photography",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-27 14:15:17",
+      "updatedAt": "2024-09-27 14:15:17"
+    },
+    {
+      "name": "Exie",
+      "description": "Exie \u2014 first eCom AI-powered assistant for Instagram Direct",
+      "website": "https://exie.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498604420340189.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Instagram Assistant",
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "AI Productivity Tools",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:54",
+      "updatedAt": "2024-08-30 10:48:54"
+    },
+    {
+      "name": "SolidGrids",
+      "description": "SolidGrids is an AI image enhancing platform for e-commerce, automating product image enhancement to save time and resources.",
+      "website": "https://solidgrids.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7cf42b8274056baea322b6d42b3c8beb.jpeg",
+      "category": "AI Image Enhancer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Background Remover",
+        "AI Ad Generator",
+        "AI Background Generator",
+        "AI Product Description Generator",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "E-Commerce AI",
+      "description": "Professional e-commerce product photos in seconds",
+      "website": "https://ecommerce-ai.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170589360093795366.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Content Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "Image to Image",
+        "AI Ad Creative Assistant",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Photo Enhancer",
+        "AI Product Description Generator",
+        "AI Image Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-22 11:18:25",
+      "updatedAt": "2024-01-22 11:18:25"
+    },
+    {
+      "name": "Salesbot",
+      "description": "Recover abandoned carts using SMS.",
+      "website": "https://salesbot.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349887850953879.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Advertising Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:13",
+      "updatedAt": "2023-12-25 18:02:13"
+    },
+    {
+      "name": "Contlo.ai",
+      "description": "Contlo is an AI marketing assistant for modern businesses, powered by your brand's AI model and autonomous agents.",
+      "website": "https://contlo.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/2422921224ef500fab6269cdc6fa32e6.jpeg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "Sales Assistant",
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "uniqin.ai",
+      "description": "AI-powered platform for eCommerce growth.",
+      "website": "https://uniqin.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007934466508271.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI SEO Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:57",
+      "updatedAt": "2024-03-10 22:00:57"
+    },
+    {
+      "name": "producthero.ai",
+      "description": "Create personalized banners at scale.",
+      "website": "https://producthero.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007940633980044.webp",
+      "category": "AI Banner Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Banner Generator",
+        "E-commerce Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Photo & Image Generator",
+        "AI Analytics Assistant",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:58",
+      "updatedAt": "2024-03-10 22:00:58"
+    },
+    {
+      "name": "CrawlrLabs",
+      "description": "AI-optimized e-commerce pricing solutions",
+      "website": "https://www.crawlrlabs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096690130956495.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:20:59",
+      "updatedAt": "2024-07-14 22:20:59"
+    },
+    {
+      "name": "ShopMate AI",
+      "description": "ShopMate is an AI-powered e-commerce platform that uses ChatGPT to personalize recommendations and improve sales.",
+      "website": "https://shopmateai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580599750831868.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "E-commerce Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 18:01:51",
+      "updatedAt": "2023-06-03 18:01:51"
+    },
+    {
+      "name": "Productify.ai",
+      "description": "Create product content in seconds",
+      "website": "https://productify.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584864086786719.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Content Generator",
+        "AI SEO Assistant",
+        "E-commerce Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 11:16:43",
+      "updatedAt": "2023-06-04 11:16:43"
+    },
+    {
+      "name": "CaptainGPT",
+      "description": "AI assistant for e-commerce efficiency",
+      "website": "https://chromewebstore.google.com/detail/captaingpt/akenolckhbfehmchdejpjidbgmdcaeng?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807152182743738.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Product Description Generator",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:08",
+      "updatedAt": "2024-06-11 10:05:08"
+    },
+    {
+      "name": "Wilfind",
+      "description": "An e-commerce website with a smart shopping AI assistant.",
+      "website": "https://www.wilfind.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170015648931711879.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-17 01:41:06",
+      "updatedAt": "2023-11-17 01:41:06"
+    },
+    {
+      "name": "Kerqu.Ai",
+      "description": "AI assistant for cross-border sellers",
+      "website": "https://chromewebstore.google.com/detail/kerquai/jppnadfhiimjlpjmaeflpdcipankadhp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785154916878547.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:19",
+      "updatedAt": "2024-06-08 20:58:19"
+    },
+    {
+      "name": "SellerSprite - Amazon Research Tool",
+      "description": "Tool for Amazon sellers with research, optimization, and analysis.",
+      "website": "https://chromewebstore.google.com/detail/sellersprite-amazon-resea/lnbmbgocenenhhhdojdielgnmeflbnfb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763901374497298.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "Research Tool",
+        "AI Reviews Assistant",
+        "AI Product Description Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:55:52",
+      "updatedAt": "2024-06-06 09:55:52"
+    },
+    {
+      "name": "Assistant Valoo",
+      "description": "Simplify online shopping tracking",
+      "website": "https://chromewebstore.google.com/detail/assistant-valoo/chcdollkgcfjiibhbmkpdkmgkfcpolgk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679953270395833.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:06",
+      "updatedAt": "2024-05-26 18:30:06"
+    },
+    {
+      "name": "Spyper.ai",
+      "description": "AI-powered crawler for catalog insights, price and stock changes.",
+      "website": "https://www.spyper.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169797963720915581.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "AI Advertising Assistant",
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-22 20:59:50",
+      "updatedAt": "2023-10-22 20:59:50"
+    },
+    {
+      "name": "Scribfy",
+      "description": "AI-driven SaaS for e-commerce content creation. Save time, improve quality.",
+      "website": "https://www.scribfy.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169703670748613101.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-11 23:03:51",
+      "updatedAt": "2023-10-11 23:03:51"
+    },
+    {
+      "name": "Optiwise.ai",
+      "description": "Ecommerce analytics and insights tool",
+      "website": "https://chromewebstore.google.com/detail/optiwiseai/kokdcghoednbdkpdjgengmbmndgofjdj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747578671737344.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:55",
+      "updatedAt": "2024-06-04 12:34:55"
+    },
+    {
+      "name": "AliBaba Search by Image | Rovalty",
+      "description": "Innovative visual product search tool",
+      "website": "https://chromewebstore.google.com/detail/alibaba-search-by-image-r/hklelmapknohkloodklljapfbhjjgnpo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738083130311807.jpg",
+      "category": "AI Graphic Design",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Graphic Design",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:32",
+      "updatedAt": "2024-06-03 10:13:32"
+    },
+    {
+      "name": "LinkFox",
+      "description": "Comprehensive operational assistant for cross-border sellers.",
+      "website": "https://chromewebstore.google.com/detail/linkfox/jlmkillmemkjkinffglnffekacoogndm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738114993899579.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Graphic Design",
+        "Sales Assistant",
+        "Design Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:18:52",
+      "updatedAt": "2024-06-03 10:18:52"
+    },
+    {
+      "name": "wisello",
+      "description": "Wisello specializes in creating personalized conversational assistants for ecommerce platforms.",
+      "website": "https://www.wisello.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169228004588846836.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Product Description Generator",
+        "Large Language Models (LLMs)",
+        "AI Voice Assistants",
+        "AI Advertising Assistant",
+        "AI Tools Directory",
+        "Sales Assistant",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 21:47:06",
+      "updatedAt": "2023-08-17 21:47:06"
+    },
+    {
+      "name": "Page Pilot AI",
+      "description": "Create high converting product descriptions and landing pages effortlessly with PagePilot AI.",
+      "website": "https://pagepilot.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349918940428697.jpg",
+      "category": "AI Landing Page Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Landing Page Builder",
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:26",
+      "updatedAt": "2023-12-25 18:09:26"
+    },
+    {
+      "name": "Recart",
+      "description": "Fully managed SMS and AI platform for Shopify businesses.",
+      "website": "https://recart.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349880926634654.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Email Marketing",
+        "AI Product Description Generator",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:11",
+      "updatedAt": "2023-12-25 18:02:11"
+    },
+    {
+      "name": "QuickCare",
+      "description": "AI chatbots for eCommerce customer support automation.",
+      "website": "https://www.quickca.re?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481135831896904.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:33",
+      "updatedAt": "2024-08-28 10:14:33"
+    },
+    {
+      "name": "Browsebuddy",
+      "description": "AI co-pilot for e-commerce",
+      "website": "https://www.browsebuddy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135253757826978.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:45",
+      "updatedAt": "2024-07-19 09:27:45"
+    },
+    {
+      "name": "SpoiledChild\u2122",
+      "description": "Intelligent skincare & hair products for anti-aging.",
+      "website": "https://spoiledchild.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350412793215136.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "insMind",
+      "description": "All-in-one free online photo editing tool with AI enhancements. BG remover, AI image enhancer, AI image expander, AI text-to-image generator, magic eraser, and more.",
+      "website": "https://www.insmind.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/1722610995697383.jpeg",
+      "category": "Text to Image",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Text to Image",
+        "AI Image Enhancer",
+        "AI Background Generator",
+        "AI Background Remover",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Anime Art",
+        "AI Photo Restoration",
+        "AI Avatar Generator",
+        "Text to 3D",
+        "AI 3D Model Generator",
+        "AI Logo Generator",
+        "AI Photography",
+        "AI Design Generator",
+        "AI Photo & Image Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "Image to Image",
+        "E-commerce Assistant",
+        "AI Art Generator",
+        "Image to 3D Model"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:50:22",
+      "updatedAt": "2024-07-19 09:50:22"
+    },
+    {
+      "name": "PPSPY - Dropshipping by AI",
+      "description": "PPSPY helps Shopify dropshipping stores find winning products and track competitor sales.",
+      "website": "https://www.ppspy.com/?ref=6H05H8",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168491633957542175.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Paid",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 16:19:25",
+      "updatedAt": "2023-05-24 16:19:25"
+    },
+    {
+      "name": "Universe",
+      "description": "Magical way to build websites.",
+      "website": "https://univer.se?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170152557140112386.jpg",
+      "category": "AI Website Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Builder",
+        "AI Website Designer",
+        "AI App Builder",
+        "E-commerce Assistant",
+        "No-Code&Low-Code",
+        "AI Landing Page Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 21:59:20",
+      "updatedAt": "2023-12-02 21:59:20"
+    },
+    {
+      "name": "VocAI",
+      "description": "Shulex VOC is a SaaS platform using AI chatbot to analyze customer feedback for e-commerce.",
+      "website": "https://join.shulex.com/305.html",
+      "image": "https://cdn-images.toolify.ai/image/bb93ccde00de7467128422c671959682.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Reviews Assistant",
+        "E-commerce Assistant",
+        "Writing Assistants",
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:31",
+      "updatedAt": "2023-03-07 16:48:31"
+    },
+    {
+      "name": "Pic Copilot",
+      "description": "One-click expert-designed marketing ads for e-commerce.",
+      "website": "https://www.piccopilot.com/home?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170291109191859590.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-18 23:24:41",
+      "updatedAt": "2023-12-18 23:24:41"
+    },
+    {
+      "name": "WiziShop",
+      "description": "WiziShop is a comprehensive ecommerce solution for creating and managing online stores.",
+      "website": "https://wizishop.com/?afmc=4y11ih",
+      "image": "https://cdn-images.toolify.ai/image/aee64c9ce5758013f9c61c1098508a80.jpeg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "E-commerce Assistant",
+        "AI Email Marketing",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:37",
+      "updatedAt": "2023-03-07 16:48:37"
+    },
+    {
+      "name": "Luigi's Box",
+      "description": "Enhancing user interaction with AI-powered site search and personalized recommendations.",
+      "website": "https://www.luigisbox.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169538510731462444.jpg",
+      "category": "AI Search Engine",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Search Engine",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-22 20:17:50",
+      "updatedAt": "2023-09-22 20:17:50"
+    },
+    {
+      "name": "Polar",
+      "description": "Effortless, centralized, smart Shopify analytics.",
+      "website": "https://polaranalytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349933353831295.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:29",
+      "updatedAt": "2023-12-25 18:09:29"
+    },
+    {
+      "name": "Kopy",
+      "description": "Copy and import products from any store in 1 click.",
+      "website": "https://kopy.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350406941505311.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "AI Tools Directory",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:17",
+      "updatedAt": "2023-12-25 18:20:17"
+    },
+    {
+      "name": "InsightFactory",
+      "description": "Increase Etsy Sales, find trends and better tags",
+      "website": "https://insightfactory.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349956343336939.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:26",
+      "updatedAt": "2023-12-25 18:13:26"
+    },
+    {
+      "name": "Particl",
+      "description": "AI platform for automating retail intelligence",
+      "website": "https://www.particl.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172062480465295949.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Sales Assistant",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 23:19:06",
+      "updatedAt": "2024-07-10 23:19:06"
+    },
+    {
+      "name": "EcoReturns - AI-powered Returns",
+      "description": "Saara is AI software that improves returns management and customer satisfaction in e-commerce.",
+      "website": "https://saara.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168345271539742408.jpg",
+      "category": "AI Consulting Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Consulting Assistant",
+        "AI Advertising Assistant",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 17:45:48",
+      "updatedAt": "2023-05-07 17:45:48"
+    },
+    {
+      "name": "Claros",
+      "description": "AI salesperson fueling sales and happy shopping experiences.",
+      "website": "https://www.claros.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169797969277729079.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-22 20:59:50",
+      "updatedAt": "2023-10-22 20:59:50"
+    },
+    {
+      "name": "GPTBots.AI",
+      "description": "Powerful AI Bot Platform Built for Business",
+      "website": "https://www.gptbots.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053863363482648.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Social Media Assistant",
+        "AI SEO Assistant",
+        "AI Podcast Assistant",
+        "AI Customer Service Assistant",
+        "AI Blog Writer",
+        "AI Facebook Assistant",
+        "AI Email Generator",
+        "AI YouTube Assistant",
+        "AI Creative Writing",
+        "AI Twitter Assistant",
+        "AI Instagram Assistant",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Email Writer",
+        "Sales Assistant",
+        "AI Interview Assistant",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Rep AI: Sales Concierge for eCommerce",
+      "description": "Shopify's Rep AI Home is an AI chatbot that offers personalized shopping experiences.",
+      "website": "https://www.hellorep.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578227261097504.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI Product Description Generator",
+        "Large Language Models (LLMs)",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 16:50:42",
+      "updatedAt": "2023-06-03 16:50:42"
+    },
+    {
+      "name": "Kua.ai",
+      "description": "Boost Ecommerce Success with AI Content Generation",
+      "website": "https://app.kua.ai/?aff=Toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169685999432560809.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI SEO Assistant",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "DigitalGenius",
+      "description": "DigitalGenius uses AI to automate customer service and enhance experiences for ecommerce brands.",
+      "website": "http://digitalgenius.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168443157474405155.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Chatbot",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-19 01:39:22",
+      "updatedAt": "2023-05-19 01:39:22"
+    },
+    {
+      "name": "prefixbox.com",
+      "description": "Optimize your online Enterprise store with Prefixbox\u2019s fully managed AI Search, Recommend, and Insights solutions.",
+      "website": "https://prefixbox.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277205347620352.webp",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:59:47",
+      "updatedAt": "2024-04-11 01:59:47"
+    },
+    {
+      "name": "Lazycom-Smart Marketing Automations",
+      "description": "Lazycom: AI-powered platform for ecommerce and supplement brands, automates marketing, boosts sales, saves time and money.",
+      "website": "https://lazycom.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494313534561665.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI CRM Assistant",
+        "AI Email Marketing",
+        "AI Analytics Assistant",
+        "AI Email Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:44:44",
+      "updatedAt": "2023-05-24 23:44:44"
+    },
+    {
+      "name": "Quartile",
+      "description": "Largest cross-channel ad platform for e-commerce.",
+      "website": "https://partnerstack.quartile.com/1502srovb9hu",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349939279636179.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Ad Generator",
+        "AI Product Description Generator",
+        "AI Ad Creative Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:32",
+      "updatedAt": "2023-12-25 18:09:32"
+    },
+    {
+      "name": "HeiChat",
+      "description": "HeiChat is an intelligent chatbot plugin for e-commerce, supporting multiple platforms and languages.",
+      "website": "https://heichat.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168934985448880499.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-14 23:50:45",
+      "updatedAt": "2023-07-14 23:50:45"
+    },
+    {
+      "name": "Algomo",
+      "description": "An AI-powered bot that reduces customer service queries.",
+      "website": "https://www.algomo.com/?gr_pk=LmLy",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454162152400788.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "E-commerce Assistant",
+        "AI Reply Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 01:59:31",
+      "updatedAt": "2023-09-13 01:59:31"
+    },
+    {
+      "name": "Assembo.ai",
+      "description": "Assembo.ai revolutionizes e-commerce marketing with automated product photography for Shopify, Amazon, TikTok, and Instagram.",
+      "website": "https://assembo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374061863327620.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "E-commerce Assistant",
+        "AI Social Media Assistant",
+        "Photo & Image Editor",
+        "AI Photo Enhancer",
+        "AI Instagram Assistant",
+        "AI Tiktok Assistant",
+        "AI Ad Generator",
+        "Large Language Models (LLMs)",
+        "Text to Image",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:43:22",
+      "updatedAt": "2023-05-11 01:43:22"
+    },
+    {
+      "name": "whatmore.live",
+      "description": "AI-powered Video Commerce Platform",
+      "website": "https://app.partnerjam.com/install?key=38ee01d8-1692-494e-a340-de49104ea2ed",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067750132019268.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI SEO Assistant",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:36",
+      "updatedAt": "2024-03-17 20:07:36"
+    },
+    {
+      "name": "Pandarocket AI Suite",
+      "description": "Pandarocket is an AI-powered suite for dropshippers, providing advanced tools for analyzing products and optimizing marketing strategies.",
+      "website": "https://www.pandarocket.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168374061547687763.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "E-commerce Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:43:22",
+      "updatedAt": "2023-05-11 01:43:22"
+    },
+    {
+      "name": "Ringly.io",
+      "description": "E-commerce AI phone support.",
+      "website": "https://www.ringly.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350554346817891.webp",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "E-commerce Assistant",
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Reply Assistant",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:27",
+      "updatedAt": "2024-04-19 13:44:27"
+    },
+    {
+      "name": "groupbyinc.com",
+      "description": "eCommerce search and product discovery platform powered by AI.",
+      "website": "https://groupbyinc.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398627094336375.jpg",
+      "category": "E-commerce Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "E-commerce Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:58",
+      "updatedAt": "2024-08-18 21:02:58"
+    },
+    {
+      "name": "Marketsy.ai",
+      "description": "AI-powered e-commerce store builder in seconds.",
+      "website": "https://marketsy.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373364579049137.jpg",
+      "category": "AI Website Builder",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Website Builder",
+        "AI App Builder",
+        "AI Landing Page Builder",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "BuildMyStores",
+      "description": "AI built Shopify dropshipping stores for free.",
+      "website": "https://app.buildmystores.com/?r=TND7tyGkrY2N",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350465543765623.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Website Builder",
+        "E-commerce Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:42",
+      "updatedAt": "2023-12-25 18:16:42"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    }
+  ]
+}

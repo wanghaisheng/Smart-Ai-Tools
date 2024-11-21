@@ -1,0 +1,1468 @@
+{
+  "tools": [
+    {
+      "name": "Continue",
+      "description": "Bring AI text generation to your IDE with Continue, an open-source autopilot for software development.",
+      "website": "https://continue.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164908987609210.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Mutable",
+      "description": "Platform offering AI development tools, enabling faster and higher-quality code creation with AI technology.",
+      "website": "https://mutable.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c3c33c2c2f9aeed8f83eda9d4e92aa96.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Code Refactoring",
+        "Large Language Models (LLMs)",
+        "AI Product Description Generator",
+        "Prompt",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:45",
+      "updatedAt": "2023-03-07 16:48:45"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "DocuWriter.ai",
+      "description": "Automate code documentation, testing, and refactoring with DocuWriter.ai's AI-powered tool.",
+      "website": "https://www.docuwriter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168578452130326807.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 17:28:03",
+      "updatedAt": "2023-06-03 17:28:03"
+    },
+    {
+      "name": "Refact AI",
+      "description": "Summary: Refact.ai is an AI coding assistant that enhances code analysis, completion, and efficiency.",
+      "website": "https://refact.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168794007035968794.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Productivity Tools",
+        "AI Developer Docs",
+        "AI API Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-28 17:46:41",
+      "updatedAt": "2023-06-28 17:46:41"
+    },
+    {
+      "name": "AI Code Mentor",
+      "description": "AI Code Mentor uses AI to optimize, refactor, and explain code for developers.",
+      "website": "https://code-mentor.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580603727249011.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 18:09:43",
+      "updatedAt": "2023-06-03 18:09:43"
+    },
+    {
+      "name": "Refraction",
+      "description": "Refraction is an AI-powered code generation tool for developers.",
+      "website": "https://www.refraction.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477137228495412.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:17",
+      "updatedAt": "2023-05-23 00:02:17"
+    },
+    {
+      "name": "Second",
+      "description": "AI-powered Second Home automates code migrations for developers.",
+      "website": "https://www.second.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168528501671465287.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-28 22:43:11",
+      "updatedAt": "2023-05-28 22:43:11"
+    },
+    {
+      "name": "Code Fundi",
+      "description": "AI coding assistant for better, faster code.",
+      "website": "https://codefundi.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169642434577965980.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-04 20:58:26",
+      "updatedAt": "2023-10-04 20:58:26"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "CodeComplete AI",
+      "description": "CodeComplete is a secure, customized AI coding assistant for enterprise developers.",
+      "website": "https://www.codecomplete.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510467348127549.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:37:13",
+      "updatedAt": "2023-05-26 20:37:13"
+    },
+    {
+      "name": "RoboCoder",
+      "description": "Making programming easier with GPT-4 Turbo in VS Code.",
+      "website": "https://robocoder.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169953517871889095.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-09 21:06:00",
+      "updatedAt": "2023-11-09 21:06:00"
+    },
+    {
+      "name": "Bito AI: Bring ChatGPT to your IDE for devs",
+      "description": "Bito AI is an AI virtual assistant that enhances coding experience for developers.",
+      "website": "https://bito.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168249087915610547.png",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:34:56",
+      "updatedAt": "2023-04-26 14:34:56"
+    },
+    {
+      "name": "Unfold AI",
+      "description": "Unfold AI is an AI coding assistant for IDEs, providing real-time bug solutions and enhancing productivity.",
+      "website": "https://unfoldai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987331639271183.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Code Refactoring",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "Kropply",
+      "description": "VSCode extension for code generation, action points, and error explanation.",
+      "website": "https://kropply.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169511914689904896.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-19 18:24:44",
+      "updatedAt": "2023-09-19 18:24:44"
+    },
+    {
+      "name": "Lobby Code",
+      "description": "Lobby Code streamlines coding with tools, suggestions, and automation for faster, efficient development.",
+      "website": "https://code.lobby.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576945560962872.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "AI API Design",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:17:01",
+      "updatedAt": "2023-06-03 13:17:01"
+    },
+    {
+      "name": "Third Garden",
+      "description": "Platform with tools powered by OpenAI's ChatGPT AI.",
+      "website": "https://third.garden?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585176680409940.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Landing Page Builder",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:16",
+      "updatedAt": "2023-06-04 12:09:16"
+    },
+    {
+      "name": "SeniorDev",
+      "description": "SeniorDev is an AI tool for code review that boosts productivity and efficiency.",
+      "website": "https://www.seniordev.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168882917010007435.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-08 23:10:57",
+      "updatedAt": "2023-07-08 23:10:57"
+    },
+    {
+      "name": "Repodex",
+      "description": "AI-powered code error identification and fixes.",
+      "website": "https://www.repodex.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169373363555562191.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "AI Testing & QA"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-03 17:33:00",
+      "updatedAt": "2023-09-03 17:33:00"
+    },
+    {
+      "name": "Refiner",
+      "description": "Refiner uses AI to improve code quality by generating better code.",
+      "website": "https://refiner.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545598727525337.jpg",
+      "category": "AI Code Refactoring",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Refactoring",
+        "Large Language Models (LLMs)",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:21",
+      "updatedAt": "2023-05-30 22:12:21"
+    },
+    {
+      "name": "Tethered AI",
+      "description": "Tethered AI combines web searches and note-taking for an improved user experience.\n\u603b\u7ed3\uff1aTethered AI integrates web searches and note-taking for a better user experience. (11\u4e2a\u5b57)",
+      "website": "https://tethered.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577711118984797.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:24:50",
+      "updatedAt": "2023-06-03 15:24:50"
+    },
+    {
+      "name": "Smousss",
+      "description": "Smousss is an AI assistant for Laravel developers, using machine learning to automate tasks and boost productivity.",
+      "website": "https://smousss.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577369563712978.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:28:05",
+      "updatedAt": "2023-06-03 14:28:05"
+    },
+    {
+      "name": "Code Utilities Powered by AI",
+      "description": "AI powered coding utilities.",
+      "website": "https://www.codeutils.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485635988141349.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:38:31",
+      "updatedAt": "2023-05-23 23:38:31"
+    },
+    {
+      "name": "Code Gen GPTs for iOS Devs",
+      "description": "Master iOS development with GPTs",
+      "website": "https://gptsfordevs.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229741094097226.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:16",
+      "updatedAt": "2023-12-11 20:21:16"
+    },
+    {
+      "name": "McAnswers AI",
+      "description": "An AI tool for coders, simplifying coding journey.",
+      "website": "https://mcanswers.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170477858687299625.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-09 13:35:40",
+      "updatedAt": "2024-01-09 13:35:40"
+    },
+    {
+      "name": "MATE: AI Code Review",
+      "description": "AI code review assistant for better coding experience",
+      "website": "https://chromewebstore.google.com/detail/mate-ai-code-review/cdohahemhlpibhhpiojlmeecfhllddho?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965748711250298.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:30",
+      "updatedAt": "2024-10-23 12:24:30"
+    },
+    {
+      "name": "CREV",
+      "description": "AI code review tool integrated with CLI for improved code quality.",
+      "website": "https://crevcli.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173007972579737183.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 09:39:47",
+      "updatedAt": "2024-10-28 09:39:47"
+    },
+    {
+      "name": "Airtest",
+      "description": "Refraction automates code generation tasks using AI for software developers.",
+      "website": "https://www.airtest.dev?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/db01b55189ff685433cad7eb9bbfc407.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:34",
+      "updatedAt": "2023-03-07 16:48:34"
+    },
+    {
+      "name": "WhatTheDiff",
+      "description": "AI app What The Diff helps review pull requests with machine learning and notifications.",
+      "website": "https://whatthediff.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/99629cc8ca9a893312865a4b31e34195.jpeg",
+      "category": "AI Code Refactoring",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:54",
+      "updatedAt": "2023-03-07 16:48:54"
+    },
+    {
+      "name": "ProMind.ai",
+      "description": "ProMindGPT is an AI tool that generates quality content and helps with code errors.",
+      "website": "https://promind.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543746317226784.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "Code Explanation",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:03:36",
+      "updatedAt": "2023-05-30 17:03:36"
+    },
+    {
+      "name": "CodeStory",
+      "description": "CodeStory is an AI-powered editor that streamlines coding tasks for developers.",
+      "website": "https://codestory.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169183572020374206.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-12 18:19:26",
+      "updatedAt": "2023-08-12 18:19:26"
+    },
+    {
+      "name": "Metabob",
+      "description": "Metabob automates code reviews, improving software and developer productivity.",
+      "website": "https://metabob.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168371787889065503.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Detector",
+        "AI Knowledge Graph"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 19:24:25",
+      "updatedAt": "2023-05-10 19:24:25"
+    },
+    {
+      "name": "Manicode",
+      "description": "Natural language tool for codebase editing.",
+      "website": "https://manicode.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129940340547110.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Code Assistant",
+        "AI Code Refactoring",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Tutorial",
+        "AI Knowledge Base",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:26:22",
+      "updatedAt": "2024-11-11 12:26:22"
+    },
+    {
+      "name": "CoableAI - Code Writing & Debugging",
+      "description": "AI-driven platform simplifies coding for developers, enhancing efficiency and achieving coding goals.",
+      "website": "https://codableai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168622432953694930.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Analytics Assistant",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-08 19:38:28",
+      "updatedAt": "2023-06-08 19:38:28"
+    },
+    {
+      "name": "Code Review AI",
+      "description": "Chrome extension for optimizing and analyzing coding work.",
+      "website": "https://chromewebstore.google.com/detail/code-review-ai/aaajigonjhjgfdkgjjjgclionahlggdk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965754093299383.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Code Refactoring",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:24:34",
+      "updatedAt": "2024-10-23 12:24:34"
+    },
+    {
+      "name": "cursor.sh",
+      "description": "The AI-first Code Editor for fast software development.",
+      "website": "https://cursor.sh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349984616123851.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "Pine Script Wizard AI",
+      "description": "AI-powered code generator for TradingView strategies and indicators.",
+      "website": "https://www.pinescriptwizard.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169582587291712988.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Trading Bot Assistant",
+        "Code Explanation",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 22:43:08",
+      "updatedAt": "2023-09-27 22:43:08"
+    },
+    {
+      "name": "ChatCody",
+      "description": "GPT-4 embedded engineer in repository.",
+      "website": "https://chatcody.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169988367957114198.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "AI Reply Assistant",
+        "AI Workflow Management",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "AI Code Generator",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-13 21:54:19",
+      "updatedAt": "2023-11-13 21:54:19"
+    },
+    {
+      "name": "PapertLab from papert.in",
+      "description": "AI tool for collaborative coding and code editing.",
+      "website": "https://papert.in?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544442884402972.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Writing Assistants",
+        "Code Explanation",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:06:21",
+      "updatedAt": "2024-09-04 18:06:21"
+    },
+    {
+      "name": "CodePal",
+      "description": "CodePal is a platform offering coding helpers and tools for developers to enhance their development process.",
+      "website": "https://codepal.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485363718586345.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Tools Directory",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:48",
+      "updatedAt": "2023-05-23 22:53:48"
+    },
+    {
+      "name": "JustCode",
+      "description": "JavaScript AI-tool for automatic code documentation.",
+      "website": "https://justcodeai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262639544116111.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Team Collaboration",
+        "Code Explanation",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:38",
+      "updatedAt": "2023-12-15 15:45:38"
+    },
+    {
+      "name": "Code Genius",
+      "description": "Code Genius boosts coding skills by providing quick solutions, eliminating repetition, and offering a chat-based coding assistant.",
+      "website": "https://code-genius.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168484969065806568.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 21:47:26",
+      "updatedAt": "2023-05-23 21:47:26"
+    },
+    {
+      "name": "GitGab",
+      "description": "Enhance ChatGPT with your code.",
+      "website": "https://gitgab.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168387113855127479.png",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Developer Docs",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 01:43:22",
+      "updatedAt": "2023-05-11 01:43:22"
+    },
+    {
+      "name": "banruoai.cn",
+      "description": "AI\u751f\u6210\u5f0f\u5927\u6a21\u578b\u548cAI\u7ed8\u753b",
+      "website": "https://banruoai.cn?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171000173412190460.webp",
+      "category": "Copywriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Copywriting",
+        "AI Content Generator",
+        "Image to Image",
+        "AI Illustration Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Writing Assistants",
+        "General Writing",
+        "Photo & Image Editor",
+        "AI Rewriter",
+        "AI Code Assistant",
+        "Paraphraser",
+        "AI Email Writer",
+        "Letter Writer",
+        "Code Explanation",
+        "AI Code Refactoring",
+        "AI Image Enhancer",
+        "AI Photo Enhancer",
+        "AI Photo Restoration"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 00:27:31",
+      "updatedAt": "2024-03-10 00:27:31"
+    },
+    {
+      "name": "Cratecode",
+      "description": "Cratecode is an AI-powered website for coding education and assistance.",
+      "website": "https://cratecode.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545911453668123.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Tutorial",
+        "AI Code Assistant",
+        "AI Course",
+        "Code Explanation",
+        "AI Education Assistant",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:04:19",
+      "updatedAt": "2023-05-30 23:04:19"
+    },
+    {
+      "name": "Kodezi ai",
+      "description": "Kodezi is an AI tool that autocorrects code and improves its quality.",
+      "website": "https://kodezi.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/5b5372a07627b89e31f0958282ef79b0.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Productivity Tools",
+        "AI Product Description Generator",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:35",
+      "updatedAt": "2023-03-07 16:48:35"
+    },
+    {
+      "name": "Safurai",
+      "description": "Safurai is a free AI Code Assistant for Visual Studio Code that boosts developers' productivity.",
+      "website": "https://www.safurai.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/6fc9668e371c63700e283246a820b279.jpeg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing",
+        "Free"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Developer Tools",
+        "Code Explanation",
+        "AI Productivity Tools",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

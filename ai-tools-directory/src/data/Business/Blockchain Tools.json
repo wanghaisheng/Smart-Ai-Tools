@@ -1,0 +1,2393 @@
+{
+  "tools": [
+    {
+      "name": "QnA3",
+      "description": "QnA3 is an AI-powered platform for finding answers about the crypto industry.",
+      "website": "https://qna3.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169269263285853028.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-22 16:23:10",
+      "updatedAt": "2023-08-22 16:23:10"
+    },
+    {
+      "name": "Alethea",
+      "description": "Alethea AI combines Generative AI and Blockchain to develop interactive AI characters.",
+      "website": "https://alethea.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/883c020865e7791325027a936275eabf.jpeg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Content Generator",
+        "AI Tools Directory",
+        "Blockchain",
+        "NFTs",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:43",
+      "updatedAt": "2023-03-07 16:48:43"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "Spice.ai",
+      "description": "Ready-to-use data and AI infrastructure for intelligent software.",
+      "website": "https://spice.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857324479341318.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "AI Developer Tools",
+        "AI Analytics Assistant",
+        "AI API Design",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Product Description Generator",
+        "AI Developer Docs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:33",
+      "updatedAt": "2023-10-29 17:53:33"
+    },
+    {
+      "name": "anchain.ai",
+      "description": "Web3 security and compliance powered by AI",
+      "website": "https://anchain.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230615475225663.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain",
+        "AI Analytics Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Knowledge Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:20:59",
+      "updatedAt": "2024-07-30 10:20:59"
+    },
+    {
+      "name": "AIE LABS",
+      "description": "AI-powered social entertainment platform",
+      "website": "https://aielabs.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016981155428879.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "AI Art Generator",
+        "Web3",
+        "AI Photo & Image Generator",
+        "AI Avatar Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:22",
+      "updatedAt": "2024-07-05 16:56:22"
+    },
+    {
+      "name": "Itoka MuseEngine",
+      "description": "Itoka is a platform for sharing and streaming music.",
+      "website": "https://www.itoka.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168543993894203476.jpg",
+      "category": "AI Music Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Music Generator",
+        "Blockchain",
+        "NFTs",
+        "Web3",
+        "AI Content Generator",
+        "AI Singing Generator",
+        "Text-to-Music",
+        "AI Roadmap Generator",
+        "AI Art Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 17:44:48",
+      "updatedAt": "2023-05-30 17:44:48"
+    },
+    {
+      "name": "LIKN",
+      "description": "LIKN is a Web3 protocol for converting, trading and authenticating NFTs from Web2 content.",
+      "website": "https://www.likn.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517982825360696.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "Blockchain",
+        "Web3",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:29:34",
+      "updatedAt": "2023-05-27 17:29:34"
+    },
+    {
+      "name": "MEME is Game",
+      "description": "AI insights for discovering the best meme coins",
+      "website": "https://memeisgame.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171965057066961242.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-29 23:05:27",
+      "updatedAt": "2024-06-29 23:05:27"
+    },
+    {
+      "name": "LustGF.AI",
+      "description": "Personalized NSFW AI companions for immersive conversations.",
+      "website": "https://www.lustgf.ai?utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008212480018597.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "Photo & Image Editor",
+        "AI Photo Enhancer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:25:39",
+      "updatedAt": "2024-10-28 10:25:39"
+    },
+    {
+      "name": "NITG",
+      "description": "NITG Inc is an AI-powered cryptocurrency quantitative technology service provider dedicated to developing innovative, secure and efficient AI quantitative technology.",
+      "website": "https://nitg.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172412160646488482.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-20 10:41:18",
+      "updatedAt": "2024-08-20 10:41:18"
+    },
+    {
+      "name": "Generative BCG \"Prompt Monsters\"",
+      "description": "AI-driven blockchain game with unique monsters.",
+      "website": "https://prompt-monsters.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168387148082219550.png",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Game",
+        "Blockchain",
+        "NFTs",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 22:25:58",
+      "updatedAt": "2023-05-10 22:25:58"
+    },
+    {
+      "name": "Thentic",
+      "description": "Automate Web3 tasks easily with Thentic, no coding required.",
+      "website": "https://thentic.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508689257830162.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain",
+        "AI Workflow Management",
+        "No-Code&Low-Code",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:40:56",
+      "updatedAt": "2023-05-26 15:40:56"
+    },
+    {
+      "name": "Sigma AI Browser",
+      "description": "Sigma AI Browser: Ultimate combo of AI tools, privacy and speed",
+      "website": "https://sigmabrowser.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173176320930578941.jpg",
+      "category": "Translate",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Translate",
+        "Blockchain",
+        "Web3",
+        "AI Task Management",
+        "AI Productivity Tools",
+        "Prompt",
+        "Fun Tools",
+        "AI Design Generator",
+        "AI Art Generator",
+        "AI Chatbot",
+        "AI Consulting Assistant",
+        "Copywriting",
+        "AI Business Ideas Generator",
+        "Research Tool",
+        "AI Search Engine",
+        "AI Photo & Image Generator",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "General Writing",
+        "Summarizer",
+        "AI Story Writing",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-16 21:28:17",
+      "updatedAt": "2024-11-16 21:28:17"
+    },
+    {
+      "name": "Crypto Youtuber AI predictions",
+      "description": "AI-generated daily summaries of crypto influencers' predictions.",
+      "website": "https://www.larssolaris.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169979013794351236.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "Blockchain",
+        "Newsletter",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-12 19:55:17",
+      "updatedAt": "2023-11-12 19:55:17"
+    },
+    {
+      "name": "TypoGraphy AI V2.0",
+      "description": "Intuitive Web3 knowledge search and learning platform.",
+      "website": "https://app.typography.vip?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170073508823963119.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 18:24:21",
+      "updatedAt": "2023-11-23 18:24:21"
+    },
+    {
+      "name": "Bites",
+      "description": "The most comprehensive AI-powered crypto news aggregator.",
+      "website": "https://bitesapp.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185049381855753.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Blockchain",
+        "Investing Assistant",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:59",
+      "updatedAt": "2023-12-06 16:13:59"
+    },
+    {
+      "name": "BTCAura",
+      "description": "Bitcoin news aggregator",
+      "website": "https://btcaura.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171387833159611517.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Newsletter",
+        "Investing Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-23 21:22:20",
+      "updatedAt": "2024-04-23 21:22:20"
+    },
+    {
+      "name": "Wallchain (Beta)",
+      "description": "Reclaim lost funds from DEX bots.",
+      "website": "https://chromewebstore.google.com/detail/wallchain-beta/pmncocnjgifgcpjhcajakdblinimcmjo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703941327787635.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:21",
+      "updatedAt": "2024-05-30 11:23:21"
+    },
+    {
+      "name": "ByteHunter",
+      "description": "AI risk analysis plugin for Web3 security.",
+      "website": "https://chromewebstore.google.com/detail/bytehunter/kidhkonioajdkjglffdlojnnlpdbeeol?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703943860604866.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:23:25",
+      "updatedAt": "2024-05-30 11:23:25"
+    },
+    {
+      "name": "Alva",
+      "description": "AI extension for Web3.",
+      "website": "https://chromewebstore.google.com/detail/alva/moeiianjbcjnomgomanjhilnlmfafpbj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776765691739068.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "Web3",
+        "Blockchain",
+        "AI Knowledge Base",
+        "AI Knowledge Graph",
+        "AI Trading Bot Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:39:57",
+      "updatedAt": "2024-06-07 21:39:57"
+    },
+    {
+      "name": "BlockDefend AI",
+      "description": "Enhancing online safety with risk alerts and blockchain analysis.",
+      "website": "https://chromewebstore.google.com/detail/blockdefend-ai/fbagodkhmijolnmjchkicejilapmaeib?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767138065954.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:13",
+      "updatedAt": "2024-06-07 21:40:13"
+    },
+    {
+      "name": "\u5f8b\u52a8BlockBeats Search - \u533a\u5757\u94fe\u65b0\u95fb\u52a9\u624b, crypto, \u533a\u5757\u94fe, AI, Web 3.0",
+      "description": "High-quality blockchain news assistant.",
+      "website": "https://chromewebstore.google.com/detail/\u5f8b\u52a8blockbeats-search-\u533a\u5757\u94fe\u65b0\u95fb/fkkcnnnmnkdfggpnlinkkglechfaaeoh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776922788051874.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 22:06:33",
+      "updatedAt": "2024-06-07 22:06:33"
+    },
+    {
+      "name": "Astra Vision",
+      "description": "Extension with Guard & AI Snipper",
+      "website": "https://chromewebstore.google.com/detail/astra-vision/iibopihdfdknpelkknbflonbnhmehbkh?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171785153547618473.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "Large Language Models (LLMs)",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-08 20:58:17",
+      "updatedAt": "2024-06-08 20:58:17"
+    },
+    {
+      "name": "TokenGuide",
+      "description": "Free AI-powered tools for Web3 security",
+      "website": "https://tokenguide.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043214376742286.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:05",
+      "updatedAt": "2024-07-08 17:48:05"
+    },
+    {
+      "name": "Maester",
+      "description": "AI-powered platform for discovering dApps",
+      "website": "https://www.maester.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172096688435352623.jpg",
+      "category": "NFTs",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NFTs",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-14 22:20:58",
+      "updatedAt": "2024-07-14 22:20:58"
+    },
+    {
+      "name": "BlockBot",
+      "description": "Decentralized AI bots marketplace powered by blockchain technology.",
+      "website": "https://www.blockbot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534822625465379.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Blockchain",
+        "NFTs"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:46",
+      "updatedAt": "2023-05-29 16:16:46"
+    },
+    {
+      "name": "AutoBTC.ai",
+      "description": "AutoBTC is an AI-powered platform for easy Bitcoin and Lightning network usage.",
+      "website": "https://autobtc.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485070970796319.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Blockchain",
+        "AI Developer Tools",
+        "AI Code Assistant",
+        "Web3",
+        "Code Explanation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:04:16",
+      "updatedAt": "2023-05-23 22:04:16"
+    },
+    {
+      "name": "Big Tech Company",
+      "description": "\"Big Tech Company uses AI, blockchain, and big data to disrupt society and create value.\"",
+      "website": "https://www.bigtech.company?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577083762681519.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "Blockchain",
+        "AI Content Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 13:39:47",
+      "updatedAt": "2023-06-03 13:39:47"
+    },
+    {
+      "name": "DexCheck",
+      "description": "Cutting-edge analytics, AI insights, and market intelligence for DeFi, crypto, and NFT sectors.",
+      "website": "https://dexcheck.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168371786872244617.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Trading Bot Assistant",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 19:24:24",
+      "updatedAt": "2023-05-10 19:24:24"
+    },
+    {
+      "name": "Fama One",
+      "description": "Fama.one provides AI-powered crypto investment tools for informed decisions in cryptocurrency market.",
+      "website": "https://www.fama.one?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518014074708805.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Blockchain",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 17:34:53",
+      "updatedAt": "2023-05-27 17:34:53"
+    },
+    {
+      "name": "Yotto",
+      "description": "Summarize: Yotto Web3 is a decentralized raffle platform that helps brands and influencers create contests and increase brand visibility.",
+      "website": "https://getyotto.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476389247338777.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:53:33",
+      "updatedAt": "2023-05-22 20:53:33"
+    },
+    {
+      "name": "ChainGPT",
+      "description": "ChainGPT combines blockchain and AI to provide solutions for the crypto and blockchain community.",
+      "website": "https://www.ChainGPT.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510521390610407.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Chatbot",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI Developer Tools",
+        "Large Language Models (LLMs)",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 20:46:35",
+      "updatedAt": "2023-05-26 20:46:35"
+    },
+    {
+      "name": "Quick Intel",
+      "description": "Detect scams and honeypots with AI-powered tools.",
+      "website": "https://quickintel.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349878913990210.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "Blockchain",
+        "Web3",
+        "AI Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:11",
+      "updatedAt": "2023-12-25 18:02:11"
+    },
+    {
+      "name": "Coinfeeds",
+      "description": "Simplified cryptocurrency insights powered by AI.",
+      "website": "https://www.coinfeeds.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454294669332374.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Chatbot",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "Octavia AI",
+      "description": "Octavia is a web3 AI assistant that supports crypto research and trading.",
+      "website": "https://octavia.one?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168381156925251254.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Blockchain",
+        "Web3",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 21:25:49",
+      "updatedAt": "2023-05-11 21:25:49"
+    },
+    {
+      "name": "cortexlabs.ai",
+      "description": "Open-source decentralized blockchain platform for AI models on smart contracts and DApps.",
+      "website": "https://cortexlabs.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277170722156572.webp",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:53:56",
+      "updatedAt": "2024-04-11 01:53:56"
+    },
+    {
+      "name": "Beepo",
+      "description": "Beepo is a blockchain-powered social media platform that prioritizes privacy and decentralization.",
+      "website": "https://beepoapp.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168248942294721174.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-26 14:11:18",
+      "updatedAt": "2023-04-26 14:11:18"
+    },
+    {
+      "name": "Indicia Labs Platform",
+      "description": "Empowering smart crypto trading through community-led AI",
+      "website": "https://www.indicia.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170229740253775586.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Blockchain",
+        "Investing Assistant",
+        "AI Trading Bot Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-11 20:21:16",
+      "updatedAt": "2023-12-11 20:21:16"
+    },
+    {
+      "name": "IRCopilot",
+      "description": "IR Copilot: a website aiding investment research and analysis with tools and features.",
+      "website": "https://www.ircopilot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168372114530487524.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "Web3",
+        "Blockchain",
+        "Investing Assistant",
+        "Research Tool",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 20:18:43",
+      "updatedAt": "2023-05-10 20:18:43"
+    },
+    {
+      "name": "Chainrel",
+      "description": "Seamless blockchain event integration.",
+      "website": "https://chainrel.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969519030686463.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:12",
+      "updatedAt": "2023-11-11 17:32:12"
+    },
+    {
+      "name": "CryptoDo",
+      "description": "CryptoDo is a no-code web3 solution builder, making blockchain development accessible and cost-effective.",
+      "website": "https://cryptodo.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169063117539749052.jpg",
+      "category": "AI Code Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Generator",
+        "AI Developer Tools",
+        "Blockchain",
+        "AI App Builder",
+        "No-Code&Low-Code"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-29 19:44:38",
+      "updatedAt": "2023-07-29 19:44:38"
+    },
+    {
+      "name": "EOSI Finance",
+      "description": "Eosi Finance is a platform for managing and investing in financial instruments, including cryptocurrencies.",
+      "website": "https://eosifinance.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168924966115857806.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "Web3",
+        "Blockchain",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-13 19:59:28",
+      "updatedAt": "2023-07-13 19:59:28"
+    },
+    {
+      "name": "WeInvest",
+      "description": "Simplifying digital assets with security and ease.",
+      "website": "https://weinvest.money?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170072947817336639.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "AI Product Description Generator",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-23 16:50:39",
+      "updatedAt": "2023-11-23 16:50:39"
+    },
+    {
+      "name": "RosyWhale",
+      "description": "RosyWhale is a DeFi platform with AI strategies on Arbitrum and BNB Chain, live on major exchanges.",
+      "website": "https://www.rosywhale.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168518576732888196.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "AI Roadmap Generator",
+        "Web3",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 19:08:48",
+      "updatedAt": "2023-05-27 19:08:48"
+    },
+    {
+      "name": "TensorScan AI",
+      "description": "Real-time Ethereum wallet transaction analysis",
+      "website": "https://chromewebstore.google.com/detail/tensorscan-ai/epddphbihamnmmficgdpkimbfbhahdfk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767549373346.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Analytics Assistant",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:14",
+      "updatedAt": "2024-06-07 21:40:14"
+    },
+    {
+      "name": "BubbleAI",
+      "description": "Professional off-chain data analysis with fast news capture and AI sentiment analysis.",
+      "website": "https://www.bubbleai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171126071828342099.webp",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "AI Analytics Assistant",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-24 14:10:58",
+      "updatedAt": "2024-03-24 14:10:58"
+    },
+    {
+      "name": "AssetLink",
+      "description": "Democratizing investment in real estate",
+      "website": "https://assetlink.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171046928358520925.webp",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-15 10:20:55",
+      "updatedAt": "2024-03-15 10:20:55"
+    },
+    {
+      "name": "Blockfence",
+      "description": "Guardian for Web3 security",
+      "website": "https://chromewebstore.google.com/detail/blockfence/cpgbcelefhmacblaocimfilfnchkghba?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738100781577836.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:16:09",
+      "updatedAt": "2024-06-03 10:16:09"
+    },
+    {
+      "name": "Web3 Summary",
+      "description": "Web3 Summary simplifies on-chain research, provides trading alpha, and offers valuable insights for investments.",
+      "website": "https://web3summary.lemonsqueezy.com?aff=O0D1K",
+      "image": "https://cdn-images.toolify.ai/image/3005ac5bc0b6a33025114b83d8f02faa.jpeg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Content Generator",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "SmartTrust.io",
+      "description": "ChainAware.ai is an AI-based crypto wallet auditor that uses artificial intelligence to verify addresses and detect fraud.",
+      "website": "https://smarttrust.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168426149696524075.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Detector",
+        "AI Image Recognition",
+        "AI Product Description Generator",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 02:24:36",
+      "updatedAt": "2023-05-17 02:24:36"
+    },
+    {
+      "name": "Echooo Wallet",
+      "description": "Decentralized smart wallet with security features",
+      "website": "https://chromewebstore.google.com/detail/echooo-wallet/lcmncloheoekhbmljjlhdlaobkedjbgd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807152799455577.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:09",
+      "updatedAt": "2024-06-11 10:05:09"
+    },
+    {
+      "name": "Blynkkr",
+      "description": "Blynkkr integrates social media profiles, using AI and blockchain for privacy and streamlined contacts.",
+      "website": "https://blynkkr.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168390401846509359.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Blockchain",
+        "AI Image Recognition",
+        "Bio Link"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-12 23:06:20",
+      "updatedAt": "2023-05-12 23:06:20"
+    },
+    {
+      "name": "ODESIS",
+      "description": "Odesis offers reliable and passive earnings through automated trading and a dividend tracker.",
+      "website": "https://odesis.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168372113825065882.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-10 20:18:43",
+      "updatedAt": "2023-05-10 20:18:43"
+    },
+    {
+      "name": "EasySushii",
+      "description": "Live crypto insights without coding",
+      "website": "https://easysushii.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230638671936577.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Presentation Generator",
+        "AI Spreadsheet",
+        "AI PDF",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:06",
+      "updatedAt": "2024-07-30 10:25:06"
+    },
+    {
+      "name": "Degen Den",
+      "description": "Connect, learn, and grow in AI, Blockchain & Crypto.",
+      "website": "https://degenden.live?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168584973928304356.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 11:35:27",
+      "updatedAt": "2023-06-04 11:35:27"
+    },
+    {
+      "name": "OGBRAIN.AI",
+      "description": "Comprehensive crypto data intelligence with on-chain data, AI sentiment analysis, and analytics.",
+      "website": "https://www.kucoin.com/r/af/r8B6CN4",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168909335677448069.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "Investing Assistant",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-12 00:35:46",
+      "updatedAt": "2023-07-12 00:35:46"
+    },
+    {
+      "name": "SmartPress.ai",
+      "description": "SmartPress - AI combines AI and solidity to offer smart contract services.",
+      "website": "https://smartpress.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169164905374294156.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "AI Code Generator",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-10 14:29:01",
+      "updatedAt": "2023-08-10 14:29:01"
+    },
+    {
+      "name": "Crypto Tide Price Prediction Algorithm",
+      "description": "AI tool providing accurate cryptocurrency price predictions.",
+      "website": "https://cryptotide.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169401549661828694.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "AI Trading Bot Assistant",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-06 23:50:52",
+      "updatedAt": "2023-09-06 23:50:52"
+    },
+    {
+      "name": "Coin Wizard",
+      "description": "AI tool for passive income in crypto.",
+      "website": "https://coinwizard.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170373324422360355.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Investing Assistant",
+        "Blockchain",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-28 11:11:17",
+      "updatedAt": "2023-12-28 11:11:17"
+    },
+    {
+      "name": "Credit Chip",
+      "description": "Instant payments using AI-powered decentralized payment processor.",
+      "website": "https://mobilecredits.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454291259399336.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain",
+        "Web3",
+        "AI App Builder",
+        "AI Product Description Generator",
+        "AI Website Builder",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "MAYHAM Pay",
+      "description": "Sell digital products for crypto easily.",
+      "website": "https://mayhampay.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169969518268457501.jpg",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-11 17:32:12",
+      "updatedAt": "2023-11-11 17:32:12"
+    },
+    {
+      "name": "Momentum Radar",
+      "description": "Discover big trends before they take off with reliable data.",
+      "website": "https://momentumradar.com/?fpr=toolify45",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651763780347114.jpg",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "AI Analytics Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:01",
+      "updatedAt": "2024-01-29 16:40:01"
+    },
+    {
+      "name": "To The Moon",
+      "description": "AI-powered suite for Web3 community growth",
+      "website": "https://zesh.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061166653980580.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "AI Analytics Assistant",
+        "Blockchain",
+        "AI Social Media Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:02",
+      "updatedAt": "2024-07-10 19:40:02"
+    },
+    {
+      "name": "Nevermined",
+      "description": "The Nevermined platform maximizes the value of Data & AI for owners, developers, and users.",
+      "website": "https://nevermined.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168804565948357384.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-29 21:33:51",
+      "updatedAt": "2023-06-29 21:33:51"
+    },
+    {
+      "name": "Swaap v2",
+      "description": "Earn yield on blue-chip assets with Swaap's market-neutral AMM protocol.",
+      "website": "https://www.swaap.finance?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959901416120942.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 21:02:48",
+      "updatedAt": "2023-07-17 21:02:48"
+    },
+    {
+      "name": "Unbound AI - Built for Creators",
+      "description": "Empowering creators with an intuitive Image Generation Studio.",
+      "website": "https://partner.unboundcontent.ai/signup",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170493963117243200.jpg",
+      "category": "AI Photo & Image Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Photo & Image Generator",
+        "Web3",
+        "AI Art Generator",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-11 10:19:53",
+      "updatedAt": "2024-01-11 10:19:53"
+    },
+    {
+      "name": "web3.com",
+      "description": "All-in-One Gateway to Web3 Ecosystem",
+      "website": "https://web3.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171277201391122737.webp",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "AI Analytics Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-11 01:59:47",
+      "updatedAt": "2024-04-11 01:59:47"
+    },
+    {
+      "name": "Sorted Wallet",
+      "description": "Innovative crypto wallet for feature phones",
+      "website": "https://www.sortedwallet.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171625502429909527.webp",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:28:18",
+      "updatedAt": "2024-05-21 09:28:18"
+    },
+    {
+      "name": "Heyelsa",
+      "description": "AI tool for smarter cryptocurrency trading and management.",
+      "website": "https://www.heyelsa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947681095317409.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Investing Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:41",
+      "updatedAt": "2024-10-21 10:10:41"
+    },
+    {
+      "name": "EtherCTO",
+      "description": "EtherCTO offers CTO/Web3 expertise to bring your decentralized vision to life.",
+      "website": "https://ethercto.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577837198438032.jpg",
+      "category": "AI Developer Tools",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Developer Tools",
+        "Blockchain",
+        "Web3",
+        "AI App Builder",
+        "AI Product Description Generator",
+        "AI Task Management",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:45:45",
+      "updatedAt": "2023-06-03 15:45:45"
+    },
+    {
+      "name": "Alvatix",
+      "description": "Advanced algorithmic tool for profitable crypto trading.",
+      "website": "https://www.alvatix.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169849089357906282.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "Blockchain",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-28 19:00:24",
+      "updatedAt": "2023-10-28 19:00:24"
+    },
+    {
+      "name": "blockbank",
+      "description": "All-in-one crypto app connects users with DeFi, CeFi, and AI for financial decision-making.",
+      "website": "https://blockbank.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510118051289811.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 19:39:01",
+      "updatedAt": "2023-05-26 19:39:01"
+    },
+    {
+      "name": "Step1",
+      "description": "AI-powered user graph for rewarding users",
+      "website": "https://chromewebstore.google.com/detail/step1/aghjfakpkmlhmppddoingmepnlignjgd?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679954043384067.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:07",
+      "updatedAt": "2024-05-26 18:30:07"
+    },
+    {
+      "name": "Platvix",
+      "description": "Blending technology and finance for startup funding",
+      "website": "https://www.platvix.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073437526575643.webp",
+      "category": "Investing Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Investing Assistant",
+        "AI Lead Generation",
+        "Blockchain",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 11:58:00",
+      "updatedAt": "2024-03-18 11:58:00"
+    },
+    {
+      "name": "Rob3",
+      "description": "AI-driven browser extension for risk assessment and crypto news",
+      "website": "https://chromewebstore.google.com/detail/rob3/cpkejagemeohbadaeabcoihaopoedfkj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481125094381209.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:13:49",
+      "updatedAt": "2024-08-28 10:13:49"
+    },
+    {
+      "name": "TypoGraphy AI",
+      "description": "Summary: TypoGraphy AI makes web3 knowledge accessible to all.",
+      "website": "https://typography.vip?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169045633666385569.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Knowledge Base",
+        "AI Product Description Generator",
+        "Blockchain",
+        "Large Language Models (LLMs)",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-27 19:11:26",
+      "updatedAt": "2023-07-27 19:11:26"
+    },
+    {
+      "name": "AIxBlock",
+      "description": "Decentralized supercomputer for AI initiatives.",
+      "website": "https://aixblock.org?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215013932433743.webp",
+      "category": "Blockchain",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:34",
+      "updatedAt": "2024-04-03 21:13:34"
+    },
+    {
+      "name": "Blink - Blockchain Link for AI",
+      "description": "Enhancing GPTs with crypto wallets",
+      "website": "https://www.blinkai.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566241832670365.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "Prompt",
+        "Blockchain",
+        "Web3"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:51:15",
+      "updatedAt": "2024-05-14 12:51:15"
+    },
+    {
+      "name": "xdata",
+      "description": "Revolutionizing data collection with AI and crypto.",
+      "website": "https://chromewebstore.google.com/detail/xdata/ajgmddbjkeopdfodegmglhgjbdoafnmm?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815760769940550.jpg",
+      "category": "AI Twitter Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Twitter Assistant",
+        "Web3",
+        "Blockchain",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:47",
+      "updatedAt": "2024-06-12 09:59:47"
+    },
+    {
+      "name": "Adot AI: ChatGPT-powered Web3 Search Engine",
+      "description": "Pioneering AI tool for Web3 discovery.",
+      "website": "https://chromewebstore.google.com/detail/adot-ai-chatgpt-powered-w/healmieamaopboblekidbadelopbnfoo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171807151537722441.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Web3",
+        "AI Search Engine",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-11 10:05:07",
+      "updatedAt": "2024-06-11 10:05:07"
+    },
+    {
+      "name": "HODL it!",
+      "description": "HODL it! is an AI-powered crypto investment advisor that provides signals for popular cryptocurrencies and offers a portfolio tracker.",
+      "website": "https://hodlitapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577257261983370.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Blockchain",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:09:12",
+      "updatedAt": "2023-06-03 14:09:12"
+    },
+    {
+      "name": "GearChain",
+      "description": "Real-time inventory tracker app synced with spreadsheet, AI",
+      "website": "https://gearchain.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170003815741256998.jpg",
+      "category": "AI App Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI App Builder",
+        "AI Product Description Generator",
+        "No-Code&Low-Code",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-15 16:48:50",
+      "updatedAt": "2023-11-15 16:48:50"
+    },
+    {
+      "name": "Definity Legend A.I Game Builder",
+      "description": "Game builder, no coding, under 5 minutes",
+      "website": "https://www.definitylegend.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170039404571867422.jpg",
+      "category": "Game",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Game",
+        "Blockchain",
+        "NFTs",
+        "Web3",
+        "AI Product Description Generator",
+        "AI Trading Bot Assistant",
+        "AI Roadmap Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-19 19:40:33",
+      "updatedAt": "2023-11-19 19:40:33"
+    },
+    {
+      "name": "DeepEyes Analytics",
+      "description": "Simplify data analytics for Web3 Projects",
+      "website": "https://deepeyes.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185053812574303.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "AI Data Mining",
+        "Web3",
+        "AI Charting",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:59",
+      "updatedAt": "2023-12-06 16:13:59"
+    },
+    {
+      "name": "ChainAware.ai",
+      "description": "AI-based fraud detection with 98% accuracy",
+      "website": "https://chromewebstore.google.com/detail/chainawareai/ckgggpoepkaifaddeogbnfclphmfekba?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703913048757656.jpg",
+      "category": "AI Detector",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Detector",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:32",
+      "updatedAt": "2024-05-30 11:18:32"
+    },
+    {
+      "name": "Hundrx - Upgrade Twitter to Web3 with AI",
+      "description": "Turn Twitter profiles into blockchain assets.",
+      "website": "https://chromewebstore.google.com/detail/hundrx-upgrade-twitter-to/epjidlkjpogjmfdkbcgecceancknbgcj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679952597335224.jpg",
+      "category": "AI Twitter Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Twitter Assistant",
+        "Blockchain",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:05",
+      "updatedAt": "2024-05-26 18:30:05"
+    },
+    {
+      "name": "Swalo",
+      "description": "Summary: Swalo simplifies decentralized blockchain Dapps with NL chat-based interface and supports 0x router on Ethereum.",
+      "website": "https://www.swalo.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545599676573776.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:21",
+      "updatedAt": "2023-05-30 22:12:21"
+    },
+    {
+      "name": "isitsafe.io",
+      "description": "Unbiased crypto review sharing platform.",
+      "website": "https://isitsafe.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170584756021516888.jpg",
+      "category": "AI Reviews Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Reviews Assistant",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-21 22:31:50",
+      "updatedAt": "2024-01-21 22:31:50"
+    },
+    {
+      "name": "hiveblockchain.com",
+      "description": "Data center and Bitcoin mining solutions for Web3 advancement",
+      "website": "https://hiveblockchain.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172135259153615702.jpg",
+      "category": "Web3",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-19 09:27:47",
+      "updatedAt": "2024-07-19 09:27:47"
+    },
+    {
+      "name": "DefiPe",
+      "description": "An easy-to-use crypto trading platform with decentralized trading AI guide and extensive cryptocurrency access.",
+      "website": "https://defipe.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686003497910199.jpg",
+      "category": "AI Trading Bot Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Trading Bot Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "mirrArt",
+      "description": "Art platform for curation, promotion, and investment using AI and blockchain.",
+      "website": "https://mirr.art?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172601997957743359.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Art Generator",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-11 09:58:47",
+      "updatedAt": "2024-09-11 09:58:47"
+    },
+    {
+      "name": "MetaSuites - Builders' Swiss Army Knife",
+      "description": "AI Toolbox Extension combines Web3 tools, address labels, and fund flow map.",
+      "website": "https://chromewebstore.google.com/detail/metasuites-builders-swiss/fkhgpeojcbhimodmppkbbliepkpcgcoo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687110714574830.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Web3",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:37:23",
+      "updatedAt": "2024-05-28 12:37:23"
+    },
+    {
+      "name": "Chirpley",
+      "description": "Automated influencer marketplace for nano-micro influencers",
+      "website": "https://chirpley.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738122886422178.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Social Media Assistant",
+        "AI Hashtag Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:19:45",
+      "updatedAt": "2024-06-03 10:19:45"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}

@@ -1,0 +1,2701 @@
+{
+  "tools": [
+    {
+      "name": "Taplio",
+      "description": "Taplio is an AI-powered LinkedIn tool to improve personal branding, content creation, and engagement.",
+      "website": "https://taplio.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f0221cfa6aa50eefcc5d112de611bc73.jpeg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "AI Scheduling",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:16",
+      "updatedAt": "2023-03-07 16:48:16"
+    },
+    {
+      "name": "your.gg",
+      "description": "Analytics and AI for winning",
+      "website": "https://your.gg?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171215022134254082.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-03 21:13:35",
+      "updatedAt": "2024-04-03 21:13:35"
+    },
+    {
+      "name": "Favie - Crush on your favorites",
+      "description": "Personalized AI shopping assistant",
+      "website": "https://chromewebstore.google.com/detail/favie-crush-on-your-favor/fpapdlcoiecnmdjobkpnlmaflbielbfi?utm_source=TL&utm_medium=CPC&utm_campaign=EXT_Global_09062024_TL_PMFtest",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172027710815366653.jpg",
+      "category": "Sales Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "Sales Assistant",
+        "AI Customer Service Assistant",
+        "AI Analytics Assistant",
+        "AI Reviews Assistant",
+        "AI Social Media Assistant",
+        "AI CRM Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-06 22:44:52",
+      "updatedAt": "2024-07-06 22:44:52"
+    },
+    {
+      "name": "Tweet Hunter",
+      "description": "\"Tweet Hunter is an AI tool for Twitter that helps users grow their audience and personal brand.\"",
+      "website": "https://tweethunter.io/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/544fa49c8bc7cdf8064bed07c7eb8998.jpeg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Twitter Assistant",
+        "AI Social Media Assistant",
+        "Marketing Plan Generator",
+        "Digital Marketing Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:51",
+      "updatedAt": "2023-03-07 16:48:51"
+    },
+    {
+      "name": "Danelfin",
+      "description": "Pick the best stocks and optimize portfolios with explainable AI-powered insights.",
+      "website": "https://danelfin.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349985893421827.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Trading Bot Assistant",
+        "Investing Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:46",
+      "updatedAt": "2023-12-25 18:14:46"
+    },
+    {
+      "name": "ModelsLab",
+      "description": "The Best AI Suite for all your generative purposes.",
+      "website": "https://modelslab.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172369273257305170.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Design Assistant",
+        "AI SEO Assistant",
+        "AI Ad Generator",
+        "Marketing Plan Generator",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Joke",
+        "AI Character",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Graphic Design",
+        "AI Interior & Room Design",
+        "AI Anime Art",
+        "AI Dating Assistant",
+        "AI YouTube Assistant",
+        "Life Assistant",
+        "AI Roadmap Generator",
+        "Resume Builder",
+        "Cover Letter Generator",
+        "Sports",
+        "AI 3D Model Generator",
+        "Text to 3D",
+        "Image to 3D Model",
+        "AI Coaching",
+        "AI Knowledge Base",
+        "AI Tutorial",
+        "Prompt",
+        "AI Files Assistant",
+        "Large Language Models (LLMs)",
+        "AI Analytics Assistant",
+        "AI Instagram Assistant",
+        "Translate",
+        "AI Video Editor",
+        "Essay Writer",
+        "AI Rewriter",
+        "AI Email Writer",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Background Generator",
+        "AI GIF Generator",
+        "AI Background Remover",
+        "Image to Image",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "Text to Video",
+        "AI Consulting Assistant",
+        "AI Code Assistant",
+        "AI API Design",
+        "AI Developer Tools",
+        "AI App Builder",
+        "AI Audio Enhancer",
+        "Text-to-Speech",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "NSFW"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-15 11:35:48",
+      "updatedAt": "2024-08-15 11:35:48"
+    },
+    {
+      "name": "\u27a4 QR Code AI \u2318",
+      "description": "AI-powered QR code generator for artistic designs",
+      "website": "https://qrcode-ai.com?utm_source=partner&utm_medium=toolifyai",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171991656962664534.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Bio Link",
+        "AI Art Generator",
+        "AI Social Media Assistant",
+        "AI Graphic Design"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-02 18:41:34",
+      "updatedAt": "2024-07-02 18:41:34"
+    },
+    {
+      "name": "Polar",
+      "description": "Effortless, centralized, smart Shopify analytics.",
+      "website": "https://polaranalytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349933353831295.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "E-commerce Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:29",
+      "updatedAt": "2023-12-25 18:09:29"
+    },
+    {
+      "name": "Intellectia.Ai",
+      "description": "Top AI Investment Platform, Where AI meets your ambition\uff01",
+      "website": "https://intellectia.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172584669853926020.jpg",
+      "category": "Summarizer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Summarizer",
+        "Transcription",
+        "AI Content Generator",
+        "Research Tool",
+        "Investing Assistant",
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-09 09:52:01",
+      "updatedAt": "2024-09-09 09:52:01"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "myStylus",
+      "description": "AI platform for writing, editing, and research.",
+      "website": "http://mystylus.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172544450414418609.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Checker Essay",
+        "AI Chatbot",
+        "Homework Helper",
+        "AI Response Generator",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "Papers",
+        "AI Plagiarism Checker",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-04 18:07:03",
+      "updatedAt": "2024-09-04 18:07:03"
+    },
+    {
+      "name": "June AI",
+      "description": "June is a product analytics tool that helps B2B SaaS companies gain insights from usage data.",
+      "website": "https://june.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577911950356091.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:57:24",
+      "updatedAt": "2023-06-03 15:57:24"
+    },
+    {
+      "name": "infinitycloud.com",
+      "description": "Improve business performance with call analytics.",
+      "website": "https://infinitycloud.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073438767285724.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 11:58:00",
+      "updatedAt": "2024-03-18 11:58:00"
+    },
+    {
+      "name": "Osum.com",
+      "description": "Unlock market research, SWOT analysis, buyer personas, and strategic insights for growth.",
+      "website": "https://affiliate.osum.com?sref=rl3sko6",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170996420575325793.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-09 14:09:04",
+      "updatedAt": "2024-03-09 14:09:04"
+    },
+    {
+      "name": "Followr.ai",
+      "description": "Followr is an AI platform that automates social media management and saves users time.",
+      "website": "https://followr.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572167230438744.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 00:01:01",
+      "updatedAt": "2023-06-03 00:01:01"
+    },
+    {
+      "name": "\u667a\u80fd\u53ef\u89c6\u5316\u57fa\u7840\u7ec4\u4ef6\u5e93\u2014VMind",
+      "description": "Smart visualization suite",
+      "website": "https://www.visactor.io/vmind?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171525810952468184.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Graphic Design",
+        "Design Assistant",
+        "AI Tutorial"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-09 20:38:35",
+      "updatedAt": "2024-05-09 20:38:35"
+    },
+    {
+      "name": "QnA3",
+      "description": "QnA3 is an AI-powered platform for finding answers about the crypto industry.",
+      "website": "https://qna3.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169269263285853028.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-22 16:23:10",
+      "updatedAt": "2023-08-22 16:23:10"
+    },
+    {
+      "name": "Lyzr.ai",
+      "description": "Lyzr is an insights platform that provides AI-driven recommendations to drive growth.",
+      "website": "https://www.lyzr.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169029495453145178.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Charting",
+        "Sales Assistant",
+        "No-Code&Low-Code",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-25 22:19:42",
+      "updatedAt": "2023-07-25 22:19:42"
+    },
+    {
+      "name": "Tidb",
+      "description": "TiDB Cloud is a fully managed service that combines AI-generated SQL and Serverless HTAP for real-time analytics and elastic scaling.",
+      "website": "https://tidbcloud.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/4dd9652e16378b18e7ccb92baa0eb6c4.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "mindbridge.ai",
+      "description": "Global leader in financial risk discovery",
+      "website": "https://mindbridge.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172302496944366670.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 18:02:34",
+      "updatedAt": "2024-08-07 18:02:34"
+    },
+    {
+      "name": "BlazeSQL",
+      "description": "BlazeSQL lets you get data insights from SQL Databases without writing code. It connects an AI chatbot to your SQL Database, that can extract data to answer your questions, visualize the results, and generate SQL code for you.",
+      "website": "https://www.blazesql.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230668482379263.jpg",
+      "category": "AI Monitor & Report Builder",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Monitor & Report Builder",
+        "AI Data Mining",
+        "AI SQL Query Builder",
+        "AI Analytics Assistant",
+        "AI Code Assistant",
+        "AI Code Generator",
+        "AI SEO Assistant",
+        "Code Explanation",
+        "E-commerce Assistant",
+        "AI Chatbot",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:33:07",
+      "updatedAt": "2024-07-30 10:33:07"
+    },
+    {
+      "name": "Fork.ai",
+      "description": "Find out app technology stack from Google Play & App Store.",
+      "website": "https://www.fork.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170428779945746618.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI PDF"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-03 21:27:08",
+      "updatedAt": "2024-01-03 21:27:08"
+    },
+    {
+      "name": "5-Out",
+      "description": "5-Out is a restaurant software that uses AI for sales and labor forecasting in minutes.",
+      "website": "https://www.5out.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1c1f8b5c7f6584fa0301c66450c04adb.jpeg",
+      "category": "AI Data Mining",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Website"
+      ],
+      "tags": [
+        "AI Data Mining",
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:28",
+      "updatedAt": "2023-03-07 16:48:28"
+    },
+    {
+      "name": "Langtrace.ai",
+      "description": "OpenSource LLM application observability and evaluations platform",
+      "website": "https://www.langtrace.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172300267338982945.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Prompt",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 11:52:47",
+      "updatedAt": "2024-08-07 11:52:47"
+    },
+    {
+      "name": "Enalito 2.0",
+      "description": "Enalito helps eCommerce businesses grow through AI-driven marketing strategies.",
+      "website": "https://enalito.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545529234629331.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Email Marketing",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "AI Email Assistant",
+        "AI CRM Assistant",
+        "AI Email Generator",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:01:19",
+      "updatedAt": "2023-05-30 22:01:19"
+    },
+    {
+      "name": "wizdom.ai",
+      "description": "Intelligence for everyone",
+      "website": "https://wizdom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230506619286700.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "Research Tool",
+        "AI Knowledge Base"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:57",
+      "updatedAt": "2024-04-05 16:15:57"
+    },
+    {
+      "name": "DataSquirrel.ai",
+      "description": "DataSquirrel.ai is a user-friendly platform for fast and easy data analysis.",
+      "website": "https://datasquirrel.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168381155690149164.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-11 21:25:48",
+      "updatedAt": "2023-05-11 21:25:48"
+    },
+    {
+      "name": "42Signals",
+      "description": "The 42Signals AI solution helps consumer brands by providing eCommerce insights to boost online sales.",
+      "website": "https://www.42signals.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098397937115783.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "kowboykit.com",
+      "description": "Unlock the revenue potential of your clicks and invest in your business with our AI-powered, performance-driven affiliate management software.",
+      "website": "https://kowboykit.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230653618954100.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:41:43",
+      "updatedAt": "2024-04-05 16:41:43"
+    },
+    {
+      "name": "AnyParser",
+      "description": "ML data platform for accurate document extraction and mapping",
+      "website": "https://www.cambioml.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208853815967518.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Document Extraction",
+        "AI PDF"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "Outlier Database",
+      "description": "Powerful BJJ analytics for match analysis, training, and technique search.",
+      "website": "https://outlierdb.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349918147864290.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:26",
+      "updatedAt": "2023-12-25 18:09:26"
+    },
+    {
+      "name": "Syncly",
+      "description": "AI-powered customer feedback analysis.",
+      "website": "https://syncly.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170651767468975156.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Customer Service Assistant",
+        "AI CRM Assistant",
+        "AI Reviews Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-29 16:40:02",
+      "updatedAt": "2024-01-29 16:40:02"
+    },
+    {
+      "name": "WrapFast",
+      "description": "Create iOS apps and AI wrappers quickly with SwiftUI Boilerplate.",
+      "website": "https://wrapfa.st?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171033935292989437.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Chatbot",
+        "AI Art Generator",
+        "AI Design Generator",
+        "AI Tutorial",
+        "Large Language Models (LLMs)",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-13 22:14:11",
+      "updatedAt": "2024-03-13 22:14:11"
+    },
+    {
+      "name": "Athena Global",
+      "description": "AI platform for data analytics and business intelligence.",
+      "website": "https://athena.global?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172481139657115724.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-28 10:14:35",
+      "updatedAt": "2024-08-28 10:14:35"
+    },
+    {
+      "name": "lineup.ai",
+      "description": "Optimize operations with AI forecasting software for restaurants",
+      "website": "https://lineup.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171242051867518750.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Scheduling"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 00:21:32",
+      "updatedAt": "2024-04-07 00:21:32"
+    },
+    {
+      "name": "PerceptInsight",
+      "description": "Event-based analytics platform for insights and user engagement.",
+      "website": "https://perceptinsight.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129930115875154.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:26",
+      "updatedAt": "2024-11-11 12:24:26"
+    },
+    {
+      "name": "Channel",
+      "description": "Channel is a user-friendly data analytics platform that provides SQL-free data insights and visualizations.",
+      "website": "https://www.usechannel.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/cc2ae4f274512760e2477c3bc19d9d71.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Product Description Generator",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:18",
+      "updatedAt": "2023-03-07 16:48:18"
+    },
+    {
+      "name": "xyzt.ai",
+      "description": "\"xyzt.ai simplifies big data analysis for no-code analysts with its visual analytics platform.\"",
+      "website": "https://xyzt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168416512696622237.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Contact for Pricing"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-15 23:38:11",
+      "updatedAt": "2023-05-15 23:38:11"
+    },
+    {
+      "name": "Excel Dashboard Ai",
+      "description": "AI data assistant for Excel files",
+      "website": "https://www.exceldashboard.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172230635044254369.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-30 10:25:05",
+      "updatedAt": "2024-07-30 10:25:05"
+    },
+    {
+      "name": "Genie",
+      "description": "Inventory management tool for Shopify brands to streamline operations.",
+      "website": "https://genie.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173159691312627286.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "E-commerce Assistant",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-14 23:10:38",
+      "updatedAt": "2024-11-14 23:10:38"
+    },
+    {
+      "name": "Tomat",
+      "description": "A no-code tool for data querying and analytics. Leverage generative AI to work with your unstructured data.",
+      "website": "https://www.tomat.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173137529133374729.jpg",
+      "category": "No-Code&Low-Code",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "No-Code&Low-Code",
+        "AI Analytics Assistant",
+        "AI Spreadsheet",
+        "AI Ad Creative Assistant",
+        "AI Email Generator",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-12 09:38:02",
+      "updatedAt": "2024-11-12 09:38:02"
+    },
+    {
+      "name": "Introducing Coworker AI",
+      "description": "Revolutionary ML-driven analytics with Infer's Coworker AI.",
+      "website": "https://www.getinfer.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486200254274970.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Lead Generation",
+        "AI Ad Creative Assistant",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Monitor & Report Builder",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "okra.ai",
+      "description": "AI Brains For Life Sciences - OKRA",
+      "website": "https://okra.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171242082158578743.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 00:26:38",
+      "updatedAt": "2024-04-07 00:26:38"
+    },
+    {
+      "name": "Luminal",
+      "description": "A powerful AI copilot, Luminal enables faster spreadsheet cleaning, transforming, and analysis.",
+      "website": "https://getluminal.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/921089f60ad472cde7e77e0fc6062a20.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting",
+        "AI Documents Assistant",
+        "AI Spreadsheet"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:15",
+      "updatedAt": "2023-03-07 16:48:15"
+    },
+    {
+      "name": "infiniteanalytics.com",
+      "description": "Transforming consumer insights with AI",
+      "website": "https://infiniteanalytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171230511526368774.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-05 16:15:58",
+      "updatedAt": "2024-04-05 16:15:58"
+    },
+    {
+      "name": "Shape",
+      "description": "Automated data analytics for ad-hoc data requests",
+      "website": "https://shape.xyz?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170145444889111493.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder",
+        "AI Charting",
+        "AI API Design",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-02 02:13:59",
+      "updatedAt": "2023-12-02 02:13:59"
+    },
+    {
+      "name": "QuickSEO",
+      "description": "SEO analytics with AI content generation",
+      "website": "https://quickseo.io?aff=O0D1K",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171625491151443660.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:28:16",
+      "updatedAt": "2024-05-21 09:28:16"
+    },
+    {
+      "name": "Flowtrail AI",
+      "description": "All-in-one data analytics platform for actionable insights",
+      "website": "https://flowtrail.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061180045500394.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:05",
+      "updatedAt": "2024-07-10 19:40:05"
+    },
+    {
+      "name": "ChartFast",
+      "description": "AI data analyst for quick graph generation",
+      "website": "https://chartfast.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172196180023614746.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-26 10:41:41",
+      "updatedAt": "2024-07-26 10:41:41"
+    },
+    {
+      "name": "Finterpret",
+      "description": "AI analytics platform for retail investors to analyze stock portfolios.",
+      "website": "https://www.finterpret.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172363256289467809.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Investing Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-14 18:48:27",
+      "updatedAt": "2024-08-14 18:48:27"
+    },
+    {
+      "name": "BeeKrowd",
+      "description": "AI-powered platform for creating financial models and fundraising profiles",
+      "website": "https://www.beekrowd.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900428431591795.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:48",
+      "updatedAt": "2024-02-27 11:22:48"
+    },
+    {
+      "name": "DirectoryStack",
+      "description": "Next.js directory starter kit",
+      "website": "https://directorystack.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208853332406102.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Tools Directory",
+        "AI Advertising Assistant",
+        "AI SEO Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Content Generator",
+        "Domain Name Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "Sensey AI",
+      "description": "AI assistant for startup success",
+      "website": "https://sensey.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/17138783361217557.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "Large Language Models (LLMs)",
+        "Research Tool",
+        "AI Content Generator",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-23 21:21:38",
+      "updatedAt": "2024-04-23 21:21:38"
+    },
+    {
+      "name": "Finalle",
+      "description": "Turn uncharted data into real-time financial insights with Finalle.ai.",
+      "website": "https://finalle.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/dfe5fa921c83ee018ca7b727e27cdf8f.jpeg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Charting",
+        "AI Accounting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:25",
+      "updatedAt": "2023-03-07 16:48:25"
+    },
+    {
+      "name": "OpenSQL AI",
+      "description": "Transform questions into SQL instantly",
+      "website": "https://opensql.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171625498743264719.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Education Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-21 09:28:17",
+      "updatedAt": "2024-05-21 09:28:17"
+    },
+    {
+      "name": "Groupt",
+      "description": "Data categorization and analytics platform",
+      "website": "https://www.groupt.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052434643849314.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:27",
+      "updatedAt": "2024-07-09 19:23:27"
+    },
+    {
+      "name": "Pathex",
+      "description": "Real-time audience analytics and targeted ad delivery platform",
+      "website": "https://www.pathex.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043211882114700.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:04",
+      "updatedAt": "2024-07-08 17:48:04"
+    },
+    {
+      "name": "snowBrain",
+      "description": "snowBrain is an AI platform that analyzes and extracts insights from snowflake data.",
+      "website": "https://snowbrain.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168909335759382230.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-12 00:35:46",
+      "updatedAt": "2023-07-12 00:35:46"
+    },
+    {
+      "name": "HiveHubAI",
+      "description": "Social media analytics with AI insights.",
+      "website": "https://hivehubai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171833024091659429.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-14 09:56:53",
+      "updatedAt": "2024-06-14 09:56:53"
+    },
+    {
+      "name": "Avian",
+      "description": "AI powered data analytics platform for connecting and analyzing data from over 20 platforms. Custom data chatbots for easy collaboration.",
+      "website": "https://avianio.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169745296426963784.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Product Description Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-16 18:40:26",
+      "updatedAt": "2023-10-16 18:40:26"
+    },
+    {
+      "name": "Revmore",
+      "description": "AI-based revenue enhancement for apps & games",
+      "website": "https://revmore.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888237269003951.webp",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:16:53",
+      "updatedAt": "2024-06-20 19:16:53"
+    },
+    {
+      "name": "Datayaki",
+      "description": "Datayaki simplifies data analysis by creating widgets from requested data.",
+      "website": "https://www.datayaki.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220581625524181.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "meerkat analytics",
+      "description": "AI-powered customer insights for Shopify merchants",
+      "website": "https://meerkat.ch?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172241571766902257.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-31 16:45:57",
+      "updatedAt": "2024-07-31 16:45:57"
+    },
+    {
+      "name": "AI Data Assistant",
+      "description": "AI tools for data analysis",
+      "website": "https://chromewebstore.google.com/detail/ai-data-assistant/afjbidcpbfhgmaphnedkifdbdpbnngbo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171703912512178806.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Developer Tools",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-30 11:18:31",
+      "updatedAt": "2024-05-30 11:18:31"
+    },
+    {
+      "name": "Grabbly",
+      "description": "AI web data extraction tool",
+      "website": "https://chromewebstore.google.com/detail/grabbly/acmmehmidcnncgbigblfkgmbmeijgefl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763883227159404.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Document Extraction",
+        "Web Scraping",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:46",
+      "updatedAt": "2024-06-06 09:53:46"
+    },
+    {
+      "name": "OP Ninja",
+      "description": "AI Resume Builder with Tracking",
+      "website": "https://www.onepage.ninja?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169098394458797817.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Resume Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-02 21:44:34",
+      "updatedAt": "2023-08-02 21:44:34"
+    },
+    {
+      "name": "EasyYa\u6613\u82bd\u9078\u54c1 - \u4e9e\u99ac\u905c\u5927\u8cc7\u6599\u9078\u54c1&\u904b\u71df\u5de5\u5177",
+      "description": "Platform for market analysis and strategic planning.",
+      "website": "https://chromewebstore.google.com/detail/easyya\u6613\u82bd\u9078\u54c1-\u4e9e\u99ac\u905c\u5927\u8cc7\u6599\u9078\u54c1\u904b\u71df\u5de5\u5177/fmafmnedillfdiajplfklndhciaodmld?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679936045312242.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-23 22:00:37",
+      "updatedAt": "2024-05-23 22:00:37"
+    },
+    {
+      "name": "Infin8t",
+      "description": "AI-powered chatbots to improve customer support efficiency.",
+      "website": "https://infin8t.tech?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172965761633469256.jpg",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "AI Lead Generation",
+        "AI Chatbot",
+        "AI Analytics Assistant",
+        "Sales Assistant",
+        "AI CRM Assistant",
+        "AI Email Assistant",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-23 12:26:34",
+      "updatedAt": "2024-10-23 12:26:34"
+    },
+    {
+      "name": "AdLamp",
+      "description": "AI platform automates and optimizes PPC campaigns",
+      "website": "https://www.adlamp.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172016994633004522.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-05 16:56:30",
+      "updatedAt": "2024-07-05 16:56:30"
+    },
+    {
+      "name": "Thepanel",
+      "description": "A dynamic open-source Mixpanel alternative for web and mobile app analytics.",
+      "website": "https://thepanel.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262644523399140.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Website Builder",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:41",
+      "updatedAt": "2023-12-15 15:45:41"
+    },
+    {
+      "name": "iSWIM",
+      "description": "AI-powered competitive swimming analytics",
+      "website": "https://iswim.dev?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738126122543061.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Sports",
+        "AI Coaching",
+        "AI Video Recording",
+        "AI Image Recognition"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:19:45",
+      "updatedAt": "2024-06-03 10:19:45"
+    },
+    {
+      "name": "Thirdi",
+      "description": "AI-powered digital marketing simplified.",
+      "website": "https://thirdi.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171350550021075650.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Digital Marketing Generator",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-19 13:44:26",
+      "updatedAt": "2024-04-19 13:44:26"
+    },
+    {
+      "name": "Viral Launch - Market Intelligence",
+      "description": "Find profitable Amazon products easily",
+      "website": "https://chromewebstore.google.com/detail/viral-launch-market-intel/ncbhkghndhoddmbfgddpgafhbnijdadj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171815760056455543.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Lead Generation",
+        "Sales Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-12 09:59:46",
+      "updatedAt": "2024-06-12 09:59:46"
+    },
+    {
+      "name": "Friz",
+      "description": "AI social media manager for D2C brands.",
+      "website": "https://www.usefriz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170548529742146244.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI Hashtag Assistant",
+        "AI Repurpose Assistant",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-17 17:53:57",
+      "updatedAt": "2024-01-17 17:53:57"
+    },
+    {
+      "name": "Cannypen",
+      "description": "AI content creation and editing tool",
+      "website": "https://cannypen.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172070130173245029.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Plagiarism Checker",
+        "AI Content Detector",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-11 20:33:51",
+      "updatedAt": "2024-07-11 20:33:51"
+    },
+    {
+      "name": "Sinopsis AI",
+      "description": "Analytics tool for AI chatbots to improve performance.",
+      "website": "https://www.sinopsisai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398623998859899.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:58",
+      "updatedAt": "2024-08-18 21:02:58"
+    },
+    {
+      "name": "iStory",
+      "description": "iStory is a tool for digital marketers that uses voice/AI, media, and analytics for immersive storytelling.",
+      "website": "https://www.istorylive.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168241405428889162.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Banner Generator",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-25 17:27:11",
+      "updatedAt": "2023-04-25 17:27:11"
+    },
+    {
+      "name": "AIcompliment.me",
+      "description": "Daily compliments for positivity",
+      "website": "https://aicompliment.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172052428330189057.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-09 19:23:26",
+      "updatedAt": "2024-07-09 19:23:26"
+    },
+    {
+      "name": "Auto-save your favs from Discover Weekly",
+      "description": "An app that saves favorite new music from Discover Weekly playlist, helping you discover effortlessly.",
+      "website": "https://bestofdiscoverweekly.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168517025675796633.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 14:50:46",
+      "updatedAt": "2023-05-27 14:50:46"
+    },
+    {
+      "name": "DeepEyes Analytics",
+      "description": "Simplify data analytics for Web3 Projects",
+      "website": "https://deepeyes.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185053812574303.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "AI Data Mining",
+        "Web3",
+        "AI Charting",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:59",
+      "updatedAt": "2023-12-06 16:13:59"
+    },
+    {
+      "name": "Quopilot",
+      "description": "AI Chrome plug-in for quotation analysis",
+      "website": "https://chromewebstore.google.com/detail/quopilot/fpbemeafgpdedkogcebcoeinoonhniko?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173068406075311448.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Letter Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Email Assistant",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-04 09:34:06",
+      "updatedAt": "2024-11-04 09:34:06"
+    },
+    {
+      "name": "DataGPTd",
+      "description": "A versatile tool for analyzing and manipulating personal data using text-based commands.",
+      "website": "https://www.datagptd.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168257796920914350.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Charting",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 14:47:13",
+      "updatedAt": "2023-04-27 14:47:13"
+    },
+    {
+      "name": "BTCAura",
+      "description": "Bitcoin news aggregator",
+      "website": "https://btcaura.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171387833159611517.webp",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "Newsletter",
+        "Investing Assistant",
+        "Blockchain"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-23 21:22:20",
+      "updatedAt": "2024-04-23 21:22:20"
+    },
+    {
+      "name": "Comments Analytics",
+      "description": "AI-powered platform analyzes comments from different sources, providing insights into customer sentiments.",
+      "website": "https://commentsanalytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485071820762870.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:04:16",
+      "updatedAt": "2023-05-23 22:04:16"
+    },
+    {
+      "name": "XO Analytics",
+      "description": "AI-powered platform XO Analytics boosts e-commerce growth with actionable Shopify insights.",
+      "website": "https://xo-analytics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168987339324633972.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Advertising Assistant",
+        "AI Product Description Generator",
+        "AI Monitor & Report Builder",
+        "E-commerce Assistant",
+        "AI Data Mining",
+        "AI Charting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-21 01:14:29",
+      "updatedAt": "2023-07-21 01:14:29"
+    },
+    {
+      "name": "StreamAlive - Polls, Word Clouds & Spinner Wheels",
+      "description": "Run interactive polls and engaging activities with live chat integration.",
+      "website": "https://chromewebstore.google.com/detail/streamalive-polls-word-cl/bhkhlhgmlnceijncnjdhphfhncbekaln?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171738088459032256.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-03 10:13:40",
+      "updatedAt": "2024-06-03 10:13:40"
+    },
+    {
+      "name": "Map My Blog - AI-powered Mapping Software",
+      "description": "Create interactive maps from blog posts effortlessly.",
+      "website": "https://chromewebstore.google.com/detail/map-my-blog-ai-powered-ma/kambmamfjckgbcneopcmbemlmikcnalb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171763886485511716.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-06 09:53:50",
+      "updatedAt": "2024-06-06 09:53:50"
+    },
+    {
+      "name": "Yignite\u52a9\u624b",
+      "description": "Amazon backend report integration for insightful analysis.",
+      "website": "https://chromewebstore.google.com/detail/yignite\u52a9\u624b/ljeeacjmlkjapdjiobgibebjaniimopc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171687131919979664.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "Report Writing",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-28 12:41:38",
+      "updatedAt": "2024-05-28 12:41:38"
+    },
+    {
+      "name": "uniqin.ai",
+      "description": "AI-powered platform for eCommerce growth.",
+      "website": "https://uniqin.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171007934466508271.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "E-commerce Assistant",
+        "Sales Assistant",
+        "AI SEO Assistant",
+        "AI Website Designer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-10 22:00:57",
+      "updatedAt": "2024-03-10 22:00:57"
+    },
+    {
+      "name": "Metryka",
+      "description": "Metryka is a platform for startups to analyze data and make informed business decisions.",
+      "website": "https://metryka.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168667467354937296.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Workflow Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-14 00:44:10",
+      "updatedAt": "2023-06-14 00:44:10"
+    },
+    {
+      "name": "Linkly.AI",
+      "description": "AI-powered lead analytics and management platform.",
+      "website": "https://www.linkly.ai/en?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168484972486460391.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Data Mining",
+        "AI Lead Generation",
+        "AI Charting",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 21:47:28",
+      "updatedAt": "2023-05-23 21:47:28"
+    },
+    {
+      "name": "Raft",
+      "description": "Content audit tool for optimizing content strategies.",
+      "website": "https://raft.so?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172709749674682013.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SEO Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-23 21:17:26",
+      "updatedAt": "2024-09-23 21:17:26"
+    },
+    {
+      "name": "Optiwise.ai",
+      "description": "Ecommerce analytics and insights tool",
+      "website": "https://chromewebstore.google.com/detail/optiwiseai/kokdcghoednbdkpdjgengmbmndgofjdj?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747578671737344.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "E-commerce Assistant",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:34:55",
+      "updatedAt": "2024-06-04 12:34:55"
+    },
+    {
+      "name": "evov.ai",
+      "description": "Data-driven strategist for short video marketing",
+      "website": "https://evov.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172061168262867133.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "Report Writing",
+        "AI Content Generator",
+        "AI Monitor & Report Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-10 19:40:03",
+      "updatedAt": "2024-07-10 19:40:03"
+    },
+    {
+      "name": "Luppa AI",
+      "description": "Luppa is the all-in-one AI-powered content creation platform that helps businesses and creators effortlessly produce, manage, and grow their brand across all digital channels.",
+      "website": "https://luppa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173208152590769726.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Twitter Assistant",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Advertising Assistant",
+        "AI Instagram Assistant",
+        "AI Facebook Assistant",
+        "AI UGC Video Generator",
+        "AI Tiktok Assistant",
+        "AI Analytics Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Repurpose Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Video Generator",
+        "Text to Video",
+        "Copywriting",
+        "AI Image Enhancer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Bio Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Text to Image",
+        "AI Background Generator",
+        "AI Photo Enhancer",
+        "AI Video Editor",
+        "AI Photography",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Selfie & Portrait",
+        "AI Image Scanning",
+        "AI Image Segmentation",
+        "Image to Video",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-20 14:01:36",
+      "updatedAt": "2024-11-20 14:01:36"
+    },
+    {
+      "name": "AskEdith Free Tier",
+      "description": "Analytics tool for building dashboards and reports by asking questions.",
+      "website": "https://www.askedith.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534827985296051.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI SQL Query Builder",
+        "AI Data Mining"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:49",
+      "updatedAt": "2023-05-29 16:16:49"
+    },
+    {
+      "name": "Collider AI",
+      "description": "\"Collider AI optimizes sales with personalized ads, webpages, and emails using AI.\"",
+      "website": "https://cldr.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572096589991634.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Analytics Assistant",
+        "AI Content Generator",
+        "AI Landing Page Builder",
+        "Digital Marketing Generator",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-02 23:49:04",
+      "updatedAt": "2023-06-02 23:49:04"
+    },
+    {
+      "name": "Telugu Autocomplete",
+      "description": "Telugu typing enhancement tool",
+      "website": "https://chromewebstore.google.com/detail/telugu-autocomplete/ffofpbkbhdoijmddmnkdnlmojjacoopb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172282852043802076.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-05 11:28:23",
+      "updatedAt": "2024-08-05 11:28:23"
+    },
+    {
+      "name": "odeist",
+      "description": "AI Powered Social Media Discovery and Engagement",
+      "website": "https://odeist.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170839371545434472.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "AI Hashtag Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 09:46:44",
+      "updatedAt": "2024-02-20 09:46:44"
+    },
+    {
+      "name": "PromptPortals",
+      "description": "Manage and optimize AI prompts via API with analytics and user feedback.",
+      "website": "https://promptportals.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169348465439577976.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-31 20:21:57",
+      "updatedAt": "2023-08-31 20:21:57"
+    },
+    {
+      "name": "Sentavis",
+      "description": "AI tool for analyzing customer sentiment from feedback.",
+      "website": "https://sentavis.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172855761585445015.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI Reviews Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-10 18:52:42",
+      "updatedAt": "2024-10-10 18:52:42"
+    },
+    {
+      "name": "Table OCR - Extract tabular data from Pdf/Img",
+      "description": "Extract data from tables effortlessly",
+      "website": "https://chromewebstore.google.com/detail/table-ocr-extract-tabular/chcphpeifolppcfemopkgpbkenaoijpl?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747580270653455.jpg",
+      "category": "AI Analytics Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Analytics Assistant",
+        "AI PDF",
+        "AI Document Extraction",
+        "AI Documents Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:14",
+      "updatedAt": "2024-06-04 12:35:14"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    }
+  ]
+}

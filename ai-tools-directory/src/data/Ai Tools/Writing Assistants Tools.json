@@ -1,0 +1,2997 @@
+{
+  "tools": [
+    {
+      "name": "Course Hero",
+      "description": "Study resources, notes, test prep, homework help, and expert tutors at your fingertips.",
+      "website": "https://coursehero.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350413878793168.jpg",
+      "category": "AI Course",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Course",
+        "Homework Helper",
+        "Copywriting",
+        "Essay Writer",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:19",
+      "updatedAt": "2023-12-25 18:20:19"
+    },
+    {
+      "name": "Undetectable.ai",
+      "description": "AI Content Solutions transforms AI-generated content into high-quality writing, aligning it with your brand.",
+      "website": "https://undetectable.ai?fpr=bglbr",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545598150807201.jpg",
+      "category": "AI Content Detector",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Detector",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:12:20",
+      "updatedAt": "2023-05-30 22:12:20"
+    },
+    {
+      "name": "Chatbit",
+      "description": "Custom AI chatbots trained on your data.",
+      "website": "https://chatbit.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171120110597110036.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-23 22:19:46",
+      "updatedAt": "2024-03-23 22:19:46"
+    },
+    {
+      "name": "Smodin",
+      "description": "Smodin is a platform that improves writing with various tools for students, writers, and internet workers globally.",
+      "website": "https://smodin.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/7e00d3242140236f33465dbdd783c664.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Research Tool",
+        "Papers",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "AI Plagiarism Checker",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:20",
+      "updatedAt": "2023-03-07 16:48:20"
+    },
+    {
+      "name": "ProWritingAid",
+      "description": "Your all-in-one writing assistant.",
+      "website": "https://prowritingaid.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350417070194078.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Book Writing",
+        "General Writing",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:20:20",
+      "updatedAt": "2023-12-25 18:20:20"
+    },
+    {
+      "name": "AIprm",
+      "description": "Summary: AIPRM is a prompt management tool and community-driven prompt library for generative AI.",
+      "website": "https://www.aiprm.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168354752187774407.jpg",
+      "category": "Prompt",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "Prompt",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Creative Writing",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 20:06:05",
+      "updatedAt": "2023-05-08 20:06:05"
+    },
+    {
+      "name": "Junia.ai",
+      "description": "Junia AI is a platform that uses AI to create content for blogs, emails, and ads.",
+      "website": "https://www.junia.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580600419974080.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Blog Writer",
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "AI SEO Assistant",
+        "AI Ad Creative Assistant",
+        "Large Language Models (LLMs)",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Marketing",
+        "AI Art Generator",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 18:01:52",
+      "updatedAt": "2023-06-03 18:01:52"
+    },
+    {
+      "name": "AI Humanize",
+      "description": "Turn AI text into human-like writing.",
+      "website": "https://www.aihumanize.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170936515341956068.webp",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Rewriter",
+        "AI Blog Writer",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-02 15:38:16",
+      "updatedAt": "2024-03-02 15:38:16"
+    },
+    {
+      "name": "Sudowrite",
+      "description": "An AI writing tool, Sudowrite, speeds up novel and screenplay writing, earning praise.",
+      "website": "https://www.sudowrite.com/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/aa1a91fec72ddaf18e27a6b7062da37c.jpeg",
+      "category": "AI Book Writing",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel",
+        "Writing Assistants",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:49",
+      "updatedAt": "2023-03-07 16:48:49"
+    },
+    {
+      "name": "Juicychat AI",
+      "description": "Spicy NSFW character AI chat platform",
+      "website": "https://www.juicychat.ai/?nsfw=1&utm_source=toolify&utm_medium=ads",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172683584924315297.jpeg",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-17 19:07:25",
+      "updatedAt": "2024-06-17 19:07:25"
+    },
+    {
+      "name": "HyperWrite AI",
+      "description": "Your personal AI writing assistant.",
+      "website": "https://www.hyperwriteai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16833574444652006.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Large Language Models (LLMs)",
+        "AI Reply Assistant",
+        "AI Email Assistant",
+        "AI Response Generator",
+        "Copywriting",
+        "General Writing",
+        "AI Rewriter",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Email Generator",
+        "Research Tool",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 15:18:15",
+      "updatedAt": "2023-05-06 15:18:15"
+    },
+    {
+      "name": "luzia.com",
+      "description": "AI-powered assistant for your daily tasks",
+      "website": "https://luzia.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171017735493103384.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Voice Assistants",
+        "Life Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-12 01:15:38",
+      "updatedAt": "2024-03-12 01:15:38"
+    },
+    {
+      "name": "Storynest.ai",
+      "description": "StoryNest.ai: Where AI and imagination collide to create interactive, evolving narratives.",
+      "website": "https://www.storynest.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494009262723507.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Book Writing",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 22:54:14",
+      "updatedAt": "2023-05-24 22:54:14"
+    },
+    {
+      "name": "JotBot AI",
+      "description": "AI-powered writing assistant mimicking your style.",
+      "website": "https://myjotbot.com/?aff=Toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349909315173642.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Notes Assistant",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:23",
+      "updatedAt": "2023-12-25 18:09:23"
+    },
+    {
+      "name": "Paraphraser",
+      "description": "Paraphrase Tool offers free online paraphrasing, grammar check, and plagiarism elimination for 100+ languages.",
+      "website": "https://paraphrasetool.com/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/baae8610bb9abb3e3d392ee5f4912c7a.jpeg",
+      "category": "AI Plagiarism Checker",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Plagiarism Checker",
+        "AI Rewriter",
+        "Paraphraser",
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:45",
+      "updatedAt": "2023-03-07 16:48:45"
+    },
+    {
+      "name": "WritingMate.ai",
+      "description": "WritingMate.ai is an AI tool to boost productivity and craft engaging content.",
+      "website": "https://writingmate.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485364715661871.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Chatbot",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:48",
+      "updatedAt": "2023-05-23 22:53:48"
+    },
+    {
+      "name": "Mem.ai",
+      "description": "Mem is an AI-powered productivity platform that helps optimize team work.",
+      "website": "https://mem.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/e1e5befdab80d34970d29270992d630a.jpeg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Notes Assistant",
+        "AI Knowledge Base",
+        "AI Knowledge Management",
+        "AI Team Collaboration",
+        "AI Meeting Assistant",
+        "AI Analytics Assistant",
+        "AI Knowledge Graph",
+        "AI Workflow Management",
+        "AI Project Management"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Good AI",
+      "description": "The Good AI is an AI-powered platform that writes essays accurately and efficiently.",
+      "website": "https://www.the-good-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168335377011488749.png",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-05 22:13:27",
+      "updatedAt": "2023-05-05 22:13:27"
+    },
+    {
+      "name": "Voil\u00e0 - ChatGPT browser assistant",
+      "description": "Voil\u00e0 is a powerful AI browser assistant for productivity and virtual assistance.",
+      "website": "https://www.getvoila.ai/?via=wenhua",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168510608740349183.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "Copywriting",
+        "AI Advertising Assistant",
+        "AI Reply Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Email Assistant",
+        "AI Email Generator",
+        "Summarizer",
+        "AI Response Generator",
+        "AI Product Description Generator",
+        "Large Language Models (LLMs)",
+        "AI Rewriter",
+        "AI Email Writer",
+        "Essay Writer",
+        "Research Tool",
+        "AI Grammar Checker",
+        "Paraphraser",
+        "AI Blog Writer",
+        "Translate",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Lead Generation",
+        "AI Email Marketing",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 21:00:36",
+      "updatedAt": "2023-05-26 21:00:36"
+    },
+    {
+      "name": "Rosebud - AI Journal for Personal Growth",
+      "description": "AI-powered journal for personal growth.",
+      "website": "https://my.rosebud.app?discount=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349886732033649.jpg",
+      "category": "Life Assistant",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Life Assistant",
+        "Writing Assistants",
+        "Large Language Models (LLMs)",
+        "Mental Health"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:13",
+      "updatedAt": "2023-12-25 18:02:13"
+    },
+    {
+      "name": "Windy AI Writer",
+      "description": "WindyBot offers AI-powered tools to boost productivity and creativity, including writing, art generation, comprehension, and chatbot capabilities.",
+      "website": "https://windybot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577809846583821.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Art Generator",
+        "Large Language Models (LLMs)",
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:41:04",
+      "updatedAt": "2023-06-03 15:41:04"
+    },
+    {
+      "name": "Magai",
+      "description": "AI tools for content creators",
+      "website": "https://magai.co/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349974455372879.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Photo & Image Generator",
+        "Copywriting",
+        "AI Illustration Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:31",
+      "updatedAt": "2023-12-25 18:13:31"
+    },
+    {
+      "name": "200+ ChatGPT Mega-Prompts for Business",
+      "description": "Ultimate ChatGPT mega-prompts to help you grow, optimize, and scale your business with AI.",
+      "website": "https://www.godofprompt.ai/business-mega-prompts?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172429246220884960.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "Prompt",
+        "E-commerce Assistant",
+        "AI Consulting Assistant",
+        "AI Email Generator",
+        "AI Project Management",
+        "AI Email Writer",
+        "Research Tool",
+        "AI Business Ideas Generator",
+        "Sales Assistant",
+        "Newsletter",
+        "Copywriting",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-22 10:09:47",
+      "updatedAt": "2024-08-22 10:09:47"
+    },
+    {
+      "name": "EssayGenius",
+      "description": "EssayGenius is an AI platform that assists users in writing essays faster with quality content.",
+      "website": "https://essaygenius.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168637712883724366.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Essay Writer",
+        "AI Checker Essay",
+        "AI Creative Writing",
+        "AI Grammar Checker",
+        "AI Plagiarism Checker",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-10 14:06:56",
+      "updatedAt": "2023-06-10 14:06:56"
+    },
+    {
+      "name": "Rephrasely",
+      "description": "Paraphrasing tool with 20 modes for clarifying and adapting your words to your audience.",
+      "website": "https://rephrasely.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c76f5f411106ba5ef3801bc816ee1c2f.jpeg",
+      "category": "AI Repurpose Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Repurpose Assistant",
+        "AI Rewriter",
+        "General Writing",
+        "Paraphraser",
+        "Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:55",
+      "updatedAt": "2023-03-07 16:48:55"
+    },
+    {
+      "name": "CoWriter AI",
+      "description": "Write better, smarter, and faster.",
+      "website": "https://cowriter.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900426216031433.webp",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Productivity Tools",
+        "Essay Writer",
+        "Papers",
+        "Report Writing",
+        "General Writing",
+        "AI Content Generator",
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:47",
+      "updatedAt": "2024-02-27 11:22:47"
+    },
+    {
+      "name": "Interviews by AI",
+      "description": "\"Interviewsby.ai provides personalized mock interviews with real-time feedback from ChatGPT.\"",
+      "website": "https://interviewsby.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168563003315674189.jpg",
+      "category": "AI Coaching",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Coaching",
+        "AI Interview Assistant",
+        "AI Recruiting",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-01 22:33:10",
+      "updatedAt": "2023-06-01 22:33:10"
+    },
+    {
+      "name": "LongShot AI \u2014 2.0",
+      "description": "AI platform for all content needs",
+      "website": "https://longshot.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170865843951650615.webp",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI Knowledge Base",
+        "AI Blog Writer",
+        "AI SEO Assistant",
+        "Copywriting",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-23 11:18:49",
+      "updatedAt": "2024-02-23 11:18:49"
+    },
+    {
+      "name": "LongShot AI",
+      "description": "LongShot is a comprehensive tool designed to generate high-quality, factually accurate content which is optimized for search engines using advanced features.",
+      "website": "https://longShot.ai?deal=toolify79",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168267278506345437.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "Copywriting",
+        "AI Email Generator",
+        "AI Repurpose Assistant",
+        "AI SEO Assistant",
+        "AI Search Engine",
+        "AI Email Writer",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "General Writing",
+        "Summarizer",
+        "Paraphraser",
+        "AI Bio Generator",
+        "AI Rewriter",
+        "Essay Writer",
+        "AI Content Generator",
+        "AI Product Description Generator",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-28 17:06:53",
+      "updatedAt": "2023-04-28 17:06:53"
+    },
+    {
+      "name": "Elephas",
+      "description": "Elephas is a versatile AI writing assistant for Mac users, compatible with iPhone and iPad.",
+      "website": "https://elephas.app/?affiliate_id=778477267",
+      "image": "https://cdn-images.toolify.ai/image/6aa9e32e465ae5116e5f9d5e1a79e607.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "AI Blog Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Email Writer",
+        "AI Email Assistant",
+        "General Writing",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Summarizer",
+        "AI Presentation Generator",
+        "AI WORD",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:37",
+      "updatedAt": "2023-03-07 16:48:37"
+    },
+    {
+      "name": "Fable Fiesta",
+      "description": "\"Fable Fiesta: AI story generator and book writer that brings tales to life.\"",
+      "website": "https://FableFiesta.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168336876772079687.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Script Writing",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-06 18:26:21",
+      "updatedAt": "2023-05-06 18:26:21"
+    },
+    {
+      "name": "Chandler",
+      "description": "Your affordable personal AI assistant.",
+      "website": "https://chandler.bet?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170731992974318380.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Content Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Email Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-07 23:30:51",
+      "updatedAt": "2024-02-07 23:30:51"
+    },
+    {
+      "name": "MagickPen",
+      "description": "AI-powered writing tool for effortless text generation.",
+      "website": "https://magickpen.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/39d726d9e233b0951dd6b940d4d31e2e.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "Affpilot AI",
+      "description": "AI platform for generating SEO-optimized articles",
+      "website": "https://app.affpilot.com/signup/ja1pel87",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171984326296530577.jpg",
+      "category": "AI SEO Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI SEO Assistant",
+        "AI Blog Writer",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-01 23:18:31",
+      "updatedAt": "2024-07-01 23:18:31"
+    },
+    {
+      "name": "Draft AI",
+      "description": "Generate written & visual content in seconds.",
+      "website": "https://app.draft.co/signup?referral=vxey9YxN",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349905889073320.jpg",
+      "category": "AI Product Description Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Product Description Generator",
+        "AI Content Generator",
+        "Copywriting",
+        "Writing Assistants",
+        "AI Advertising Assistant",
+        "AI Ad Generator",
+        "AI Ad Creative Assistant",
+        "AI Blog Writer",
+        "AI Landing Page Builder"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:21",
+      "updatedAt": "2023-12-25 18:09:21"
+    },
+    {
+      "name": "BypassGPT.co: Free AI Text Humanizer",
+      "description": "Humanize AI Text and Bypass AI Detection Tools with Ease",
+      "website": "https://bypassgpt.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172921600237513239.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-18 09:48:00",
+      "updatedAt": "2024-10-18 09:48:00"
+    },
+    {
+      "name": "HumanizerPro AI",
+      "description": "AI Humanizer: Free Tool to Transform AI Text to Human",
+      "website": "https://humanizerpro.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172329487968062182.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Letter Writer",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Summarizer",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Detector",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "AI Content Detector"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-10 21:01:35",
+      "updatedAt": "2024-08-10 21:01:35"
+    },
+    {
+      "name": "Cratecode",
+      "description": "Cratecode is an AI-powered website for coding education and assistance.",
+      "website": "https://cratecode.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545911453668123.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Tutorial",
+        "AI Code Assistant",
+        "AI Course",
+        "Code Explanation",
+        "AI Education Assistant",
+        "AI Code Refactoring"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:04:19",
+      "updatedAt": "2023-05-30 23:04:19"
+    },
+    {
+      "name": "Write Me A Prayer - AI Prayer Generator",
+      "description": "AI-powered prayer generator, offering personalized prayers for users' specific needs.",
+      "website": "https://writemeaprayer.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485711445317827.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Religion",
+        "Writing Assistants",
+        "AI Response Generator",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 23:51:25",
+      "updatedAt": "2023-05-23 23:51:25"
+    },
+    {
+      "name": "Mindsera",
+      "description": "The world\u2019s first AI-powered journal",
+      "website": "https://mindsera.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349907737942538.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Coaching",
+        "Mental Health",
+        "AI Productivity Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:09:22",
+      "updatedAt": "2023-12-25 18:09:22"
+    },
+    {
+      "name": "Copylime.com",
+      "description": "Copylime is an AI writer that quickly creates marketing content with 1000+ word articles in 60 seconds.",
+      "website": "https://copylime.com/?via=Toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168546374462797827.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "Copywriting",
+        "AI Blog Writer",
+        "AI Content Generator",
+        "Paraphraser",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-31 00:22:02",
+      "updatedAt": "2023-05-31 00:22:02"
+    },
+    {
+      "name": "AdCopy.ai",
+      "description": "Create effective ad copy with AdCopy.ai, an AI-powered platform designed for eCommerce.",
+      "website": "https://adcopy.ai?ref=ytgxody",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168576115479657266.jpg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Response Generator",
+        "Copywriting",
+        "Writing Assistants",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 10:59:02",
+      "updatedAt": "2023-06-03 10:59:02"
+    },
+    {
+      "name": "ToastWiz",
+      "description": "Write a memorable wedding speech with AI assistance.",
+      "website": "https://toastwiz.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349850198721060.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "AI Story Writing",
+        "Large Language Models (LLMs)",
+        "Prompt"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:47",
+      "updatedAt": "2023-12-25 18:00:47"
+    },
+    {
+      "name": "reword.com",
+      "description": "Train your own AI Cowriter with Reword - an AI-assisted editor that helps you write outstanding articles for your audience.",
+      "website": "https://reword.cello.so/Itr1HWKf05h",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349884137092047.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Content Generator",
+        "AI Rewriter",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:12",
+      "updatedAt": "2023-12-25 18:02:12"
+    },
+    {
+      "name": "Theoasis",
+      "description": "OASIS is an AI platform that generates perfect writing effortlessly through speech input.",
+      "website": "https://theoasis.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/608898ef0ed31cf5a9cc1818e69eb16f.jpeg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Book Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "Novel",
+        "AI Poem & Poetry Generator",
+        "Writing Assistants",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:46",
+      "updatedAt": "2023-03-07 16:48:46"
+    },
+    {
+      "name": "Wisio",
+      "description": "An AI writing assistant helps scientists improve paper writing with suggestions, paper search, and translation.",
+      "website": "https://wisio.app?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3e91b8e4ec53f8a910df52a89b69563c.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Grammar Checker",
+        "Writing Assistants",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "AI Rewriter",
+        "General Writing",
+        "Research Tool",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "Writeless",
+      "description": "AI essay writing with real citations.",
+      "website": "https://writeless.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349873876333894.jpg",
+      "category": "Essay Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Homework Helper"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:00:56",
+      "updatedAt": "2023-12-25 18:00:56"
+    },
+    {
+      "name": "Write Tone",
+      "description": "AI writing assistant, Write Tone, helps users select appropriate tone for effective and engaging content.",
+      "website": "https://writetone.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169295769035552241.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "Paraphraser",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Rewriter",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-25 18:00:55",
+      "updatedAt": "2023-08-25 18:00:55"
+    },
+    {
+      "name": "XX.AI",
+      "description": "Desktop AI app for writing and productivity",
+      "website": "https://www.hixx.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172043211187750410.jpg",
+      "category": "General Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "General Writing",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Grammar Checker",
+        "AI Rewriter",
+        "Paraphraser",
+        "Copywriting",
+        "Summarizer",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-08 17:48:04",
+      "updatedAt": "2024-07-08 17:48:04"
+    },
+    {
+      "name": "Tutorly AI",
+      "description": "Tutorly.ai is an AI-powered homework assistant that helps with academic questions and essay writing.",
+      "website": "https://tutorly.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16835348473442571.jpg",
+      "category": "Homework Helper",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "Homework Helper",
+        "AI Education Assistant",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Checker Essay"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 16:34:54",
+      "updatedAt": "2023-05-08 16:34:54"
+    },
+    {
+      "name": "GPT\u4e2d\u6587\u7ad9",
+      "description": "Multi-functional AI platform for copywriting, translations, and more",
+      "website": "https://chat.uniation.net?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171888242410648996.webp",
+      "category": "General Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Design Generator",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Illustration Generator",
+        "Copywriting",
+        "AI Art Generator",
+        "AI Script Writing",
+        "AI Creative Writing",
+        "Image to Image"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-20 19:25:22",
+      "updatedAt": "2024-06-20 19:25:22"
+    },
+    {
+      "name": "Grantable",
+      "description": "Empower your team with AI Grant Writing.",
+      "website": "https://grantable.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349944961722878.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Response Generator",
+        "AI Content Generator",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:22",
+      "updatedAt": "2023-12-25 18:13:22"
+    },
+    {
+      "name": "StoryBee",
+      "description": "AI-powered platform for personalized story creation.",
+      "website": "https://storybee.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169857331078201430.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Script Writing",
+        "AI Story Writing",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-29 17:53:37",
+      "updatedAt": "2023-10-29 17:53:37"
+    },
+    {
+      "name": "Commenter.ai",
+      "description": "Generate effective comments, save time, reach wider audience.",
+      "website": "https://commenter.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169686006466486374.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "Writing Assistants",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Advertising Assistant",
+        "AI Content Generator",
+        "AI Email Marketing",
+        "AI Lead Generation"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-09 21:59:08",
+      "updatedAt": "2023-10-09 21:59:08"
+    },
+    {
+      "name": "Jarvis",
+      "description": "Boost creativity with AI generated lyrics.",
+      "website": "https://jarvis-lyrics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349958595455951.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Lyrics Generator",
+        "AI Rap Generator",
+        "Writing Assistants",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:26",
+      "updatedAt": "2023-12-25 18:13:26"
+    },
+    {
+      "name": "Rizz!",
+      "description": "Generate personalized and creative responses with the powerful AI model, Rizz! Keyboard.",
+      "website": "https://rizzai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476375882766325.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Writing Assistants",
+        "Large Language Models (LLMs)"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 20:37:39",
+      "updatedAt": "2023-05-22 20:37:39"
+    },
+    {
+      "name": "Bookwiz",
+      "description": "AI writing platform for better stories.",
+      "website": "https://bookwiz.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262657530096920.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "AI Story Writing",
+        "Copywriting",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:48",
+      "updatedAt": "2023-12-15 15:45:48"
+    },
+    {
+      "name": "draft1.ai",
+      "description": "Create diagram-rich documents from rough ideas instantly.",
+      "website": "https://draft1.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172947680328746812.jpg",
+      "category": "AI Diagram Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Diagram Generator",
+        "Writing Assistants",
+        "Report Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-21 10:10:41",
+      "updatedAt": "2024-10-21 10:10:41"
+    },
+    {
+      "name": "Yaara AI",
+      "description": "Yaara.ai is an AI tool that creates quality content faster, using AI to write high-converting copy.",
+      "website": "https://yaara.ai/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168258210145790352.jpg",
+      "category": "General Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Paid",
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "General Writing",
+        "AI Advertising Assistant",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Content Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Blog Writer",
+        "Copywriting",
+        "AI Story Writing",
+        "AI Email Writer",
+        "AI Social Media Assistant",
+        "AI SEO Assistant",
+        "AI Book Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 15:58:11",
+      "updatedAt": "2023-04-27 15:58:11"
+    },
+    {
+      "name": "Writely",
+      "description": "Writely is an AI writing assistant that helps improve writing skills and overcome writer's block.",
+      "website": "https://www.writelyai.com?fpr=toolify74",
+      "image": "https://cdn-images.toolify.ai/image/70ad9f10c65d7df4038995a7cc67abe0.jpeg",
+      "category": "General Writing",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Story Writing",
+        "AI Book Writing",
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:50",
+      "updatedAt": "2023-03-07 16:48:50"
+    },
+    {
+      "name": "ToolBaz",
+      "description": "Free AI tools for AI writing, image generation, voiceover, and chatbots.",
+      "website": "https://toolbaz.org/?ref=XBLGLED1FLWD3VD",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841404695351821.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Writing Assistants",
+        "General Writing",
+        "AI Blog Writer",
+        "AI Tools Directory",
+        "Large Language Models (LLMs)",
+        "AI Creative Writing",
+        "AI Analytics Assistant",
+        "AI Email Writer",
+        "AI Story Writing",
+        "AI Email Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Product Description Generator",
+        "AI Chatbot",
+        "AI SEO Assistant",
+        "AI Email Marketing",
+        "AI Email Assistant",
+        "AI Rewriter",
+        "AI Social Media Assistant",
+        "Digital Marketing Generator",
+        "Marketing Plan Generator",
+        "AI Instagram Assistant",
+        "AI Lead Generation",
+        "AI Facebook Assistant",
+        "AI YouTube Assistant",
+        "AI Twitter Assistant",
+        "Essay Writer",
+        "Summarizer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:47",
+      "updatedAt": "2024-02-20 15:25:47"
+    },
+    {
+      "name": "Arsturn",
+      "description": "Create a customized ChatGPT for your website in just 1 minute with Arsturn, improving user engagement.",
+      "website": "https://www.arsturn.com/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440723564983321.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Customer Service Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:46",
+      "updatedAt": "2023-05-18 18:53:46"
+    },
+    {
+      "name": "Propos.li",
+      "description": "Send winning Upwork proposals and find ideal jobs faster.",
+      "website": "https://propos.li?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170282399078820189.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Productivity Tools",
+        "AI Product Description Generator",
+        "Cover Letter Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-17 22:37:39",
+      "updatedAt": "2023-12-17 22:37:39"
+    },
+    {
+      "name": "Kafkai Advance Mode",
+      "description": "AI Writer & AI Content Generator",
+      "website": "https://kafkai.com/en?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169772255760099656.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Blog Writer",
+        "AI Response Generator",
+        "AI SEO Assistant",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-19 21:35:47",
+      "updatedAt": "2023-10-19 21:35:47"
+    },
+    {
+      "name": "stansa.ai",
+      "description": "AI writing assistant for essays, blogs, and more.",
+      "website": "https://stansa.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349899554922636.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Checker Essay",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:18",
+      "updatedAt": "2023-12-25 18:02:18"
+    },
+    {
+      "name": "Code Fundi",
+      "description": "AI coding assistant for better, faster code.",
+      "website": "https://codefundi.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169642434577965980.jpg",
+      "category": "AI Code Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Code Generator",
+        "AI Code Refactoring",
+        "AI Developer Tools",
+        "AI Product Description Generator",
+        "AI Productivity Tools",
+        "Large Language Models (LLMs)",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-10-04 20:58:26",
+      "updatedAt": "2023-10-04 20:58:26"
+    },
+    {
+      "name": "Book Wizard AI",
+      "description": "Revolutionize your writing with one click book creation",
+      "website": "https://bookwizardai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171073033959213956.webp",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Book Writing",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-18 10:51:50",
+      "updatedAt": "2024-03-18 10:51:50"
+    },
+    {
+      "name": "Managr",
+      "description": "Create relevant, personalized content faster with AI",
+      "website": "https://www.managr.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171159310981984308.webp",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "Sales Assistant",
+        "General Writing",
+        "AI Analytics Assistant",
+        "Copywriting",
+        "AI Rewriter",
+        "Paraphraser"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-28 10:30:32",
+      "updatedAt": "2024-03-28 10:30:32"
+    },
+    {
+      "name": "Friday AI",
+      "description": "HeyFriday is an AI assistant that helps users with writing tasks, saving time and money.",
+      "website": "https://www.heyfriday.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3d74287640671a9574eddbf22d2ee98e.jpeg",
+      "category": "AI Ad Creative Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Advertising Assistant",
+        "AI Blog Writer",
+        "AI Content Generator",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "AI Banner Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:24",
+      "updatedAt": "2023-03-07 16:48:24"
+    },
+    {
+      "name": "UltimateAI",
+      "description": "High-quality content generation in seconds",
+      "website": "https://ultimateai.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171146239332484479.webp",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI SEO Assistant",
+        "AI Social Media Assistant",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator",
+        "AI Lead Generation",
+        "AI Chatbot",
+        "AI Content Generator",
+        "Writing Assistants",
+        "General Writing",
+        "Prompt",
+        "Large Language Models (LLMs)",
+        "AI Blog Writer",
+        "AI Rewriter",
+        "Copywriting",
+        "Text to Image",
+        "AI Photo & Image Generator",
+        "AI Customer Service Assistant",
+        "Digital Marketing Generator",
+        "AI Image Enhancer",
+        "Paraphraser",
+        "AI Photo Enhancer",
+        "AI Product Description Generator",
+        "AI Graphic Design",
+        "AI Design Generator",
+        "AI Creative Writing",
+        "AI Art Generator",
+        "AI Code Generator",
+        "AI Tools Directory"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-26 22:11:58",
+      "updatedAt": "2024-03-26 22:11:58"
+    },
+    {
+      "name": "Poem Generator",
+      "description": "AI-powered poem generator, AIEpics, uses ChatGPT to create original and copyright-free poems.",
+      "website": "https://aiepics.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168433729186216270.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Poem & Poetry Generator",
+        "AI Response Generator",
+        "Prompt",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-17 23:27:47",
+      "updatedAt": "2023-05-17 23:27:47"
+    },
+    {
+      "name": "Tinq.ai - NLP API",
+      "description": "Tinq.ai is an AI toolkit offering various NLP capabilities as a service.",
+      "website": "https://tinq.ai/?via=toolify",
+      "image": "https://cdn-images.toolify.ai/image/64c4c1d331ccdd2068daa91cc72365c4.jpeg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Paraphraser",
+        "Summarizer",
+        "Writing Assistants",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:42",
+      "updatedAt": "2023-03-07 16:48:42"
+    },
+    {
+      "name": "Fixkey",
+      "description": "AI copilot for writing",
+      "website": "https://fixkey.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170841397051096579.jpg",
+      "category": "AI Grammar Checker",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Grammar Checker",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-20 15:25:45",
+      "updatedAt": "2024-02-20 15:25:45"
+    },
+    {
+      "name": "Coverler",
+      "description": "Coverler creates personalized cover letters to help job seekers stand out in the market.",
+      "website": "https://coverler.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/d7927bfcad2ebc00427d474cdf19660a.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Cover Letter Generator",
+        "AI Recruiting",
+        "Resume Builder",
+        "Writing Assistants",
+        "Letter Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:22",
+      "updatedAt": "2023-03-07 16:48:22"
+    },
+    {
+      "name": "MagicBlog",
+      "description": "Generate full blog posts with AI assistance.",
+      "website": "https://magicblog.ai/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169486206950148098.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Blog Writer",
+        "AI Content Generator",
+        "AI SEO Assistant",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-16 18:58:07",
+      "updatedAt": "2023-09-16 18:58:07"
+    },
+    {
+      "name": "WriteMyPRD",
+      "description": "A web app using ChatGPT simplifies creating detailed PRDs effortlessly.",
+      "website": "https://writemyprd.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168476408585858455.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-22 21:15:36",
+      "updatedAt": "2023-05-22 21:15:36"
+    },
+    {
+      "name": "Thundercontent",
+      "description": "AI-powered content generation platform.",
+      "website": "https://thundercontent.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/10955a6d68eae550d01552da6f76a98e.jpeg",
+      "category": "AI Blog Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI SEO Assistant",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:41",
+      "updatedAt": "2023-03-07 16:48:41"
+    },
+    {
+      "name": "My AI Ninja",
+      "description": "GPT-4 powered writing assistant for various content needs.",
+      "website": "https://www.myai.ninja?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169578506323817379.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "General Writing",
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Checker Essay",
+        "AI Grammar Checker",
+        "Copywriting",
+        "Essay Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-27 11:24:02",
+      "updatedAt": "2023-09-27 11:24:02"
+    },
+    {
+      "name": "SpellBound",
+      "description": "SpellBound is an AI-powered writing assistant that improves writing with tone, grammar, and content features.",
+      "website": "https://spellbound.cc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494126796815737.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Code Assistant",
+        "AI Developer Tools"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:13:57",
+      "updatedAt": "2023-05-24 23:13:57"
+    },
+    {
+      "name": "Charley",
+      "description": "Charley.ai is an AI Essay Writer that generates impressive essays quickly and effortlessly.",
+      "website": "https://charley-ai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/16835404918603646.jpg",
+      "category": "AI Checker Essay",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Free Trial",
+        "Paid"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "AI Content Generator",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Response Generator",
+        "General Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-08 18:09:11",
+      "updatedAt": "2023-05-08 18:09:11"
+    },
+    {
+      "name": "Writewithlaika",
+      "description": "AI-powered writing assistant for personalized creativity",
+      "website": "https://www.writewithlaika.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f16abad35459e5c69dc98b48b873a697.jpeg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Contact for Pricing",
+        "Website"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Script Writing",
+        "AI Story Writing",
+        "General Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:55",
+      "updatedAt": "2023-03-07 16:48:55"
+    },
+    {
+      "name": "VoiceType",
+      "description": "VoiceType is an AI assistant that writes emails using voice commands.",
+      "website": "https://voicetype.io?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/3290354bc071c376a0a9f8bcdb86961f.jpeg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Writer",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Speech Recognition",
+        "AI Voice Assistants",
+        "Speech-to-Text"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "AI Cowriter",
+      "description": "Automatically generates text suggestions to enhance writing speed.",
+      "website": "https://ai-cowriter.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168477138386570513.jpg",
+      "category": "AI Response Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Response Generator",
+        "General Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 00:02:17",
+      "updatedAt": "2023-05-23 00:02:17"
+    },
+    {
+      "name": "Idea Generators - Copy Creator",
+      "description": "AI-powered tool for overcoming writer's block.",
+      "website": "https://copycreator.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349982993771409.jpg",
+      "category": "Copywriting",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Copywriting",
+        "Writing Assistants",
+        "AI Content Generator",
+        "General Writing",
+        "AI Podcast Assistant",
+        "AI Course",
+        "AI Rewriter",
+        "Paraphraser",
+        "AI Social Media Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:45",
+      "updatedAt": "2023-12-25 18:14:45"
+    },
+    {
+      "name": "Isaac",
+      "description": "AI-powered writing tool for students and researchers.",
+      "website": "https://isaaceditor.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485369328370285.jpg",
+      "category": "Essay Writer",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "Essay Writer",
+        "General Writing",
+        "Large Language Models (LLMs)",
+        "Papers",
+        "Research Tool",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:53:51",
+      "updatedAt": "2023-05-23 22:53:51"
+    },
+    {
+      "name": "SermonGPT",
+      "description": "Generate impactful sermons quickly with SermonGPT, an AI-powered app for faster sermon writing.",
+      "website": "https://www.sermongpt.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/6e12a9794b6182c724c73ef11c34b80a.jpeg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Advertising Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:27",
+      "updatedAt": "2023-03-07 16:48:27"
+    },
+    {
+      "name": "Secure ChatGPT Email Writer for Gmail",
+      "description": "EmoGPT is an advanced email chatbot for Gmail that saves time and boosts personalization.",
+      "website": "https://emogpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577290425203111.jpg",
+      "category": "AI Email Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Email Assistant",
+        "AI Email Generator",
+        "AI Email Writer",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "Large Language Models (LLMs)",
+        "Writing Assistants",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:14:10",
+      "updatedAt": "2023-06-03 14:14:10"
+    },
+    {
+      "name": "AltPlot",
+      "description": "Fanfiction generator with narrative control",
+      "website": "https://altplot.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170191977473899624.jpg",
+      "category": "AI Story Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Story Writing",
+        "AI Script Writing",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-07 11:28:57",
+      "updatedAt": "2023-12-07 11:28:57"
+    },
+    {
+      "name": "Ace Interview - AI Interview Assistant",
+      "description": "Real-time AI Interview Assistant to Help you ace job interviews",
+      "website": "https://aceinterview.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172498603863158647.jpg",
+      "category": "AI Bio Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Bio Generator",
+        "AI Consulting Assistant",
+        "AI Coaching",
+        "Cover Letter Generator",
+        "Resume Builder",
+        "AI Recruiting",
+        "AI Interview Assistant",
+        "Life Assistant",
+        "AI Voice Assistants",
+        "Transcription",
+        "AI Speech Recognition",
+        "Speech-to-Text",
+        "AI Code Generator",
+        "AI Code Assistant",
+        "AI Content Generator",
+        "Transcriber",
+        "Writing Assistants",
+        "AI Meeting Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-30 10:48:53",
+      "updatedAt": "2024-08-30 10:48:53"
+    },
+    {
+      "name": "Henshu.ai",
+      "description": "Henshu is an AI editor that enhances writing to engage and influence readers.",
+      "website": "https://www.henshu.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577872060383796.jpg",
+      "category": "AI Rewriter",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Rewriter",
+        "Copywriting",
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Creative Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 15:51:36",
+      "updatedAt": "2023-06-03 15:51:36"
+    },
+    {
+      "name": "SuperChat.ai",
+      "description": "SuperChat.ai is an AI writing assistant that enables fast and easy creation of high-quality content.",
+      "website": "https://www.superchat.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168515687492513472.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Rewriter",
+        "Copywriting",
+        "General Writing",
+        "Writing Assistants",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-27 11:07:25",
+      "updatedAt": "2023-05-27 11:07:25"
+    },
+    {
+      "name": "FirstDraft AI",
+      "description": "AI writer for bloggers with SEO-optimized content.",
+      "website": "https://firstdraftai.io/pricing/?via=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349997748330734.jpg",
+      "category": "AI Blog Writer",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Blog Writer",
+        "AI Content Generator",
+        "Writing Assistants",
+        "General Writing",
+        "AI Rewriter",
+        "Copywriting",
+        "AI SEO Assistant",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:14:51",
+      "updatedAt": "2023-12-25 18:14:51"
+    },
+    {
+      "name": "Ai Note - Ai Writing Tool",
+      "description": "Remarkable AI writing platform for optimized content.",
+      "website": "https://ainote.com.au?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003646058476526.jpg",
+      "category": "Writing Assistants",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Writing Assistants",
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "AI SEO Assistant",
+        "AI Response Generator",
+        "AI Chatbot",
+        "Copywriting",
+        "Paraphraser",
+        "General Writing",
+        "AI Product Description Generator",
+        "AI Rewriter"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:42",
+      "updatedAt": "2023-07-22 22:31:42"
+    },
+    {
+      "name": "HowToWrite",
+      "description": "HowToWrite.io is an AI writing assistant that generates personalized content for various purposes.",
+      "website": "https://howtowrite.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168580635996639686.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Creative Writing",
+        "AI Poem & Poetry Generator",
+        "Writing Assistants",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 22:16:17",
+      "updatedAt": "2023-06-03 22:16:17"
+    },
+    {
+      "name": "Newswriter.ai",
+      "description": "Create compelling press releases with Newswriter.ai, a free AI-powered service by Newsworthy.ai.",
+      "website": "https://newswriter.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/280dc4a63ace9e581b319b35997da983.jpeg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Response Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:26",
+      "updatedAt": "2023-03-07 16:48:26"
+    },
+    {
+      "name": "TypePrompt",
+      "description": "Generate captivating social posts with AI-driven hook prompts",
+      "website": "https://typeprompt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170900419566293332.webp",
+      "category": "Prompt",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Prompt",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Social Media Assistant",
+        "Copywriting"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-02-27 11:22:45",
+      "updatedAt": "2024-02-27 11:22:45"
+    },
+    {
+      "name": "Scribix - Your Ai Email Assistant",
+      "description": "AI email copywriting assistant for efficient email workflow",
+      "website": "https://getscribix.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172208851515481240.jpg",
+      "category": "Copywriting",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "Copywriting",
+        "Writing Assistants",
+        "AI Email Writer",
+        "AI Email Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Email Marketing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-07-27 21:54:55",
+      "updatedAt": "2024-07-27 21:54:55"
+    },
+    {
+      "name": "Franklin AI",
+      "description": "Save time and money with AI assistant",
+      "website": "https://franklinai.co?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171566206249574275.webp",
+      "category": "General Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "General Writing",
+        "Writing Assistants",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Copywriting",
+        "AI Product Description Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-14 12:47:09",
+      "updatedAt": "2024-05-14 12:47:09"
+    },
+    {
+      "name": "EssayWriter",
+      "description": "Craft high-quality essays with ease.",
+      "website": "https://EssayWriter.io?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170987811352153520.webp",
+      "category": "AI Checker Essay",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Checker Essay",
+        "Essay Writer",
+        "Writing Assistants",
+        "AI Plagiarism Checker",
+        "AI Education Assistant",
+        "Papers",
+        "AI Grammar Checker"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-08 14:06:15",
+      "updatedAt": "2024-03-08 14:06:15"
+    },
+    {
+      "name": "Emails, replies and posts with GPT-4",
+      "description": "Replix.ai is a tool that uses AI to enhance expression and optimize online presence.",
+      "website": "https://replix.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168529273382169415.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Social Media Assistant",
+        "AI Twitter Assistant",
+        "Large Language Models (LLMs)",
+        "Prompt",
+        "Writing Assistants",
+        "AI Advertising Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 00:51:30",
+      "updatedAt": "2023-05-29 00:51:30"
+    },
+    {
+      "name": "Bookmate AI",
+      "description": "Bookmate.ai is an AI-driven recommendation engine for finding tailored books based on users' preferences.",
+      "website": "https://www.bookmateai.me?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168485341030811745.jpg",
+      "category": "AI Book Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Book Writing",
+        "Writing Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-23 22:49:13",
+      "updatedAt": "2023-05-23 22:49:13"
+    },
+    {
+      "name": "Verb.ai",
+      "description": "Verb is an AI tool that assists fiction writers in planning, writing, and receiving feedback.",
+      "website": "https://verb.ai?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/c8d729d606d489ac0a931beec12ef360.jpeg",
+      "category": "AI Script Writing",
+      "pricing": "Unknown",
+      "features": [
+        "Free Trial",
+        "Website"
+      ],
+      "tags": [
+        "AI Script Writing",
+        "AI Story Writing",
+        "Writing Assistants",
+        "AI Book Writing",
+        "AI Creative Writing",
+        "Novel"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:21",
+      "updatedAt": "2023-03-07 16:48:21"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    }
+  ]
+}

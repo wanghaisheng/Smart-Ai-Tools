@@ -1,0 +1,1522 @@
+{
+  "tools": [
+    {
+      "name": "Joyland",
+      "description": "Immerse yourself in character-driven conversations on Joyland.",
+      "website": "https://joyland.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349959663340439.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "NSFW",
+        "AI Character",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:13:27",
+      "updatedAt": "2023-12-25 18:13:27"
+    },
+    {
+      "name": "Thundr",
+      "description": "Revolutionizing online interactions with AI moderation.",
+      "website": "https://www.thundr.tv?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171245854870568282.webp",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-04-07 10:54:23",
+      "updatedAt": "2024-04-07 10:54:23"
+    },
+    {
+      "name": "AI STUDIOS",
+      "description": "Realistic AI avatars, natural text-to-speech, and powerful AI video editing capabilities all in one platform.",
+      "website": "https://www.aistudios.com/?utm_source=toolify&utm_medium=dirbuy_display&utm_campaign=aistudios_launch&utm_term=image_allinone_1&utm_content=none_cv",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173166398879777541.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "AI Avatar Generator",
+        "Captions or Subtitle",
+        "AI UGC Video Generator",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Animated Video"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:37",
+      "updatedAt": "2023-12-25 18:16:37"
+    },
+    {
+      "name": "FakeYou",
+      "description": "Generate realistic and natural speech with FakeYou using deep fake technology.",
+      "website": "https://fakeyou.com?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/1fbc831ddaa20f2f8f6d1b2febbde10c.jpeg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Tools Directory",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:51",
+      "updatedAt": "2023-03-07 16:48:51"
+    },
+    {
+      "name": "Talking Avatar",
+      "description": "AI platform for rewriting and redubbing videos with avatars.",
+      "website": "https://www.talkingavatar.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172895688047713107.jpg",
+      "category": "AI Lip Sync Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Lip Sync Generator",
+        "AI Voice Cloning",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-15 09:53:03",
+      "updatedAt": "2024-10-15 09:53:03"
+    },
+    {
+      "name": "PrankGPT",
+      "description": "PrankGPT offers a variety of pranks and jokes.",
+      "website": "https://prankgpt.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168577258743572051.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Voice Chat Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 14:09:13",
+      "updatedAt": "2023-06-03 14:09:13"
+    },
+    {
+      "name": "LoveGPT",
+      "description": "LoveGPT helps users improve romantic relationships through AI-powered conversation support.",
+      "website": "https://lovegpt.co.in?utm_source=toolify",
+      "image": "https://cdn-images.toolify.ai/image/f3a703cf2ea4dd8d609d00b4fd8a80b5.jpeg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Voice Chat Generator",
+        "Pick-up Lines Generator",
+        "AI Dating Assistant",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:23",
+      "updatedAt": "2023-03-07 16:48:23"
+    },
+    {
+      "name": "MeslAI",
+      "description": "Call AI clones of famous figures",
+      "website": "https://meslai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170235946968630978.jpg",
+      "category": "AI Celebrity Voice Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-12 13:37:11",
+      "updatedAt": "2023-12-12 13:37:11"
+    },
+    {
+      "name": "BanterAI",
+      "description": "Engage and monetize with fans through AI voice calls.",
+      "website": "https://banterai.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170350459888166245.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Advertising Assistant",
+        "AI Avatar Generator",
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:16:40",
+      "updatedAt": "2023-12-25 18:16:40"
+    },
+    {
+      "name": "Rolemantic AI",
+      "description": "NSFW AI Chat and Image Generation",
+      "website": "https://rolemantic.ai/?via=toolify83",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172743729843214037.png",
+      "category": "NSFW",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "NSFW",
+        "Text to Image",
+        "AI Avatar Generator",
+        "AI Photography",
+        "AI Selfie & Portrait",
+        "Image to Image",
+        "AI Cosplay Generator",
+        "AI Chatbot",
+        "AI Girlfriend",
+        "AI Character",
+        "AI Photo & Image Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-07 12:41:08",
+      "updatedAt": "2024-08-07 12:41:08"
+    },
+    {
+      "name": "Notebooklm Podcast",
+      "description": "Transform PDFs or any text into engaging audio content with our AI-powered podcast generator. Whether you need a dynamic two-person dialogue, a lecture, or a direct script reading, upload your content and let our AI create personalized audio experiences for your listeners in multiple languages!",
+      "website": "https://notebooklmpodcast.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173008215037312403.jpg",
+      "category": "AI Content Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Content Generator",
+        "Text-to-Speech",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Celebrity Voice Generator",
+        "AI Speech Synthesis",
+        "AI Podcast Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-10-28 10:27:34",
+      "updatedAt": "2024-10-28 10:27:34"
+    },
+    {
+      "name": "Better Synonyms",
+      "description": "Find better synonyms in specific contexts.",
+      "website": "https://ichatwithgpt.com?aff=O0D1K",
+      "image": "https://cdn-images.toolify.ai/image/015c4c1e12e560f4987fd2ad117eb6f1.jpeg",
+      "category": "AI Singing Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Free",
+        "Website"
+      ],
+      "tags": [
+        "AI Singing Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-03-07 16:48:29",
+      "updatedAt": "2023-03-07 16:48:29"
+    },
+    {
+      "name": "Lamda",
+      "description": "Anonymous voice chat with strangers.",
+      "website": "https://lamda.count.land?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262650688983193.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:45",
+      "updatedAt": "2023-12-15 15:45:45"
+    },
+    {
+      "name": "Voice-to-ChatGPT",
+      "description": "Interact with ChatGPT using voice",
+      "website": "https://chromewebstore.google.com/detail/voice-to-chatgpt/ljfaalmmbjiogndhkndfilcianhlbkbc?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171747583740317597.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Chatbot",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-04 12:35:18",
+      "updatedAt": "2024-06-04 12:35:18"
+    },
+    {
+      "name": "AI Persona Chat",
+      "description": "Engage in lifelike conversations with legendary figures and personas.",
+      "website": "https://apps.apple.com/us/app/ai-personas-characters/id6456891746?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169454288793452491.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Advertising Assistant",
+        "AI Character",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-13 02:19:04",
+      "updatedAt": "2023-09-13 02:19:04"
+    },
+    {
+      "name": "Dan: AI Voice Chat",
+      "description": "AI voice companion for engaging and customizable conversations.",
+      "website": "https://apps.apple.com/us/app/dan-ai-voice-chat-companion/id6502860590?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172656312178869018.jpg",
+      "category": "Large Language Models (LLMs)",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "Large Language Models (LLMs)",
+        "AI Voice Chat Generator",
+        "AI Chatbot",
+        "AI Girlfriend"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-09-17 16:47:15",
+      "updatedAt": "2024-09-17 16:47:15"
+    },
+    {
+      "name": "ImageToChat AI",
+      "description": "Transform photos into effortless conversations.",
+      "website": "https://imagetochat.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253917327416297.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Response Generator",
+        "AI Content Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "Chat Uncensored AI",
+      "description": "The Best Uncensored AI Model",
+      "website": "https://apps.apple.com/app/apple-store/id1662181831?pt=121134743&ct=toolify&mt=8&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170428857960598812.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-03 21:34:35",
+      "updatedAt": "2024-01-03 21:34:35"
+    },
+    {
+      "name": "XBuddy",
+      "description": "Customize your virtual friend with XBuddy, your dream buddy by your side.",
+      "website": "https://apps.apple.com/app/xbuddy-ai/id6457063272?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169220583824864379.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Voice Assistants",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-17 01:09:53",
+      "updatedAt": "2023-08-17 01:09:53"
+    },
+    {
+      "name": "Livestream chats to speech & ChatTrain",
+      "description": "Voice transformation for broadcast chat messages.",
+      "website": "https://chromewebstore.google.com/detail/livestream-chats-to-speec/fbhoaadbbiigppnljkjgfoofcdinnpap?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679947279845195.webp",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:44",
+      "updatedAt": "2024-05-25 21:31:44"
+    },
+    {
+      "name": "GabbyGPT",
+      "description": "GabbyGPT is an AI voice assistant for WhatsApp, enabling seniors to send voice notes and chat with an AI companion.",
+      "website": "https://www.gabbygpt.uk?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168440733160424767.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Speech-to-Text",
+        "Transcriber",
+        "Transcription",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-18 18:53:49",
+      "updatedAt": "2023-05-18 18:53:49"
+    },
+    {
+      "name": "ChatGPT - Lets talk",
+      "description": "Enhance ChatGPT with voice capabilities.",
+      "website": "https://chrome.google.com/webstore/detail/chatgpt-lets-talk/ldkeljfcpadfpkfdloofmhamhkgdcpbo?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679481789802403.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Changer",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 23:24:34",
+      "updatedAt": "2023-05-30 23:24:34"
+    },
+    {
+      "name": "VoiceAI Chat",
+      "description": "Simple AI chat with text and voice input.",
+      "website": "https://apps.apple.com/app/id6445994863?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168545864238780585.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "Large Language Models (LLMs)",
+        "Speech-to-Text",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-30 22:57:09",
+      "updatedAt": "2023-05-30 22:57:09"
+    },
+    {
+      "name": "Ibis",
+      "description": "Ibis enables users to communicate in their own language, overcoming language barriers.",
+      "website": "https://ibis.chat?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494125743932045.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Paid"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "Speech-to-Text",
+        "Text-to-Speech",
+        "Translate"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-24 23:13:56",
+      "updatedAt": "2023-05-24 23:13:56"
+    },
+    {
+      "name": "Meet An AI",
+      "description": "MeetAI is a website that lets users chat with AI chatbot personas one-on-one.",
+      "website": "https://MeetAnAI.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168508456225478990.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-26 15:02:03",
+      "updatedAt": "2023-05-26 15:02:03"
+    },
+    {
+      "name": "Pit Stop ChatterGPT",
+      "description": "Fuel your F1 passion with lifelike chats with AI alter egos of F1 drivers.",
+      "website": "https://apps.apple.com/app/pit-stop-chattergpt/id6449394370?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168534824738669572.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-29 16:16:47",
+      "updatedAt": "2023-05-29 16:16:47"
+    },
+    {
+      "name": "Had-a Call | AI Calling Platform",
+      "description": "Empower customer outreach with AI agents",
+      "website": "https://hadacall.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171592106488677671.webp",
+      "category": "AI Customer Service Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Customer Service Assistant",
+        "Text-to-Speech",
+        "AI Voice Chat Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI CRM Assistant",
+        "AI Chatbot",
+        "Sales Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-17 12:44:02",
+      "updatedAt": "2024-05-17 12:44:02"
+    },
+    {
+      "name": "TalkDirtyAI",
+      "description": "Experience AI fantasies with TalkDirtyAI.",
+      "website": "https://talkdirtyai.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170349905689054506.jpg",
+      "category": "NSFW",
+      "pricing": "Paid",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "NSFW",
+        "AI Voice Chat Generator",
+        "AI Chatbot",
+        "AI Blog Writer"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-25 18:02:21",
+      "updatedAt": "2023-12-25 18:02:21"
+    },
+    {
+      "name": "Epicurus",
+      "description": "Connect and chat anonymously with others who understand, using Epicurus AI-powered group chat app.",
+      "website": "https://epicurusapp.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168390970483622897.jpg",
+      "category": "Mental Health",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Mental Health",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-13 00:40:31",
+      "updatedAt": "2023-05-13 00:40:31"
+    },
+    {
+      "name": "Langchats",
+      "description": "Langchats is an AI language partner that improves fluency in 30+ languages through conversation.",
+      "website": "https://www.langchats.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169053869611413513.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Translate",
+        "AI Tutorial",
+        "AI Voice Chat Generator",
+        "AI Voice Assistants"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-28 18:02:38",
+      "updatedAt": "2023-07-28 18:02:38"
+    },
+    {
+      "name": "Translaite",
+      "description": "Translate any prompt to any language with ease.",
+      "website": "https://www.translaite.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168494456927514477.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Freemium"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "Translate",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-25 00:09:10",
+      "updatedAt": "2023-05-25 00:09:10"
+    },
+    {
+      "name": "ChatCat",
+      "description": "Auto-suggest canned messages for various chat platforms.",
+      "website": "https://chromewebstore.google.com/detail/chatcat/oagmafjnibbdcpejjpjobfhnpiipknck?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679953927648256.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Reply Assistant",
+        "AI Customer Service Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-26 18:30:07",
+      "updatedAt": "2024-05-26 18:30:07"
+    },
+    {
+      "name": "Talk GPT",
+      "description": "Voice chat extension with GPT support",
+      "website": "https://chromewebstore.google.com/detail/talk-gpt/gjklbbmneaddgofaclhlldbldjnpblck?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171776767834243339.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Chatbot",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Chat Generator",
+        "AI Customer Service Assistant",
+        "AI Response Generator",
+        "AI Voice Assistants",
+        "AI Email Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-06-07 21:40:14",
+      "updatedAt": "2024-06-07 21:40:14"
+    },
+    {
+      "name": "GPTChat",
+      "description": "AI chatbot assistant for daily tasks and questions.",
+      "website": "https://play.google.com/store/apps/details?id=com.elearning.gptchat&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168572168226208633.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-03 00:01:03",
+      "updatedAt": "2023-06-03 00:01:03"
+    },
+    {
+      "name": "Driftroom",
+      "description": "Driftroom connects users for real connections and conversations, without fake profiles or photos.",
+      "website": "https://www.driftroom.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169253916976341700.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Dating Assistant",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-08-20 21:43:53",
+      "updatedAt": "2023-08-20 21:43:53"
+    },
+    {
+      "name": "AI Twin: Anonymous Voice Chat App",
+      "description": "The coolest AI social app for creating a digital self, cloning your voice, and making awesome new friends.",
+      "website": "https://apps.apple.com/us/app/ai-twin-your-digital-self/id6472042910?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170530642043538501.jpg",
+      "category": "AI Voice Chat Generator",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Voice Chat Generator",
+        "AI Instagram Assistant",
+        "AI Avatar Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-01-15 16:12:43",
+      "updatedAt": "2024-01-15 16:12:43"
+    },
+    {
+      "name": "Q - The Ultimate AI Voice Chatbot",
+      "description": "Advanced AI voice chatbot with customizable persona, voice chat, image recognition and generation.",
+      "website": "https://q-bot.app?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171067727961060930.webp",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Photo & Image Generator",
+        "AI Image Recognition",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "AI Voice Chat Generator",
+        "AI Speech Recognition",
+        "AI Speech Synthesis",
+        "Text to Image",
+        "AI Voice Assistants",
+        "AI Character"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-03-17 20:07:32",
+      "updatedAt": "2024-03-17 20:07:32"
+    },
+    {
+      "name": "Superchat - AI Virtual Chat",
+      "description": "Connect with experts, historical figures, and fictional characters. AI-powered chat app.",
+      "website": "https://apps.apple.com/us/app/superchat-ai-virtual-chat/id6447100327?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168346684683337356.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Character",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-05-07 21:41:05",
+      "updatedAt": "2023-05-07 21:41:05"
+    },
+    {
+      "name": "Vox Pop AI",
+      "description": "Engage in audio conversations with AI avatars of celebrities.",
+      "website": "https://play.google.com/store/apps/details?id=ai.voxpop.app&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168585179586962390.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI App Builder",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-04 12:09:18",
+      "updatedAt": "2023-06-04 12:09:18"
+    },
+    {
+      "name": "NSFWLover",
+      "description": "NSFWLover is a comprehensive guide to AI girlfriend and AI boyfriend, offering a platform for immersive and customizable virtual companionship. Users can engage in romantic and NSFW conversations, explore fantasies, and create personalized AI love stories. With unique voices and deep conversations, NSFWLover provides an interactive and fulfilling AI girlfriend and AI boyfriend experience.",
+      "website": "https://www.nsfwlover.com/?via=toolify.ai&utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170340855008695089.png",
+      "category": "AI Girlfriend",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Girlfriend",
+        "NSFW",
+        "Large Language Models (LLMs)",
+        "AI Character",
+        "AI Chatbot",
+        "Writing Assistants",
+        "AI Voice Chat Generator",
+        "AI Story Writing"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-23 17:22:06",
+      "updatedAt": "2023-12-23 17:22:06"
+    },
+    {
+      "name": "Netwrck",
+      "description": "Online platform for chatting with AI bots, characters, and generating AI artwork.",
+      "website": "https://netwrck.com/?ref=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168812897494461434.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Chatbot",
+        "AI Anime Art",
+        "AI Art Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-06-30 20:42:42",
+      "updatedAt": "2023-06-30 20:42:42"
+    },
+    {
+      "name": "WeConnect.chat",
+      "description": "An AI chatbot platform improving support and communication with a blend of AI and human touch.",
+      "website": "https://weconnect.chat/?gr_pk=QZ3n",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262656746137162.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI App Builder",
+        "AI Chatbot",
+        "AI Lead Generation",
+        "AI Customer Service Assistant",
+        "AI Landing Page Builder",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:48",
+      "updatedAt": "2023-12-15 15:45:48"
+    },
+    {
+      "name": "TalkPersona",
+      "description": "AI chatbot for real-time video calls and conversation.",
+      "website": "https://talkpersona.com?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173129920127063640.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "AI Lip Sync Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-11 12:24:25",
+      "updatedAt": "2024-11-11 12:24:25"
+    },
+    {
+      "name": "ChatGPT Soliloquy",
+      "description": "Enable ChatGPT to self-converse",
+      "website": "https://chromewebstore.google.com/detail/chatgpt-soliloquy/kflbaflenonjdfgegkoogldipabeenin?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679947474356624.jpg",
+      "category": "AI Reply Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Voice Chat Generator",
+        "AI Chatbot"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:45",
+      "updatedAt": "2024-05-25 21:31:45"
+    },
+    {
+      "name": "Twinit",
+      "description": "An AI platform with interactive chatbot characters.",
+      "website": "https://twinit.ai?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170262634552847098.jpg",
+      "category": "AI Character",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Character",
+        "AI Chatbot",
+        "Large Language Models (LLMs)",
+        "NSFW",
+        "AI Girlfriend",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-15 15:45:34",
+      "updatedAt": "2023-12-15 15:45:34"
+    },
+    {
+      "name": "Rednit",
+      "description": "The ultimate wingman for engaging, copy and paste conversations.",
+      "website": "https://rednit.fun?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/170185044995921554.jpg",
+      "category": "AI Advertising Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Advertising Assistant",
+        "AI Chatbot",
+        "AI Dating Assistant",
+        "AI Reply Assistant",
+        "AI Response Generator",
+        "AI Voice Chat Generator",
+        "AI Ad Creative Assistant",
+        "AI Ad Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-12-06 16:13:57",
+      "updatedAt": "2023-12-06 16:13:57"
+    },
+    {
+      "name": "Aoi Speak",
+      "description": "Improve language speaking skills with real-time practice.",
+      "website": "https://apps.apple.com/us/app/aoi-speak-learning-languages/id6456224117?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169910278938619530.jpg",
+      "category": "AI Education Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Education Assistant",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-11-04 20:58:25",
+      "updatedAt": "2023-11-04 20:58:25"
+    },
+    {
+      "name": "ChatMe.At",
+      "description": "Connect with famous content creators using AI chat avatars.",
+      "website": "https://chatme.at?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169401548764007671.jpg",
+      "category": "AI Social Media Assistant",
+      "pricing": "Unknown",
+      "features": [
+        "Website"
+      ],
+      "tags": [
+        "AI Social Media Assistant",
+        "AI Chatbot",
+        "AI Avatar Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-09-06 23:50:52",
+      "updatedAt": "2023-09-06 23:50:52"
+    },
+    {
+      "name": "FTChatAI - ChatGPT for iPhone",
+      "description": "Powerful AI chat client for iOS.",
+      "website": "https://apps.apple.com/us/app/ftchatai/id6446242414?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168959901273449238.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI App Builder",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-17 21:02:48",
+      "updatedAt": "2023-07-17 21:02:48"
+    },
+    {
+      "name": "Get Cheezy With Dr. Aaron Ozee",
+      "description": "Chat with an AI twin of Dr. Aaron Ozee, a celebrity author, producer, and director.",
+      "website": "https://apps.apple.com/app/get-cheezy-with-dr-aaron-ozee/id1642331303?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/168258098771664947.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "Freemium",
+        "Paid",
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI Response Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "Text-to-Speech"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-04-27 15:38:58",
+      "updatedAt": "2023-04-27 15:38:58"
+    },
+    {
+      "name": "Vme! Call by your avatar and voice",
+      "description": "Display animated avatars in video calls.",
+      "website": "https://chromewebstore.google.com/detail/vme-call-by-your-avatar-a/pelgnggcjpglfkfkdfdhcmliconijjdb?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/171679948073469807.jpg",
+      "category": "AI Avatar Generator",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Avatar Generator",
+        "AI Video Editor",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-05-25 21:31:46",
+      "updatedAt": "2024-05-25 21:31:46"
+    },
+    {
+      "name": "Yaki",
+      "description": "iOS first AI chat client powered by OpenAI's GPT.",
+      "website": "https://apps.apple.com/us/app/yaki-chat/id6446706313?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/169003636931327213.jpg",
+      "category": "AI Chatbot",
+      "pricing": "Unknown",
+      "features": [
+        "App"
+      ],
+      "tags": [
+        "AI Chatbot",
+        "AI App Builder",
+        "Large Language Models (LLMs)",
+        "AI Product Description Generator",
+        "AI Voice Chat Generator"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2023-07-22 22:31:41",
+      "updatedAt": "2023-07-22 22:31:41"
+    },
+    {
+      "name": "AllSeek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c",
+      "description": "Aggregator for AI and traditional search results",
+      "website": "https://chromewebstore.google.com/detail/allseek-\u4e00\u952e\u5c3d\u63fd\u6240\u6709\u641c\u7d22\u7ed3\u679c/hliodnbeiihfklkhhehcgmibcmklfedp?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/172398617656557414.jpg",
+      "category": "AI Tools Directory",
+      "pricing": "Unknown",
+      "features": [
+        "Browser Extension"
+      ],
+      "tags": [
+        "AI Tools Directory",
+        "AI Bio Generator",
+        "Handwriting",
+        "Copywriting",
+        "Captions or Subtitle",
+        "Essay Writer",
+        "Papers",
+        "Letter Writer",
+        "AI Lyrics Generator",
+        "Report Writing",
+        "AI Rewriter",
+        "AI Script Writing",
+        "AI Story Writing",
+        "AI Product Description Generator",
+        "Text to Image",
+        "AI Book Writing",
+        "AI Poem & Poetry Generator",
+        "Summarizer",
+        "Pick-up Lines Generator",
+        "Transcription",
+        "General Writing",
+        "Writing Assistants",
+        "AI Creative Writing",
+        "Transcriber",
+        "AI Content Generator",
+        "AI Email Writer",
+        "Novel",
+        "Quotes Generator",
+        "AI Image Recognition",
+        "AI Blog Writer",
+        "AI Photo Enhancer",
+        "AI Illustration Generator",
+        "AI Avatar Generator",
+        "AI Background Generator",
+        "AI Banner Generator",
+        "AI Cover Generator",
+        "AI Emoji Generator",
+        "AI GIF Generator",
+        "AI Icon Generator",
+        "AI Image Enhancer",
+        "AI Logo Generator",
+        "Photo & Image Editor",
+        "AI Photo & Image Generator",
+        "AI Photography",
+        "AI Photo Restoration",
+        "AI Profile Picture Generator",
+        "AI Wallpaper Generator",
+        "AI Background Remover",
+        "AI Manga & Comic",
+        "AI Pattern Generator",
+        "AI Selfie & Portrait",
+        "AI Tattoo Generator",
+        "AI Image Scanning",
+        "Image to Image",
+        "AI Image Segmentation",
+        "AI Charting",
+        "Paraphraser",
+        "AI Landscape Generator",
+        "AI Personalized Video Generator",
+        "AI Video Search",
+        "AI Face Swap Generator",
+        "AI Clothing Generator",
+        "AI Anime & Cartoon Generator",
+        "Image to Video",
+        "AI Music Video Generator",
+        "AI Video Editor",
+        "AI Video Enhancer",
+        "Text to Video",
+        "AI Animated Video",
+        "AI Thumbnail Maker",
+        "AI UGC Video Generator",
+        "AI Celebrity Voice Generator",
+        "AI Rap Generator",
+        "Video to Video",
+        "AI Video Generator",
+        "AI Short Clips Generator",
+        "AI Lip Sync Generator",
+        "AI Audio Enhancer",
+        "AI Music Generator",
+        "Recording",
+        "Text-to-Speech",
+        "Speech-to-Text",
+        "Voice & Audio Editing",
+        "AI Voice Changer",
+        "AI Voice Chat Generator",
+        "AI Voice Cloning",
+        "AI Poster Generator",
+        "AI Cosplay Generator",
+        "AI Code Generator",
+        "AI Speech Synthesis",
+        "AI Voice Assistants",
+        "AI Noise Cancellation",
+        "Text-to-Music",
+        "AI Singing Generator",
+        "AI Maps Generator",
+        "AI Landing Page Builder",
+        "AI Website Builder",
+        "No-Code&Low-Code",
+        "AI Code Assistant",
+        "Code Explanation",
+        "AI Speech Recognition",
+        "AI Monitor & Report Builder",
+        "AI Code Refactoring",
+        "AI Data Mining",
+        "AI Log Management",
+        "AI SQL Query Builder",
+        "AI Testing & QA",
+        "AI API Design",
+        "AI Developer Docs",
+        "AI Developer Tools",
+        "AI Search Engine",
+        "Web Scraping",
+        "AI App Builder",
+        "AI Browsers Builder",
+        "AI DevOps Assistant"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-08-18 21:02:35",
+      "updatedAt": "2024-08-18 21:02:35"
+    },
+    {
+      "name": "SERP API",
+      "description": "Bright Data's SERP API delivers real-time search engine results with high accuracy.",
+      "website": "https://get.brightdata.com/satoolify?utm_source=toolify",
+      "image": "https://nav-station.oss-accelerate.aliyuncs.com/173150806434885267.jpg",
+      "category": "Web Scraping",
+      "pricing": "Unknown",
+      "features": [
+        "Website",
+        "Free"
+      ],
+      "tags": [
+        "Web Scraping"
+      ],
+      "submittedBy": "000000000000000000000000",
+      "status": "pending",
+      "rating": {
+        "average": 0,
+        "count": 0
+      },
+      "createdAt": "2024-11-13 22:28:43",
+      "updatedAt": "2024-11-13 22:28:43"
+    }
+  ]
+}
