@@ -8,6 +8,7 @@ import './models/User.js';
 import './models/UserProfile.js';
 import './models/Tool.js';
 import './models/Review.js';
+import './models/Category.js';
 
 // Import routes
 import authRoutes from './routes/auth.js';
@@ -15,6 +16,7 @@ import userRoutes from './routes/users.js';
 import profileRoutes from './routes/profiles.js';
 import toolRoutes from './routes/tools.js';
 import reviewRoutes from './routes/reviews.js';
+import categoryRoutes from './routes/categories.js';
 
 dotenv.config();
 
@@ -35,6 +37,7 @@ app.use('/api/users', userRoutes);
 app.use('/api/profiles', profileRoutes);
 app.use('/api/tools', toolRoutes);
 app.use('/api/reviews', reviewRoutes);
+app.use('/api/categories', categoryRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

@@ -21,14 +21,6 @@ const staggerContainer = {
 export default function Categories() {
   const { categories, tools, loading, error } = useTools()
 
-  // Count tools per category
-  const getCategoryCount = (category) => {
-    if (!tools) return 0;
-    return tools.filter(tool => 
-      tool.categories && tool.categories.includes(category)
-    ).length
-  }
-
   if (loading) {
     return (
       <div className="min-h-screen bg-white">
@@ -116,19 +108,19 @@ export default function Categories() {
         >
           {categories && categories.map((category) => (
             <motion.div
-              key={category}
+              key={category._id}
               variants={fadeInUp}
               whileHover={{ y: -5 }}
               className="relative group"
             >
               <Link
-                to={`/tools?category=${encodeURIComponent(category)}`}
+                to={`/tools?category=${encodeURIComponent(category.name)}`}
                 className="block h-full"
               >
                 <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300 p-6 h-full">
                   <div className="flex items-center justify-between mb-4">
                     <div className="p-3 rounded-lg bg-blue-100 text-blue-600">
-                      <FiGrid className="w-6 h-6" />
+                      {category.icon || <FiGrid className="w-6 h-6" />}
                     </div>
                     <div className="flex items-center text-gray-400 group-hover:text-blue-600 transition-colors duration-300">
                       <span className="mr-2">View Tools</span>
@@ -137,11 +129,15 @@ export default function Categories() {
                   </div>
                   
                   <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                    {category}
+                    {category.name}
                   </h3>
                   
                   <p className="text-sm text-gray-600 mb-4">
-                    {getCategoryCount(category)} tools available
+                    {category.toolCount} tools available
+                  </p>
+
+                  <p className="text-sm text-gray-500 line-clamp-2 mb-4">
+                    {category.description}
                   </p>
                   
                   <div className="absolute bottom-6 left-6 right-6 h-1 bg-gradient-to-r from-blue-500 to-purple-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left rounded-full" />

@@ -21,16 +21,16 @@ export const ToolsProvider = ({ children }) => {
     totalTools: 0
   })
 
-  // Extract unique categories from tools
-  const extractCategories = useCallback((tools) => {
-    const uniqueCategories = new Set();
-    tools.forEach(tool => {
-      if (tool.categories && Array.isArray(tool.categories)) {
-        tool.categories.forEach(category => uniqueCategories.add(category));
-      }
-    });
-    return Array.from(uniqueCategories).sort();
-  }, []);
+  // Load categories from MongoDB
+  const loadCategories = useCallback(async () => {
+    try {
+      const response = await api.get('/categories')
+      setCategories(response.data)
+    } catch (err) {
+      console.error('Error loading categories:', err)
+      setError(err.message)
+    }
+  }, [])
 
   const loadTools = useCallback(async () => {
     try {
@@ -49,64 +49,59 @@ export const ToolsProvider = ({ children }) => {
 
       const { tools: fetchedTools, total, pages } = response.data
       setTools(fetchedTools)
-      
-      // Update categories whenever tools are loaded
-      const extractedCategories = extractCategories(fetchedTools);
-      setCategories(extractedCategories);
-      
       setPagination(prev => ({
         ...prev,
         totalPages: pages,
         totalTools: total
       }))
     } catch (err) {
-      console.error('Error loading tools:', err)
       setError(err.message)
     } finally {
       setLoading(false)
     }
-  }, [filters.category, filters.search, filters.sort, pagination.currentPage, extractCategories])
+  }, [filters, pagination.currentPage])
 
-  const loadToolDetails = useCallback(async (id) => {
-    if (!id) {
-      console.error('No tool ID provided');
-      return;
-    }
-
-    try {
-      setLoading(true);
-      const response = await api.get(`/tools/${id}`);
-      setCurrentTool(response.data);
-    } catch (err) {
-      console.error('Error loading tool details:', err);
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  }, [])
+  // Load tools and categories on mount
+  useEffect(() => {
+    loadCategories()
+  }, [loadCategories])
 
   useEffect(() => {
     loadTools()
   }, [loadTools])
 
-  const contextValue = useMemo(() => ({
+  const getTool = useCallback(async (id) => {
+    try {
+      setLoading(true)
+      setError(null)
+      const response = await api.get(`/tools/${id}`)
+      setCurrentTool(response.data)
+      return response.data
+    } catch (err) {
+      setError(err.message)
+      throw err
+    } finally {
+      setLoading(false)
+    }
+  }, [])
+
+  const value = useMemo(() => ({
     tools,
     loading,
     error,
-    filters,
-    pagination,
     categories,
     currentTool,
-    loadToolDetails,
-    setFilters: (newFilters) => {
-      setFilters(newFilters)
-      setPagination(prev => ({ ...prev, currentPage: 1 }))
-    },
-    setCurrentPage: (page) => setPagination(prev => ({ ...prev, currentPage: page }))
-  }), [tools, loading, error, filters, pagination, categories, currentTool, loadToolDetails])
+    filters,
+    pagination,
+    setFilters,
+    setPagination,
+    getTool,
+    loadTools,
+    loadCategories
+  }), [tools, loading, error, categories, currentTool, filters, pagination, getTool, loadTools, loadCategories])
 
   return (
-    <ToolsContext.Provider value={contextValue}>
+    <ToolsContext.Provider value={value}>
       {children}
     </ToolsContext.Provider>
   )
