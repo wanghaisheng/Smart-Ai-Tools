@@ -210,9 +210,16 @@ export default function ToolDetails() {
             {/* Action Card */}
             <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-soft p-6">
               <a
-                href={currentTool.url}
+                href={currentTool.website}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={(e) => {
+                  console.log('Clicking website link:', currentTool.website);
+                  if (!currentTool.website) {
+                    e.preventDefault();
+                    console.error('No website URL provided for this tool');
+                  }
+                }}
                 className="w-full inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 transition-colors duration-200"
               >
                 Visit Website
