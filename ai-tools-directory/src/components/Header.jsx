@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../assets/logo.png' // You'll need to add your logo file here
 
 const navigation = [
   { name: 'Home', href: '/' },
@@ -20,7 +19,15 @@ export default function Header() {
         <div className="flex lg:flex-1">
           <Link to="/" className="-m-1.5 p-1.5">
             <span className="sr-only">AI Tools Directory</span>
-            <img className="h-8 w-auto" src={logo} alt="AI Tools Directory Logo" />
+            <img 
+              className="h-8 w-auto" 
+              src={`${import.meta.env.BASE_URL}assets/logo.png`} 
+              alt="AI Tools Directory Logo"
+              onError={(e) => {
+                console.error('Error loading logo:', e);
+                e.target.style.display = 'none';
+              }}
+            />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -52,7 +59,15 @@ export default function Header() {
           <div className="flex items-center justify-between">
             <Link to="/" className="-m-1.5 p-1.5">
               <span className="sr-only">AI Tools Directory</span>
-              <img className="h-8 w-auto" src={logo} alt="AI Tools Directory Logo" />
+              <img 
+                className="h-8 w-auto" 
+                src={`${import.meta.env.BASE_URL}assets/logo.png`} 
+                alt="AI Tools Directory Logo"
+                onError={(e) => {
+                  console.error('Error loading logo:', e);
+                  e.target.style.display = 'none';
+                }}
+              />
             </Link>
             <button
               type="button"

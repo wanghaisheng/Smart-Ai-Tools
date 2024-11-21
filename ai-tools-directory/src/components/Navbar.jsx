@@ -1,16 +1,30 @@
 import { useState, useEffect, Fragment } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { FiMenu, FiX, FiMoon, FiSun, FiSearch, FiPlus, FiUser, FiLogOut, FiSettings } from 'react-icons/fi'
+import { 
+  FiMenu, 
+  FiX, 
+  FiMoon, 
+  FiSun, 
+  FiSearch, 
+  FiPlus, 
+  FiUser, 
+  FiLogOut, 
+  FiSettings,
+  FiHome,
+  FiGrid,
+  FiList,
+  FiInfo
+} from 'react-icons/fi'
 import { useTheme } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
 import { Menu, Transition } from '@headlessui/react'
 
 const menuItems = [
-  { name: 'Home', path: '/' },
-  { name: 'Tools', path: '/tools' },
-  { name: 'Categories', path: '/categories' },
-  { name: 'About', path: '/about' },
+  { name: 'Home', path: '/', icon: FiHome },
+  { name: 'Tools', path: '/tools', icon: FiGrid },
+  { name: 'Categories', path: '/categories', icon: FiList },
+  { name: 'About', path: '/about', icon: FiInfo },
 ]
 
 export default function Navbar() {
@@ -79,42 +93,51 @@ export default function Navbar() {
               className="flex items-center"
             >
               <img
-                src="/logo.svg"
+                src="/logo.png"
                 alt="AI Tools Directory"
-                className="h-8 w-auto"
+                className="h-12 w-auto"
               />
-              <span className="ml-2 text-xl font-bold bg-gradient-to-r from-primary-500 to-secondary-500 bg-clip-text text-transparent">
-                AI Tools
-              </span>
             </motion.div>
           </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
             {/* Desktop Menu Items */}
-            <div className="flex space-x-6">
+            <div className="flex space-x-8">
               {menuItems.map((item) => (
-                <Link
+                <motion.div
                   key={item.path}
-                  to={item.path}
-                  className={`
-                    relative px-1 py-2 text-sm font-medium transition-colors duration-200
-                    ${location.pathname === item.path
-                      ? 'text-primary-600 dark:text-primary-400'
-                      : 'text-gray-700 dark:text-gray-300 hover:text-primary-600 dark:hover:text-primary-400'
-                    }
-                  `}
+                  whileHover={{ scale: 1.1 }}
+                  whileTap={{ scale: 0.95 }}
                 >
-                  {item.name}
-                  {location.pathname === item.path && (
+                  <Link
+                    to={item.path}
+                    title={item.name}
+                    className={`
+                      relative px-3 py-2 text-sm font-medium transition-colors duration-200
+                      hover:text-primary-500 dark:hover:text-primary-400 flex items-center justify-center
+                      ${location.pathname === item.path 
+                        ? 'text-primary-500 dark:text-primary-400' 
+                        : 'text-gray-700 dark:text-gray-300'}
+                    `}
+                  >
                     <motion.div
-                      layoutId="navbar-indicator"
-                      className="absolute bottom-0 left-0 right-0 h-0.5 bg-primary-600 dark:bg-primary-400"
-                      initial={false}
-                      transition={{ type: "spring", stiffness: 500, damping: 30 }}
-                    />
-                  )}
-                </Link>
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.2 }}
+                    >
+                      <item.icon className="w-7 h-7" />
+                    </motion.div>
+                    {location.pathname === item.path && (
+                      <motion.div
+                        layoutId="nav-indicator"
+                        className="absolute -bottom-1 left-0 right-0 h-1 bg-primary-500 dark:bg-primary-400 rounded-full"
+                        initial={false}
+                        transition={{ type: "spring", stiffness: 500, damping: 30 }}
+                      />
+                    )}
+                  </Link>
+                </motion.div>
               ))}
             </div>
 
@@ -273,15 +296,22 @@ export default function Navbar() {
                 <motion.div key={item.path} variants={itemVariants}>
                   <Link
                     to={item.path}
+                    title={item.name}
                     className={`
-                      block px-3 py-2 rounded-lg text-base font-medium transition-colors duration-200
+                      flex items-center space-x-4 px-4 py-3 rounded-lg text-base font-medium transition-colors duration-200
                       ${location.pathname === item.path
                         ? 'text-primary-600 dark:text-primary-400 bg-primary-50 dark:bg-primary-900/20'
                         : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800'
                       }
                     `}
                   >
-                    {item.name}
+                    <motion.div
+                      whileHover={{ scale: 1.1 }}
+                      whileTap={{ scale: 0.95 }}
+                    >
+                      <item.icon className="w-6 h-6" />
+                    </motion.div>
+                    <span>{item.name}</span>
                   </Link>
                 </motion.div>
               ))}
