@@ -22,11 +22,19 @@
     margin: 0;
     padding: 0;
   }
+
+  body {
+    @apply antialiased text-gray-900 dark:text-gray-100;
+  }
 }
 
 @layer components {
   .container {
     @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .container {
+    @apply mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl;
   }
 
   .form-label {
@@ -51,6 +59,28 @@
 
   .tool-card {
     @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+  }
+}
+
+@layer utilities {
+  .fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+
+  .fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  .slide-in {
+    animation: slideIn 0.3s ease-out;
+  }
+
+  .slide-up {
+    animation: slideUp 0.5s ease-out;
+  }
+
+  .slide-down {
+    animation: slideDown 0.5s ease-out;
   }
 }
 
@@ -96,10 +126,6 @@
   }
 }
 
-.fade-in {
-  animation: fadeIn 0.3s ease-in-out;
-}
-
 @keyframes slideIn {
   from {
     transform: translateY(20px);
@@ -111,10 +137,6 @@
   }
 }
 
-.slide-in {
-  animation: slideIn 0.3s ease-out;
-}
-
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -123,6 +145,28 @@
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
   }
 }
 
