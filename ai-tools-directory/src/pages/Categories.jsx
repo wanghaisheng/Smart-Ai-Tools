@@ -19,13 +19,64 @@ const staggerContainer = {
 }
 
 export default function Categories() {
-  const { categories, tools } = useTools()
+  const { categories, tools, loading, error } = useTools()
 
   // Count tools per category
   const getCategoryCount = (category) => {
+    if (!tools) return 0;
     return tools.filter(tool => 
       tool.categories && tool.categories.includes(category)
     ).length
+  }
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-white">
+        <div className="bg-gradient-to-b from-blue-50 to-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <div className="text-center">
+              <div className="animate-pulse">
+                <div className="h-10 bg-gray-200 rounded max-w-md mx-auto mb-4"></div>
+                <div className="h-4 bg-gray-200 rounded max-w-sm mx-auto"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[1, 2, 3, 4, 5, 6].map((n) => (
+              <div key={n} className="animate-pulse">
+                <div className="bg-white rounded-2xl shadow-lg p-6">
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="w-12 h-12 bg-gray-200 rounded-lg"></div>
+                    <div className="w-24 h-4 bg-gray-200 rounded"></div>
+                  </div>
+                  <div className="h-6 bg-gray-200 rounded w-3/4 mb-2"></div>
+                  <div className="h-4 bg-gray-200 rounded w-1/2"></div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-white py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-3xl font-bold text-red-600">Error Loading Categories</h2>
+          <p className="mt-4 text-lg text-gray-500">{error}</p>
+          <button
+            onClick={() => window.location.reload()}
+            className="mt-8 inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
+          >
+            Try Again
+          </button>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -63,7 +114,7 @@ export default function Categories() {
           variants={staggerContainer}
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
         >
-          {categories.map((category) => (
+          {categories && categories.map((category) => (
             <motion.div
               key={category}
               variants={fadeInUp}

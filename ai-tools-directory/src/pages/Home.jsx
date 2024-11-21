@@ -117,7 +117,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {topTools.map((tool) => (
             <motion.div
-              key={tool.id}
+              key={tool._id}
               whileHover={{ y: -5 }}
               className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
             >
@@ -133,12 +133,12 @@ export default function Home() {
                   <h3 className="text-lg font-semibold text-gray-900">{tool.name}</h3>
                   <div className="flex items-center">
                     <FiStar className="text-yellow-400 w-5 h-5" />
-                    <span className="ml-1 text-sm text-gray-600">{tool.rating.average.toFixed(1)}</span>
+                    <span className="ml-1 text-sm text-gray-600">{tool.rating?.average?.toFixed(1) || 'N/A'}</span>
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 line-clamp-2 mb-4">{tool.description}</p>
                 <Link
-                  to={`/tools/${tool.id}`}
+                  to={`/tools/${tool._id}`}
                   className="flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-300"
                 >
                   Learn More

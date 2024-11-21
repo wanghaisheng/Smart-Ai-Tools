@@ -8,6 +8,7 @@ export const ToolsProvider = ({ children }) => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [currentTool, setCurrentTool] = useState(null)
+  const [categories, setCategories] = useState([])
   const [filters, setFilters] = useState({
     search: '',
     category: 'all',
@@ -20,6 +21,17 @@ export const ToolsProvider = ({ children }) => {
     totalTools: 0
   })
 
+  // Extract unique categories from tools
+  const extractCategories = useCallback((tools) => {
+    const uniqueCategories = new Set();
+    tools.forEach(tool => {
+      if (tool.categories && Array.isArray(tool.categories)) {
+        tool.categories.forEach(category => uniqueCategories.add(category));
+      }
+    });
+    return Array.from(uniqueCategories).sort();
+  }, []);
+
   const loadTools = useCallback(async () => {
     try {
       setLoading(true)
@@ -31,12 +43,17 @@ export const ToolsProvider = ({ children }) => {
           search: filters.search || '',
           sort: filters.sort,
           page: pagination.currentPage,
-          limit: 28 // 4 tools per row × 7 rows
+          limit: 28
         }
       })
 
       const { tools: fetchedTools, total, pages } = response.data
       setTools(fetchedTools)
+      
+      // Update categories whenever tools are loaded
+      const extractedCategories = extractCategories(fetchedTools);
+      setCategories(extractedCategories);
+      
       setPagination(prev => ({
         ...prev,
         totalPages: pages,
@@ -48,25 +65,21 @@ export const ToolsProvider = ({ children }) => {
     } finally {
       setLoading(false)
     }
-  }, [filters.category, filters.search, filters.sort, pagination.currentPage])
+  }, [filters.category, filters.search, filters.sort, pagination.currentPage, extractCategories])
 
-  const loadToolDetails = useCallback(async (toolId) => {
-    if (!toolId) {
-      setError('Tool ID is required');
-      return null;
+  const loadToolDetails = useCallback(async (id) => {
+    if (!id) {
+      console.error('No tool ID provided');
+      return;
     }
 
     try {
       setLoading(true);
-      setError(null);
-      
-      const response = await api.get(`/tools/${toolId}`);
+      const response = await api.get(`/tools/${id}`);
       setCurrentTool(response.data);
-      return response.data;
     } catch (err) {
       console.error('Error loading tool details:', err);
-      setError(err.response?.data?.message || err.message);
-      return null;
+      setError(err.message);
     } finally {
       setLoading(false);
     }
@@ -82,14 +95,15 @@ export const ToolsProvider = ({ children }) => {
     error,
     filters,
     pagination,
+    categories,
     currentTool,
     loadToolDetails,
     setFilters: (newFilters) => {
       setFilters(newFilters)
-      setPagination(prev => ({ ...prev, currentPage: 1 })) // Reset to first page on filter change
+      setPagination(prev => ({ ...prev, currentPage: 1 }))
     },
     setCurrentPage: (page) => setPagination(prev => ({ ...prev, currentPage: page }))
-  }), [tools, loading, error, filters, pagination, currentTool, loadToolDetails])
+  }), [tools, loading, error, filters, pagination, categories, currentTool, loadToolDetails])
 
   return (
     <ToolsContext.Provider value={contextValue}>
