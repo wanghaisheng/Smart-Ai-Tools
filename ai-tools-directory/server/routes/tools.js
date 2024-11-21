@@ -4,23 +4,61 @@ import Tool from '../models/Tool.js';
 
 const router = express.Router();
 
-// Get all tools (with optional filters)
+const buildQuery = (queryParams) => {
+  const { category, status = 'approved', search } = queryParams;
+  const query = { status };
+  
+  if (category) query.category = category;
+  if (search) {
+    query.$or = [
+      { name: { $regex: search, $options: 'i' } },
+      { description: { $regex: search, $options: 'i' } },
+      { tags: { $regex: search, $options: 'i' } }
+    ];
+  }
+  
+  return query;
+};
+
+const buildSort = (sortParam = '-createdAt') => {
+  switch (sortParam) {
+    case 'rating-desc':
+      return { 'rating.average': -1 };
+    case 'rating-asc':
+      return { 'rating.average': 1 };
+    case 'name-asc':
+      return { name: 1 };
+    case 'name-desc':
+      return { name: -1 };
+    default:
+      return { createdAt: -1 };
+  }
+};
+
+// Get all tools (with pagination and filters)
 router.get('/', async (req, res) => {
   try {
-    const { category, status = 'approved', search, sort = '-createdAt' } = req.query;
+    const { page = 1, limit = 28 } = req.query;
+    const skip = (parseInt(page) - 1) * parseInt(limit);
     
-    const query = { status };
-    if (category) query.category = category;
-    if (search) {
-      query.$text = { $search: search };
-    }
+    const query = buildQuery(req.query);
+    const sort = buildSort(req.query.sort);
     
-    const tools = await Tool.find(query)
-      .sort(sort)
-      .populate('submittedBy', 'username')
-      .lean();
+    const [tools, total] = await Promise.all([
+      Tool.find(query)
+        .skip(skip)
+        .limit(parseInt(limit))
+        .sort(sort)
+        .populate('submittedBy', 'username')
+        .lean(),
+      Tool.countDocuments(query)
+    ]);
     
-    res.json(tools);
+    res.json({
+      tools,
+      total,
+      pages: Math.ceil(total / parseInt(limit))
+    });
   } catch (error) {
     console.error('Get tools error:', error);
     res.status(500).json({ message: 'Server error', error: error.message });
@@ -56,6 +94,7 @@ router.post('/', auth, async (req, res) => {
       pricing,
       features,
       tags,
+      image
     } = req.body;
     
     const tool = new Tool({
@@ -66,6 +105,7 @@ router.post('/', auth, async (req, res) => {
       pricing,
       features,
       tags,
+      image,
       submittedBy: req.userId,
     });
     

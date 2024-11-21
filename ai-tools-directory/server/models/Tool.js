@@ -15,6 +15,10 @@ const toolSchema = new mongoose.Schema({
     required: true,
     trim: true,
   },
+  image: {
+    type: String,
+    default: 'https://via.placeholder.com/400x225?text=AI+Tool',
+  },
   category: {
     type: String,
     required: true,
