@@ -1,9 +1,10 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Fragment } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { FiMenu, FiX, FiMoon, FiSun, FiSearch, FiPlus } from 'react-icons/fi'
+import { FiMenu, FiX, FiMoon, FiSun, FiSearch, FiPlus, FiUser, FiLogOut, FiSettings } from 'react-icons/fi'
 import { useTheme } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
+import { Menu, Transition } from '@headlessui/react'
 
 const menuItems = [
   { name: 'Home', path: '/' },
@@ -17,7 +18,7 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
   const { darkMode, toggleDarkMode } = useTheme()
-  const { user, isAuthenticated } = useAuth()
+  const { user, isAuthenticated, logout } = useAuth()
   const location = useLocation()
 
   useEffect(() => {
@@ -156,16 +157,72 @@ export default function Navbar() {
 
               {/* User Profile/Login */}
               {isAuthenticated ? (
-                <Link
-                  to="/profile"
-                  className="flex items-center space-x-2"
-                >
-                  <img
-                    src={user.avatar || 'https://via.placeholder.com/32'}
-                    alt={user.name}
-                    className="w-8 h-8 rounded-full object-cover"
-                  />
-                </Link>
+                <Menu as="div" className="relative">
+                  <Menu.Button className="flex items-center space-x-2">
+                    <motion.div
+                      whileHover={{ scale: 1.05 }}
+                      whileTap={{ scale: 0.95 }}
+                    >
+                      <img
+                        src={user.avatar || 'https://via.placeholder.com/32'}
+                        alt={user.name}
+                        className="w-8 h-8 rounded-full object-cover ring-2 ring-primary-500 ring-offset-2 dark:ring-offset-gray-900"
+                      />
+                    </motion.div>
+                  </Menu.Button>
+                  <Transition
+                    as={Fragment}
+                    enter="transition ease-out duration-100"
+                    enterFrom="transform opacity-0 scale-95"
+                    enterTo="transform opacity-100 scale-100"
+                    leave="transition ease-in duration-75"
+                    leaveFrom="transform opacity-100 scale-100"
+                    leaveTo="transform opacity-0 scale-95"
+                  >
+                    <Menu.Items className="absolute right-0 mt-2 w-48 origin-top-right rounded-md bg-white dark:bg-gray-800 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none py-1">
+                      <Menu.Item>
+                        {({ active }) => (
+                          <Link
+                            to="/profile"
+                            className={`${
+                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                            } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-300`}
+                          >
+                            <FiUser className="mr-3 h-5 w-5" />
+                            Profile
+                          </Link>
+                        )}
+                      </Menu.Item>
+                      <Menu.Item>
+                        {({ active }) => (
+                          <Link
+                            to="/settings"
+                            className={`${
+                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                            } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-300`}
+                          >
+                            <FiSettings className="mr-3 h-5 w-5" />
+                            Settings
+                          </Link>
+                        )}
+                      </Menu.Item>
+                      <div className="border-t border-gray-200 dark:border-gray-700" />
+                      <Menu.Item>
+                        {({ active }) => (
+                          <button
+                            onClick={logout}
+                            className={`${
+                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                            } flex w-full items-center px-4 py-2 text-sm text-red-600 dark:text-red-400`}
+                          >
+                            <FiLogOut className="mr-3 h-5 w-5" />
+                            Sign out
+                          </button>
+                        )}
+                      </Menu.Item>
+                    </Menu.Items>
+                  </Transition>
+                </Menu>
               ) : (
                 <Link
                   to="/login"
@@ -228,7 +285,8 @@ export default function Navbar() {
                   </Link>
                 </motion.div>
               ))}
-              
+　
+　
               {/* Mobile Submit Tool Button */}
               <motion.div variants={itemVariants}>
                 <Link

@@ -1,4 +1,5 @@
 import { createContext, useContext, useState, useEffect } from 'react';
+import toast from 'react-hot-toast';
 import api from '../utils/api';
 
 const AuthContext = createContext();
@@ -35,6 +36,7 @@ export function AuthProvider({ children }) {
   };
 
   const login = async (email, password) => {
+    console.log('Login attempt for email:', email);
     try {
       const response = await api.post('/auth/login', {
         email,
@@ -45,15 +47,20 @@ export function AuthProvider({ children }) {
       localStorage.setItem('token', token);
       setUser(userData);
       setError('');
+      console.log('Login successful for user:', userData.username);
+      toast.success('Login successful! Welcome back!');
       return userData;
     } catch (error) {
       const errorMessage = error.response?.data?.message || 'Login failed';
+      console.error('Login failed:', errorMessage);
       setError(errorMessage);
+      toast.error(errorMessage);
       throw new Error(errorMessage);
     }
   };
 
   const register = async (username, email, password) => {
+    console.log('Registration attempt for email:', email);
     try {
       const response = await api.post('/auth/register', {
         username,
@@ -65,18 +72,24 @@ export function AuthProvider({ children }) {
       localStorage.setItem('token', token);
       setUser(userData);
       setError('');
+      console.log('Registration successful for user:', userData.username);
+      toast.success('Registration successful! Welcome to AI Tools Directory!');
       return userData;
     } catch (error) {
       const errorMessage = error.response?.data?.message || 'Registration failed';
+      console.error('Registration failed:', errorMessage);
       setError(errorMessage);
+      toast.error(errorMessage);
       throw new Error(errorMessage);
     }
   };
 
   const logout = () => {
+    console.log('User logging out:', user?.username);
     localStorage.removeItem('token');
     setUser(null);
     setError('');
+    toast.info('You have been logged out');
     window.location.href = '/login';
   };
 
@@ -87,6 +100,7 @@ export function AuthProvider({ children }) {
     login,
     register,
     logout,
+    isAuthenticated: !!user,
   };
 
   return (
