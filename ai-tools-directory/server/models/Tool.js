@@ -26,7 +26,7 @@ const toolSchema = new mongoose.Schema({
   },
   pricing: {
     type: String,
-    enum: ['Free', 'Freemium', 'Paid', 'Contact for Pricing'],
+    enum: ['Free', 'Freemium', 'Paid', 'Contact for Pricing', 'Unknown'],
     required: true,
   },
   features: [{
