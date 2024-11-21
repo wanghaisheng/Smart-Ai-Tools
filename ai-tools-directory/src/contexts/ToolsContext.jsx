@@ -7,184 +7,95 @@ export const ToolsProvider = ({ children }) => {
   const [tools, setTools] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [currentTool, setCurrentTool] = useState(null)
   const [filters, setFilters] = useState({
     search: '',
     category: 'all',
     pricing: 'all',
     sort: 'rating-desc'
   })
-  const [toolsCache, setToolsCache] = useState({})
-  const [currentPage, setCurrentPage] = useState(1)
-  const [totalPages, setTotalPages] = useState(1)
-
-  const cacheKey = JSON.stringify({ ...filters, page: currentPage })
+  const [pagination, setPagination] = useState({
+    currentPage: 1,
+    totalPages: 1,
+    totalTools: 0
+  })
 
   const loadTools = useCallback(async () => {
     try {
       setLoading(true)
       setError(null)
 
-      // Check cache first
-      if (toolsCache[cacheKey]) {
-        setTools(toolsCache[cacheKey].tools)
-        setTotalPages(toolsCache[cacheKey].totalPages)
-        setLoading(false)
-        return
-      }
-
       const response = await api.get('/tools', {
         params: {
-          category: filters.category !== 'all' ? filters.category : undefined,
-          search: filters.search || undefined,
+          category: filters.category !== 'all' ? filters.category : '',
+          search: filters.search || '',
           sort: filters.sort,
-          page: currentPage,
+          page: pagination.currentPage,
           limit: 28 // 4 tools per row × 7 rows
         }
       })
 
       const { tools: fetchedTools, total, pages } = response.data
-
-      // Update cache
-      setToolsCache(prev => ({
-        ...prev,
-        [cacheKey]: {
-          tools: fetchedTools,
-          totalPages: pages
-        }
-      }))
-
       setTools(fetchedTools)
-      setTotalPages(pages)
+      setPagination(prev => ({
+        ...prev,
+        totalPages: pages,
+        totalTools: total
+      }))
     } catch (err) {
-      setError('Failed to load tools. Please try again.')
       console.error('Error loading tools:', err)
+      setError(err.message)
     } finally {
       setLoading(false)
     }
-  }, [filters, currentPage, cacheKey, toolsCache])
+  }, [filters.category, filters.search, filters.sort, pagination.currentPage])
 
-  // Load tools when filters or page changes
+  const loadToolDetails = useCallback(async (toolId) => {
+    if (!toolId) {
+      setError('Tool ID is required');
+      return null;
+    }
+
+    try {
+      setLoading(true);
+      setError(null);
+      
+      const response = await api.get(`/tools/${toolId}`);
+      setCurrentTool(response.data);
+      return response.data;
+    } catch (err) {
+      console.error('Error loading tool details:', err);
+      setError(err.response?.data?.message || err.message);
+      return null;
+    } finally {
+      setLoading(false);
+    }
+  }, [])
+
   useEffect(() => {
     loadTools()
   }, [loadTools])
 
-  // Get unique categories from tools
-  const categories = useMemo(() => {
-    const uniqueCategories = new Set()
-    tools.forEach(tool => {
-      if (tool.category) {
-        uniqueCategories.add(tool.category)
-      }
-      if (tool.categories) {
-        if (Array.isArray(tool.categories)) {
-          tool.categories.forEach(category => {
-            if (category) uniqueCategories.add(category)
-          })
-        } else if (typeof tool.categories === 'string') {
-          uniqueCategories.add(tool.categories)
-        }
-      }
-    })
-    return Array.from(uniqueCategories)
-      .filter(Boolean)
-      .sort((a, b) => a.localeCompare(b))
-  }, [tools])
-
-  // Get tools count by category
-  const categoryStats = useMemo(() => {
-    const stats = {}
-    tools.forEach(tool => {
-      const addToStats = (category) => {
-        if (category) {
-          stats[category] = (stats[category] || 0) + 1
-        }
-      }
-
-      if (tool.category) {
-        addToStats(tool.category)
-      }
-      if (tool.categories) {
-        if (Array.isArray(tool.categories)) {
-          tool.categories.forEach(addToStats)
-        } else if (typeof tool.categories === 'string') {
-          addToStats(tool.categories)
-        }
-      }
-    })
-    return stats
-  }, [tools])
-
-  // Get unique pricing options from tools
-  const pricingOptions = useMemo(() => {
-    const uniquePricing = new Set()
-    tools.forEach(tool => {
-      if (tool.pricing) {
-        uniquePricing.add(tool.pricing)
-      }
-    })
-    return Array.from(uniquePricing)
-      .filter(Boolean)
-      .sort((a, b) => a.localeCompare(b))
-  }, [tools])
-
-  const getFilteredTools = useCallback(() => {
-    return tools
-      .filter((tool) => {
-        const matchesSearch =
-          filters.search === '' ||
-          tool.name.toLowerCase().includes(filters.search.toLowerCase()) ||
-          tool.description.toLowerCase().includes(filters.search.toLowerCase())
-
-        const matchesCategory =
-          filters.category === 'all' ||
-          (tool.category && tool.category.toLowerCase() === filters.category.toLowerCase()) ||
-          (tool.categories && (
-            Array.isArray(tool.categories) 
-              ? tool.categories.some(cat => cat.toLowerCase() === filters.category.toLowerCase())
-              : tool.categories.toLowerCase() === filters.category.toLowerCase()
-          ))
-
-        const matchesPricing =
-          filters.pricing === 'all' ||
-          (tool.pricing && tool.pricing.toLowerCase() === filters.pricing.toLowerCase())
-
-        return matchesSearch && matchesCategory && matchesPricing
-      })
-      .sort((a, b) => {
-        switch (filters.sort) {
-          case 'rating-desc':
-            return b.rating - a.rating
-          case 'rating-asc':
-            return a.rating - b.rating
-          case 'reviews-desc':
-            return b.reviewCount - a.reviewCount
-          case 'name-asc':
-            return a.name.localeCompare(b.name)
-          case 'name-desc':
-            return b.name.localeCompare(a.name)
-          default:
-            return 0
-        }
-      })
-  }, [tools, filters])
-
-  const value = {
+  const contextValue = useMemo(() => ({
     tools,
     loading,
     error,
     filters,
-    setFilters,
-    categories,
-    pricingOptions,
-    categoryStats,
-    getFilteredTools,
-    currentPage,
-    setCurrentPage,
-    totalPages,
-    refresh: loadTools
-  }
+    pagination,
+    currentTool,
+    loadToolDetails,
+    setFilters: (newFilters) => {
+      setFilters(newFilters)
+      setPagination(prev => ({ ...prev, currentPage: 1 })) // Reset to first page on filter change
+    },
+    setCurrentPage: (page) => setPagination(prev => ({ ...prev, currentPage: page }))
+  }), [tools, loading, error, filters, pagination, currentTool, loadToolDetails])
 
-  return <ToolsContext.Provider value={value}>{children}</ToolsContext.Provider>
+  return (
+    <ToolsContext.Provider value={contextValue}>
+      {children}
+    </ToolsContext.Provider>
+  )
 }
 
 export const useTools = () => {
@@ -194,3 +105,5 @@ export const useTools = () => {
   }
   return context
 }
+
+export default ToolsContext
