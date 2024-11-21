@@ -45,6 +45,7 @@ export default function Home() {
           className="text-center"
         >
           <motion.h1 
+            key="title"
             variants={fadeInUp}
             className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl"
           >
@@ -52,6 +53,7 @@ export default function Home() {
             <span className="block text-primary-600 dark:text-primary-400">AI Tools</span>
           </motion.h1>
           <motion.p
+            key="description"
             variants={fadeInUp}
             className="max-w-2xl mx-auto mt-6 text-lg text-gray-600 dark:text-gray-300"
           >
@@ -60,6 +62,7 @@ export default function Home() {
           
           {/* Search Bar */}
           <motion.div 
+            key="search-bar"
             variants={fadeInUp}
             className="max-w-2xl mx-auto mt-8"
           >
@@ -89,10 +92,16 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-6 mt-12 sm:grid-cols-2 lg:grid-cols-4">
-            {featuredCategories.map((category) => (
+          <motion.div 
+            initial="hidden"
+            animate="visible"
+            variants={staggerContainer}
+            className="grid grid-cols-1 gap-6 mt-12 sm:grid-cols-2 lg:grid-cols-4"
+          >
+            {featuredCategories.map((category, index) => (
               <motion.div
                 key={category.name}
+                custom={index}
                 variants={fadeInUp}
                 whileHover={{ scale: 1.02 }}
                 className="relative p-6 bg-white dark:bg-gray-800 rounded-xl shadow-soft hover:shadow-lg transition-shadow duration-300"
@@ -116,7 +125,7 @@ export default function Home() {
                 />
               </motion.div>
             ))}
-          </div>
+          </motion.div>
         </div>
       </section>
 
@@ -132,10 +141,16 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-8 mt-12 sm:grid-cols-2 lg:grid-cols-3">
-            {topTools.map((tool) => (
+          <motion.div 
+            initial="hidden"
+            animate="visible"
+            variants={staggerContainer}
+            className="grid grid-cols-1 gap-8 mt-12 sm:grid-cols-2 lg:grid-cols-3"
+          >
+            {topTools.map((tool, index) => (
               <motion.div
                 key={tool.id}
+                custom={index}
                 variants={fadeInUp}
                 whileHover={{ y: -5 }}
                 className="overflow-hidden bg-white dark:bg-gray-800 rounded-xl shadow-soft"
@@ -159,7 +174,7 @@ export default function Home() {
                     <div className="flex items-center space-x-2">
                       {tool.tags?.slice(0, 2).map((tag) => (
                         <span
-                          key={tag}
+                          key={`${tool.id}-${tag}`}
                           className="px-2.5 py-0.5 text-xs font-medium text-primary-700 bg-primary-100 rounded-full dark:bg-primary-900/30 dark:text-primary-400"
                         >
                           {tag}
@@ -177,7 +192,7 @@ export default function Home() {
                 </div>
               </motion.div>
             ))}
-          </div>
+          </motion.div>
 
           <div className="mt-12 text-center">
             <Link
