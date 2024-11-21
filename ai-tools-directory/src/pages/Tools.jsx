@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { useTools } from '../contexts/ToolsContext'
-import { FiSearch, FiFilter, FiStar, FiExternalLink, FiArrowRight, FiX } from 'react-icons/fi'
+import { FiSearch, FiFilter, FiStar, FiExternalLink, FiArrowRight, FiX, FiChevronLeft, FiChevronRight } from 'react-icons/fi'
 import { useSearchParams } from 'react-router-dom'
 import { Disclosure, Transition } from '@headlessui/react'
 
@@ -249,36 +249,116 @@ export default function Tools() {
 
             {/* Pagination */}
             {pagination && pagination.totalPages > 1 && (
-              <div className="mt-8 flex items-center justify-between">
+              <div className="mt-12 flex flex-col items-center space-y-4">
+                {/* Page Info */}
                 <div className="text-sm text-gray-700 dark:text-gray-400">
-                  Showing{' '}
-                  <span className="font-medium">
-                    {(pagination.currentPage - 1) * 28 + 1}
-                  </span>{' '}
-                  to{' '}
-                  <span className="font-medium">
-                    {Math.min(pagination.currentPage * 28, pagination.totalTools)}
-                  </span>{' '}
-                  of <span className="font-medium">{pagination.totalTools}</span> tools
+                  <span className="font-medium text-gray-900 dark:text-white">{(pagination.currentPage - 1) * 28 + 1}</span>
+                  {' '}-{' '}
+                  <span className="font-medium text-gray-900 dark:text-white">{Math.min(pagination.currentPage * 28, pagination.totalTools)}</span>
+                  {' '}of{' '}
+                  <span className="font-medium text-gray-900 dark:text-white">{pagination.totalTools}</span> tools
                 </div>
 
-                <nav className="flex items-center space-x-2">
-                  {Array.from({ length: pagination.totalPages }, (_, i) => i + 1).map((page) => (
-                    <button
-                      key={page}
-                      onClick={() => handlePageChange(page)}
-                      className={`px-4 py-2 text-sm font-medium rounded-md ${
-                        page === pagination.currentPage
-                          ? 'bg-primary-600 text-white dark:bg-primary-500'
-                          : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700'
-                      }`}
-                    >
-                      {page}
-                    </button>
-                  ))}
+                {/* Navigation */}
+                <nav className="isolate inline-flex -space-x-px rounded-md shadow-sm" aria-label="Pagination">
+                  {/* Previous Page */}
+                  <button
+                    onClick={() => handlePageChange(pagination.currentPage - 1)}
+                    disabled={pagination.currentPage === 1}
+                    className={`relative inline-flex items-center rounded-l-md px-3 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 dark:ring-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 focus:z-20 focus:outline-offset-0 ${
+                      pagination.currentPage === 1 
+                        ? 'opacity-50 cursor-not-allowed'
+                        : 'hover:text-gray-700 dark:hover:text-gray-200'
+                    }`}
+                  >
+                    <span className="sr-only">Previous</span>
+                    <FiChevronLeft className="h-5 w-5" aria-hidden="true" />
+                  </button>
+
+                  {/* Page Numbers */}
+                  {Array.from({ length: pagination.totalPages }, (_, i) => i + 1).map((page) => {
+                    // Show first page, last page, current page, and pages around current page
+                    if (
+                      page === 1 ||
+                      page === pagination.totalPages ||
+                      (page >= pagination.currentPage - 2 && page <= pagination.currentPage + 2)
+                    ) {
+                      return (
+                        <button
+                          key={page}
+                          onClick={() => handlePageChange(page)}
+                          className={`relative inline-flex items-center px-4 py-2 text-sm font-semibold ${
+                            page === pagination.currentPage
+                              ? 'z-10 bg-primary-600 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600'
+                              : 'text-gray-900 dark:text-gray-300 ring-1 ring-inset ring-gray-300 dark:ring-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 focus:z-20 focus:outline-offset-0'
+                          }`}
+                        >
+                          {page}
+                        </button>
+                      );
+                    }
+
+                    // Show ellipsis for skipped pages
+                    if (
+                      page === pagination.currentPage - 3 ||
+                      page === pagination.currentPage + 3
+                    ) {
+                      return (
+                        <span
+                          key={page}
+                          className="relative inline-flex items-center px-4 py-2 text-sm font-semibold text-gray-700 dark:text-gray-400 ring-1 ring-inset ring-gray-300 dark:ring-gray-700"
+                        >
+                          ...
+                        </span>
+                      );
+                    }
+
+                    return null;
+                  })}
+
+                  {/* Next Page */}
+                  <button
+                    onClick={() => handlePageChange(pagination.currentPage + 1)}
+                    disabled={pagination.currentPage === pagination.totalPages}
+                    className={`relative inline-flex items-center rounded-r-md px-3 py-2 text-gray-400 ring-1 ring-inset ring-gray-300 dark:ring-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 focus:z-20 focus:outline-offset-0 ${
+                      pagination.currentPage === pagination.totalPages
+                        ? 'opacity-50 cursor-not-allowed'
+                        : 'hover:text-gray-700 dark:hover:text-gray-200'
+                    }`}
+                  >
+                    <span className="sr-only">Next</span>
+                    <FiChevronRight className="h-5 w-5" aria-hidden="true" />
+                  </button>
                 </nav>
+
+                {/* Jump to Page (for many pages) */}
+                {pagination.totalPages > 10 && (
+                  <div className="flex items-center space-x-4">
+                    <label htmlFor="page-number" className="text-sm text-gray-700 dark:text-gray-400">
+                      Jump to page:
+                    </label>
+                    <input
+                      type="number"
+                      id="page-number"
+                      min="1"
+                      max={pagination.totalPages}
+                      value={pagination.currentPage}
+                      onChange={(e) => {
+                        const page = parseInt(e.target.value);
+                        if (page >= 1 && page <= pagination.totalPages) {
+                          handlePageChange(page);
+                        }
+                      }}
+                      className="block w-16 rounded-md border-0 py-1.5 text-center text-gray-900 dark:text-white dark:bg-gray-800 shadow-sm ring-1 ring-inset ring-gray-300 dark:ring-gray-700 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-primary-600 sm:text-sm sm:leading-6"
+                    />
+                    <span className="text-sm text-gray-700 dark:text-gray-400">
+                      of {pagination.totalPages}
+                    </span>
+                  </div>
+                )}
               </div>
             )}
+
           </>
         )}
       </div>
