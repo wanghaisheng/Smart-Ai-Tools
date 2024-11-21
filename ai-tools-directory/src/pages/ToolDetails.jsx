@@ -22,14 +22,14 @@ const staggerContainer = {
 
 export default function ToolDetails() {
   const { id } = useParams();
-  const { currentTool, loadToolDetails, loading, error } = useTools();
+  const { currentTool, getTool, loading, error } = useTools();
 
   useEffect(() => {
     if (id) {
-      loadToolDetails(id);
+      getTool(id);
       window.scrollTo(0, 0);
     }
-  }, [id, loadToolDetails]);
+  }, [id, getTool]);
 
   if (loading) {
     return (

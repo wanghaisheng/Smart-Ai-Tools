@@ -235,7 +235,7 @@ export default function Tools() {
                         </span>
                       </div>
                       <Link
-                        to={`/tools/${tool._id}`}
+                        to={`/tool/${tool._id}`}
                         className="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
                       >
                         Learn more
