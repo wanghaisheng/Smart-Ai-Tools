@@ -1,0 +1,28 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+      "languages": {
+        "description": [
+          {
+            "type": "description",
+            "content": {
+              "de": "AIs und Kategorien im besten AI Tools Verzeichnis. AI-Tools Liste & GPTs speichern werden täglich von ChatGPT aktualisiert.",
+              "en": "AIs and categories in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT.",
+              "es": "AIs y  categorías en el mejor directorio de herramientas AI. Lista de herramientas de IA y GPTs tienda se actualizan diariamente por ChatGPT.",
+              "fr": "AIs et catégories dans le meilleur répertoire d'outils d'IA. La liste des outils d'IA et la boutique GPTs sont mises à jour quotidiennement par ChatGPT.",
+              "ja": "AIとカテゴリ 最高のAIツールディレクトリで。AIツールリスト＆GPTストアはChatGPTによって毎日更新されます。",
+              "ko": "AI 및카테고리 를 최고의 AI 도구 디렉토리에 저장합니다. AI 도구 목록 및 GPT 스토어는 ChatGPT에서 매일 업데이트합니다.",
+              "pt": "AIs e categorias no melhor diretório de ferramentas de IA. A lista de ferramentas de IA e a loja de GPTs são atualizadas diariamente pelo ChatGPT.",
+              "tw": "AI工具和分類 已收錄於最大的AI工具導航站。 AI工具清單和GPTs清單透過ChatGPT每天自動更新。",
+              "vi": "công cụ AI và danh mục Nó đã được đưa vào trang web điều hướng công cụ AI lớn nhất. Danh sách công cụ AI và danh sách GPT được cập nhật tự động hàng ngày thông qua ChatGPT.",
+              "zh": "AI工具和分类 已收录于最大的AI工具导航站。AI工具列表和GPTs列表通过ChatGPT每天自动更新。",
+              "default": "AIs and categories in the best AI tools directory. AI tools list & GPTs store are updated daily by ChatGPT."
+            }
+          }
+        ]
+      },
+      "is_logged_in": false
+    },
+    "error_code": 0
+  }
