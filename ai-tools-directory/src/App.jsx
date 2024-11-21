@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Suspense, lazy } from 'react'
+import { Toaster } from 'react-hot-toast'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import LoadingSpinner from './components/LoadingSpinner'
@@ -49,14 +50,7 @@ function App() {
                         <Route path="/about" element={<About />} />
                         <Route path="/login" element={<LoginForm />} />
                         <Route path="/register" element={<RegisterForm />} />
-                        <Route
-                          path="/submit-tool"
-                          element={
-                            <PrivateRoute>
-                              <SubmitTool />
-                            </PrivateRoute>
-                          }
-                        />
+                        <Route path="/submit-tool" element={<SubmitTool />} />
                         <Route
                           path="/profile"
                           element={
@@ -86,12 +80,28 @@ function App() {
                 </main>
                 <Footer />
               </div>
+              <Toaster 
+                position="top-right"
+                toastOptions={{
+                  duration: 3000,
+                  style: {
+                    background: '#333',
+                    color: '#fff',
+                  },
+                  success: {
+                    duration: 3000,
+                    theme: {
+                      primary: '#4aed88',
+                    },
+                  },
+                }}
+              />
             </ErrorBoundary>
           </ToolsProvider>
         </Router>
       </ThemeProvider>
     </AuthProvider>
-  );
+  )
 }
 
-export default App;
+export default App

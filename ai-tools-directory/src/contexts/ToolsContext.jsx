@@ -85,6 +85,41 @@ export const ToolsProvider = ({ children }) => {
     }
   }, [])
 
+  const submitTool = useCallback(async (toolData) => {
+    try {
+      setLoading(true);
+      setError(null);
+      
+      const formData = new FormData();
+      Object.keys(toolData).forEach(key => {
+        if (key === 'screenshots') {
+          toolData[key].forEach(file => {
+            formData.append('screenshots', file);
+          });
+        } else if (key === 'logo') {
+          formData.append('logo', toolData[key]);
+        } else {
+          formData.append(key, toolData[key]);
+        }
+      });
+
+      const response = await api.post('/tools', formData, {
+        headers: {
+          'Content-Type': 'multipart/form-data',
+        },
+      });
+
+      // Refresh the tools list
+      loadTools();
+      return response.data;
+    } catch (err) {
+      setError(err.message);
+      throw err;
+    } finally {
+      setLoading(false);
+    }
+  }, [loadTools]);
+
   const value = useMemo(() => ({
     tools,
     loading,
@@ -97,8 +132,9 @@ export const ToolsProvider = ({ children }) => {
     setPagination,
     getTool,
     loadTools,
-    loadCategories
-  }), [tools, loading, error, categories, currentTool, filters, pagination, getTool, loadTools, loadCategories])
+    loadCategories,
+    submitTool
+  }), [tools, loading, error, categories, currentTool, filters, pagination, getTool, loadTools, loadCategories, submitTool])
 
   return (
     <ToolsContext.Provider value={value}>

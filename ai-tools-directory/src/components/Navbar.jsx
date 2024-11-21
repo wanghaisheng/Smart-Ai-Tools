@@ -67,6 +67,12 @@ export default function Navbar() {
 
           {/* Desktop Right Section */}
           <div className="hidden md:flex md:items-center md:space-x-4">
+            <Link
+              to="/submit-tool"
+              className="inline-flex items-center px-4 py-2 text-sm font-medium text-primary-600 border border-primary-600 rounded-lg hover:bg-primary-50 dark:text-primary-400 dark:border-primary-400 dark:hover:bg-primary-900/30 transition-colors duration-300"
+            >
+              Submit Tool
+            </Link>
             <button
               onClick={toggleDarkMode}
               className="p-2 text-gray-700 hover:text-primary-600 dark:text-gray-300 dark:hover:text-primary-400 rounded-lg transition-colors duration-300"
@@ -119,20 +125,27 @@ export default function Navbar() {
               <Link
                 key={item.name}
                 to={item.href}
-                onClick={() => setIsOpen(false)}
                 className={`block px-3 py-2 rounded-lg text-base font-medium transition-colors duration-300 ${
                   location.pathname === item.href
                     ? 'text-primary-600 bg-primary-50 dark:text-primary-400 dark:bg-primary-900/50'
                     : 'text-gray-700 hover:text-primary-600 hover:bg-primary-50 dark:text-gray-300 dark:hover:text-primary-400 dark:hover:bg-primary-900/50'
                 }`}
+                onClick={() => setIsOpen(false)}
               >
                 {item.name}
               </Link>
             ))}
             <Link
-              to="/login"
+              to="/submit-tool"
+              className="block px-3 py-2 text-base font-medium text-primary-600 dark:text-primary-400 hover:bg-gray-50 dark:hover:bg-gray-700 rounded-md"
               onClick={() => setIsOpen(false)}
-              className="block px-3 py-2 text-base font-medium text-white bg-primary-600 rounded-lg shadow-sm hover:bg-primary-700"
+            >
+              Submit Tool
+            </Link>
+            <Link
+              to="/login"
+              className="block px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700 rounded-md"
+              onClick={() => setIsOpen(false)}
             >
               Sign In
             </Link>
