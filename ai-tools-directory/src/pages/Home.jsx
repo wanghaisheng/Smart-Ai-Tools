@@ -22,186 +22,209 @@ export default function Home() {
   const { tools } = useTools()
 
   // Get top rated tools
-  const topTools = [...tools]
-    .sort((a, b) => b.rating.average - a.rating.average)
+  const topTools = [...(tools || [])]
+    .sort((a, b) => (b.rating?.average || 0) - (a.rating?.average || 0))
     .slice(0, 3)
 
-  // Get trending categories
-  const trendingCategories = [
-    { name: 'Text Generation', count: 156, trend: '+12%' },
-    { name: 'Image Generation', count: 89, trend: '+28%' },
-    { name: 'Code Assistant', count: 67, trend: '+15%' },
-    { name: 'ChatBots', count: 45, trend: '+20%' }
+  // Featured categories with modern AI focus
+  const featuredCategories = [
+    { name: 'Text Generation', icon: '✍️', count: 156, trend: '+12%' },
+    { name: 'Image Creation', icon: '🎨', count: 98, trend: '+25%' },
+    { name: 'Code Assistant', icon: '💻', count: 87, trend: '+18%' },
+    { name: 'Audio & Speech', icon: '🎵', count: 64, trend: '+15%' }
   ]
 
   return (
-    <div className="min-h-screen bg-white">
-      {/* Hero Section with Search */}
-      <div className="bg-gradient-to-br from-blue-50 via-indigo-50 to-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-16">
-          <motion.div
-            initial="hidden"
-            animate="visible"
-            variants={staggerContainer}
-            className="text-center max-w-4xl mx-auto"
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800">
+      {/* Hero Section */}
+      <section className="px-4 pt-20 pb-16 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <motion.div
+          initial="hidden"
+          animate="visible"
+          variants={staggerContainer}
+          className="text-center"
+        >
+          <motion.h1 
+            variants={fadeInUp}
+            className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl"
           >
-            <motion.h1
-              variants={fadeInUp}
-              className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600"
-            >
-              Discover the Best AI Tools
-            </motion.h1>
-            <motion.p
-              variants={fadeInUp}
-              className="text-xl text-gray-600 mb-8"
-            >
-              Your gateway to 1000+ AI tools across 50+ categories
-            </motion.p>
-
-            {/* Search Bar */}
-            <motion.div
-              variants={fadeInUp}
-              className="flex items-center max-w-2xl mx-auto bg-white rounded-full shadow-lg p-2 mb-8"
-            >
-              <div className="flex-1 flex items-center">
-                <FiSearch className="ml-4 text-gray-400 w-5 h-5" />
-                <input
-                  type="text"
-                  placeholder="Search AI tools..."
-                  className="w-full px-4 py-2 focus:outline-none text-gray-700"
-                />
-              </div>
-              <Link
-                to="/tools"
-                className="px-6 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors duration-300"
-              >
-                Search
-              </Link>
-            </motion.div>
-
-            {/* Quick Stats */}
-            <motion.div
-              variants={fadeInUp}
-              className="grid grid-cols-3 gap-8 max-w-3xl mx-auto"
-            >
-              <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">1000+</div>
-                <div className="text-sm text-gray-600">AI Tools</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-purple-600">50+</div>
-                <div className="text-sm text-gray-600">Categories</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-green-600">24/7</div>
-                <div className="text-sm text-gray-600">Updates</div>
-              </div>
-            </motion.div>
+            Discover the Best
+            <span className="block text-primary-600 dark:text-primary-400">AI Tools</span>
+          </motion.h1>
+          <motion.p
+            variants={fadeInUp}
+            className="max-w-2xl mx-auto mt-6 text-lg text-gray-600 dark:text-gray-300"
+          >
+            Explore our curated collection of cutting-edge AI tools to enhance your productivity and creativity.
+          </motion.p>
+          
+          {/* Search Bar */}
+          <motion.div 
+            variants={fadeInUp}
+            className="max-w-2xl mx-auto mt-8"
+          >
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Search AI tools..."
+                className="w-full px-4 py-3 text-gray-900 placeholder-gray-500 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent dark:bg-gray-800 dark:text-white dark:border-gray-700"
+              />
+              <button className="absolute right-2 top-2.5 p-1.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300">
+                <FiSearch className="w-5 h-5" />
+              </button>
+            </div>
           </motion.div>
-        </div>
-      </div>
+        </motion.div>
+      </section>
 
-      {/* Featured Tools Section */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="flex items-center justify-between mb-8">
-          <h2 className="text-2xl font-bold text-gray-900">Top Rated Tools</h2>
-          <Link
-            to="/tools"
-            className="flex items-center text-blue-600 hover:text-blue-700 transition-colors duration-300"
-          >
-            View All
-            <FiArrowRight className="ml-2" />
-          </Link>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {topTools.map((tool) => (
-            <motion.div
-              key={tool._id}
-              whileHover={{ y: -5 }}
-              className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300"
-            >
-              <div className="aspect-w-16 aspect-h-9 bg-gray-100">
-                <img
-                  src={tool.image || 'https://via.placeholder.com/400x225?text=AI+Tool'}
-                  alt={tool.name}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="p-6">
-                <div className="flex items-center justify-between mb-4">
-                  <h3 className="text-lg font-semibold text-gray-900">{tool.name}</h3>
-                  <div className="flex items-center">
-                    <FiStar className="text-yellow-400 w-5 h-5" />
-                    <span className="ml-1 text-sm text-gray-600">{tool.rating?.average?.toFixed(1) || 'N/A'}</span>
-                  </div>
-                </div>
-                <p className="text-sm text-gray-600 line-clamp-2 mb-4">{tool.description}</p>
-                <Link
-                  to={`/tools/${tool._id}`}
-                  className="flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition-colors duration-300"
-                >
-                  Learn More
-                </Link>
-              </div>
-            </motion.div>
-          ))}
-        </div>
-      </div>
-
-      {/* Trending Categories */}
-      <div className="bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="flex items-center justify-between mb-8">
-            <h2 className="text-2xl font-bold text-gray-900">Trending Categories</h2>
-            <Link
-              to="/categories"
-              className="flex items-center text-blue-600 hover:text-blue-700 transition-colors duration-300"
-            >
-              All Categories
-              <FiArrowRight className="ml-2" />
-            </Link>
+      {/* Featured Categories */}
+      <section className="px-4 py-16 bg-white dark:bg-gray-800/50">
+        <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
+          <div className="text-center">
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
+              Featured Categories
+            </h2>
+            <p className="max-w-2xl mx-auto mt-4 text-gray-600 dark:text-gray-300">
+              Browse through our most popular AI tool categories
+            </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-            {trendingCategories.map((category) => (
+          <div className="grid grid-cols-1 gap-6 mt-12 sm:grid-cols-2 lg:grid-cols-4">
+            {featuredCategories.map((category) => (
               <motion.div
                 key={category.name}
-                whileHover={{ y: -5 }}
-                className="bg-white rounded-2xl shadow-lg p-6 transition-all duration-300 hover:shadow-xl"
+                variants={fadeInUp}
+                whileHover={{ scale: 1.02 }}
+                className="relative p-6 bg-white dark:bg-gray-800 rounded-xl shadow-soft hover:shadow-lg transition-shadow duration-300"
               >
-                <div className="flex items-center justify-between mb-4">
-                  <div className="p-3 rounded-lg bg-blue-100 text-blue-600">
-                    <FiGrid className="w-6 h-6" />
-                  </div>
-                  <div className="flex items-center text-green-600">
-                    <FiTrendingUp className="w-4 h-4 mr-1" />
+                <div className="flex items-center justify-between">
+                  <span className="text-4xl">{category.icon}</span>
+                  <span className="px-2.5 py-1 text-sm font-medium text-green-700 bg-green-100 rounded-full dark:bg-green-900/30 dark:text-green-400">
                     {category.trend}
-                  </div>
+                  </span>
                 </div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">{category.name}</h3>
-                <p className="text-sm text-gray-600">{category.count} tools</p>
+                <h3 className="mt-4 text-xl font-semibold text-gray-900 dark:text-white">
+                  {category.name}
+                </h3>
+                <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                  {category.count} tools available
+                </p>
+                <Link
+                  to={`/categories/${category.name.toLowerCase().replace(/\s+/g, '-')}`}
+                  className="absolute inset-0 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800"
+                  aria-label={`View ${category.name} category`}
+                />
               </motion.div>
             ))}
           </div>
         </div>
-      </div>
+      </section>
 
-      {/* CTA Section */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl shadow-xl p-8 text-white text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Explore?</h2>
-          <p className="text-lg mb-8 opacity-90">
-            Start discovering the perfect AI tools for your needs
-          </p>
-          <Link
-            to="/tools"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors duration-300"
-          >
-            Browse All Tools
-          </Link>
+      {/* Top Rated Tools */}
+      <section className="px-4 py-16 dark:bg-gray-900">
+        <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
+          <div className="text-center">
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
+              Top Rated Tools
+            </h2>
+            <p className="max-w-2xl mx-auto mt-4 text-gray-600 dark:text-gray-300">
+              Discover the most loved AI tools by our community
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 gap-8 mt-12 sm:grid-cols-2 lg:grid-cols-3">
+            {topTools.map((tool) => (
+              <motion.div
+                key={tool.id}
+                variants={fadeInUp}
+                whileHover={{ y: -5 }}
+                className="overflow-hidden bg-white dark:bg-gray-800 rounded-xl shadow-soft"
+              >
+                <div className="p-6">
+                  <div className="flex items-center justify-between">
+                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
+                      {tool.name}
+                    </h3>
+                    <div className="flex items-center">
+                      <FiStar className="w-5 h-5 text-yellow-400" />
+                      <span className="ml-1 text-sm font-medium text-gray-900 dark:text-white">
+                        {tool.rating?.average?.toFixed(1) || "N/A"}
+                      </span>
+                    </div>
+                  </div>
+                  <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                    {tool.description}
+                  </p>
+                  <div className="flex items-center justify-between mt-4">
+                    <div className="flex items-center space-x-2">
+                      {tool.tags?.slice(0, 2).map((tag) => (
+                        <span
+                          key={tag}
+                          className="px-2.5 py-0.5 text-xs font-medium text-primary-700 bg-primary-100 rounded-full dark:bg-primary-900/30 dark:text-primary-400"
+                        >
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                    <Link
+                      to={`/tools/${tool.id}`}
+                      className="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
+                    >
+                      Learn more
+                      <FiArrowRight className="w-4 h-4 ml-1" />
+                    </Link>
+                  </div>
+                </div>
+              </motion.div>
+            ))}
+          </div>
+
+          <div className="mt-12 text-center">
+            <Link
+              to="/tools"
+              className="inline-flex items-center px-6 py-3 text-base font-medium text-white bg-primary-600 rounded-lg shadow-sm hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
+            >
+              View All Tools
+              <FiArrowRight className="w-4 h-4 ml-2" />
+            </Link>
+          </div>
         </div>
-      </div>
+      </section>
+
+      {/* Newsletter Section */}
+      <section className="px-4 py-16 bg-primary-600 dark:bg-primary-900">
+        <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
+          <div className="max-w-2xl mx-auto text-center">
+            <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
+              Stay Updated
+            </h2>
+            <p className="mt-4 text-lg text-primary-100">
+              Get the latest AI tools and updates delivered to your inbox
+            </p>
+            <form className="mt-8 sm:flex sm:max-w-md sm:mx-auto">
+              <label htmlFor="email" className="sr-only">
+                Email address
+              </label>
+              <input
+                type="email"
+                name="email"
+                id="email"
+                required
+                className="w-full px-5 py-3 text-base text-gray-900 placeholder-gray-500 bg-white border border-transparent rounded-lg focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-600"
+                placeholder="Enter your email"
+              />
+              <div className="mt-3 sm:mt-0 sm:ml-3">
+                <button
+                  type="submit"
+                  className="flex items-center justify-center w-full px-5 py-3 text-base font-medium text-primary-600 bg-white border border-transparent rounded-lg hover:bg-primary-50 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-600"
+                >
+                  Subscribe
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
