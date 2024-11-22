@@ -20,6 +20,9 @@ const Categories = lazy(() => import('./pages/Categories'))
 const About = lazy(() => import('./pages/About'))
 const ToolDetails = lazy(() => import('./pages/ToolDetails'))
 const SubmitTool = lazy(() => import('./pages/SubmitTool'))
+const Dashboard = lazy(() => import('./pages/Dashboard'))
+const DashboardOverview = lazy(() => import('./pages/Dashboard/DashboardOverview'))
+const FavoriteTools = lazy(() => import('./pages/Dashboard/FavoriteTools'))
 
 function App() {
   return (
@@ -59,6 +62,18 @@ function App() {
                             </PrivateRoute>
                           }
                         />
+                        {/* Dashboard Routes */}
+                        <Route
+                          path="/dashboard"
+                          element={
+                            <PrivateRoute>
+                              <Dashboard />
+                            </PrivateRoute>
+                          }
+                        >
+                          <Route index element={<DashboardOverview />} />
+                          <Route path="favorites" element={<FavoriteTools />} />
+                        </Route>
                         <Route 
                           path="*" 
                           element={
@@ -101,7 +116,7 @@ function App() {
         </Router>
       </ThemeProvider>
     </AuthProvider>
-  )
+  );
 }
 
 export default App

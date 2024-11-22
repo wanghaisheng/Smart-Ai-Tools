@@ -180,17 +180,14 @@ export default function Navbar() {
 
               {/* User Profile/Login */}
               {isAuthenticated ? (
-                <Menu as="div" className="relative">
-                  <Menu.Button className="flex items-center space-x-2">
+                <Menu as="div" className="relative ml-3">
+                  <Menu.Button className="flex items-center">
                     <motion.div
                       whileHover={{ scale: 1.05 }}
                       whileTap={{ scale: 0.95 }}
+                      className="flex items-center justify-center w-8 h-8 rounded-full bg-primary-500 text-white"
                     >
-                      <img
-                        src={user.avatar || 'https://via.placeholder.com/32'}
-                        alt={user.name}
-                        className="w-8 h-8 rounded-full object-cover ring-2 ring-primary-500 ring-offset-2 dark:ring-offset-gray-900"
-                      />
+                      {user?.username?.charAt(0).toUpperCase() || <FiUser />}
                     </motion.div>
                   </Menu.Button>
                   <Transition
@@ -202,47 +199,48 @@ export default function Navbar() {
                     leaveFrom="transform opacity-100 scale-100"
                     leaveTo="transform opacity-0 scale-95"
                   >
-                    <Menu.Items className="absolute right-0 mt-2 w-48 origin-top-right rounded-md bg-white dark:bg-gray-800 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none py-1">
-                      <Menu.Item>
-                        {({ active }) => (
-                          <Link
-                            to="/profile"
-                            className={`${
-                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
-                            } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-300`}
-                          >
-                            <FiUser className="mr-3 h-5 w-5" />
-                            Profile
-                          </Link>
-                        )}
-                      </Menu.Item>
-                      <Menu.Item>
-                        {({ active }) => (
-                          <Link
-                            to="/settings"
-                            className={`${
-                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
-                            } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-300`}
-                          >
-                            <FiSettings className="mr-3 h-5 w-5" />
-                            Settings
-                          </Link>
-                        )}
-                      </Menu.Item>
-                      <div className="border-t border-gray-200 dark:border-gray-700" />
-                      <Menu.Item>
-                        {({ active }) => (
-                          <button
-                            onClick={logout}
-                            className={`${
-                              active ? 'bg-gray-100 dark:bg-gray-700' : ''
-                            } flex w-full items-center px-4 py-2 text-sm text-red-600 dark:text-red-400`}
-                          >
-                            <FiLogOut className="mr-3 h-5 w-5" />
-                            Sign out
-                          </button>
-                        )}
-                      </Menu.Item>
+                    <Menu.Items className="absolute right-0 mt-2 w-48 origin-top-right bg-white dark:bg-gray-800 rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
+                      <div className="py-1">
+                        <Menu.Item>
+                          {({ active }) => (
+                            <Link
+                              to="/dashboard"
+                              className={`${
+                                active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                              } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-200`}
+                            >
+                              <FiGrid className="mr-3 h-5 w-5" />
+                              Dashboard
+                            </Link>
+                          )}
+                        </Menu.Item>
+                        <Menu.Item>
+                          {({ active }) => (
+                            <Link
+                              to="/profile"
+                              className={`${
+                                active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                              } flex items-center px-4 py-2 text-sm text-gray-700 dark:text-gray-200`}
+                            >
+                              <FiUser className="mr-3 h-5 w-5" />
+                              Profile
+                            </Link>
+                          )}
+                        </Menu.Item>
+                        <Menu.Item>
+                          {({ active }) => (
+                            <button
+                              onClick={logout}
+                              className={`${
+                                active ? 'bg-gray-100 dark:bg-gray-700' : ''
+                              } flex items-center w-full px-4 py-2 text-sm text-gray-700 dark:text-gray-200`}
+                            >
+                              <FiLogOut className="mr-3 h-5 w-5" />
+                              Sign out
+                            </button>
+                          )}
+                        </Menu.Item>
+                      </div>
                     </Menu.Items>
                   </Transition>
                 </Menu>
