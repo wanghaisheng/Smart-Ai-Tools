@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiEdit2, FiTrash2, FiPlus, FiEye, FiLock, FiGlobe } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import { api } from '../../utils/api';
 import toast from 'react-hot-toast';
 
 export default function Collections() {
@@ -21,7 +21,7 @@ export default function Collections() {
 
   const fetchCollections = async () => {
     try {
-      const response = await axios.get('/api/collections');
+      const response = await api.get('/collections');
       setCollections(response.data);
     } catch (error) {
       toast.error('Failed to fetch collections');
@@ -34,7 +34,7 @@ export default function Collections() {
   const handleCreateCollection = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('/api/collections', newCollection);
+      const response = await api.post('/collections', newCollection);
       setCollections([response.data, ...collections]);
       setShowCreateModal(false);
       setNewCollection({ name: '', description: '', isPublic: false });
@@ -49,7 +49,7 @@ export default function Collections() {
     if (!window.confirm('Are you sure you want to delete this collection?')) return;
 
     try {
-      await axios.delete(`/api/collections/${collectionId}`);
+      await api.delete(`/collections/${collectionId}`);
       toast.success('Collection deleted successfully');
       setCollections(collections.filter(collection => collection._id !== collectionId));
     } catch (error) {

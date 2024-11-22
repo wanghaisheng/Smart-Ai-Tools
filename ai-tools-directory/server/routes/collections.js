@@ -2,6 +2,7 @@ import express from 'express';
 import { auth } from '../middleware/auth.js';
 import Collection from '../models/Collection.js';
 import Tool from '../models/Tool.js';
+import { body, validationResult } from 'express-validator';
 
 const router = express.Router();
 
@@ -14,7 +15,7 @@ router.get('/', auth, async (req, res) => {
     res.json(collections);
   } catch (error) {
     console.error('Error fetching collections:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch collections', error: error.message });
   }
 });
 
@@ -28,12 +29,12 @@ router.get('/public', async (req, res) => {
     res.json(collections);
   } catch (error) {
     console.error('Error fetching public collections:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch public collections', error: error.message });
   }
 });
 
 // Get a single collection by ID
-router.get('/:id', async (req, res) => {
+router.get('/:id', auth, async (req, res) => {
   try {
     const collection = await Collection.findById(req.params.id)
       .populate('user', 'username avatar')
@@ -51,13 +52,24 @@ router.get('/:id', async (req, res) => {
     res.json(collection);
   } catch (error) {
     console.error('Error fetching collection:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch collection', error: error.message });
   }
 });
 
 // Create a new collection
-router.post('/', auth, async (req, res) => {
+router.post('/', [
+  auth,
+  body('name').trim().isLength({ min: 1, max: 100 }).withMessage('Name must be between 1 and 100 characters'),
+  body('description').optional().trim().isLength({ max: 500 }).withMessage('Description cannot exceed 500 characters'),
+  body('isPublic').optional().isBoolean().withMessage('isPublic must be a boolean value'),
+  body('tags').optional().isArray().withMessage('Tags must be an array')
+], async (req, res) => {
   try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
     const { name, description, isPublic, tags } = req.body;
 
     const collection = new Collection({
@@ -73,13 +85,24 @@ router.post('/', auth, async (req, res) => {
     res.status(201).json(collection);
   } catch (error) {
     console.error('Error creating collection:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to create collection', error: error.message });
   }
 });
 
 // Update a collection
-router.put('/:id', auth, async (req, res) => {
+router.put('/:id', [
+  auth,
+  body('name').optional().trim().isLength({ min: 1, max: 100 }).withMessage('Name must be between 1 and 100 characters'),
+  body('description').optional().trim().isLength({ max: 500 }).withMessage('Description cannot exceed 500 characters'),
+  body('isPublic').optional().isBoolean().withMessage('isPublic must be a boolean value'),
+  body('tags').optional().isArray().withMessage('Tags must be an array')
+], async (req, res) => {
   try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
     const collection = await Collection.findOne({
       _id: req.params.id,
       user: req.userId
@@ -91,90 +114,23 @@ router.put('/:id', auth, async (req, res) => {
 
     const { name, description, isPublic, tags } = req.body;
 
-    collection.name = name || collection.name;
-    collection.description = description || collection.description;
-    collection.isPublic = isPublic !== undefined ? isPublic : collection.isPublic;
-    collection.tags = tags || collection.tags;
+    if (name) collection.name = name;
+    if (description !== undefined) collection.description = description;
+    if (isPublic !== undefined) collection.isPublic = isPublic;
+    if (tags) collection.tags = tags;
 
     await collection.save();
     res.json(collection);
   } catch (error) {
     console.error('Error updating collection:', error);
-    res.status(500).json({ message: 'Server error' });
-  }
-});
-
-// Add tools to a collection
-router.post('/:id/add', auth, async (req, res) => {
-  try {
-    const collection = await Collection.findOne({
-      _id: req.params.id,
-      user: req.userId
-    });
-
-    if (!collection) {
-      return res.status(404).json({ message: 'Collection not found' });
-    }
-
-    const { tools } = req.body;
-    if (!Array.isArray(tools)) {
-      return res.status(400).json({ message: 'Tools must be an array' });
-    }
-
-    // Verify tools exist and add only unique ones
-    const validTools = await Tool.find({ _id: { $in: tools } });
-    const validToolIds = validTools.map(tool => tool._id);
-    
-    collection.tools = [...new Set([...collection.tools, ...validToolIds])];
-    await collection.save();
-
-    const populatedCollection = await Collection.findById(collection._id)
-      .populate('tools', 'name description image');
-    
-    res.json(populatedCollection);
-  } catch (error) {
-    console.error('Error adding tools to collection:', error);
-    res.status(500).json({ message: 'Server error' });
-  }
-});
-
-// Remove tools from a collection
-router.post('/:id/remove', auth, async (req, res) => {
-  try {
-    const collection = await Collection.findOne({
-      _id: req.params.id,
-      user: req.userId
-    });
-
-    if (!collection) {
-      return res.status(404).json({ message: 'Collection not found' });
-    }
-
-    const { tools } = req.body;
-    if (!Array.isArray(tools)) {
-      return res.status(400).json({ message: 'Tools must be an array' });
-    }
-
-    collection.tools = collection.tools.filter(
-      toolId => !tools.includes(toolId.toString())
-    );
-    
-    await collection.save();
-
-    const populatedCollection = await Collection.findById(collection._id)
-      .populate('tools', 'name description image');
-    
-    res.json(populatedCollection);
-  } catch (error) {
-    console.error('Error removing tools from collection:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to update collection', error: error.message });
   }
 });
 
 // Delete a collection
 router.delete('/:id', auth, async (req, res) => {
   try {
-    const collection = await Collection.findOneAndDelete({
+    const collection = await Collection.findOne({
       _id: req.params.id,
       user: req.userId
     });
@@ -183,10 +139,79 @@ router.delete('/:id', auth, async (req, res) => {
       return res.status(404).json({ message: 'Collection not found' });
     }
 
+    await collection.deleteOne();
     res.json({ message: 'Collection deleted successfully' });
   } catch (error) {
     console.error('Error deleting collection:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to delete collection', error: error.message });
+  }
+});
+
+// Add tool to collection
+router.post('/:id/tools', [
+  auth,
+  body('toolId').trim().notEmpty().withMessage('Tool ID is required')
+], async (req, res) => {
+  try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    const collection = await Collection.findOne({
+      _id: req.params.id,
+      user: req.userId
+    });
+
+    if (!collection) {
+      return res.status(404).json({ message: 'Collection not found' });
+    }
+
+    const { toolId } = req.body;
+    const tool = await Tool.findById(toolId);
+
+    if (!tool) {
+      return res.status(404).json({ message: 'Tool not found' });
+    }
+
+    if (collection.tools.includes(toolId)) {
+      return res.status(400).json({ message: 'Tool already in collection' });
+    }
+
+    collection.tools.push(toolId);
+    await collection.save();
+
+    res.json(collection);
+  } catch (error) {
+    console.error('Error adding tool to collection:', error);
+    res.status(500).json({ message: 'Failed to add tool to collection', error: error.message });
+  }
+});
+
+// Remove tool from collection
+router.delete('/:id/tools/:toolId', auth, async (req, res) => {
+  try {
+    const collection = await Collection.findOne({
+      _id: req.params.id,
+      user: req.userId
+    });
+
+    if (!collection) {
+      return res.status(404).json({ message: 'Collection not found' });
+    }
+
+    const toolIndex = collection.tools.indexOf(req.params.toolId);
+    if (toolIndex === -1) {
+      return res.status(404).json({ message: 'Tool not found in collection' });
+    }
+
+    collection.tools.splice(toolIndex, 1);
+    await collection.save();
+
+    res.json(collection);
+  } catch (error) {
+    console.error('Error removing tool from collection:', error);
+    res.status(500).json({ message: 'Failed to remove tool from collection', error: error.message });
   }
 });
 

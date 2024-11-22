@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api = axios.create({
+export const api = axios.create({
   baseURL: '/api',  // Use relative URL for proxy
   headers: {
     'Content-Type': 'application/json',
@@ -47,8 +47,8 @@ api.interceptors.response.use(
             // Update the original request with the new token
             originalRequest.headers.Authorization = `Bearer ${refreshResponse.data.token}`;
             
-            // Retry the original request
-            return axios(originalRequest);
+            // Retry the original request with the configured api instance
+            return api(originalRequest);
           }
         }
         
@@ -67,4 +67,5 @@ api.interceptors.response.use(
   }
 );
 
+// Also export as default for backward compatibility
 export default api;
