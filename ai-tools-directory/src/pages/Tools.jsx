@@ -5,6 +5,7 @@ import { useTools } from '../contexts/ToolsContext'
 import { FiSearch, FiFilter, FiStar, FiExternalLink, FiArrowRight, FiX, FiChevronLeft, FiChevronRight } from 'react-icons/fi'
 import { useSearchParams } from 'react-router-dom'
 import { Disclosure, Transition } from '@headlessui/react'
+import { ToolCard } from '../components'
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 20 },
@@ -200,49 +201,9 @@ export default function Tools() {
                 <motion.div
                   key={tool._id}
                   variants={fadeInUp}
-                  whileHover={{ y: -5 }}
-                  className="bg-white dark:bg-gray-800 rounded-xl shadow-soft hover:shadow-lg transition-shadow duration-300"
+                  className="h-full"
                 >
-                  <div className="aspect-w-16 aspect-h-9">
-                    <img
-                      src={tool.image}
-                      alt={tool.name}
-                      className="object-cover rounded-t-xl"
-                    />
-                  </div>
-                  <div className="p-6">
-                    <div className="flex items-center justify-between mb-4">
-                      <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
-                        {tool.name}
-                      </h3>
-                      <div className="flex items-center">
-                        <FiStar className="w-5 h-5 text-yellow-400" />
-                        <span className="ml-1 text-sm font-medium text-gray-900 dark:text-white">
-                          {tool.rating?.average?.toFixed(1) || "N/A"}
-                        </span>
-                      </div>
-                    </div>
-                    <p className="text-gray-600 dark:text-gray-400 mb-4 line-clamp-2">
-                      {tool.description}
-                    </p>
-                    <div className="flex items-center justify-between">
-                      <div className="flex flex-wrap gap-2">
-                        <span className="px-2.5 py-0.5 text-xs font-medium text-primary-700 bg-primary-100 rounded-full dark:bg-primary-900/30 dark:text-primary-400">
-                          {tool.category}
-                        </span>
-                        <span className="px-2.5 py-0.5 text-xs font-medium text-gray-600 bg-gray-100 rounded-full dark:bg-gray-700 dark:text-gray-300">
-                          {tool.pricing}
-                        </span>
-                      </div>
-                      <Link
-                        to={`/tool/${tool._id}`}
-                        className="inline-flex items-center text-sm font-medium text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
-                      >
-                        Learn more
-                        <FiArrowRight className="w-4 h-4 ml-1" />
-                      </Link>
-                    </div>
-                  </div>
+                  <ToolCard tool={tool} />
                 </motion.div>
               ))}
             </motion.div>

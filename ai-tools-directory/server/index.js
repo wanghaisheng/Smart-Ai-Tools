@@ -17,6 +17,7 @@ import profileRoutes from './routes/profiles.js';
 import toolRoutes from './routes/tools.js';
 import reviewRoutes from './routes/reviews.js';
 import categoryRoutes from './routes/categories.js';
+import favoriteRoutes from './routes/favorites.js';
 
 dotenv.config();
 
@@ -38,6 +39,7 @@ app.use('/api/profiles', profileRoutes);
 app.use('/api/tools', toolRoutes);
 app.use('/api/reviews', reviewRoutes);
 app.use('/api/categories', categoryRoutes);
+app.use('/api/favorites', favoriteRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

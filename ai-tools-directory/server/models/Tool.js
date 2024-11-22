@@ -47,6 +47,14 @@ const toolSchema = new mongoose.Schema({
     enum: ['pending', 'approved', 'rejected'],
     default: 'pending',
   },
+  favoriteCount: {
+    type: Number,
+    default: 0,
+  },
+  favoritedBy: [{
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User',
+  }],
   rating: {
     average: {
       type: Number,
@@ -62,9 +70,11 @@ const toolSchema = new mongoose.Schema({
 });
 
 // Add indexes for better query performance
-toolSchema.index({ name: 'text', description: 'text', tags: 'text' });
+toolSchema.index({ name: 'text', description: 'text' });
 toolSchema.index({ category: 1 });
 toolSchema.index({ status: 1 });
+toolSchema.index({ favoritedBy: 1 });
+toolSchema.index({ favoriteCount: -1 });
 
 const Tool = mongoose.model('Tool', toolSchema);
 
