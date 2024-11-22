@@ -7,7 +7,7 @@ import pricingRules from '../data/pricing.json';
  */
 export const determinePricingTier = (tool) => {
   // If tool has explicit pricing, use that
-  if (tool.pricing) {
+  if (tool.pricing && typeof tool.pricing === 'string') {
     const pricing = tool.pricing.toLowerCase();
     if (pricing.includes('free') && !pricing.includes('freemium')) return 'free';
     if (pricing.includes('freemium')) return 'freemium';
