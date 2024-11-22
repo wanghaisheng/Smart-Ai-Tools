@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { FiHeart, FiStar, FiTool, FiClock } from 'react-icons/fi';
 import { motion } from 'framer-motion';
+import { useNavigate } from 'react-router-dom';
 import api from '../../utils/api';
 
 const statsCards = [
@@ -19,6 +20,26 @@ export default function DashboardOverview() {
   });
   const [recentActivity, setRecentActivity] = useState([]);
   const [loading, setLoading] = useState(true);
+  const navigate = useNavigate();
+
+  const handleViewActivity = (activity) => {
+    switch (activity.type) {
+      case 'favorite':
+        navigate('/dashboard/favorites');
+        break;
+      case 'review':
+        navigate(`/tool/${activity.toolId}#reviews`);
+        break;
+      case 'submit':
+        navigate(`/tool/${activity.toolId}`);
+        break;
+      case 'collection':
+        navigate(`/dashboard/collections/${activity.collectionId}`);
+        break;
+      default:
+        console.warn('Unknown activity type:', activity.type);
+    }
+  };
 
   useEffect(() => {
     const fetchDashboardData = async () => {
@@ -114,7 +135,10 @@ export default function DashboardOverview() {
                   </p>
                 </div>
               </div>
-              <button className="text-sm text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300">
+              <button 
+                onClick={() => handleViewActivity(activity)}
+                className="text-sm text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
+              >
                 View
               </button>
             </div>
