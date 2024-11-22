@@ -29,6 +29,24 @@ const toolSchema = new mongoose.Schema({
     enum: ['Free', 'Freemium', 'Paid', 'Contact for Pricing', 'Unknown'],
     required: true,
   },
+  scrapedData: {
+    features: [{
+      type: String,
+      trim: true
+    }],
+    extendedDescription: {
+      type: String,
+      trim: true
+    },
+    metadata: {
+      title: String,
+      metaDescription: String
+    },
+    lastScraped: {
+      type: Date,
+      default: null
+    }
+  },
   features: [{
     type: String,
     trim: true,

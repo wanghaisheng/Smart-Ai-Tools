@@ -1,6 +1,7 @@
 import express from 'express';
 import { auth } from '../middleware/auth.js';
 import Tool from '../models/Tool.js';
+import { scrapeWebsiteData } from '../services/websiteScraper.js';
 
 const router = express.Router();
 
@@ -95,6 +96,48 @@ router.get('/:id', async (req, res) => {
   } catch (error) {
     console.error('Get tool error:', error);
     res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
+// Scrape website data for a tool
+router.post('/:id/scrape', auth, async (req, res) => {
+  try {
+    const tool = await Tool.findById(req.params.id);
+    if (!tool) {
+      return res.status(404).json({ message: 'Tool not found' });
+    }
+
+    // Check if we've scraped recently (within last 24 hours)
+    const lastScraped = tool.scrapedData?.lastScraped;
+    if (lastScraped && (Date.now() - new Date(lastScraped).getTime()) < 24 * 60 * 60 * 1000) {
+      return res.json({ 
+        message: 'Using cached data',
+        scrapedData: tool.scrapedData 
+      });
+    }
+
+    // Scrape fresh data
+    const scrapedData = await scrapeWebsiteData(tool.website);
+    
+    // Update tool with new data
+    tool.scrapedData = {
+      ...scrapedData,
+      lastScraped: new Date()
+    };
+    
+    await tool.save();
+    
+    res.json({ 
+      message: 'Successfully scraped website data',
+      scrapedData: tool.scrapedData 
+    });
+    
+  } catch (error) {
+    console.error('Website scraping error:', error);
+    res.status(500).json({ 
+      message: 'Error scraping website data', 
+      error: error.message 
+    });
   }
 });
 

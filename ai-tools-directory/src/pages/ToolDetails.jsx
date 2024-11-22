@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { FiArrowLeft, FiExternalLink, FiStar, FiShare2, FiBookmark, FiMessageCircle } from 'react-icons/fi';
 import { useTools } from '../contexts/ToolsContext';
@@ -23,6 +23,7 @@ const staggerContainer = {
 export default function ToolDetails() {
   const { id } = useParams();
   const { currentTool, getTool, loading, error } = useTools();
+  const [scrapingStatus, setScrapingStatus] = useState('idle');
 
   useEffect(() => {
     if (id) {
@@ -30,6 +31,34 @@ export default function ToolDetails() {
       window.scrollTo(0, 0);
     }
   }, [id, getTool]);
+
+  useEffect(() => {
+    const fetchWebsiteData = async () => {
+      if (!currentTool || scrapingStatus !== 'idle') return;
+      
+      try {
+        setScrapingStatus('loading');
+        const response = await fetch(`/api/tools/${id}/scrape`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${localStorage.getItem('token')}`
+          }
+        });
+        
+        if (!response.ok) throw new Error('Failed to fetch website data');
+        
+        const data = await response.json();
+        setScrapingStatus('success');
+        
+      } catch (error) {
+        console.error('Error fetching website data:', error);
+        setScrapingStatus('error');
+      }
+    };
+
+    fetchWebsiteData();
+  }, [currentTool, id]);
 
   if (loading) {
     return (
@@ -190,19 +219,53 @@ export default function ToolDetails() {
             </motion.div>
 
             {/* Features Section */}
-            <motion.div variants={fadeIn} className="bg-white dark:bg-gray-800 rounded-2xl shadow-soft p-6 mb-6">
-              <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Key Features</h2>
-              <ul className="space-y-3">
-                {currentTool.features?.map((feature, index) => (
-                  <li key={index} className="flex items-start">
-                    <span className="flex-shrink-0 h-6 w-6 rounded-full bg-primary-100 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 flex items-center justify-center">
-                      ✓
-                    </span>
-                    <span className="ml-3 text-gray-600 dark:text-gray-300">{feature}</span>
-                  </li>
+            <div className="mt-12">
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Key Features</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {currentTool?.scrapedData?.features?.map((feature, index) => (
+                  <motion.div
+                    key={index}
+                    variants={fadeIn}
+                    className="flex items-start space-x-3 bg-white dark:bg-gray-800 p-4 rounded-lg shadow-sm"
+                  >
+                    <div className="flex-shrink-0">
+                      <div className="w-8 h-8 bg-primary-100 dark:bg-primary-900 rounded-lg flex items-center justify-center">
+                        <span className="text-primary-600 dark:text-primary-400 font-semibold">{index + 1}</span>
+                      </div>
+                    </div>
+                    <p className="text-gray-700 dark:text-gray-300">{feature}</p>
+                  </motion.div>
                 ))}
-              </ul>
-            </motion.div>
+                {(!currentTool?.scrapedData?.features || currentTool.scrapedData.features.length === 0) && 
+                  currentTool?.features?.map((feature, index) => (
+                    <motion.div
+                      key={index}
+                      variants={fadeIn}
+                      className="flex items-start space-x-3 bg-white dark:bg-gray-800 p-4 rounded-lg shadow-sm"
+                    >
+                      <div className="flex-shrink-0">
+                        <div className="w-8 h-8 bg-primary-100 dark:bg-primary-900 rounded-lg flex items-center justify-center">
+                          <span className="text-primary-600 dark:text-primary-400 font-semibold">{index + 1}</span>
+                        </div>
+                      </div>
+                      <p className="text-gray-700 dark:text-gray-300">{feature}</p>
+                    </motion.div>
+                  ))
+                }
+              </div>
+            </div>
+
+            {/* Extended Description */}
+            {currentTool?.scrapedData?.extendedDescription && (
+              <div className="mt-12">
+                <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">About {currentTool.name}</h2>
+                <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm p-6">
+                  <p className="text-gray-700 dark:text-gray-300 whitespace-pre-line">
+                    {currentTool.scrapedData.extendedDescription}
+                  </p>
+                </div>
+              </div>
+            )}
           </div>
 
           {/* Sidebar */}
