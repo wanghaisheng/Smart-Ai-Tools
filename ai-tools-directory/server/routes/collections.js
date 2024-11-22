@@ -215,4 +215,82 @@ router.delete('/:id/tools/:toolId', auth, async (req, res) => {
   }
 });
 
+// Add tools to a collection
+router.post('/:id/add', [
+  auth,
+  body('tools').isArray().withMessage('Tools must be an array'),
+], async (req, res) => {
+  try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    const collection = await Collection.findOne({
+      _id: req.params.id,
+      user: req.userId
+    });
+
+    if (!collection) {
+      return res.status(404).json({ message: 'Collection not found' });
+    }
+
+    const { tools } = req.body;
+
+    // Verify all tools exist
+    const toolsExist = await Tool.find({ _id: { $in: tools } });
+    if (toolsExist.length !== tools.length) {
+      return res.status(400).json({ message: 'Some tools do not exist' });
+    }
+
+    // Add tools to collection (avoid duplicates)
+    collection.tools = Array.from(new Set([...collection.tools.map(t => t.toString()), ...tools]));
+    collection.updatedAt = new Date();
+    await collection.save();
+
+    const updatedCollection = await Collection.findById(collection._id)
+      .populate('tools', 'name description image');
+
+    res.json(updatedCollection);
+  } catch (error) {
+    console.error('Error adding tools to collection:', error);
+    res.status(500).json({ message: 'Failed to add tools to collection', error: error.message });
+  }
+});
+
+// Remove tools from a collection
+router.post('/:id/remove', [
+  auth,
+  body('tools').isArray().withMessage('Tools must be an array'),
+], async (req, res) => {
+  try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    const collection = await Collection.findOne({
+      _id: req.params.id,
+      user: req.userId
+    });
+
+    if (!collection) {
+      return res.status(404).json({ message: 'Collection not found' });
+    }
+
+    const { tools } = req.body;
+    collection.tools = collection.tools.filter(tool => !tools.includes(tool.toString()));
+    collection.updatedAt = new Date();
+    await collection.save();
+
+    const updatedCollection = await Collection.findById(collection._id)
+      .populate('tools', 'name description image');
+
+    res.json(updatedCollection);
+  } catch (error) {
+    console.error('Error removing tools from collection:', error);
+    res.status(500).json({ message: 'Failed to remove tools from collection', error: error.message });
+  }
+});
+
 export default router;

@@ -62,15 +62,21 @@ export default function FavoriteTools() {
 
   const handleAddToCollection = async (collectionId) => {
     try {
-      await api.post(`/collections/${collectionId}/add`, {
+      const response = await api.post(`/collections/${collectionId}/add`, {
         tools: Array.from(selectedTools)
       });
+      
+      // Update the collections state with the new collection data
+      setCollections(collections.map(collection => 
+        collection._id === collectionId ? response.data : collection
+      ));
+      
       setSelectedTools(new Set());
       setShowCollectionModal(false);
       toast.success('Tools added to collection');
     } catch (error) {
       console.error('Error adding to collection:', error);
-      toast.error('Failed to add tools to collection');
+      toast.error(error.response?.data?.message || 'Failed to add tools to collection');
     }
   };
 

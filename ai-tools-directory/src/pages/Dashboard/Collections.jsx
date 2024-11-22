@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiEdit2, FiTrash2, FiPlus, FiEye, FiLock, FiGlobe } from 'react-icons/fi';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { api } from '../../utils/api';
 import toast from 'react-hot-toast';
 
@@ -14,6 +14,7 @@ export default function Collections() {
     description: '',
     isPublic: false
   });
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetchCollections();
@@ -96,42 +97,43 @@ export default function Collections() {
               key={collection._id}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden"
+              className="group bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-200"
             >
               <div className="p-6">
-                <div className="flex items-center justify-between mb-4">
-                  <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                    {collection.name}
-                  </h3>
-                  {collection.isPublic ? (
-                    <FiGlobe className="text-gray-500 dark:text-gray-400" />
-                  ) : (
-                    <FiLock className="text-gray-500 dark:text-gray-400" />
-                  )}
+                <div 
+                  onClick={() => navigate(`/dashboard/collections/${collection._id}`)}
+                  className="cursor-pointer"
+                >
+                  <div className="flex items-center justify-between mb-4">
+                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-200">
+                      {collection.name}
+                    </h3>
+                    {collection.isPublic ? (
+                      <FiGlobe className="text-gray-500 dark:text-gray-400" />
+                    ) : (
+                      <FiLock className="text-gray-500 dark:text-gray-400" />
+                    )}
+                  </div>
+                  <p className="text-gray-600 dark:text-gray-400 text-sm mb-4 line-clamp-2">
+                    {collection.description || 'No description'}
+                  </p>
                 </div>
-                <p className="text-gray-600 dark:text-gray-400 text-sm mb-4 line-clamp-2">
-                  {collection.description}
-                </p>
                 <div className="flex items-center justify-between">
                   <span className="text-sm text-gray-500 dark:text-gray-400">
                     {collection.tools?.length || 0} tools
                   </span>
                   <div className="flex space-x-2">
                     <Link
-                      to={`/collections/${collection._id}`}
-                      className="p-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
-                    >
-                      <FiEye className="w-5 h-5" />
-                    </Link>
-                    <Link
-                      to={`/collections/${collection._id}/edit`}
-                      className="p-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                      to={`/dashboard/collections/${collection._id}/edit`}
+                      className="p-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white transition-colors duration-200"
+                      title="Edit collection"
                     >
                       <FiEdit2 className="w-5 h-5" />
                     </Link>
                     <button
-                      onClick={() => handleDelete(collection._id)}
-                      className="p-2 text-red-600 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300"
+                      onClick={(e) => handleDelete(collection._id)}
+                      className="p-2 text-red-600 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300 transition-colors duration-200"
+                      title="Delete collection"
                     >
                       <FiTrash2 className="w-5 h-5" />
                     </button>

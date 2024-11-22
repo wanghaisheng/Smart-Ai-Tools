@@ -26,6 +26,7 @@ const FavoriteTools = lazy(() => import('./pages/Dashboard/FavoriteTools'))
 const SubmittedTools = lazy(() => import('./pages/Dashboard/SubmittedTools'))
 const Reviews = lazy(() => import('./pages/Dashboard/Reviews'))
 const Collections = lazy(() => import('./pages/Dashboard/Collections'))
+const CollectionView = lazy(() => import('./pages/Dashboard/CollectionView'))
 const Notifications = lazy(() => import('./pages/Dashboard/Notifications'))
 const ApiKeys = lazy(() => import('./pages/Dashboard/ApiKeys'))
 const ProfileSettings = lazy(() => import('./pages/Dashboard/ProfileSettings'))
@@ -83,6 +84,7 @@ function App() {
                           <Route path="submitted" element={<SubmittedTools />} />
                           <Route path="reviews" element={<Reviews />} />
                           <Route path="collections" element={<Collections />} />
+                          <Route path="collections/:id" element={<CollectionView />} />
                           <Route path="notifications" element={<Notifications />} />
                           <Route path="api-keys" element={<ApiKeys />} />
                           <Route path="settings" element={<ProfileSettings />} />
