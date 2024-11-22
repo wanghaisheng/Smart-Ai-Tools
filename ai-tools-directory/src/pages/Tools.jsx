@@ -148,7 +148,7 @@ export default function Tools() {
                 onChange={(e) => setSelectedCategory(e.target.value)}
                 className="appearance-none px-4 py-2.5 text-gray-900 bg-white border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent dark:bg-gray-800 dark:text-white dark:border-gray-700"
               >
-                <option value="">All Categories</option>
+                <option key="all" value="">All Categories</option>
                 {Array.from(new Set(tools?.map(tool => tool.category))).sort().map(category => (
                   <option key={category} value={category}>{category}</option>
                 ))}

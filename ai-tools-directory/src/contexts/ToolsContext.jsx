@@ -124,6 +124,10 @@ export const ToolsProvider = ({ children }) => {
     }
   }, [loadTools]);
 
+  const setCurrentPage = useCallback((page) => {
+    setPagination(prev => ({ ...prev, currentPage: page }));
+  }, []);
+
   const value = useMemo(() => ({
     tools,
     loading,
@@ -134,11 +138,12 @@ export const ToolsProvider = ({ children }) => {
     pagination,
     setFilters,
     setPagination,
+    setCurrentPage,
     getTool,
     loadTools,
     loadCategories,
     submitTool
-  }), [tools, loading, error, categories, currentTool, filters, pagination, getTool, loadTools, loadCategories, submitTool])
+  }), [tools, loading, error, categories, currentTool, filters, pagination, getTool, loadTools, loadCategories, submitTool, setCurrentPage])
 
   return (
     <ToolsContext.Provider value={value}>
