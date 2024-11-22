@@ -5,6 +5,34 @@ import { body, validationResult } from 'express-validator';
 
 const router = express.Router();
 
+// Get user's reviews
+router.get('/user', auth, async (req, res) => {
+  try {
+    const reviews = await Review.find({ user: req.userId })
+      .populate('tool', 'name image url')
+      .populate('user', 'username avatar')
+      .sort({ createdAt: -1 });
+    
+    res.json(reviews);
+  } catch (error) {
+    console.error('Error fetching user reviews:', error);
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
+// Get user's reviews
+router.get('/user/me', auth, async (req, res) => {
+  try {
+    const reviews = await Review.find({ user: req.userId })
+      .populate('tool')
+      .sort({ createdAt: -1 });
+    
+    res.json(reviews);
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
+});
+
 // Get reviews for a tool
 router.get('/tool/:toolId', optionalAuth, async (req, res) => {
   try {
@@ -124,19 +152,6 @@ router.post('/:reviewId/like', auth, async (req, res) => {
       likesCount: review.likes.length,
       isLiked: likeIndex === -1,
     });
-  } catch (error) {
-    res.status(500).json({ message: 'Server error' });
-  }
-});
-
-// Get user's reviews
-router.get('/user/me', auth, async (req, res) => {
-  try {
-    const reviews = await Review.find({ user: req.userId })
-      .populate('tool')
-      .sort({ createdAt: -1 });
-    
-    res.json(reviews);
   } catch (error) {
     res.status(500).json({ message: 'Server error' });
   }

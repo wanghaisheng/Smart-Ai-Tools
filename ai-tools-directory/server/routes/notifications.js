@@ -8,7 +8,7 @@ const router = express.Router();
 // Get all notifications for the authenticated user
 router.get('/', auth, async (req, res) => {
   try {
-    const notifications = await Notification.find({ user: req.user.id })
+    const notifications = await Notification.find({ user: req.userId })
       .sort({ createdAt: -1 })
       .populate('relatedTool', 'name')
       .populate('relatedReview', 'rating comment');
@@ -23,7 +23,7 @@ router.get('/', auth, async (req, res) => {
 // Get notification settings for the user
 router.get('/settings', auth, async (req, res) => {
   try {
-    const user = await User.findById(req.user.id).select('notificationSettings');
+    const user = await User.findById(req.userId).select('notificationSettings');
     res.json(user.notificationSettings || {
       emailNotifications: true,
       toolUpdates: true,
@@ -40,7 +40,7 @@ router.get('/settings', auth, async (req, res) => {
 router.put('/settings', auth, async (req, res) => {
   try {
     const user = await User.findByIdAndUpdate(
-      req.user.id,
+      req.userId,
       { notificationSettings: req.body },
       { new: true }
     ).select('notificationSettings');
@@ -56,7 +56,7 @@ router.put('/settings', auth, async (req, res) => {
 router.put('/:id/read', auth, async (req, res) => {
   try {
     const notification = await Notification.findOneAndUpdate(
-      { _id: req.params.id, user: req.user.id },
+      { _id: req.params.id, user: req.userId },
       { read: true },
       { new: true }
     );
@@ -76,7 +76,7 @@ router.put('/:id/read', auth, async (req, res) => {
 router.put('/read-all', auth, async (req, res) => {
   try {
     await Notification.updateMany(
-      { user: req.user.id, read: false },
+      { user: req.userId, read: false },
       { read: true }
     );
 
@@ -92,7 +92,7 @@ router.delete('/:id', auth, async (req, res) => {
   try {
     const notification = await Notification.findOneAndDelete({
       _id: req.params.id,
-      user: req.user.id
+      user: req.userId
     });
 
     if (!notification) {
@@ -107,7 +107,7 @@ router.delete('/:id', auth, async (req, res) => {
 });
 
 // Utility function to create a new notification
-async function createNotification(userId, message, type, relatedTool = null, relatedReview = null) {
+const createNotification = async (userId, message, type, relatedTool = null, relatedReview = null) => {
   try {
     const notification = new Notification({
       user: userId,
@@ -121,8 +121,8 @@ async function createNotification(userId, message, type, relatedTool = null, rel
     return notification;
   } catch (error) {
     console.error('Error creating notification:', error);
-    return null;
+    throw error;
   }
-}
+};
 
 export { router, createNotification };

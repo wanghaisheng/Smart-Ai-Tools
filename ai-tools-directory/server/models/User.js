@@ -21,59 +21,65 @@ const userSchema = new mongoose.Schema({
     required: true,
     minlength: 6
   },
-  bio: {
-    type: String,
-    default: ''
-  },
-  avatar: {
-    type: String,
-    default: ''
-  },
   role: {
     type: String,
     enum: ['user', 'admin'],
     default: 'user'
   },
+  refreshToken: {
+    type: String,
+    default: null
+  },
+  isVerified: {
+    type: Boolean,
+    default: false
+  },
+  verificationToken: String,
+  resetPasswordToken: String,
+  resetPasswordExpires: Date,
   favorites: [{
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Tool'
   }],
   notificationSettings: {
-    emailNotifications: {
+    email: {
       type: Boolean,
       default: true
     },
-    toolUpdates: {
-      type: Boolean,
-      default: true
-    },
-    newFeatures: {
-      type: Boolean,
-      default: true
-    },
-    reviewResponses: {
+    push: {
       type: Boolean,
       default: true
     }
   },
-  createdAt: {
+  lastLoginAt: {
     type: Date,
-    default: Date.now
+    default: null
+  }
+}, {
+  timestamps: true,
+  toJSON: {
+    transform: function(doc, ret) {
+      delete ret.password;
+      delete ret.refreshToken;
+      delete ret.verificationToken;
+      delete ret.resetPasswordToken;
+      delete ret.resetPasswordExpires;
+      return ret;
+    }
   }
 });
+
+// Add indexes
+userSchema.index({ email: 1 });
+userSchema.index({ username: 1 });
 
 // Hash password before saving
 userSchema.pre('save', async function(next) {
   if (this.isModified('password')) {
-    this.password = await bcrypt.hash(this.password, 10);
+    this.password = await bcrypt.hash(this.password, 12);
   }
   next();
 });
-
-// Method to compare password
-userSchema.methods.comparePassword = async function(candidatePassword) {
-  return bcrypt.compare(candidatePassword, this.password);
-};
 
 const User = mongoose.model('User', userSchema);
 

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api',  // Added /api to match server routes
+  baseURL: '/api',  // Use relative URL for proxy
   headers: {
     'Content-Type': 'application/json',
   },
@@ -17,6 +17,7 @@ api.interceptors.request.use(
     return config;
   },
   (error) => {
+    console.error('Request interceptor error:', error);
     return Promise.reject(error);
   }
 );
@@ -24,11 +25,44 @@ api.interceptors.request.use(
 // Response interceptor
 api.interceptors.response.use(
   (response) => response,
-  (error) => {
-    if (error.response?.status === 401) {
-      localStorage.removeItem('token');
-      window.location.href = '/login';
+  async (error) => {
+    const originalRequest = error.config;
+
+    // If the error is 401 and we haven't tried to refresh the token yet
+    if (error.response?.status === 401 && !originalRequest._retry) {
+      originalRequest._retry = true;
+
+      try {
+        // Try to refresh the token
+        const token = localStorage.getItem('token');
+        if (token) {
+          const refreshResponse = await axios.post('/api/auth/refresh', {}, {
+            headers: { Authorization: `Bearer ${token}` }
+          });
+
+          if (refreshResponse.data.token) {
+            // Save the new token
+            localStorage.setItem('token', refreshResponse.data.token);
+            
+            // Update the original request with the new token
+            originalRequest.headers.Authorization = `Bearer ${refreshResponse.data.token}`;
+            
+            // Retry the original request
+            return axios(originalRequest);
+          }
+        }
+        
+        // If refresh failed or no token exists, redirect to login
+        localStorage.removeItem('token');
+        window.location.href = '/login';
+      } catch (refreshError) {
+        console.error('Token refresh failed:', refreshError);
+        localStorage.removeItem('token');
+        window.location.href = '/login';
+      }
     }
+
+    // For other errors, just reject the promise
     return Promise.reject(error);
   }
 );

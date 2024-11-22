@@ -35,6 +35,21 @@ const buildSort = (sortParam = '-createdAt') => {
   }
 };
 
+// Get user's submitted tools
+router.get('/submitted', auth, async (req, res) => {
+  try {
+    const tools = await Tool.find({ submittedBy: req.userId })
+      .sort({ createdAt: -1 })
+      .populate('category', 'name')
+      .lean();
+    
+    res.json(tools);
+  } catch (error) {
+    console.error('Get submitted tools error:', error);
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
 // Get all tools (with pagination and filters)
 router.get('/', async (req, res) => {
   try {
@@ -104,9 +119,10 @@ router.post('/', auth, async (req, res) => {
       category,
       pricing,
       features,
-      tags,
+      tags: tags || [],
       image,
       submittedBy: req.userId,
+      status: 'pending'
     });
     
     await tool.save();
@@ -118,22 +134,38 @@ router.post('/', auth, async (req, res) => {
 });
 
 // Update a tool
-router.patch('/:id', auth, async (req, res) => {
+router.put('/:id', auth, async (req, res) => {
   try {
     const tool = await Tool.findOne({
       _id: req.params.id,
-      submittedBy: req.userId,
+      submittedBy: req.userId
     });
     
     if (!tool) {
-      return res.status(404).json({ message: 'Tool not found or unauthorized' });
+      return res.status(404).json({ message: 'Tool not found' });
     }
     
-    const updates = req.body;
-    Object.keys(updates).forEach((key) => {
-      if (key !== 'submittedBy' && key !== 'status') {
-        tool[key] = updates[key];
-      }
+    const {
+      name,
+      description,
+      website,
+      category,
+      pricing,
+      features,
+      tags,
+      image
+    } = req.body;
+    
+    Object.assign(tool, {
+      name,
+      description,
+      website,
+      category,
+      pricing,
+      features,
+      tags: tags || tool.tags,
+      image: image || tool.image,
+      status: 'pending'
     });
     
     await tool.save();
@@ -149,11 +181,11 @@ router.delete('/:id', auth, async (req, res) => {
   try {
     const tool = await Tool.findOneAndDelete({
       _id: req.params.id,
-      submittedBy: req.userId,
+      submittedBy: req.userId
     });
     
     if (!tool) {
-      return res.status(404).json({ message: 'Tool not found or unauthorized' });
+      return res.status(404).json({ message: 'Tool not found' });
     }
     
     res.json({ message: 'Tool deleted successfully' });

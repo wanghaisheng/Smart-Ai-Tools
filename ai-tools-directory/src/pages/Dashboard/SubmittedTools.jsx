@@ -2,23 +2,28 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiEdit2, FiTrash2, FiEye } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
 import toast from 'react-hot-toast';
+import api from '../../utils/api';
+import { useAuth } from '../../contexts/AuthContext';
 
 export default function SubmittedTools() {
   const [tools, setTools] = useState([]);
   const [loading, setLoading] = useState(true);
+  const { isAuthenticated } = useAuth();
 
   useEffect(() => {
-    fetchSubmittedTools();
-  }, []);
+    if (isAuthenticated) {
+      fetchSubmittedTools();
+    }
+  }, [isAuthenticated]);
 
   const fetchSubmittedTools = async () => {
     try {
-      const response = await axios.get('/api/tools/submitted');
+      const response = await api.get('/tools/submitted');
       setTools(response.data);
     } catch (error) {
-      toast.error('Failed to fetch submitted tools');
+      const errorMessage = error.response?.data?.message || 'Failed to fetch submitted tools';
+      toast.error(errorMessage);
       console.error('Error fetching submitted tools:', error);
     } finally {
       setLoading(false);
@@ -29,11 +34,12 @@ export default function SubmittedTools() {
     if (!window.confirm('Are you sure you want to delete this tool?')) return;
 
     try {
-      await axios.delete(`/api/tools/${toolId}`);
+      await api.delete(`/tools/${toolId}`);
       toast.success('Tool deleted successfully');
       setTools(tools.filter(tool => tool._id !== toolId));
     } catch (error) {
-      toast.error('Failed to delete tool');
+      const errorMessage = error.response?.data?.message || 'Failed to delete tool';
+      toast.error(errorMessage);
       console.error('Error deleting tool:', error);
     }
   };
