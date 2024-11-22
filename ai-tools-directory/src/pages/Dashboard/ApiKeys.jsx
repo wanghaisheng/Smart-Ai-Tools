@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiKey, FiPlus, FiTrash2, FiCopy, FiCheck } from 'react-icons/fi';
-import axios from 'axios';
+import { api } from '../../utils/api';
 import toast from 'react-hot-toast';
 
 export default function ApiKeys() {
@@ -10,6 +10,7 @@ export default function ApiKeys() {
   const [showCreateModal, setShowCreateModal] = useState(false);
   const [newKeyName, setNewKeyName] = useState('');
   const [copiedKey, setCopiedKey] = useState(null);
+  const [newlyCreatedKey, setNewlyCreatedKey] = useState(null);
 
   useEffect(() => {
     fetchApiKeys();
@@ -17,11 +18,11 @@ export default function ApiKeys() {
 
   const fetchApiKeys = async () => {
     try {
-      const response = await axios.get('/api/api-keys');
+      const response = await api.get('/api-keys');
       setApiKeys(response.data);
     } catch (error) {
-      toast.error('Failed to fetch API keys');
       console.error('Error fetching API keys:', error);
+      toast.error(error.response?.data?.message || 'Failed to fetch API keys');
     } finally {
       setLoading(false);
     }
@@ -30,30 +31,45 @@ export default function ApiKeys() {
   const handleCreateKey = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('/api/api-keys', { name: newKeyName });
-      setApiKeys([...apiKeys, response.data]);
+      const response = await api.post('/api-keys', { name: newKeyName });
+      // Store the newly created key with its token
+      setNewlyCreatedKey(response.data);
+      // Add the key to the list without the token
+      setApiKeys([{ 
+        _id: response.data._id,
+        name: response.data.name,
+        createdAt: response.data.createdAt
+      }, ...apiKeys]);
       setNewKeyName('');
       setShowCreateModal(false);
       toast.success('API key created successfully');
     } catch (error) {
-      toast.error('Failed to create API key');
       console.error('Error creating API key:', error);
+      toast.error(error.response?.data?.message || 'Failed to create API key');
     }
   };
 
   const handleDeleteKey = async (keyId) => {
     try {
-      await axios.delete(`/api/api-keys/${keyId}`);
+      await api.delete(`/api-keys/${keyId}`);
       setApiKeys(apiKeys.filter(key => key._id !== keyId));
+      if (newlyCreatedKey?._id === keyId) {
+        setNewlyCreatedKey(null);
+      }
       toast.success('API key deleted successfully');
     } catch (error) {
-      toast.error('Failed to delete API key');
       console.error('Error deleting API key:', error);
+      toast.error(error.response?.data?.message || 'Failed to delete API key');
     }
   };
 
   const handleCopyKey = (key) => {
-    navigator.clipboard.writeText(key.token);
+    const token = newlyCreatedKey?._id === key._id ? newlyCreatedKey.token : null;
+    if (!token) {
+      toast.error('Token is only available immediately after creation');
+      return;
+    }
+    navigator.clipboard.writeText(token);
     setCopiedKey(key._id);
     toast.success('API key copied to clipboard');
     setTimeout(() => setCopiedKey(null), 2000);
@@ -106,6 +122,7 @@ export default function ApiKeys() {
                   <button
                     onClick={() => handleCopyKey(key)}
                     className="p-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+                    title={newlyCreatedKey?._id === key._id ? "Copy API key" : "Token only available after creation"}
                   >
                     {copiedKey === key._id ? (
                       <FiCheck className="w-4 h-4" />
@@ -121,59 +138,56 @@ export default function ApiKeys() {
                   </button>
                 </div>
               </div>
-              <div className="mt-2">
-                <code className="text-sm bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded">
-                  {key.token.slice(0, 10)}...{key.token.slice(-10)}
-                </code>
-              </div>
+              {newlyCreatedKey?._id === key._id && (
+                <div className="mt-2">
+                  <p className="text-sm text-amber-600 dark:text-amber-400 mb-1">
+                    ⚠️ Copy this key now. You won't be able to see it again!
+                  </p>
+                  <code className="text-sm bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded block overflow-x-auto">
+                    {newlyCreatedKey.token}
+                  </code>
+                </div>
+              )}
             </motion.div>
           ))}
         </div>
       )}
 
-      {/* Create API Key Modal */}
       {showCreateModal && (
-        <div className="fixed inset-0 z-50 overflow-y-auto">
-          <div className="flex items-center justify-center min-h-screen px-4">
-            <div className="fixed inset-0 bg-black opacity-30"></div>
-            <div className="relative bg-white dark:bg-gray-800 rounded-lg max-w-md w-full p-6">
-              <h3 className="text-lg font-medium text-gray-900 dark:text-white mb-4">
-                Create New API Key
-              </h3>
-              <form onSubmit={handleCreateKey}>
-                <div className="space-y-4">
-                  <div>
-                    <label htmlFor="keyName" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
-                      Key Name
-                    </label>
-                    <input
-                      type="text"
-                      id="keyName"
-                      value={newKeyName}
-                      onChange={(e) => setNewKeyName(e.target.value)}
-                      placeholder="e.g., Development Key"
-                      className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary-500 focus:ring-primary-500 dark:bg-gray-700 dark:border-gray-600"
-                      required
-                    />
-                  </div>
-                </div>
-                <div className="mt-6 flex justify-end space-x-3">
-                  <button
-                    type="button"
-                    onClick={() => setShowCreateModal(false)}
-                    className="btn btn-secondary"
-                  >
-                    Cancel
-                  </button>
-                  <button
-                    type="submit"
-                    className="btn btn-primary"
-                  >
-                    Create Key
-                  </button>
-                </div>
-              </form>
-            </div>
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
+          <div className="bg-white dark:bg-gray-800 rounded-lg p-6 w-full max-w-md">
+            <h3 className="text-lg font-medium text-gray-900 dark:text-white mb-4">Create New API Key</h3>
+            <form onSubmit={handleCreateKey}>
+              <div className="mb-4">
+                <label htmlFor="keyName" className="block text-sm font-medium text-gray-700 dark:text-gray-300">
+                  Key Name
+                </label>
+                <input
+                  type="text"
+                  id="keyName"
+                  value={newKeyName}
+                  onChange={(e) => setNewKeyName(e.target.value)}
+                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-primary-500 focus:ring-primary-500 dark:bg-gray-700 dark:border-gray-600"
+                  placeholder="Enter key name"
+                  required
+                />
+              </div>
+              <div className="flex justify-end space-x-3">
+                <button
+                  type="button"
+                  onClick={() => setShowCreateModal(false)}
+                  className="btn btn-secondary"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="submit"
+                  className="btn btn-primary"
+                >
+                  Create
+                </button>
+              </div>
+            </form>
           </div>
         </div>
       )}
