@@ -23,6 +23,12 @@ const SubmitTool = lazy(() => import('./pages/SubmitTool'))
 const Dashboard = lazy(() => import('./pages/Dashboard'))
 const DashboardOverview = lazy(() => import('./pages/Dashboard/DashboardOverview'))
 const FavoriteTools = lazy(() => import('./pages/Dashboard/FavoriteTools'))
+const SubmittedTools = lazy(() => import('./pages/Dashboard/SubmittedTools'))
+const Reviews = lazy(() => import('./pages/Dashboard/Reviews'))
+const Collections = lazy(() => import('./pages/Dashboard/Collections'))
+const Notifications = lazy(() => import('./pages/Dashboard/Notifications'))
+const ApiKeys = lazy(() => import('./pages/Dashboard/ApiKeys'))
+const ProfileSettings = lazy(() => import('./pages/Dashboard/ProfileSettings'))
 
 function App() {
   return (
@@ -64,7 +70,7 @@ function App() {
                         />
                         {/* Dashboard Routes */}
                         <Route
-                          path="/dashboard"
+                          path="/dashboard/*"
                           element={
                             <PrivateRoute>
                               <Dashboard />
@@ -72,7 +78,14 @@ function App() {
                           }
                         >
                           <Route index element={<DashboardOverview />} />
+                          <Route path="overview" element={<DashboardOverview />} />
                           <Route path="favorites" element={<FavoriteTools />} />
+                          <Route path="submitted" element={<SubmittedTools />} />
+                          <Route path="reviews" element={<Reviews />} />
+                          <Route path="collections" element={<Collections />} />
+                          <Route path="notifications" element={<Notifications />} />
+                          <Route path="api-keys" element={<ApiKeys />} />
+                          <Route path="settings" element={<ProfileSettings />} />
                         </Route>
                         <Route 
                           path="*" 
@@ -102,12 +115,6 @@ function App() {
                   style: {
                     background: '#333',
                     color: '#fff',
-                  },
-                  success: {
-                    duration: 3000,
-                    theme: {
-                      primary: '#4aed88',
-                    },
                   },
                 }}
               />
