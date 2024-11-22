@@ -2,6 +2,7 @@ import express from 'express';
 import { auth } from '../middleware/auth.js';
 import Notification from '../models/Notification.js';
 import User from '../models/User.js';
+import { body, validationResult } from 'express-validator';
 
 const router = express.Router();
 
@@ -16,7 +17,7 @@ router.get('/', auth, async (req, res) => {
     res.json(notifications);
   } catch (error) {
     console.error('Error fetching notifications:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch notifications', error: error.message });
   }
 });
 
@@ -24,6 +25,9 @@ router.get('/', auth, async (req, res) => {
 router.get('/settings', auth, async (req, res) => {
   try {
     const user = await User.findById(req.userId).select('notificationSettings');
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
     res.json(user.notificationSettings || {
       emailNotifications: true,
       toolUpdates: true,
@@ -32,23 +36,38 @@ router.get('/settings', auth, async (req, res) => {
     });
   } catch (error) {
     console.error('Error fetching notification settings:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch notification settings', error: error.message });
   }
 });
 
 // Update notification settings
-router.put('/settings', auth, async (req, res) => {
+router.put('/settings', [
+  auth,
+  body('emailNotifications').isBoolean().withMessage('emailNotifications must be a boolean'),
+  body('toolUpdates').isBoolean().withMessage('toolUpdates must be a boolean'),
+  body('newFeatures').isBoolean().withMessage('newFeatures must be a boolean'),
+  body('reviewResponses').isBoolean().withMessage('reviewResponses must be a boolean')
+], async (req, res) => {
   try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
     const user = await User.findByIdAndUpdate(
       req.userId,
       { notificationSettings: req.body },
       { new: true }
     ).select('notificationSettings');
 
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
     res.json(user.notificationSettings);
   } catch (error) {
     console.error('Error updating notification settings:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to update notification settings', error: error.message });
   }
 });
 
@@ -68,22 +87,25 @@ router.put('/:id/read', auth, async (req, res) => {
     res.json(notification);
   } catch (error) {
     console.error('Error marking notification as read:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to mark notification as read', error: error.message });
   }
 });
 
 // Mark all notifications as read
 router.put('/read-all', auth, async (req, res) => {
   try {
-    await Notification.updateMany(
+    const result = await Notification.updateMany(
       { user: req.userId, read: false },
       { read: true }
     );
 
-    res.json({ message: 'All notifications marked as read' });
+    res.json({ 
+      message: 'All notifications marked as read',
+      modified: result.modifiedCount 
+    });
   } catch (error) {
     console.error('Error marking all notifications as read:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to mark all notifications as read', error: error.message });
   }
 });
 
@@ -99,15 +121,15 @@ router.delete('/:id', auth, async (req, res) => {
       return res.status(404).json({ message: 'Notification not found' });
     }
 
-    res.json({ message: 'Notification deleted' });
+    res.json({ message: 'Notification deleted successfully' });
   } catch (error) {
     console.error('Error deleting notification:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to delete notification', error: error.message });
   }
 });
 
 // Utility function to create a new notification
-const createNotification = async (userId, message, type, relatedTool = null, relatedReview = null) => {
+async function createNotification(userId, message, type, relatedTool = null, relatedReview = null) {
   try {
     const notification = new Notification({
       user: userId,
@@ -123,6 +145,6 @@ const createNotification = async (userId, message, type, relatedTool = null, rel
     console.error('Error creating notification:', error);
     throw error;
   }
-};
+}
 
 export { router, createNotification };

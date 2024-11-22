@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiCheck, FiTrash2, FiBell, FiSettings } from 'react-icons/fi';
-import axios from 'axios';
+import { api } from '../../utils/api';
 import toast from 'react-hot-toast';
 
 export default function Notifications() {
@@ -22,7 +22,7 @@ export default function Notifications() {
 
   const fetchNotifications = async () => {
     try {
-      const response = await axios.get('/api/notifications');
+      const response = await api.get('/notifications');
       setNotifications(response.data);
     } catch (error) {
       toast.error('Failed to fetch notifications');
@@ -34,7 +34,7 @@ export default function Notifications() {
 
   const fetchNotificationSettings = async () => {
     try {
-      const response = await axios.get('/api/notifications/settings');
+      const response = await api.get('/notifications/settings');
       setSettings(response.data);
     } catch (error) {
       console.error('Error fetching notification settings:', error);
@@ -43,12 +43,13 @@ export default function Notifications() {
 
   const handleMarkAsRead = async (notificationId) => {
     try {
-      await axios.put(`/api/notifications/${notificationId}/read`);
+      await api.put(`/notifications/${notificationId}/read`);
       setNotifications(notifications.map(notification =>
         notification._id === notificationId
           ? { ...notification, read: true }
           : notification
       ));
+      toast.success('Notification marked as read');
     } catch (error) {
       toast.error('Failed to mark notification as read');
       console.error('Error marking notification as read:', error);
@@ -57,7 +58,7 @@ export default function Notifications() {
 
   const handleDelete = async (notificationId) => {
     try {
-      await axios.delete(`/api/notifications/${notificationId}`);
+      await api.delete(`/notifications/${notificationId}`);
       setNotifications(notifications.filter(n => n._id !== notificationId));
       toast.success('Notification deleted');
     } catch (error) {
@@ -68,7 +69,7 @@ export default function Notifications() {
 
   const handleMarkAllAsRead = async () => {
     try {
-      await axios.put('/api/notifications/read-all');
+      await api.put('/notifications/read-all');
       setNotifications(notifications.map(notification => ({
         ...notification,
         read: true
@@ -82,7 +83,7 @@ export default function Notifications() {
 
   const handleSettingsUpdate = async () => {
     try {
-      await axios.put('/api/notifications/settings', settings);
+      await api.put('/notifications/settings', settings);
       toast.success('Notification settings updated');
       setShowSettings(false);
     } catch (error) {
@@ -106,16 +107,18 @@ export default function Notifications() {
         <div className="flex space-x-4">
           <button
             onClick={() => setShowSettings(true)}
-            className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
+            className="btn btn-secondary inline-flex items-center"
           >
-            <FiSettings className="w-5 h-5" />
+            <FiSettings className="mr-2" />
+            Settings
           </button>
           {notifications.some(n => !n.read) && (
             <button
               onClick={handleMarkAllAsRead}
-              className="text-primary-600 hover:text-primary-700 dark:text-primary-400 text-sm"
+              className="btn btn-primary inline-flex items-center"
             >
-              Mark all as read
+              <FiCheck className="mr-2" />
+              Mark All as Read
             </button>
           )}
         </div>
@@ -124,7 +127,10 @@ export default function Notifications() {
       {notifications.length === 0 ? (
         <div className="text-center py-12 bg-white dark:bg-gray-800 rounded-lg shadow">
           <FiBell className="mx-auto h-12 w-12 text-gray-400" />
-          <p className="mt-4 text-gray-600 dark:text-gray-400">No notifications yet</p>
+          <h3 className="mt-2 text-sm font-medium text-gray-900 dark:text-white">No notifications</h3>
+          <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
+            You're all caught up! Check back later for new notifications.
+          </p>
         </div>
       ) : (
         <div className="space-y-4">
@@ -133,19 +139,13 @@ export default function Notifications() {
               key={notification._id}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              className={`p-4 rounded-lg shadow-sm ${
-                notification.read
-                  ? 'bg-white dark:bg-gray-800'
-                  : 'bg-primary-50 dark:bg-gray-750'
+              className={`bg-white dark:bg-gray-800 rounded-lg shadow-md p-4 ${
+                !notification.read ? 'border-l-4 border-primary-500' : ''
               }`}
             >
-              <div className="flex items-start justify-between">
+              <div className="flex justify-between items-start">
                 <div className="flex-1">
-                  <p className={`text-sm ${
-                    notification.read
-                      ? 'text-gray-600 dark:text-gray-400'
-                      : 'text-gray-900 dark:text-white font-medium'
-                  }`}>
+                  <p className={`text-sm ${notification.read ? 'text-gray-600 dark:text-gray-400' : 'text-gray-900 dark:text-white font-medium'}`}>
                     {notification.message}
                   </p>
                   <span className="text-xs text-gray-500 dark:text-gray-400">
@@ -156,16 +156,16 @@ export default function Notifications() {
                   {!notification.read && (
                     <button
                       onClick={() => handleMarkAsRead(notification._id)}
-                      className="p-1 text-primary-600 hover:text-primary-700 dark:text-primary-400"
+                      className="p-1 text-gray-400 hover:text-gray-500 dark:hover:text-gray-300"
                     >
-                      <FiCheck className="w-4 h-4" />
+                      <FiCheck className="h-4 w-4" />
                     </button>
                   )}
                   <button
                     onClick={() => handleDelete(notification._id)}
-                    className="p-1 text-red-600 hover:text-red-700 dark:text-red-400"
+                    className="p-1 text-gray-400 hover:text-red-500 dark:hover:text-red-400"
                   >
-                    <FiTrash2 className="w-4 h-4" />
+                    <FiTrash2 className="h-4 w-4" />
                   </button>
                 </div>
               </div>
@@ -185,72 +185,48 @@ export default function Notifications() {
               </h3>
               <div className="space-y-4">
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-gray-700 dark:text-gray-300">
+                  <label className="text-sm text-gray-700 dark:text-gray-300">
                     Email Notifications
-                  </span>
-                  <label className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={settings.emailNotifications}
-                      onChange={(e) => setSettings({
-                        ...settings,
-                        emailNotifications: e.target.checked
-                      })}
-                      className="sr-only peer"
-                    />
-                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-primary-300 dark:peer-focus:ring-primary-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-primary-600"></div>
                   </label>
+                  <input
+                    type="checkbox"
+                    checked={settings.emailNotifications}
+                    onChange={(e) => setSettings({ ...settings, emailNotifications: e.target.checked })}
+                    className="toggle"
+                  />
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-gray-700 dark:text-gray-300">
+                  <label className="text-sm text-gray-700 dark:text-gray-300">
                     Tool Updates
-                  </span>
-                  <label className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={settings.toolUpdates}
-                      onChange={(e) => setSettings({
-                        ...settings,
-                        toolUpdates: e.target.checked
-                      })}
-                      className="sr-only peer"
-                    />
-                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-primary-300 dark:peer-focus:ring-primary-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-primary-600"></div>
                   </label>
+                  <input
+                    type="checkbox"
+                    checked={settings.toolUpdates}
+                    onChange={(e) => setSettings({ ...settings, toolUpdates: e.target.checked })}
+                    className="toggle"
+                  />
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-gray-700 dark:text-gray-300">
+                  <label className="text-sm text-gray-700 dark:text-gray-300">
                     New Features
-                  </span>
-                  <label className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={settings.newFeatures}
-                      onChange={(e) => setSettings({
-                        ...settings,
-                        newFeatures: e.target.checked
-                      })}
-                      className="sr-only peer"
-                    />
-                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-primary-300 dark:peer-focus:ring-primary-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-primary-600"></div>
                   </label>
+                  <input
+                    type="checkbox"
+                    checked={settings.newFeatures}
+                    onChange={(e) => setSettings({ ...settings, newFeatures: e.target.checked })}
+                    className="toggle"
+                  />
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-gray-700 dark:text-gray-300">
+                  <label className="text-sm text-gray-700 dark:text-gray-300">
                     Review Responses
-                  </span>
-                  <label className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={settings.reviewResponses}
-                      onChange={(e) => setSettings({
-                        ...settings,
-                        reviewResponses: e.target.checked
-                      })}
-                      className="sr-only peer"
-                    />
-                    <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-primary-300 dark:peer-focus:ring-primary-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-primary-600"></div>
                   </label>
+                  <input
+                    type="checkbox"
+                    checked={settings.reviewResponses}
+                    onChange={(e) => setSettings({ ...settings, reviewResponses: e.target.checked })}
+                    className="toggle"
+                  />
                 </div>
               </div>
               <div className="mt-6 flex justify-end space-x-3">
