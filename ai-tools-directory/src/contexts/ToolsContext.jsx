@@ -24,8 +24,12 @@ export const ToolsProvider = ({ children }) => {
   // Load categories from MongoDB
   const loadCategories = useCallback(async () => {
     try {
-      const response = await api.get('/categories')
-      setCategories(response.data)
+      const response = await api.get('/categories/all')
+      setCategories(response.data.map(categoryData => ({
+        name: categoryData.category,
+        value: categoryData.category,
+        count: categoryData.count
+      })))
     } catch (err) {
       console.error('Error loading categories:', err)
       setError(err.message)

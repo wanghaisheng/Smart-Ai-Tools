@@ -1,5 +1,6 @@
 import express from 'express';
 import Category from '../models/Category.js';
+import Tool from '../models/Tool.js';
 
 const router = express.Router();
 
@@ -12,6 +13,35 @@ router.get('/', async (req, res) => {
     res.json(categories);
   } catch (error) {
     console.error('Error fetching categories:', error);
+    res.status(500).json({ message: 'Error fetching categories' });
+  }
+});
+
+// Get all unique categories with tool counts from Tools collection
+router.get('/all', async (req, res) => {
+  try {
+    // Get all categories with their counts
+    const categoryStats = await Tool.aggregate([
+      { $match: { status: 'approved' } },
+      {
+        $group: {
+          _id: '$category',
+          count: { $sum: 1 }
+        }
+      },
+      {
+        $project: {
+          category: '$_id',
+          count: 1,
+          _id: 0
+        }
+      },
+      { $sort: { category: 1 } }
+    ]);
+
+    res.json(categoryStats);
+  } catch (error) {
+    console.error('Error fetching categories from tools:', error);
     res.status(500).json({ message: 'Error fetching categories' });
   }
 });

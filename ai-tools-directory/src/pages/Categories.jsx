@@ -20,14 +20,15 @@ const staggerContainer = {
 }
 
 export default function Categories() {
-  const { categories, tools, loading, error } = useTools()
+  const { categories, loading, error } = useTools()
   const [searchTerm, setSearchTerm] = useState('')
 
   // Filter categories based on search
   const filteredCategories = categories?.filter(category =>
-    category.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    category.description?.toLowerCase().includes(searchTerm.toLowerCase())
-  )
+    !searchTerm || (
+      category?.name?.toLowerCase().includes(searchTerm.toLowerCase())
+    )
+  ) || []
 
   if (loading) {
     return (
@@ -100,107 +101,63 @@ export default function Categories() {
           >
             Discover and explore our comprehensive collection of AI tools organized by category
           </motion.p>
-          
-          {/* Search Bar */}
-          <motion.div 
+
+          {/* Search Input */}
+          <motion.div
             variants={fadeInUp}
-            className="max-w-2xl mx-auto mt-8"
+            className="max-w-xl mx-auto mt-8"
           >
             <div className="relative">
+              <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <FiSearch className="h-5 w-5 text-gray-400" />
+              </div>
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
+                className="block w-full pl-10 pr-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md leading-5 bg-white dark:bg-gray-700 placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:placeholder-gray-400 dark:focus:placeholder-gray-500 focus:ring-1 focus:ring-primary-500 dark:focus:ring-primary-400 focus:border-primary-500 dark:focus:border-primary-400 sm:text-sm"
                 placeholder="Search categories..."
-                className="w-full px-4 py-3 text-gray-900 placeholder-gray-500 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent dark:bg-gray-800 dark:text-white dark:border-gray-700 dark:placeholder-gray-400"
               />
-              <button className="absolute right-2 top-2.5 p-1.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300">
-                <FiSearch className="w-5 h-5" />
-              </button>
             </div>
           </motion.div>
         </motion.div>
       </section>
 
       {/* Categories Grid */}
-      <section className="px-4 py-16 mx-auto max-w-7xl sm:px-6 lg:px-8">
+      <section className="px-4 pb-20 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <motion.div
           initial="hidden"
           animate="visible"
           variants={staggerContainer}
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
         >
-          {filteredCategories?.map((category) => (
+          {filteredCategories.map((category) => (
             <motion.div
-              key={category._id}
+              key={category.name}
               variants={fadeInUp}
-              whileHover={{ y: -5 }}
-              className="relative group"
+              className="group"
             >
               <Link
-                to={`/tools?category=${encodeURIComponent(category.name)}`}
-                className="block h-full"
+                to={`/tools?category=${encodeURIComponent(category.value)}`}
+                className="block h-full bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
               >
-                <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 p-6 h-full border border-gray-100 dark:border-gray-700">
-                  <div className="flex items-center justify-between mb-4">
-                    <div className="p-3 rounded-lg bg-primary-100 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400">
-                      {category.icon || <FiGrid className="w-6 h-6" />}
-                    </div>
-                    <div className="flex items-center text-gray-400 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors duration-300">
-                      <span className="mr-2 text-sm font-medium">View Tools</span>
-                      <FiArrowRight className="w-4 h-4" />
-                    </div>
+                <div className="flex items-center justify-between mb-4">
+                  <div className="w-12 h-12 bg-primary-100 dark:bg-primary-900 rounded-lg flex items-center justify-center">
+                    <FiGrid className="w-6 h-6 text-primary-600 dark:text-primary-400" />
                   </div>
-                  
-                  <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
-                    {category.name}
-                  </h3>
-                  
-                  <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
-                    {category.toolCount} tools available
-                  </p>
-
-                  <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2">
-                    {category.description}
-                  </p>
+                  <div className="flex items-center space-x-2">
+                    <span className="text-sm font-medium text-gray-500 dark:text-gray-400">
+                      {category.count} {category.count === 1 ? 'Tool' : 'Tools'}
+                    </span>
+                    <FiArrowRight className="w-4 h-4 text-gray-400 dark:text-gray-500 group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors" />
+                  </div>
                 </div>
+                <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
+                  {category.name}
+                </h3>
               </Link>
             </motion.div>
           ))}
-        </motion.div>
-
-        {/* Stats Section */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3 }}
-          className="mt-16"
-        >
-          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-soft p-8 border border-gray-100 dark:border-gray-700">
-            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-6 text-center">
-              Directory Statistics
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <div className="p-4 text-center">
-                <div className="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">
-                  {categories?.length || 0}
-                </div>
-                <div className="text-gray-600 dark:text-gray-400">Categories</div>
-              </div>
-              <div className="p-4 text-center">
-                <div className="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">
-                  {tools?.length || 0}
-                </div>
-                <div className="text-gray-600 dark:text-gray-400">Total Tools</div>
-              </div>
-              <div className="p-4 text-center">
-                <div className="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">
-                  {tools?.length ? (tools.reduce((sum, tool) => sum + (tool.rating?.average || 0), 0) / tools.length).toFixed(1) : '0.0'}
-                </div>
-                <div className="text-gray-600 dark:text-gray-400">Average Rating</div>
-              </div>
-            </div>
-          </div>
         </motion.div>
       </section>
     </div>
