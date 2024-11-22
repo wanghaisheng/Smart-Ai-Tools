@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useAuth } from '../../contexts/AuthContext';
-import { FiGrid, FiHeart, FiList, FiSettings, FiStar, FiTool, FiKey, FiBell } from 'react-icons/fi';
+import { FiGrid, FiHeart, FiList, FiSettings, FiStar, FiTool, FiKey, FiBell, FiMenu, FiX } from 'react-icons/fi';
 import { useLocation, useNavigate, Outlet } from 'react-router-dom';
 
 const menuItems = [
@@ -22,14 +22,12 @@ export default function Dashboard() {
   const [activeTab, setActiveTab] = useState('overview');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  // Sync activeTab with URL on mount and navigation
   useEffect(() => {
     const path = location.pathname.split('/').pop();
     const validTab = menuItems.find(item => item.id === path);
     setActiveTab(validTab ? path : 'overview');
   }, [location]);
 
-  // Update URL when tab changes
   const handleTabChange = (tabId) => {
     setActiveTab(tabId);
     navigate(`/dashboard/${tabId}`);
@@ -37,88 +35,100 @@ export default function Dashboard() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      {/* Mobile menu button */}
-      <div className="lg:hidden fixed top-4 right-4 z-20">
-        <button
-          onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          className="p-2 rounded-lg bg-white dark:bg-gray-800 shadow-lg"
-        >
-          <svg
-            className="w-6 h-6 text-gray-600 dark:text-gray-300"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            {isMobileMenuOpen ? (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M6 18L18 6M6 6l12 12"
-              />
-            ) : (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M4 6h16M4 12h16M4 18h16"
-              />
-            )}
-          </svg>
-        </button>
-      </div>
-
-      <div className="flex flex-col lg:flex-row">
-        {/* Sidebar */}
-        <div
-          className={`${
-            isMobileMenuOpen ? 'block' : 'hidden'
-          } lg:block lg:w-64 bg-white dark:bg-gray-800 h-screen fixed lg:sticky top-0 left-0 overflow-y-auto z-10 transition-all duration-300`}
-        >
-          <div className="p-4">
-            <div className="flex items-center space-x-3 mb-6">
-              <div className="w-10 h-10 rounded-full bg-primary-500 flex items-center justify-center">
+    <div className="flex h-screen bg-gray-50 dark:bg-gray-900">
+      {/* Sidebar */}
+      <motion.aside
+        initial={{ x: -250 }}
+        animate={{ x: 0 }}
+        className={`${
+          isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'
+        } fixed lg:static inset-y-0 left-0 w-64 bg-white dark:bg-gray-800 transform transition-transform duration-300 ease-in-out z-30`}
+      >
+        <div className="h-full flex flex-col">
+          {/* User Profile Section */}
+          <div className="p-4 border-b border-gray-200 dark:border-gray-700">
+            <div className="flex items-center space-x-3">
+              <div className="w-10 h-10 rounded-full bg-gradient-to-r from-primary-500 to-primary-600 flex items-center justify-center">
                 <span className="text-white font-semibold">
                   {user?.name?.charAt(0) || 'U'}
                 </span>
               </div>
-              <div>
-                <h3 className="font-medium text-gray-900 dark:text-white">
+              <div className="flex-1 min-w-0">
+                <h3 className="text-sm font-medium text-gray-900 dark:text-white truncate">
                   {user?.name || 'User'}
                 </h3>
-                <p className="text-sm text-gray-500 dark:text-gray-400">
+                <p className="text-xs text-gray-500 dark:text-gray-400 truncate">
                   {user?.email}
                 </p>
               </div>
             </div>
+          </div>
 
-            <nav className="space-y-1">
+          {/* Navigation */}
+          <nav className="flex-1 overflow-y-auto py-4">
+            <div className="px-3 space-y-1">
               {menuItems.map((item) => (
-                <button
+                <motion.button
                   key={item.id}
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
                   onClick={() => handleTabChange(item.id)}
-                  className={`w-full flex items-center space-x-3 px-3 py-2 rounded-lg transition-colors duration-200 ${
+                  className={`w-full flex items-center space-x-3 px-4 py-2.5 rounded-lg transition-all duration-200 ${
                     activeTab === item.id
-                      ? 'bg-primary-50 dark:bg-primary-900 text-primary-600 dark:text-primary-400'
+                      ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-lg'
                       : 'text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700'
                   }`}
                 >
-                  <item.icon className="w-5 h-5" />
-                  <span>{item.label}</span>
-                </button>
+                  <item.icon className={`w-5 h-5 ${
+                    activeTab === item.id ? 'text-white' : 'text-gray-500 dark:text-gray-400'
+                  }`} />
+                  <span className="text-sm font-medium">{item.label}</span>
+                </motion.button>
               ))}
-            </nav>
-          </div>
+            </div>
+          </nav>
         </div>
+      </motion.aside>
 
-        {/* Main Content */}
-        <div className="flex-1 lg:ml-64 p-4">
-          <div className="max-w-7xl mx-auto">
+      {/* Main Content */}
+      <div className="flex-1 flex flex-col overflow-hidden">
+        {/* Top Bar */}
+        <header className="bg-white dark:bg-gray-800 shadow-sm">
+          <div className="h-16 px-4 flex items-center justify-between">
+            <button
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              className="lg:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              {isMobileMenuOpen ? (
+                <FiX className="w-6 h-6 text-gray-600 dark:text-gray-300" />
+              ) : (
+                <FiMenu className="w-6 h-6 text-gray-600 dark:text-gray-300" />
+              )}
+            </button>
+            <h1 className="text-xl font-semibold text-gray-800 dark:text-white">
+              {menuItems.find(item => item.id === activeTab)?.label}
+            </h1>
+            <div className="flex items-center space-x-4">
+              {/* Add any header actions here */}
+            </div>
+          </div>
+        </header>
+
+        {/* Page Content */}
+        <main className="flex-1 overflow-y-auto bg-gray-50 dark:bg-gray-900">
+          <div className="container mx-auto px-4 py-6">
             <Outlet />
           </div>
-        </div>
+        </main>
       </div>
+
+      {/* Mobile Menu Overlay */}
+      {isMobileMenuOpen && (
+        <div
+          className="fixed inset-0 bg-gray-600 bg-opacity-50 z-20 lg:hidden"
+          onClick={() => setIsMobileMenuOpen(false)}
+        />
+      )}
     </div>
   );
 }
