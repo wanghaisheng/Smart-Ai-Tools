@@ -13,6 +13,7 @@ import './models/Review.js';
 import './models/Category.js';
 import './models/Notification.js';
 import './models/ApiKey.js';
+import './models/Collection.js';
 
 // Import routes
 import authRoutes from './routes/auth.js';
@@ -24,6 +25,7 @@ import categoryRoutes from './routes/categories.js';
 import favoriteRoutes from './routes/favorites.js';
 import { router as notificationRoutes } from './routes/notifications.js';
 import apiKeyRoutes from './routes/api-keys.js';
+import collectionRoutes from './routes/collections.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -55,6 +57,7 @@ app.use('/api/categories', categoryRoutes);
 app.use('/api/favorites', favoriteRoutes);
 app.use('/api/notifications', notificationRoutes);
 app.use('/api/api-keys', apiKeyRoutes);
+app.use('/api/collections', collectionRoutes);
 
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {
