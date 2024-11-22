@@ -3,6 +3,8 @@ import { FiHeart, FiStar, FiTool, FiClock } from 'react-icons/fi';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import api from '../../utils/api';
+import AIRecommendations from '../../components/ai/AIRecommendations';
+import AIChatbot from '../../components/ai/AIChatbot';
 
 const statsCards = [
   { id: 'favorites', label: 'Favorite Tools', icon: FiHeart, color: 'text-pink-500' },
@@ -69,34 +71,33 @@ export default function DashboardOverview() {
   }
 
   return (
-    <div className="space-y-6">
-      {/* Stats Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {statsCards.map((card) => {
-          const Icon = card.icon;
-          return (
+    <div className="container mx-auto px-4 py-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Stats Section */}
+        <div className="grid grid-cols-2 gap-4">
+          {statsCards.map((card) => (
             <motion.div
               key={card.id}
-              whileHover={{ y: -2 }}
-              className="bg-white dark:bg-gray-800 rounded-lg shadow-sm p-6"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="bg-white p-6 rounded-lg shadow-lg"
             >
               <div className="flex items-center justify-between">
                 <div>
-                  <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
-                    {card.label}
-                  </p>
-                  <h4 className="mt-2 text-xl font-semibold text-gray-900 dark:text-white">
-                    {stats[card.id]}
-                  </h4>
+                  <p className="text-gray-500">{card.label}</p>
+                  <h3 className="text-2xl font-bold">{stats[card.id] || 0}</h3>
                 </div>
-                <Icon className={`w-8 h-8 ${card.color}`} />
+                <card.icon className={`text-2xl ${card.color}`} />
               </div>
             </motion.div>
-          );
-        })}
+          ))}
+        </div>
+
+        {/* AI Recommendations Section */}
+        <AIRecommendations />
       </div>
 
-      {/* Recent Activity */}
+      {/* Recent Activity Section */}
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm">
         <div className="px-6 py-4 border-b border-gray-200 dark:border-gray-700">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
@@ -145,6 +146,9 @@ export default function DashboardOverview() {
           ))}
         </div>
       </div>
+
+      {/* AI Chatbot */}
+      <AIChatbot />
     </div>
   );
 }
