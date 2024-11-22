@@ -2,23 +2,28 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { FiEdit2, FiTrash2, FiStar } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
 import toast from 'react-hot-toast';
+import api from '../../utils/api';
+import { useAuth } from '../../contexts/AuthContext';
 
 export default function Reviews() {
   const [reviews, setReviews] = useState([]);
   const [loading, setLoading] = useState(true);
+  const { isAuthenticated } = useAuth();
 
   useEffect(() => {
-    fetchReviews();
-  }, []);
+    if (isAuthenticated) {
+      fetchReviews();
+    }
+  }, [isAuthenticated]);
 
   const fetchReviews = async () => {
     try {
-      const response = await axios.get('/api/reviews/user');
+      const response = await api.get('/reviews/user');
       setReviews(response.data);
     } catch (error) {
-      toast.error('Failed to fetch reviews');
+      const errorMessage = error.response?.data?.message || 'Failed to fetch reviews';
+      toast.error(errorMessage);
       console.error('Error fetching reviews:', error);
     } finally {
       setLoading(false);
@@ -29,11 +34,12 @@ export default function Reviews() {
     if (!window.confirm('Are you sure you want to delete this review?')) return;
 
     try {
-      await axios.delete(`/api/reviews/${reviewId}`);
+      await api.delete(`/reviews/${reviewId}`);
       toast.success('Review deleted successfully');
       setReviews(reviews.filter(review => review._id !== reviewId));
     } catch (error) {
-      toast.error('Failed to delete review');
+      const errorMessage = error.response?.data?.message || 'Failed to delete review';
+      toast.error(errorMessage);
       console.error('Error deleting review:', error);
     }
   };
@@ -105,6 +111,7 @@ export default function Reviews() {
                     <button
                       onClick={() => handleDelete(review._id)}
                       className="p-2 text-red-600 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300"
+                      title="Delete review"
                     >
                       <FiTrash2 className="w-5 h-5" />
                     </button>

@@ -16,7 +16,7 @@ router.get('/user', auth, async (req, res) => {
     res.json(reviews);
   } catch (error) {
     console.error('Error fetching user reviews:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Failed to fetch reviews', error: error.message });
   }
 });
 
@@ -50,81 +50,76 @@ router.get('/tool/:toolId', optionalAuth, async (req, res) => {
     
     res.json(reviewsWithLikeStatus);
   } catch (error) {
-    res.status(500).json({ message: 'Server error' });
+    console.error('Error fetching tool reviews:', error);
+    res.status(500).json({ message: 'Failed to fetch reviews', error: error.message });
   }
 });
 
 // Create/Update review
-router.post('/tool/:toolId',
-  [
-    auth,
-    body('rating').isInt({ min: 1, max: 5 }),
-    body('review').trim().isLength({ min: 1, max: 1000 }),
-  ],
-  async (req, res) => {
-    try {
-      const errors = validationResult(req);
-      if (!errors.isEmpty()) {
-        return res.status(400).json({ errors: errors.array() });
-      }
-
-      const { rating, review } = req.body;
-      const toolId = req.params.toolId;
-      
-      let existingReview = await Review.findOne({
-        user: req.userId,
-        tool: toolId,
-      });
-      
-      if (existingReview) {
-        existingReview.rating = rating;
-        existingReview.review = review;
-        existingReview.updatedAt = new Date();
-        await existingReview.save();
-        
-        existingReview = await Review.findById(existingReview._id)
-          .populate('user', 'username avatar');
-        
-        res.json(existingReview);
-      } else {
-        let newReview = new Review({
-          user: req.userId,
-          tool: toolId,
-          rating,
-          review,
-        });
-        
-        await newReview.save();
-        
-        newReview = await Review.findById(newReview._id)
-          .populate('user', 'username avatar');
-        
-        res.status(201).json(newReview);
-      }
-    } catch (error) {
-      res.status(500).json({ message: 'Server error' });
-    }
-  }
-);
-
-// Delete review
-router.delete('/tool/:toolId', auth, async (req, res) => {
+router.post('/tool/:toolId', [
+  auth,
+  body('rating').isInt({ min: 1, max: 5 }).withMessage('Rating must be between 1 and 5'),
+  body('content').trim().isLength({ min: 1, max: 1000 }).withMessage('Review must be between 1 and 1000 characters')
+], async (req, res) => {
   try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    const { rating, content } = req.body;
     const toolId = req.params.toolId;
     
-    const review = await Review.findOne({
+    let existingReview = await Review.findOne({
       user: req.userId,
-      tool: toolId,
+      tool: toolId
+    });
+    
+    if (existingReview) {
+      existingReview.rating = rating;
+      existingReview.content = content;
+      existingReview.updatedAt = new Date();
+      await existingReview.save();
+      
+      existingReview = await existingReview.populate('user', 'username avatar');
+      
+      res.json(existingReview);
+    } else {
+      let newReview = new Review({
+        user: req.userId,
+        tool: toolId,
+        rating,
+        content
+      });
+      
+      await newReview.save();
+      newReview = await newReview.populate('user', 'username avatar');
+      
+      res.status(201).json(newReview);
+    }
+  } catch (error) {
+    console.error('Error creating/updating review:', error);
+    res.status(500).json({ message: 'Failed to save review', error: error.message });
+  }
+});
+
+// Delete review
+router.delete('/:reviewId', auth, async (req, res) => {
+  try {
+    const review = await Review.findOne({
+      _id: req.params.reviewId,
+      user: req.userId
     });
     
     if (!review) {
-      return res.status(404).json({ message: 'Review not found' });
+      return res.status(404).json({ message: 'Review not found or unauthorized' });
     }
     
-    await review.remove();
-    res.json({ message: 'Review deleted' });
+    await review.deleteOne();
+    res.json({ message: 'Review deleted successfully' });
   } catch (error) {
-    res.status(500).json({ message: 'Server error' });
+    console.error('Error deleting review:', error);
+    res.status(500).json({ message: 'Failed to delete review', error: error.message });
   }
 });
 
@@ -150,10 +145,11 @@ router.post('/:reviewId/like', auth, async (req, res) => {
     res.json({
       likes: review.likes,
       likesCount: review.likes.length,
-      isLiked: likeIndex === -1,
+      isLiked: likeIndex === -1
     });
   } catch (error) {
-    res.status(500).json({ message: 'Server error' });
+    console.error('Error updating review likes:', error);
+    res.status(500).json({ message: 'Failed to update likes', error: error.message });
   }
 });
 
