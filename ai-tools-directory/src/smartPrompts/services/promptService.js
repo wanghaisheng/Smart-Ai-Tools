@@ -1,71 +1,124 @@
 import axios from 'axios';
+import { api } from '../../utils/api';
 
-const API_URL = '/api/smart-prompts';
+const BASE_URL = '/api/smart-prompts'; // Updated to match our API route
 
-// Get auth token from localStorage
 const getAuthHeader = () => {
   const token = localStorage.getItem('token');
   return token ? { Authorization: `Bearer ${token}` } : {};
 };
 
-export const promptService = {
-  // Get all public prompts with optional filters
-  async getPrompts(params = {}) {
-    const queryString = new URLSearchParams(params).toString();
-    const response = await axios.get(`${API_URL}?${queryString}`);
-    return response.data;
-  },
+const getPrompts = async ({ page = 1, limit = 12, search = '', category = '', view = 'public', userId = null }) => {
+  try {
+    let queryParams = {
+      page,
+      limit,
+      search,
+      category,
+    };
 
+    // Handle different view types
+    switch (view) {
+      case 'my-prompts':
+        if (!userId) return { prompts: [], totalPages: 0, totalCount: 0 };
+        queryParams.userId = userId;
+        break;
+      case 'public':
+        queryParams.visibility = 'public';
+        break;
+      case 'favorites':
+        if (!userId) return { prompts: [], totalPages: 0, totalCount: 0 };
+        queryParams.favorites = userId;
+        break;
+      case 'shared':
+        if (!userId) return { prompts: [], totalPages: 0, totalCount: 0 };
+        queryParams.sharedWith = userId;
+        break;
+      case 'all':
+        if (userId) {
+          // For authenticated users, show public ones and ones owned/shared with them
+          queryParams.visibility = ['public', 'private', 'shared'];
+          queryParams.accessibleBy = userId;
+        } else {
+          // For unauthenticated users, show only public prompts
+          queryParams.visibility = 'public';
+        }
+        break;
+      default:
+        queryParams.visibility = 'public';
+        break;
+    }
+
+    // Use the api instance that already has the baseURL and interceptors
+    const response = await api.get('/smart-prompts', {
+      params: queryParams
+    });
+
+    return {
+      prompts: response.data.prompts || [],
+      totalPages: response.data.totalPages || 1,
+      totalCount: response.data.totalCount || 0
+    };
+  } catch (error) {
+    console.error('Error fetching prompts:', error);
+    return { prompts: [], totalPages: 0, totalCount: 0 };
+  }
+};
+
+export const promptService = {
+  getPrompts,
+  
   // Get a single prompt by ID
   async getPromptById(id) {
-    const response = await axios.get(`${API_URL}/${id}`, {
-      headers: getAuthHeader(),
-    });
-    return response.data;
+    try {
+      const response = await api.get(`/smart-prompts/${id}`);
+      return response.data;
+    } catch (error) {
+      console.error('Error fetching prompt:', error);
+      throw error;
+    }
   },
 
   // Create a new prompt
   async createPrompt(promptData) {
-    const response = await axios.post(API_URL, promptData, {
-      headers: {
-        ...getAuthHeader(),
-        'Content-Type': 'application/json',
-      },
-    });
-    return response.data;
+    try {
+      const response = await api.post('/smart-prompts', promptData);
+      return response.data;
+    } catch (error) {
+      console.error('Error creating prompt:', error);
+      throw error;
+    }
   },
 
-  // Update a prompt
+  // Update an existing prompt
   async updatePrompt(id, promptData) {
-    const response = await axios.put(`${API_URL}/${id}`, promptData, {
-      headers: {
-        ...getAuthHeader(),
-        'Content-Type': 'application/json',
-      },
-    });
-    return response.data;
+    try {
+      const response = await api.put(`/smart-prompts/${id}`, promptData);
+      return response.data;
+    } catch (error) {
+      console.error('Error updating prompt:', error);
+      throw error;
+    }
   },
 
   // Delete a prompt
   async deletePrompt(id) {
-    const response = await axios.delete(`${API_URL}/${id}`, {
-      headers: getAuthHeader(),
-    });
-    return response.data;
+    try {
+      await api.delete(`/smart-prompts/${id}`);
+    } catch (error) {
+      console.error('Error deleting prompt:', error);
+      throw error;
+    }
   },
 
   // Rate a prompt
   async ratePrompt(id, rating) {
-    const response = await axios.post(
-      `${API_URL}/${id}/rate`,
-      { rating },
-      {
-        headers: {
-          ...getAuthHeader(),
-          'Content-Type': 'application/json',
-        },
-      }
-    );
-    return response.data;
-  },
+    try {
+      const response = await api.post(`/smart-prompts/${id}/rate`, { rating });
+      return response.data;
+    } catch (error) {
+      console.error('Error rating prompt:', error);
+      throw error;
+    }
+  }
 };
