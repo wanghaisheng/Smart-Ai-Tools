@@ -166,178 +166,198 @@ validateApiKey(provider, key)
 
 ## API Routes
 
-### Prompt Routes
-```
-GET    /api/smart-prompts
-POST   /api/smart-prompts
-GET    /api/smart-prompts/:id
-PUT    /api/smart-prompts/:id
-DELETE /api/smart-prompts/:id
+### Authentication Routes (`/api/auth`)
+- `POST /register`: User registration
+- `POST /login`: User authentication
+- `POST /refresh-token`: Refresh access token
 
-// Social interactions
-POST   /api/smart-prompts/:id/like
-POST   /api/smart-prompts/:id/save
-POST   /api/smart-prompts/:id/share
-POST   /api/smart-prompts/:id/rate
-```
+### Smart Prompts Routes (`/api/smart-prompts`)
+- `GET /`: Get prompts with filtering and pagination
+- `GET /:id`: Get a single prompt by ID
+- `POST /`: Create a new prompt
+- `PUT /:id`: Update an existing prompt
+- `DELETE /:id`: Delete a prompt
+- `POST /:id/rate`: Rate a prompt
+- `POST /:id/like`: Toggle like on a prompt
+- `POST /:id/save`: Toggle save on a prompt
 
-### User Routes
-```
-GET    /api/users/profile
-PUT    /api/users/profile
-GET    /api/users/:id/prompts
-POST   /api/users/follow
-DELETE /api/users/follow
-```
+### Provider API Keys Routes (`/api/provider-api-keys`)
+- `GET /`: Get all configured API keys
+- `POST /:provider`: Save/update provider API key
+- `POST /:provider/test`: Test provider API key
+- `PATCH /:provider/models/:model/toggle`: Toggle model availability
 
-### AI Routes
-```
-POST   /api/ai/generate
-GET    /api/ai/models
-POST   /api/ai/validate-key
-```
+### Generate Prompt Route (`/api/generate-prompt`)
+- `POST /`: Generate AI-powered prompts
 
 ## State Management
+
+The Smart Prompts module uses a combination of React hooks and context for state management:
 
 ### Authentication Context
 - User authentication state
 - Token management
 - Permission checking
 
-### Prompt Context
-- Current prompt state
-- Filter state
-- Pagination state
+### Smart Prompts Context
+- Prompt listing state
+- Filter management
+- Pagination handling
+- Cache management
+
+### Settings Context
+- API key management
+- User preferences
+- Theme settings
+- Keyboard shortcuts
 
 ## Authentication & Security
 
-### Features
+### Security Features
 - JWT-based authentication
-- Role-based access control
 - API key encryption
 - Rate limiting
+- Input validation
+- XSS protection
+- CORS configuration
 
-### Implementation
-```javascript
-// Token management
-const getAuthHeader = () => {
-  const token = localStorage.getItem('token');
-  return token ? { Authorization: `Bearer ${token}` } : {};
-};
-
-// Protected route wrapper
-const ProtectedRoute = ({ children }) => {
-  const { user, loading } = useAuth();
-  return !loading && user ? children : <Navigate to="/login" />;
-};
-```
+### User Authentication Flow
+1. Registration with email verification
+2. JWT token generation
+3. Refresh token rotation
+4. Secure session management
 
 ## AI Integration
 
-### Supported Models
-- GPT-4/3.5 (OpenAI)
-- Claude (Anthropic)
-- Gemini (Google)
-- Mixtral (Mistral)
-- Custom models (via API)
+### Supported AI Providers
+- OpenAI (GPT-3, GPT-4)
+- Anthropic (Claude)
+- Google (Gemini)
+- Groq
+- Mistral
+- Azure OpenAI
 
-### Integration Flow
-1. API key validation
-2. Model selection
-3. Parameter configuration
-4. Generation request
-5. Response processing
-6. Result formatting
+### Integration Features
+- Multiple model support
+- API key management
+- Model-specific settings
+- Usage tracking
+- Error handling
+- Rate limit management
+
+### Generation Parameters
+- Temperature control
+- Length settings
+- Tone selection
+- Prompt type customization
+- Context management
 
 ## Social Features
 
-### Functionality
-- Following system
-- Like/Save system
-- Sharing capabilities
-- Comments & discussions
+### User Interactions
+- Follow/Unfollow users
+- Like/Save prompts
+- Share prompts
+- Comments and discussions
 - User profiles
-- Activity feed
 
-### Implementation Details
-- Real-time updates
-- Optimistic updates
-- Cached responses
-- Pagination support
+### Social Profile Features
+- Bio and avatar
+- Activity feed
+- Prompt collections
+- Statistics tracking
+- Achievement system
 
 ## Database Schema
 
-### Prompt Schema
+### SmartPrompt Schema
 ```javascript
 {
-  id: ObjectId,
   title: String,
   content: String,
-  variables: Array,
+  description: String,
+  category: {
+    type: String,
+    enum: ['Content Creation', 'Technical', 'Business', 'Creative', 'Education', 'Other']
+  },
+  tags: [String],
+  variables: [{
+    name: String,
+    description: String,
+    defaultValue: String
+  }],
   creator: ObjectId,
-  visibility: String,
-  category: String,
-  tags: Array,
-  likes: Array,
-  saves: Array,
-  ratings: Array,
-  comments: Array,
+  visibility: {
+    type: String,
+    enum: ['private', 'public', 'shared']
+  },
+  aiModels: [String],
+  stats: {
+    uses: Number,
+    shares: Number,
+    averageRating: Number,
+    totalRatings: Number
+  },
   version: Number,
-  createdAt: Date,
-  updatedAt: Date
+  parentPrompt: ObjectId,
+  likes: [ObjectId],
+  saves: [ObjectId]
 }
 ```
 
 ### User Schema
 ```javascript
 {
-  id: ObjectId,
   username: String,
   email: String,
-  profile: Object,
-  prompts: Array,
-  favorites: Array,
-  following: Array,
-  followers: Array,
-  settings: Object,
-  createdAt: Date,
-  updatedAt: Date
+  password: String,
+  role: {
+    type: String,
+    enum: ['user', 'admin']
+  },
+  refreshToken: String,
+  isVerified: Boolean,
+  verificationToken: String,
+  resetPasswordToken: String,
+  resetPasswordExpires: Date,
+  favorites: [ObjectId],
+  notificationSettings: {
+    email: Boolean,
+    push: Boolean
+  },
+  lastLoginAt: Date
 }
 ```
 
 ## Configuration
 
 ### Environment Variables
-```env
-# API Configuration
-API_BASE_URL=
-API_VERSION=
-
-# Authentication
-JWT_SECRET=
-JWT_EXPIRY=
-
-# AI Providers
-OPENAI_API_KEY=
-ANTHROPIC_API_KEY=
-GEMINI_API_KEY=
-AZURE_API_KEY=
-
-# Database
-MONGODB_URI=
-REDIS_URL=
-
-# Features
-ENABLE_SOCIAL=
-ENABLE_AI=
-MAX_PROMPTS_PER_USER=
+```
+PORT=5000
+MONGODB_URI=mongodb://...
+JWT_SECRET=your-jwt-secret
+ENCRYPTION_KEY=your-encryption-key
 ```
 
-### Feature Flags
-- `ENABLE_SOCIAL`: Toggle social features
-- `ENABLE_AI`: Toggle AI integration
-- `ENABLE_COMMENTS`: Toggle comment system
-- `ENABLE_SHARING`: Toggle sharing features
+### API Configuration
+- Rate limiting settings
+- CORS configuration
+- Security headers
+- Validation rules
+- Cache settings
+
+### Development Setup
+1. Install dependencies: `npm install`
+2. Set up environment variables
+3. Start development server: `npm run dev`
+4. Run tests: `npm test`
+
+### Production Deployment
+1. Build frontend: `npm run build`
+2. Set production environment variables
+3. Configure reverse proxy
+4. Enable SSL/TLS
+5. Set up monitoring
 
 ---
 
