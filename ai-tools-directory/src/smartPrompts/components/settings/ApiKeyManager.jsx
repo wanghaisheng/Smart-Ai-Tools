@@ -6,9 +6,73 @@ import {
   TrashIcon, 
   CheckCircleIcon,
   ExclamationCircleIcon,
-  ArrowPathIcon
+  ArrowPathIcon,
+  Cog6ToothIcon,
+  ChatBubbleLeftRightIcon,
+  CommandLineIcon,
+  CircleStackIcon,
+  InformationCircleIcon
 } from '@heroicons/react/24/outline';
 import { toast } from 'react-hot-toast';
+
+const SETTINGS_CATEGORIES = [
+  { id: 'models', name: 'Default Model', icon: KeyIcon },
+  { id: 'general', name: 'General Settings', icon: Cog6ToothIcon },
+  { id: 'keyboard', name: 'Keyboard Shortcuts', icon: CommandLineIcon },
+  { id: 'data', name: 'Data Settings', icon: CircleStackIcon },
+  { id: 'about', name: 'About & Feedback', icon: InformationCircleIcon },
+];
+
+const MODEL_PROVIDERS = {
+  popular: {
+    title: 'Popular',
+    providers: [
+      { id: 'openai', name: 'OpenAI', key: 'OPENAI_API_KEY' },
+      { id: 'anthropic', name: 'Anthropic', key: 'ANTHROPIC_API_KEY' },
+      { id: 'gemini', name: 'Gemini', key: 'GOOGLE_API_KEY' },
+      { id: 'groq', name: 'Groq', key: 'GROQ_API_KEY' },
+      { id: 'mistral', name: 'Mistral', key: 'MISTRAL_API_KEY' },
+    ]
+  },
+  cloud: {
+    title: 'Cloud Providers',
+    providers: [
+      { id: 'azure', name: 'Azure OpenAI', key: 'AZURE_API_KEY' },
+      { id: 'alibaba', name: 'Alibaba Cloud', key: 'ALIBABA_API_KEY' },
+      { id: 'tencent', name: 'Tencent Hunyuan', key: 'TENCENT_API_KEY' },
+      { id: 'nvidia', name: 'Nvidia', key: 'NVIDIA_API_KEY' },
+    ]
+  },
+  opensource: {
+    title: 'Open Source',
+    providers: [
+      { id: 'ollama', name: 'Ollama', key: 'OLLAMA_API_KEY' },
+      { id: 'huggingface', name: 'Hugging Face', key: 'HUGGINGFACE_API_KEY' },
+      { id: 'replicate', name: 'Replicate', key: 'REPLICATE_API_KEY' },
+      { id: 'together', name: 'Together', key: 'TOGETHER_API_KEY' },
+    ]
+  },
+  other: {
+    title: 'Other Providers',
+    providers: [
+      { id: 'cohere', name: 'Cohere', key: 'COHERE_API_KEY' },
+      { id: 'openrouter', name: 'OpenRouter', key: 'OPENROUTER_API_KEY' },
+      { id: 'deepseek', name: 'DeepSeek', key: 'DEEPSEEK_API_KEY' },
+      { id: 'fireworks', name: 'Fireworks', key: 'FIREWORKS_API_KEY' },
+      { id: 'grok', name: 'Grok', key: 'GROK_API_KEY' },
+      { id: 'moonshot', name: 'Moonshot', key: 'MOONSHOT_API_KEY' },
+      { id: 'zhipu', name: 'ZHIPU AI', key: 'ZHIPU_API_KEY' },
+      { id: 'yi', name: 'Yi', key: 'YI_API_KEY' },
+      { id: 'ocool', name: 'ocoolAI', key: 'OCOOL_API_KEY' },
+      { id: 'graphrag', name: 'GraphRAG', key: 'GRAPHRAG_API_KEY' },
+      { id: 'minimax', name: 'MiniMax', key: 'MINIMAX_API_KEY' },
+      { id: 'stepfun', name: 'StepFun', key: 'STEPFUN_API_KEY' },
+      { id: 'doubao', name: 'Doubao', key: 'DOUBAO_API_KEY' },
+      { id: 'hyperbolic', name: 'Hyperbolic', key: 'HYPERBOLIC_API_KEY' },
+      { id: 'aihubmix', name: 'AiHubMix', key: 'AIHUBMIX_API_KEY' },
+    ]
+  }
+};
 
 const API_PROVIDERS = [
   { 
@@ -50,6 +114,7 @@ const ApiKeyManager = () => {
   const [loading, setLoading] = useState(true);
   const [testing, setTesting] = useState({});
   const [showAddModal, setShowAddModal] = useState(false);
+  const [selectedCategory, setSelectedCategory] = useState('models');
   const [selectedProvider, setSelectedProvider] = useState(null);
   const [newApiKey, setNewApiKey] = useState('');
 
@@ -149,6 +214,21 @@ const ApiKeyManager = () => {
     }
   };
 
+  const getAvailableModels = (provider) => {
+    switch (provider) {
+      case 'openai':
+        return ['GPT-4 Turbo', 'GPT-4', 'GPT-3.5 Turbo'];
+      case 'anthropic':
+        return ['Claude 3 Opus', 'Claude 3 Sonnet', 'Claude 3 Haiku'];
+      case 'gemini':
+        return ['Gemini Pro', 'Gemini Ultra'];
+      case 'groq':
+        return ['Mixtral-8x7B', 'LLaMA-2-70B'];
+      default:
+        return [];
+    }
+  };
+
   return (
     <div className="space-y-6">
       {/* Header with Add Button */}
@@ -240,69 +320,135 @@ const ApiKeyManager = () => {
         </div>
       )}
 
-      {/* Add API Key Modal */}
+      {/* Three Column Add Key Modal */}
       {showAddModal && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
-            className="bg-gray-800 rounded-xl p-6 max-w-md w-full shadow-xl"
+            className="bg-gray-800 rounded-xl shadow-xl w-[1000px] max-w-[90vw] max-h-[80vh] overflow-hidden"
           >
-            <h3 className="text-xl font-semibold text-gray-100 mb-4">Add API Key</h3>
-            
-            <div className="space-y-4">
-              <div>
-                <label className="block text-sm font-medium text-gray-300 mb-1">
-                  Select Provider
-                </label>
-                <select
-                  value={selectedProvider?.id || ''}
-                  onChange={(e) => setSelectedProvider(API_PROVIDERS.find(p => p.id === e.target.value))}
-                  className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500"
-                >
-                  <option value="">Choose a provider...</option>
-                  {API_PROVIDERS.map(provider => (
-                    <option key={provider.id} value={provider.id}>
-                      {provider.name}
-                    </option>
+            <div className="grid grid-cols-[250px_300px_1fr] h-full">
+              {/* Column 1: Categories */}
+              <div className="bg-gray-900/50 border-r border-gray-700/50 p-4">
+                <h3 className="text-lg font-semibold text-gray-200 mb-4">Settings</h3>
+                <nav className="space-y-1">
+                  {SETTINGS_CATEGORIES.map((category) => (
+                    <button
+                      key={category.id}
+                      onClick={() => setSelectedCategory(category.id)}
+                      className={`w-full flex items-center gap-2 px-3 py-2 rounded-lg text-sm transition-colors ${
+                        selectedCategory === category.id
+                          ? 'bg-blue-500/10 text-blue-400'
+                          : 'text-gray-400 hover:bg-gray-700/50 hover:text-gray-200'
+                      }`}
+                    >
+                      <category.icon className="h-5 w-5" />
+                      {category.name}
+                    </button>
                   ))}
-                </select>
+                </nav>
               </div>
 
-              <div>
-                <label className="block text-sm font-medium text-gray-300 mb-1">
-                  API Key
-                </label>
-                <input
-                  type="password"
-                  value={newApiKey}
-                  onChange={(e) => setNewApiKey(e.target.value)}
-                  placeholder={selectedProvider?.placeholder || 'Enter API key...'}
-                  className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500"
-                />
+              {/* Column 2: Model Providers */}
+              <div className="border-r border-gray-700/50 p-4 overflow-y-auto">
+                <h3 className="text-lg font-semibold text-gray-200 mb-4">Model Providers</h3>
+                <div className="space-y-6">
+                  {Object.entries(MODEL_PROVIDERS).map(([key, section]) => (
+                    <div key={key}>
+                      <h4 className="text-sm font-medium text-gray-400 mb-2">{section.title}</h4>
+                      <div className="space-y-1">
+                        {section.providers.map((provider) => (
+                          <button
+                            key={provider.id}
+                            onClick={() => setSelectedProvider(provider)}
+                            className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
+                              selectedProvider?.id === provider.id
+                                ? 'bg-blue-500/10 text-blue-400'
+                                : 'text-gray-400 hover:bg-gray-700/50 hover:text-gray-200'
+                            }`}
+                          >
+                            {provider.name}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </div>
-            </div>
 
-            <div className="mt-6 flex justify-end gap-3">
-              <button
-                onClick={() => {
-                  setShowAddModal(false);
-                  setSelectedProvider(null);
-                  setNewApiKey('');
-                }}
-                className="px-4 py-2 text-sm text-gray-300 hover:text-white transition-colors"
-              >
-                Cancel
-              </button>
-              <motion.button
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-                onClick={saveApiKey}
-                disabled={!selectedProvider || !newApiKey.trim()}
-                className="px-4 py-2 text-sm bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg shadow-md hover:shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                Save Key
-              </motion.button>
+              {/* Column 3: API Key Configuration */}
+              <div className="p-6 overflow-y-auto">
+                <h3 className="text-lg font-semibold text-gray-200 mb-4">
+                  {selectedProvider ? `Configure ${selectedProvider.name}` : 'Select a Provider'}
+                </h3>
+                
+                {selectedProvider ? (
+                  <div className="space-y-6">
+                    <div className="space-y-2">
+                      <label className="block text-sm font-medium text-gray-300">
+                        API Key
+                      </label>
+                      <input
+                        type="password"
+                        value={newApiKey}
+                        onChange={(e) => setNewApiKey(e.target.value)}
+                        placeholder={`Enter ${selectedProvider.name} API key`}
+                        className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500"
+                      />
+                      <p className="text-xs text-gray-400">
+                        Your API key will be encrypted and stored securely
+                      </p>
+                    </div>
+
+                    {/* Available Models */}
+                    <div className="space-y-2">
+                      <label className="block text-sm font-medium text-gray-300">
+                        Available Models
+                      </label>
+                      <div className="grid gap-2">
+                        {getAvailableModels(selectedProvider.id).map((model) => (
+                          <div
+                            key={model}
+                            className="flex items-center gap-2 px-3 py-2 bg-gray-700/50 rounded-lg"
+                          >
+                            <div className="h-2 w-2 bg-blue-400 rounded-full"></div>
+                            <span className="text-sm text-gray-300">{model}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* Action Buttons */}
+                    <div className="flex justify-end gap-3 pt-4">
+                      <button
+                        onClick={() => {
+                          setShowAddModal(false);
+                          setSelectedProvider(null);
+                          setNewApiKey('');
+                        }}
+                        className="px-4 py-2 text-sm text-gray-300 hover:text-white transition-colors"
+                      >
+                        Cancel
+                      </button>
+                      <motion.button
+                        whileHover={{ scale: 1.02 }}
+                        whileTap={{ scale: 0.98 }}
+                        onClick={saveApiKey}
+                        disabled={!newApiKey.trim()}
+                        className="px-4 py-2 text-sm bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg shadow-md hover:shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+                      >
+                        Save Key
+                      </motion.button>
+                    </div>
+                  </div>
+                ) : (
+                  <div className="flex flex-col items-center justify-center h-[300px] text-gray-400">
+                    <KeyIcon className="h-12 w-12 mb-4" />
+                    <p>Select a provider to configure API key</p>
+                  </div>
+                )}
+              </div>
             </div>
           </motion.div>
         </div>
