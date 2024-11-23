@@ -1,0 +1,834 @@
+{
+    "prompts": [
+      {
+        "title": "Develop a Digital Marketing Strategy for {{business_name}}",
+        "content": "Create a comprehensive digital marketing strategy for {{business_name}} focusing on channels like SEO, PPC, social media, and email marketing to achieve {{business_goal}}.",
+        "description": "Generates a digital marketing plan tailored to a specific business goal.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["digital strategy", "online marketing", "business growth"],
+        "variables": [
+          {
+            "name": "business_name",
+            "description": "The name of the business",
+            "example": "EcoFriendly Products Inc."
+          },
+          {
+            "name": "business_goal",
+            "description": "The main goal of the marketing strategy",
+            "example": "increase online sales by 30% in Q2"
+          }
+        ]
+      },
+      {
+        "title": "Conduct a Digital Marketing Audit for {{website}}",
+        "content": "Perform a detailed digital marketing audit for {{website}}, analyzing SEO performance, social media presence, content strategy, and PPC campaigns. Provide actionable recommendations.",
+        "description": "Assesses current digital marketing efforts and suggests improvements.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["audit", "SEO", "performance analysis"],
+        "variables": [
+          {
+            "name": "website",
+            "description": "The website to audit",
+            "example": "www.techsolutions.com"
+          }
+        ]
+      },
+      {
+        "title": "Create a PPC Campaign for {{product_or_service}}",
+        "content": "Design a pay-per-click advertising campaign for {{product_or_service}} targeting {{audience}}. Include keyword research, ad copy, and landing page suggestions.",
+        "description": "Develops a PPC campaign to drive targeted traffic.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["PPC", "advertising", "Google Ads"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service to advertise",
+            "example": "Online Coding Bootcamp"
+          },
+          {
+            "name": "audience",
+            "description": "The target audience for the ads",
+            "example": "Aspiring software developers aged 18-35"
+          }
+        ]
+      },
+      {
+        "title": "Optimize Website for Mobile Users",
+        "content": "Provide strategies to optimize {{website}} for mobile users, enhancing user experience and improving mobile search rankings.",
+        "description": "Improves website performance on mobile devices.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["mobile optimization", "UX", "responsive design"],
+        "variables": [
+          {
+            "name": "website",
+            "description": "The website to optimize",
+            "example": "www.healthylivingblog.com"
+          }
+        ]
+      },
+      {
+        "title": "Analyze Competitor's Digital Marketing Strategies",
+        "content": "Conduct an analysis of {{competitor_name}}'s digital marketing strategies, including their SEO efforts, content marketing, social media, and PPC campaigns.",
+        "description": "Provides insights into competitor's online marketing tactics.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["competitor analysis", "market research", "digital strategy"],
+        "variables": [
+          {
+            "name": "competitor_name",
+            "description": "The competitor to analyze",
+            "example": "FitLife Supplements"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Content Calendar for Digital Platforms",
+        "content": "Create a monthly content calendar for {{business_name}}, scheduling posts across digital platforms like blogs, social media, and email newsletters.",
+        "description": "Plans content distribution to maintain consistent online presence.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["content planning", "scheduling", "multi-channel"],
+        "variables": [
+          {
+            "name": "business_name",
+            "description": "The name of the business",
+            "example": "Travel Adventures Co."
+          }
+        ]
+      },
+      {
+        "title": "Implement Retargeting Ads for Abandoned Carts",
+        "content": "Design a retargeting ad campaign to recover abandoned carts on {{ecommerce_website}}. Include ad creatives, messaging, and targeting options.",
+        "description": "Aims to increase conversions by retargeting interested customers.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["retargeting", "e-commerce", "conversion optimization"],
+        "variables": [
+          {
+            "name": "ecommerce_website",
+            "description": "The e-commerce website",
+            "example": "www.stylehub.com"
+          }
+        ]
+      },
+      {
+        "title": "Set Up Google Analytics for {{website}}",
+        "content": "Provide a step-by-step guide to set up Google Analytics for {{website}}, including goal tracking and custom dashboard creation.",
+        "description": "Helps track and analyze website performance data.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["Google Analytics", "web analytics", "data tracking"],
+        "variables": [
+          {
+            "name": "website",
+            "description": "The website to set up analytics for",
+            "example": "www.artisanbreads.com"
+          }
+        ]
+      },
+      {
+        "title": "Create a Digital Marketing Budget Plan",
+        "content": "Develop a detailed budget plan for digital marketing activities for {{business_name}} over the next {{time_period}}.",
+        "description": "Allocates funds efficiently across digital marketing channels.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["budgeting", "financial planning", "marketing spend"],
+        "variables": [
+          {
+            "name": "business_name",
+            "description": "The business needing a budget plan",
+            "example": "Elite Fitness Gym"
+          },
+          {
+            "name": "time_period",
+            "description": "The duration of the budget plan",
+            "example": "6 months"
+          }
+        ]
+      },
+      {
+        "title": "Evaluate the ROI of Digital Marketing Campaigns",
+        "content": "Analyze the return on investment for {{business_name}}'s recent digital marketing campaigns. Provide insights and recommendations for improvement.",
+        "description": "Assesses campaign effectiveness in financial terms.",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": ["ROI analysis", "campaign evaluation", "performance metrics"],
+        "variables": [
+          {
+            "name": "business_name",
+            "description": "The business whose campaigns are being evaluated",
+            "example": "GreenEarth Landscaping Services"
+          }
+        ]
+      },
+      {
+        "prompts": [
+          {
+            "title": "Develop a Content Marketing Strategy for {{brand}}",
+            "content": "Create a content marketing strategy for {{brand}} that includes target audience identification, content types, distribution channels, and KPIs.",
+            "description": "Outlines a plan to attract and engage customers through content.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["strategy", "content planning", "audience engagement"],
+            "variables": [
+              {
+                "name": "brand",
+                "description": "The brand to develop a strategy for",
+                "example": "PureSkin Cosmetics"
+              }
+            ]
+          },
+          {
+            "title": "Write a Series of Blog Posts on {{topic}}",
+            "content": "Compose a series of {{number_of_posts}} blog posts covering different aspects of {{topic}} to establish thought leadership and drive organic traffic.",
+            "description": "Creates engaging blog content to attract readers.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["blogging", "SEO", "content creation"],
+            "variables": [
+              {
+                "name": "number_of_posts",
+                "description": "The number of blog posts in the series",
+                "example": "5"
+              },
+              {
+                "name": "topic",
+                "description": "The overarching topic",
+                "example": "Sustainable Living Practices"
+              }
+            ]
+          },
+          {
+            "title": "Create an Infographic on {{subject}}",
+            "content": "Design an informative and visually appealing infographic on {{subject}} to simplify complex information and encourage social sharing.",
+            "description": "Uses visuals to convey information effectively.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["infographic", "visual content", "social media"],
+            "variables": [
+              {
+                "name": "subject",
+                "description": "The subject of the infographic",
+                "example": "The Benefits of Remote Work"
+              }
+            ]
+          },
+          {
+            "title": "Develop a White Paper on {{industry_topic}}",
+            "content": "Compose a comprehensive white paper on {{industry_topic}} that provides valuable insights and positions {{company_name}} as an industry expert.",
+            "description": "Generates in-depth content to build authority.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["white paper", "thought leadership", "B2B marketing"],
+            "variables": [
+              {
+                "name": "industry_topic",
+                "description": "The topic relevant to the industry",
+                "example": "Advancements in Renewable Energy Technologies"
+              },
+              {
+                "name": "company_name",
+                "description": "The company publishing the white paper",
+                "example": "SolarTech Innovations"
+              }
+            ]
+          },
+          {
+            "title": "Plan a Webinar on {{topic}}",
+            "content": "Outline and plan a webinar on {{topic}} targeting {{audience}}. Include key discussion points, speakers, and promotional strategies.",
+            "description": "Engages the audience through interactive online events.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["webinar", "lead generation", "education"],
+            "variables": [
+              {
+                "name": "topic",
+                "description": "The subject of the webinar",
+                "example": "Effective Social Media Strategies for Small Businesses"
+              },
+              {
+                "name": "audience",
+                "description": "The target audience for the webinar",
+                "example": "Small business owners and marketers"
+              }
+            ]
+          },
+          {
+            "title": "Produce a Podcast Series on {{theme}}",
+            "content": "Develop a podcast series focused on {{theme}}, including episode topics, guest speakers, and distribution platforms.",
+            "description": "Creates audio content to reach audiences in a convenient format.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["podcast", "content creation", "audience engagement"],
+            "variables": [
+              {
+                "name": "theme",
+                "description": "The central theme of the podcast",
+                "example": "Innovations in Healthcare Technology"
+              }
+            ]
+          },
+          {
+            "title": "Design a Case Study Showcasing {{success_story}}",
+            "content": "Write a case study highlighting {{success_story}}. Detail the challenges faced, solutions provided by {{company}}, and the results achieved.",
+            "description": "Demonstrates the effectiveness of products or services.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["case study", "B2B", "customer success"],
+            "variables": [
+              {
+                "name": "success_story",
+                "description": "The customer's success to showcase",
+                "example": "Increasing Sales by 50% with CRM Implementation"
+              },
+              {
+                "name": "company",
+                "description": "The company that provided the solution",
+                "example": "NextGen Solutions"
+              }
+            ]
+          },
+          {
+            "title": "Create an E-book on {{topic}}",
+            "content": "Develop an e-book covering {{topic}} to provide in-depth information and generate leads through gated content.",
+            "description": "Offers valuable content in exchange for customer information.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["e-book", "lead magnet", "inbound marketing"],
+            "variables": [
+              {
+                "name": "topic",
+                "description": "The subject of the e-book",
+                "example": "Mastering Personal Finance Management"
+              }
+            ]
+          },
+          {
+            "title": "Plan a User-Generated Content Campaign",
+            "content": "Design a campaign encouraging users to create and share content related to {{brand_or_product}}, leveraging social proof and increasing engagement.",
+            "description": "Engages customers to participate in brand promotion.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["user-generated content", "social media", "engagement"],
+            "variables": [
+              {
+                "name": "brand_or_product",
+                "description": "The brand or product to promote",
+                "example": "AdventureX Action Cameras"
+              }
+            ]
+          },
+          {
+            "title": "Conduct a Content Gap Analysis",
+            "content": "Analyze {{website}}'s existing content to identify gaps and opportunities. Provide recommendations for new content to meet audience needs and improve SEO.",
+            "description": "Enhances content strategy by filling missing topics.",
+            "category": "Marketing",
+            "subcategory": "Content Marketing",
+            "tags": ["content audit", "SEO", "strategy"],
+            "variables": [
+              {
+                "name": "website",
+                "description": "The website to analyze",
+                "example": "www.financeguru.com"
+              }
+            ]
+          },
+
+          {
+            "prompts": [
+              {
+                "title": "Create a Social Media Strategy for {{brand}}",
+                "content": "Develop a social media marketing strategy for {{brand}} across platforms like Facebook, Instagram, Twitter, and LinkedIn to achieve {{goal}}.",
+                "description": "Plans social media activities to meet specific objectives.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["strategy", "social media", "branding"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to promote",
+                    "example": "Urban Style Clothing"
+                  },
+                  {
+                    "name": "goal",
+                    "description": "The main goal of the strategy",
+                    "example": "increase brand awareness among millennials"
+                  }
+                ]
+              },
+              {
+                "title": "Design Engaging Social Media Posts for {{campaign}}",
+                "content": "Create a series of social media posts for {{campaign}} that include compelling visuals, captions, and hashtags to drive engagement.",
+                "description": "Generates content to support a specific campaign.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["content creation", "engagement", "campaign"],
+                "variables": [
+                  {
+                    "name": "campaign",
+                    "description": "The campaign to promote",
+                    "example": "Summer Fitness Challenge"
+                  }
+                ]
+              },
+              {
+                "title": "Analyze Social Media Metrics for {{profile}}",
+                "content": "Provide an analysis of {{profile}}'s social media metrics, including follower growth, engagement rates, and content performance. Offer insights and recommendations.",
+                "description": "Assesses social media performance to inform strategy.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["analytics", "performance", "optimization"],
+                "variables": [
+                  {
+                    "name": "profile",
+                    "description": "The social media profile to analyze",
+                    "example": "@HealthyEats on Instagram"
+                  }
+                ]
+              },
+              {
+                "title": "Plan a Social Media Contest or Giveaway",
+                "content": "Outline a social media contest or giveaway for {{brand}} to increase engagement and followers. Include rules, prizes, and promotional tactics.",
+                "description": "Engages audience through interactive promotions.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["contest", "giveaway", "audience growth"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand hosting the contest",
+                    "example": "Glow Beauty Products"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Social Media Content Calendar",
+                "content": "Create a monthly content calendar for {{brand}}'s social media platforms, scheduling posts, stories, and live sessions.",
+                "description": "Organizes social media content for consistent posting.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["content calendar", "scheduling", "planning"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to create content for",
+                    "example": "EcoTravel Adventures"
+                  }
+                ]
+              },
+              {
+                "title": "Respond to Customer Inquiries on Social Media",
+                "content": "Draft appropriate responses to common customer inquiries and comments on {{brand}}'s social media profiles to improve customer service.",
+                "description": "Enhances customer relations through social channels.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["customer service", "engagement", "community management"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand interacting with customers",
+                    "example": "TechGadgets Store"
+                  }
+                ]
+              },
+              {
+                "title": "Identify Influencers for Collaboration",
+                "content": "Research and list potential influencers in the {{industry}} industry who align with {{brand}}'s values for collaboration opportunities.",
+                "description": "Finds suitable influencers to expand reach.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["influencer marketing", "collaboration", "brand alignment"],
+                "variables": [
+                  {
+                    "name": "industry",
+                    "description": "The industry or niche",
+                    "example": "fitness and wellness"
+                  },
+                  {
+                    "name": "brand",
+                    "description": "The brand seeking collaboration",
+                    "example": "FlexGym Apparel"
+                  }
+                ]
+              },
+              {
+                "title": "Create Social Media Ads for {{product_or_service}}",
+                "content": "Design and write copy for social media advertisements promoting {{product_or_service}}. Include target audience and call-to-action.",
+                "description": "Generates paid ad content to boost sales.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["social media ads", "copywriting", "targeting"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service to advertise",
+                    "example": "Online Yoga Classes"
+                  }
+                ]
+              },
+              {
+                "title": "Monitor Social Media Trends",
+                "content": "Identify and report on the latest social media trends relevant to {{industry}} to inform content creation and engagement strategies.",
+                "description": "Keeps the brand's social media presence current and engaging.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["trends", "industry insights", "strategy"],
+                "variables": [
+                  {
+                    "name": "industry",
+                    "description": "The industry of interest",
+                    "example": "fashion retail"
+                  }
+                ]
+              },
+              {
+                "title": "Conduct a Social Media Audit",
+                "content": "Perform a comprehensive audit of {{brand}}'s social media profiles to assess performance, consistency, and alignment with branding guidelines.",
+                "description": "Evaluates social media effectiveness and identifies areas for improvement.",
+                "category": "Marketing",
+                "subcategory": "Social Media Marketing",
+                "tags": ["audit", "brand consistency", "performance analysis"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to audit",
+                    "example": "TravelNow Agency"
+                  }
+                ]
+              },
+
+              {
+                "prompts": [
+                  {
+                    "title": "Create an Email Newsletter for {{brand}}",
+                    "content": "Compose a monthly email newsletter for {{brand}} that includes updates, promotions, and valuable content tailored to {{audience}}.",
+                    "description": "Generates an engaging newsletter to keep subscribers informed and interested.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["newsletter", "engagement", "customer retention"],
+                    "variables": [
+                      {
+                        "name": "brand",
+                        "description": "The brand sending the newsletter",
+                        "example": "Healthy Living Co."
+                      },
+                      {
+                        "name": "audience",
+                        "description": "The target audience of the newsletter",
+                        "example": "health-conscious consumers"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Develop a Welcome Email Sequence for New Subscribers",
+                    "content": "Design a series of welcome emails for new subscribers to {{brand}}'s mailing list, introducing them to the brand, products, and special offers.",
+                    "description": "Creates an automated sequence to onboard new subscribers.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["welcome series", "automation", "onboarding"],
+                    "variables": [
+                      {
+                        "name": "brand",
+                        "description": "The brand welcoming new subscribers",
+                        "example": "Artisan Coffee Club"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Write a Promotional Email Campaign for {{product_launch}}",
+                    "content": "Compose a promotional email campaign announcing the launch of {{product_launch}}, highlighting its features and benefits to generate excitement.",
+                    "description": "Drives awareness and sales for a new product.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["product launch", "promotion", "email campaign"],
+                    "variables": [
+                      {
+                        "name": "product_launch",
+                        "description": "The new product being launched",
+                        "example": "Smart Home Lighting System"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Design Re-engagement Emails for Inactive Subscribers",
+                    "content": "Create emails aimed at re-engaging inactive subscribers of {{brand}}, offering incentives or reminding them of the benefits of the products or services.",
+                    "description": "Attempts to win back subscribers who have lost interest.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["re-engagement", "win-back", "email strategy"],
+                    "variables": [
+                      {
+                        "name": "brand",
+                        "description": "The brand reaching out to subscribers",
+                        "example": "EcoTravel Adventures"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Personalize Email Content Based on Subscriber Data",
+                    "content": "Develop email templates that use subscriber data like {{data_points}} to personalize content, increasing relevance and engagement.",
+                    "description": "Enhances email effectiveness through personalization.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["personalization", "segmentation", "engagement"],
+                    "variables": [
+                      {
+                        "name": "data_points",
+                        "description": "Subscriber data used for personalization",
+                        "example": "first name, past purchases"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "A/B Test Email Subject Lines",
+                    "content": "Create two variations of email subject lines for {{email_campaign}} to conduct an A/B test and determine which one has a higher open rate.",
+                    "description": "Optimizes email performance through testing.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["A/B testing", "subject lines", "optimization"],
+                    "variables": [
+                      {
+                        "name": "email_campaign",
+                        "description": "The email campaign being tested",
+                        "example": "Holiday Sale Announcement"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Draft Transactional Emails for Order Confirmations",
+                    "content": "Write clear and concise transactional emails for {{brand}} to send order confirmations, including order details and next steps.",
+                    "description": "Provides important information to customers post-purchase.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["transactional email", "customer service", "order confirmation"],
+                    "variables": [
+                      {
+                        "name": "brand",
+                        "description": "The brand sending the transactional email",
+                        "example": "BookStore Online"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Create a Cart Abandonment Email Sequence",
+                    "content": "Develop a series of emails to be sent to customers who have abandoned their shopping carts on {{ecommerce_website}}, encouraging them to complete their purchase.",
+                    "description": "Aims to recover lost sales from cart abandonment.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["cart abandonment", "recovery", "automation"],
+                    "variables": [
+                      {
+                        "name": "ecommerce_website",
+                        "description": "The online store",
+                        "example": "www.trendyclothes.com"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Segment Email List for Targeted Campaigns",
+                    "content": "Plan how to segment {{brand}}'s email list based on criteria like {{segmentation_criteria}} to send more targeted and effective email campaigns.",
+                    "description": "Improves campaign relevance through list segmentation.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["segmentation", "targeting", "email list"],
+                    "variables": [
+                      {
+                        "name": "brand",
+                        "description": "The brand with the email list",
+                        "example": "Gourmet Food Supplies"
+                      },
+                      {
+                        "name": "segmentation_criteria",
+                        "description": "The criteria for segmenting the list",
+                        "example": "purchase history, engagement level"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Analyze Email Campaign Performance Metrics",
+                    "content": "Review the performance metrics of {{email_campaign}} such as open rates, click-through rates, and conversions, providing insights and recommendations.",
+                    "description": "Evaluates the effectiveness of email campaigns.",
+                    "category": "Marketing",
+                    "subcategory": "Email Marketing",
+                    "tags": ["analytics", "performance", "optimization"],
+                    "variables": [
+                      {
+                        "name": "email_campaign",
+                        "description": "The email campaign to analyze",
+                        "example": "Spring Promotion Series"
+                      }
+                    ]
+                  },
+                  {
+        
+                    "title": "Create a Google Ads Campaign for {{product_or_service}}",
+                    "content": "Develop a Google Ads campaign to promote {{product_or_service}}, including keyword selection, ad groups, ad copy, and bidding strategies.",
+                    "description": "Sets up a paid search campaign to increase visibility.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["Google Ads", "PPC", "paid search"],
+                    "variables": [
+                      {
+                        "name": "product_or_service",
+                        "description": "The product or service to advertise",
+                        "example": "Online Language Courses"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Perform Keyword Research for Paid Search",
+                    "content": "Identify high-performing keywords for {{campaign}} that balance search volume and cost-per-click to maximize ROI.",
+                    "description": "Finds effective keywords for SEM campaigns.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["keyword research", "SEM", "ROI"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "Winter Sale Promotion"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Set Up Bing Ads for {{business_name}}",
+                    "content": "Provide instructions for setting up Bing Ads for {{business_name}}, including account creation, campaign setup, and ad creation.",
+                    "description": "Expands paid search efforts to Bing's network.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["Bing Ads", "paid search", "SEM"],
+                    "variables": [
+                      {
+                        "name": "business_name",
+                        "description": "The business advertising",
+                        "example": "Luxury Travel Agency"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Optimize Landing Pages for SEM Campaigns",
+                    "content": "Provide recommendations for optimizing landing pages linked to {{campaign}} to improve quality scores and conversion rates.",
+                    "description": "Enhances landing page effectiveness for better SEM performance.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["landing page optimization", "quality score", "conversions"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "New Product Launch Ads"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Implement Remarketing Strategies in SEM",
+                    "content": "Design a remarketing campaign using {{ad_platform}} to target users who have previously visited {{website}} but did not convert.",
+                    "description": "Re-engages potential customers through targeted ads.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["remarketing", "retargeting", "SEM"],
+                    "variables": [
+                      {
+                        "name": "ad_platform",
+                        "description": "The advertising platform used",
+                        "example": "Google Ads"
+                      },
+                      {
+                        "name": "website",
+                        "description": "The website visitors to retarget",
+                        "example": "www.fitnessgear.com"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Analyze SEM Campaign Performance",
+                    "content": "Review the performance of {{campaign}} by analyzing metrics like click-through rates, cost-per-click, and conversion rates. Provide insights and optimization suggestions.",
+                    "description": "Evaluates SEM campaigns to improve results.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["campaign analysis", "performance metrics", "optimization"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign to analyze",
+                        "example": "Back-to-School Promotion"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Set Up Conversion Tracking for SEM",
+                    "content": "Explain how to set up conversion tracking for {{campaign}} in {{ad_platform}} to measure the effectiveness of ads and optimize spending.",
+                    "description": "Tracks actions taken by users after clicking ads.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["conversion tracking", "analytics", "SEM"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "Holiday Season Ads"
+                      },
+                      {
+                        "name": "ad_platform",
+                        "description": "The advertising platform",
+                        "example": "Google Ads"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Create Ad Extensions for Enhanced Visibility",
+                    "content": "Design ad extensions for {{campaign}} such as sitelinks, callouts, and structured snippets to improve ad visibility and click-through rates.",
+                    "description": "Enhances ads with additional information and links.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["ad extensions", "click-through rate", "ad visibility"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "Summer Sale Campaign"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Develop a Negative Keyword List",
+                    "content": "Create a list of negative keywords for {{campaign}} to prevent ads from showing on irrelevant searches, improving ROI.",
+                    "description": "Reduces wasted ad spend on irrelevant clicks.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["negative keywords", "cost optimization", "SEM"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "Luxury Watches Promotion"
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Schedule Ads for Optimal Performance",
+                    "content": "Determine the best times and days to run ads for {{campaign}} based on target audience behavior and adjust ad scheduling accordingly.",
+                    "description": "Maximizes ad effectiveness by timing delivery.",
+                    "category": "Marketing",
+                    "subcategory": "Search Engine Marketing (SEM)",
+                    "tags": ["ad scheduling", "optimization", "SEM"],
+                    "variables": [
+                      {
+                        "name": "campaign",
+                        "description": "The SEM campaign",
+                        "example": "Weekend Deals Promotion"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

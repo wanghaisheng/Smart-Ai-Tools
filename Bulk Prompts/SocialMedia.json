@@ -1,0 +1,458 @@
+{
+  "prompts": [
+    {
+      "title": "Craft an Engaging Instagram Caption",
+      "content": "Write an engaging and creative Instagram caption for a post featuring {product_description}. The caption should include {call_to_action} and use relevant {hashtags}. Keep it under 150 characters.",
+      "description": "Generates an Instagram caption that promotes a product effectively.",
+      "category": "Content Creation",
+      "tags": ["Instagram", "caption", "marketing"],
+      "variables": [
+        {
+          "name": "product_description",
+          "description": "A brief description of the product or service featured in the post.",
+          "example": "a new line of eco-friendly yoga mats"
+        },
+        {
+          "name": "call_to_action",
+          "description": "An action you want the audience to take.",
+          "example": "Visit our website to learn more"
+        },
+        {
+          "name": "hashtags",
+          "description": "Relevant hashtags to include in the caption.",
+          "example": "#EcoFriendly #YogaLife"
+        }
+      ]
+    },
+    {
+      "title": "Compose a Twitter Thread on Industry Trends",
+      "content": "Create a Twitter thread discussing the latest trends in {industry}. Include {key_points} and provide insights on {future_predictions}. Each tweet should be concise and engaging.",
+      "description": "Generates a Twitter thread to establish thought leadership in a specific industry.",
+      "category": "Content Creation",
+      "tags": ["Twitter", "thread", "industry"],
+      "variables": [
+        {
+          "name": "industry",
+          "description": "The industry or sector to discuss.",
+          "example": "renewable energy"
+        },
+        {
+          "name": "key_points",
+          "description": "The main points to cover in the thread.",
+          "example": "advancements in solar technology, government incentives"
+        },
+        {
+          "name": "future_predictions",
+          "description": "Predictions about the industry's future.",
+          "example": "increased adoption of home solar panels"
+        }
+      ]
+    },
+    {
+      "title": "Develop a LinkedIn Post Highlighting Company Achievements",
+      "content": "Write a professional LinkedIn post announcing {achievement}. Mention how this impacts {stakeholders} and include a quote from {company_leader}.",
+      "description": "Creates a LinkedIn post to share company achievements with a professional audience.",
+      "category": "Content Creation",
+      "tags": ["LinkedIn", "professional", "company news"],
+      "variables": [
+        {
+          "name": "achievement",
+          "description": "The achievement or milestone to announce.",
+          "example": "our company reaching 1 million users"
+        },
+        {
+          "name": "stakeholders",
+          "description": "Groups affected by the achievement.",
+          "example": "customers, investors"
+        },
+        {
+          "name": "company_leader",
+          "description": "Name and title of a leader to quote.",
+          "example": "CEO Jane Doe"
+        }
+      ]
+    },
+    {
+      "title": "Create a Facebook Event Description",
+      "content": "Write a detailed description for a Facebook event titled {event_name}. Include information about {event_details}, {date_time}, and {location}. Encourage users to {call_to_action}.",
+      "description": "Generates an engaging description for a Facebook event to attract attendees.",
+      "category": "Content Creation",
+      "tags": ["Facebook", "event", "marketing"],
+      "variables": [
+        {
+          "name": "event_name",
+          "description": "The name of the event.",
+          "example": "Annual Charity Run"
+        },
+        {
+          "name": "event_details",
+          "description": "Key details about the event.",
+          "example": "a 5K run to raise funds for local schools"
+        },
+        {
+          "name": "date_time",
+          "description": "Date and time of the event.",
+          "example": "Saturday, June 5th at 8 AM"
+        },
+        {
+          "name": "location",
+          "description": "Where the event will take place.",
+          "example": "Central Park, NYC"
+        },
+        {
+          "name": "call_to_action",
+          "description": "An action to encourage user participation.",
+          "example": "Sign up now to reserve your spot"
+        }
+      ]
+    },
+    {
+      "title": "Draft a Pinterest Pin Description for a Blog Post",
+      "content": "Compose an enticing Pinterest pin description for a blog post about {blog_topic}. Include {keywords} and a {call_to_action} to drive traffic to the blog.",
+      "description": "Creates a Pinterest pin description to promote a blog post.",
+      "category": "Content Creation",
+      "tags": ["Pinterest", "blog", "SEO"],
+      "variables": [
+        {
+          "name": "blog_topic",
+          "description": "The main topic of the blog post.",
+          "example": "10 tips for sustainable living"
+        },
+        {
+          "name": "keywords",
+          "description": "SEO keywords to include.",
+          "example": "sustainability, eco-friendly"
+        },
+        {
+          "name": "call_to_action",
+          "description": "A prompt encouraging users to read the blog.",
+          "example": "Click to discover how you can make a difference"
+        }
+      ]
+    },
+    {
+      "title": "Generate a YouTube Video Description",
+      "content": "Write a compelling YouTube video description for a video titled {video_title}. Summarize {video_content}, include {links}, and add relevant {hashtags}.",
+      "description": "Produces a YouTube video description to increase engagement and SEO.",
+      "category": "Content Creation",
+      "tags": ["YouTube", "video", "description"],
+      "variables": [
+        {
+          "name": "video_title",
+          "description": "The title of the YouTube video.",
+          "example": "How to Bake the Perfect Chocolate Cake"
+        },
+        {
+          "name": "video_content",
+          "description": "Key points or topics covered in the video.",
+          "example": "step-by-step baking instructions, secret ingredients"
+        },
+        {
+          "name": "links",
+          "description": "Any links to include in the description.",
+          "example": "recipe blog post, product affiliate links"
+        },
+        {
+          "name": "hashtags",
+          "description": "Relevant hashtags for the video.",
+          "example": "#Baking #ChocolateCake"
+        }
+      ]
+    },
+    {
+      "title": "Outline a Content Creation Calendar for the Week",
+      "content": "Create a Content Creation content plan for {platforms} for the week starting {start_date}. Include {content_types} and align posts with {marketing_goals}.",
+      "description": "Generates a weekly Content Creation calendar to organize content strategy.",
+      "category": "Content Creation",
+      "tags": ["planning", "content strategy", "calendar"],
+      "variables": [
+        {
+          "name": "platforms",
+          "description": "Content Creation platforms to include.",
+          "example": "Facebook, Instagram, Twitter"
+        },
+        {
+          "name": "start_date",
+          "description": "The starting date of the week.",
+          "example": "Monday, July 12th"
+        },
+        {
+          "name": "content_types",
+          "description": "Types of content to post.",
+          "example": "blog shares, promotional offers, user testimonials"
+        },
+        {
+          "name": "marketing_goals",
+          "description": "Overall marketing objectives.",
+          "example": "increase brand awareness, drive website traffic"
+        }
+      ]
+    },
+    {
+      "title": "Write an Influencer Outreach Message",
+      "content": "Compose a message to {influencer_name} proposing a collaboration on {campaign_details}. Highlight {brand_values} and suggest {next_steps}.",
+      "description": "Creates a professional message to engage influencers for partnerships.",
+      "category": "Content Creation",
+      "tags": ["influencer marketing", "collaboration", "outreach"],
+      "variables": [
+        {
+          "name": "influencer_name",
+          "description": "The name of the influencer.",
+          "example": "John Smith"
+        },
+        {
+          "name": "campaign_details",
+          "description": "Details about the proposed campaign.",
+          "example": "promoting our new fitness app"
+        },
+        {
+          "name": "brand_values",
+          "description": "Core values of your brand.",
+          "example": "innovation, wellness, community"
+        },
+        {
+          "name": "next_steps",
+          "description": "Suggested actions to move forward.",
+          "example": "schedule a call to discuss further"
+        }
+      ]
+    },
+    {
+      "title": "Design a Snapchat Story Script",
+      "content": "Develop a script for a Snapchat story promoting {product_service}. Include {key_features} and end with {call_to_action}. Ensure the content is engaging and fits within {snap_duration} seconds.",
+      "description": "Creates a script for a Snapchat story to engage viewers and promote offerings.",
+      "category": "Content Creation",
+      "tags": ["Snapchat", "story", "script"],
+      "variables": [
+        {
+          "name": "product_service",
+          "description": "The product or service to promote.",
+          "example": "our new summer clothing line"
+        },
+        {
+          "name": "key_features",
+          "description": "Main features or benefits to highlight.",
+          "example": "lightweight fabrics, vibrant colors"
+        },
+        {
+          "name": "call_to_action",
+          "description": "An action you want viewers to take.",
+          "example": "Swipe up to shop now"
+        },
+        {
+          "name": "snap_duration",
+          "description": "Total duration of the story.",
+          "example": "60"
+        }
+      ]
+    },
+    {
+      "title": "Plan a TikTok Challenge",
+      "content": "Outline a TikTok challenge called {challenge_name}. Describe the {challenge_details}, set {participation_rules}, and define {hashtags} to use.",
+      "description": "Designs a TikTok challenge to boost engagement and brand awareness.",
+      "category": "Content Creation",
+      "tags": ["TikTok", "challenge", "engagement"],
+      "variables": [
+        {
+          "name": "challenge_name",
+          "description": "The name of the TikTok challenge.",
+          "example": "#DanceForHope"
+        },
+        {
+          "name": "challenge_details",
+          "description": "What participants need to do in the challenge.",
+          "example": "create a dance routine to our new song"
+        },
+        {
+          "name": "participation_rules",
+          "description": "Rules for participating in the challenge.",
+          "example": "must tag our account and use the hashtag"
+        },
+        {
+          "name": "hashtags",
+          "description": "Official hashtags for the challenge.",
+          "example": "#DanceForHope #OurBrandName"
+        }
+      ]
+    },
+    {
+      "title": "Compose an Announcement on Reddit",
+      "content": "Write a Reddit post announcing {announcement} in the {subreddit} subreddit. Ensure it follows {community_guidelines} and encourages {discussion_point}.",
+      "description": "Creates a Reddit post to engage with a community and share news.",
+      "category": "Content Creation",
+      "tags": ["Reddit", "announcement", "community"],
+      "variables": [
+        {
+          "name": "announcement",
+          "description": "The news or update to share.",
+          "example": "the launch of our open-source project"
+        },
+        {
+          "name": "subreddit",
+          "description": "The subreddit to post in.",
+          "example": "r/opensource"
+        },
+        {
+          "name": "community_guidelines",
+          "description": "Rules specific to the subreddit.",
+          "example": "no self-promotion, must provide value"
+        },
+        {
+          "name": "discussion_point",
+          "description": "A topic to encourage discussion.",
+          "example": "feedback on features"
+        }
+      ]
+    },
+    {
+      "title": "Draft a Content Creation Contest Announcement",
+      "content": "Create a post announcing a contest on {platform}. Detail the {prize}, {how_to_enter}, and {deadline}. Use an enthusiastic tone to generate excitement.",
+      "description": "Generates a contest announcement to boost engagement.",
+      "category": "Content Creation",
+      "tags": ["contest", "engagement", "promotion"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The Content Creation platform where the contest is held.",
+          "example": "Instagram"
+        },
+        {
+          "name": "prize",
+          "description": "What participants can win.",
+          "example": "a $100 gift card"
+        },
+        {
+          "name": "how_to_enter",
+          "description": "Instructions on how to participate.",
+          "example": "follow our account and tag three friends"
+        },
+        {
+          "name": "deadline",
+          "description": "The contest end date.",
+          "example": "entries close on August 31st"
+        }
+      ]
+    },
+    {
+      "title": "Write a Customer Testimonial Post",
+      "content": "Compose a Content Creation post sharing a testimonial from {customer_name}. Include their experience with {product_service} and highlight {key_benefits}. Add {visuals} if applicable.",
+      "description": "Creates a post to share positive customer feedback.",
+      "category": "Content Creation",
+      "tags": ["testimonial", "customer", "engagement"],
+      "variables": [
+        {
+          "name": "customer_name",
+          "description": "Name of the customer (can be first name only).",
+          "example": "Emily"
+        },
+        {
+          "name": "product_service",
+          "description": "The product or service the customer used.",
+          "example": "our meal delivery service"
+        },
+        {
+          "name": "key_benefits",
+          "description": "Benefits the customer experienced.",
+          "example": "convenience, healthy meals"
+        },
+        {
+          "name": "visuals",
+          "description": "Any images or videos to include.",
+          "example": "photo of the customer with a delivered meal"
+        }
+      ]
+    },
+    {
+      "title": "Create a Content Creation Poll",
+      "content": "Design a poll for {platform} asking {question}. Provide {options} and encourage users to participate by {call_to_action}.",
+      "description": "Generates a Content Creation poll to engage the audience and gather opinions.",
+      "category": "Content Creation",
+      "tags": ["poll", "engagement", "audience interaction"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The Content Creation platform to post the poll on.",
+          "example": "Twitter"
+        },
+        {
+          "name": "question",
+          "description": "The question to ask in the poll.",
+          "example": "Which new feature are you most excited about?"
+        },
+        {
+          "name": "options",
+          "description": "The possible answers for the poll.",
+          "example": "Option A: Dark Mode, Option B: Voice Commands, Option C: Offline Access"
+        },
+        {
+          "name": "call_to_action",
+          "description": "A prompt encouraging users to vote.",
+          "example": "Let us know your thoughts!"
+        }
+      ]
+    },
+    {
+      "title": "Develop a Content Creation Ad Copy",
+      "content": "Write ad copy for {platform} promoting {product_service}. Highlight {unique_selling_points} and include a {call_to_action}. Keep it within {character_limit} characters.",
+      "description": "Creates compelling ad copy for Content Creation advertising.",
+      "category": "Content Creation",
+      "tags": ["ad copy", "advertising", "promotion"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The platform where the ad will be displayed.",
+          "example": "Facebook"
+        },
+        {
+          "name": "product_service",
+          "description": "The product or service being advertised.",
+          "example": "our online coding bootcamp"
+        },
+        {
+          "name": "unique_selling_points",
+          "description": "Key features that set the product/service apart.",
+          "example": "flexible schedules, expert mentors"
+        },
+        {
+          "name": "call_to_action",
+          "description": "An action you want the audience to take.",
+          "example": "Enroll now and save 20%"
+        },
+        {
+          "name": "character_limit",
+          "description": "Maximum number of characters allowed.",
+          "example": "90"
+        }
+      ]
+    },
+    {
+      "title": "Write a Content Creation Bio",
+      "content": "Craft a Content Creation bio for {platform} that represents {brand_personality}. Include {keywords} and ensure it fits within the {character_limit} character limit.",
+      "description": "Generates a concise and impactful Content Creation bio.",
+      "category": "Content Creation",
+      "tags": ["bio", "branding", "profile"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The Content Creation platform for the bio.",
+          "example": "Twitter"
+        },
+        {
+          "name": "brand_personality",
+          "description": "The voice and personality of the brand.",
+          "example": "friendly and innovative tech startup"
+        },
+        {
+          "name": "keywords",
+          "description": "Important keywords to include for searchability.",
+          "example": "AI solutions, machine learning"
+        },
+        {
+          "name": "character_limit",
+          "description": "Maximum characters allowed for the bio.",
+          "example": "160"
+        }
+      ]
+    }
+  ]
+}

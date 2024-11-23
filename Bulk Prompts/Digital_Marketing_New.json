@@ -1,0 +1,164 @@
+{
+  "prompts": [
+    {
+      "title": "Develop a Digital Marketing Strategy for {{business_name}}",
+      "content": "Create a comprehensive digital marketing strategy for {{business_name}} focusing on channels like SEO, PPC, social media, and email marketing to achieve {{business_goal}}.",
+      "description": "Generates a digital marketing plan tailored to a specific business goal.",
+      "category": "Business",
+      "tags": ["digital marketing", "strategy", "planning"],
+      "variables": [
+        {
+          "name": "business_name",
+          "description": "Name of the business",
+          "example": "TechStart Solutions"
+        },
+        {
+          "name": "business_goal",
+          "description": "Specific goal to achieve",
+          "example": "increase online sales by 30%"
+        }
+      ]
+    },
+    {
+      "title": "Implement Retargeting Ads for Abandoned Carts",
+      "content": "Design a retargeting ad campaign to recover abandoned carts on {{ecommerce_website}}. Include ad creatives, messaging, and targeting options.",
+      "description": "Aims to increase conversions by retargeting interested customers.",
+      "category": "Business",
+      "tags": ["retargeting", "advertising", "ecommerce"],
+      "variables": [
+        {
+          "name": "ecommerce_website",
+          "description": "Name of the ecommerce website",
+          "example": "MyFashionStore.com"
+        }
+      ]
+    },
+    {
+      "title": "Develop a Content Marketing Strategy for {{brand}}",
+      "content": "Create a content marketing strategy for {{brand}} that includes target audience identification, content types, distribution channels, and KPIs.",
+      "description": "Outlines a plan to attract and engage customers through content.",
+      "category": "Business",
+      "tags": ["content marketing", "strategy", "planning"],
+      "variables": [
+        {
+          "name": "brand",
+          "description": "Brand name",
+          "example": "EcoLife Products"
+        }
+      ]
+    },
+    {
+      "title": "Produce a Podcast Series on {{theme}}",
+      "content": "Develop a podcast series focused on {{theme}}, including episode topics, guest speakers, and distribution platforms.",
+      "description": "Creates audio content to reach audiences in a convenient format.",
+      "category": "Business",
+      "tags": ["podcast", "content creation", "audio"],
+      "variables": [
+        {
+          "name": "theme",
+          "description": "Main theme or topic of the podcast",
+          "example": "Sustainable Living"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media Strategy for {{brand}}",
+      "content": "Develop a social media marketing strategy for {{brand}} across platforms like Facebook, Instagram, Twitter, and LinkedIn to achieve {{goal}}.",
+      "description": "Plans social media activities to meet specific objectives.",
+      "category": "Business",
+      "tags": ["social media", "strategy", "marketing"],
+      "variables": [
+        {
+          "name": "brand",
+          "description": "Brand name",
+          "example": "FitLife Gear"
+        },
+        {
+          "name": "goal",
+          "description": "Marketing objective",
+          "example": "increase brand awareness"
+        }
+      ]
+    },
+    {
+      "title": "Identify Influencers for Collaboration",
+      "content": "Research and list potential influencers in the {{industry}} industry who align with {{brand}}'s values for collaboration opportunities.",
+      "description": "Finds suitable influencers to expand reach.",
+      "category": "Business",
+      "tags": ["influencer marketing", "collaboration", "outreach"],
+      "variables": [
+        {
+          "name": "industry",
+          "description": "Industry or niche",
+          "example": "fitness and wellness"
+        },
+        {
+          "name": "brand",
+          "description": "Brand name",
+          "example": "HealthyLife Supplements"
+        }
+      ]
+    },
+    {
+      "title": "Create an Email Newsletter for {{brand}}",
+      "content": "Compose a monthly email newsletter for {{brand}} that includes updates, promotions, and valuable content tailored to {{audience}}.",
+      "description": "Generates an engaging newsletter to keep subscribers informed and interested.",
+      "category": "Business",
+      "tags": ["email marketing", "newsletter", "content"],
+      "variables": [
+        {
+          "name": "brand",
+          "description": "Brand name",
+          "example": "TechGear Pro"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience",
+          "example": "tech enthusiasts"
+        }
+      ]
+    },
+    {
+      "title": "A/B Test Email Subject Lines",
+      "content": "Create two variations of email subject lines for {{email_campaign}} to conduct an A/B test and determine which one has a higher open rate.",
+      "description": "Optimizes email performance through testing.",
+      "category": "Business",
+      "tags": ["email marketing", "A/B testing", "optimization"],
+      "variables": [
+        {
+          "name": "email_campaign",
+          "description": "Name or purpose of the email campaign",
+          "example": "Summer Sale Launch"
+        }
+      ]
+    },
+    {
+      "title": "Create a Google Ads Campaign for {{product_or_service}}",
+      "content": "Develop a Google Ads campaign to promote {{product_or_service}}, including keyword selection, ad groups, ad copy, and bidding strategies.",
+      "description": "Sets up a paid search campaign to increase visibility.",
+      "category": "Business",
+      "tags": ["google ads", "PPC", "advertising"],
+      "variables": [
+        {
+          "name": "product_or_service",
+          "description": "Product or service being promoted",
+          "example": "Online Yoga Classes"
+        }
+      ]
+    },
+    {
+      "title": "Analyze SEM Campaign Performance",
+      "content": "Review the performance of {{campaign}} by analyzing metrics like click-through rates, cost-per-click, and conversion rates. Provide insights and optimization suggestions.",
+      "description": "Evaluates SEM campaigns to improve results.",
+      "category": "Business",
+      "tags": ["SEM", "analytics", "optimization"],
+      "variables": [
+        {
+          "name": "campaign",
+          "description": "Name of the SEM campaign",
+          "example": "Q4 Product Launch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "prompts": [
+    {
+      "title": "Conduct a Customer Survey for {{product_or_service}}",
+      "content": "Design a customer survey to gather feedback on {{product_or_service}}. Include questions about satisfaction, preferences, and areas for improvement.",
+      "description": "Collects valuable customer insights to inform business decisions.",
+      "category": "Business",
+      "tags": ["customer survey", "feedback", "data collection"],
+      "variables": [
+        {
+          "name": "product_or_service",
+          "description": "The product or service to survey customers about",
+          "example": "Premium Subscription Plan"
+        }
+      ]
+    },
+    {
+      "title": "Analyze Market Trends in {{industry}}",
+      "content": "Compile a report on current market trends in the {{industry}} sector, including consumer behavior, technological advancements, and competitive landscape.",
+      "description": "Provides an overview of industry trends to guide strategy.",
+      "category": "Business",
+      "tags": ["market trends", "industry analysis", "strategy"],
+      "variables": [
+        {
+          "name": "industry",
+          "description": "The industry to analyze",
+          "example": "electric vehicles"
+        }
+      ]
+    },
+    {
+      "title": "Conduct a SWOT Analysis for {{company}}",
+      "content": "Perform a SWOT analysis identifying the strengths, weaknesses, opportunities, and threats related to {{company}} in the current market.",
+      "description": "Evaluates the company's strategic position.",
+      "category": "Business",
+      "tags": ["SWOT analysis", "strategic planning", "business assessment"],
+      "variables": [
+        {
+          "name": "company",
+          "description": "The company to analyze",
+          "example": "FreshFoods Organic Market"
+        }
+      ]
+    },
+    {
+      "title": "Identify Target Market Segments for {{product}}",
+      "content": "Determine the most promising market segments for {{product}} by analyzing demographic, geographic, psychographic, and behavioral factors.",
+      "description": "Helps focus marketing efforts on the most receptive audiences.",
+      "category": "Business",
+      "tags": ["target market", "segmentation", "audience analysis"],
+      "variables": [
+        {
+          "name": "product",
+          "description": "The product to identify market segments for",
+          "example": "Noise-Canceling Headphones"
+        }
+      ]
+    },
+    {
+      "title": "Create Buyer Personas for {{brand}}",
+      "content": "Develop detailed buyer personas for {{brand}} based on market research data, including demographics, goals, challenges, and buying habits.",
+      "description": "Helps tailor marketing efforts to specific customer types.",
+      "category": "Business",
+      "tags": ["buyer personas", "customer profiling", "targeting"],
+      "variables": [
+        {
+          "name": "brand",
+          "description": "The brand creating buyer personas",
+          "example": "Adventure Travel Co."
+        }
+      ]
+    }
+  ]
+}

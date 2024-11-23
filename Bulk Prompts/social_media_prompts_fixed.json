@@ -1,0 +1,870 @@
+{
+  "prompts": [
+    {
+      "title": "Create an Instagram Story Highlight Cover",
+      "content": "Design an Instagram Story Highlight cover featuring {icon_theme} and {color_palette}. Ensure it aligns with {brand_identity} and appeals to {target_audience}.",
+      "description": "Generates a design brief for Instagram Story Highlight covers.",
+      "category": "Content Creation",
+      "tags": ["Instagram", "design", "branding"],
+      "variables": [
+        {
+          "name": "icon_theme",
+          "description": "The theme or style of icons to use.",
+          "example": "minimalist line icons"
+        },
+        {
+          "name": "color_palette",
+          "description": "The set of colors to incorporate.",
+          "example": "pastel shades of pink and blue"
+        },
+        {
+          "name": "brand_identity",
+          "description": "Core elements of the brand's identity.",
+          "example": "modern and youthful"
+        },
+        {
+          "name": "target_audience",
+          "description": "The primary audience demographic.",
+          "example": "millennial women interested in fashion"
+        }
+      ]
+    },
+    {
+      "title": "Compose a LinkedIn Article on Leadership",
+      "content": "Write a 500-word LinkedIn article about {leadership_topic}, incorporating {personal_experiences} and {industry_statistics}. Conclude with {actionable_advice}.",
+      "description": "Creates a professional article to establish authority on leadership topics.",
+      "category": "Content Creation",
+      "tags": ["LinkedIn", "article", "leadership"],
+      "variables": [
+        {
+          "name": "leadership_topic",
+          "description": "Specific aspect of leadership to focus on.",
+          "example": "leading remote teams effectively"
+        },
+        {
+          "name": "personal_experiences",
+          "description": "Relevant personal anecdotes to include.",
+          "example": "challenges faced while managing a remote team"
+        },
+        {
+          "name": "industry_statistics",
+          "description": "Data to support the article's points.",
+          "example": "increase in productivity by remote teams by 20%"
+        },
+        {
+          "name": "actionable_advice",
+          "description": "Practical tips for the readers.",
+          "example": "implement regular virtual check-ins"
+        }
+      ]
+    },
+    {
+      "title": "Plan a Social Media Takeover",
+      "content": "Outline a plan for {guest_person} to take over our {platform} account on {date}. Define {content_schedule}, {engagement_strategies}, and {goals}.",
+      "description": "Creates a detailed plan for a social media account takeover to boost engagement.",
+      "category": "Content Creation",
+      "tags": ["takeover", "engagement", "strategy"],
+      "variables": [
+        {
+          "name": "guest_person",
+          "description": "The individual who will take over the account.",
+          "example": "influencer Lisa Kim"
+        },
+        {
+          "name": "platform",
+          "description": "The social media platform to be used.",
+          "example": "Instagram"
+        },
+        {
+          "name": "date",
+          "description": "The date of the takeover.",
+          "example": "September 15th"
+        },
+        {
+          "name": "content_schedule",
+          "description": "Timetable of posts and stories.",
+          "example": "3 posts and 5 stories throughout the day"
+        },
+        {
+          "name": "engagement_strategies",
+          "description": "Methods to engage the audience.",
+          "example": "live Q&A session, polls"
+        },
+        {
+          "name": "goals",
+          "description": "Objectives to achieve through the takeover.",
+          "example": "increase follower count by 10%, boost engagement rate"
+        }
+      ]
+    },
+    {
+      "title": "Generate a Social Media Analytics Report",
+      "content": "Compile a report analyzing {metrics} for our {platform} accounts over the past {time_period}. Include insights on {audience_behavior} and recommendations for {improvement_areas}.",
+      "description": "Produces a comprehensive social media analytics report.",
+      "category": "Content Creation",
+      "tags": ["analytics", "report", "performance"],
+      "variables": [
+        {
+          "name": "metrics",
+          "description": "Key performance indicators to analyze.",
+          "example": "engagement rate, follower growth, click-through rate"
+        },
+        {
+          "name": "platform",
+          "description": "Social media platforms to include.",
+          "example": "Facebook and Instagram"
+        },
+        {
+          "name": "time_period",
+          "description": "The duration for the analysis.",
+          "example": "last quarter"
+        },
+        {
+          "name": "audience_behavior",
+          "description": "Patterns in how the audience interacts.",
+          "example": "peak engagement times, content preferences"
+        },
+        {
+          "name": "improvement_areas",
+          "description": "Areas where performance can be enhanced.",
+          "example": "post timing, content types"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media Crisis Response Plan",
+      "content": "Develop a plan to address {potential_crisis} on {platforms}. Outline {communication_strategies}, assign {team_roles}, and prepare {template_responses}.",
+      "description": "Prepares a response plan for handling social media crises.",
+      "category": "Content Creation",
+      "tags": ["crisis management", "strategy", "planning"],
+      "variables": [
+        {
+          "name": "potential_crisis",
+          "description": "The type of crisis to prepare for.",
+          "example": "negative product reviews going viral"
+        },
+        {
+          "name": "platforms",
+          "description": "Social media platforms to monitor.",
+          "example": "Twitter and Facebook"
+        },
+        {
+          "name": "communication_strategies",
+          "description": "Approach to communicating during the crisis.",
+          "example": "transparent updates, apologetic tone"
+        },
+        {
+          "name": "team_roles",
+          "description": "Roles and responsibilities of team members.",
+          "example": "PR manager handles statements, social media manager monitors comments"
+        },
+        {
+          "name": "template_responses",
+          "description": "Pre-written responses to common concerns.",
+          "example": "apology messages, redirection to customer support"
+        }
+      ]
+    },
+    {
+      "title": "Design a Facebook Ad Campaign",
+      "content": "Plan a Facebook ad campaign targeting {audience_demographics}. Set objectives for {campaign_goals}, define {budget}, and select {ad_formats}.",
+      "description": "Creates a blueprint for a targeted Facebook advertising campaign.",
+      "category": "Content Creation",
+      "tags": ["Facebook", "advertising", "campaign"],
+      "variables": [
+        {
+          "name": "audience_demographics",
+          "description": "Details about the target audience.",
+          "example": "women aged 25-35 interested in fitness"
+        },
+        {
+          "name": "campaign_goals",
+          "description": "Primary objectives of the campaign.",
+          "example": "increase website sign-ups by 15%"
+        },
+        {
+          "name": "budget",
+          "description": "Total budget allocated for the campaign.",
+          "example": "$5,000"
+        },
+        {
+          "name": "ad_formats",
+          "description": "Types of Facebook ads to use.",
+          "example": "carousel ads, video ads"
+        }
+      ]
+    },
+    {
+      "title": "Compose a YouTube Community Post",
+      "content": "Write a YouTube community post to announce {update}. Include {visuals} and encourage subscribers to {engagement_action}.",
+      "description": "Engages YouTube subscribers through community posts.",
+      "category": "Content Creation",
+      "tags": ["YouTube", "community", "engagement"],
+      "variables": [
+        {
+          "name": "update",
+          "description": "The news or update to share.",
+          "example": "new video series launching next week"
+        },
+        {
+          "name": "visuals",
+          "description": "Images or GIFs to include.",
+          "example": "teaser image from the upcoming video"
+        },
+        {
+          "name": "engagement_action",
+          "description": "An action to encourage subscriber interaction.",
+          "example": "leave questions they'd like answered"
+        }
+      ]
+    },
+    {
+      "title": "Develop a Hashtag Strategy",
+      "content": "Create a list of {number_of_hashtags} hashtags for {campaign_theme}. Ensure they are relevant, have {popularity_metrics}, and align with {brand_voice}.",
+      "description": "Generates a strategic set of hashtags to increase post visibility.",
+      "category": "Content Creation",
+      "tags": ["hashtag", "strategy", "visibility"],
+      "variables": [
+        {
+          "name": "number_of_hashtags",
+          "description": "The total number of hashtags to create.",
+          "example": "20"
+        },
+        {
+          "name": "campaign_theme",
+          "description": "The central theme of the campaign.",
+          "example": "summer travel adventures"
+        },
+        {
+          "name": "popularity_metrics",
+          "description": "Desired popularity level of hashtags.",
+          "example": "moderate competition for better reach"
+        },
+        {
+          "name": "brand_voice",
+          "description": "The tone and style of the brand.",
+          "example": "adventurous and inspirational"
+        }
+      ]
+    },
+    {
+      "title": "Create an Instagram Reel Script",
+      "content": "Draft a script for an Instagram Reel about {topic}. Include {key_points}, plan {visual_elements}, and end with {call_to_action}. Keep it under {duration} seconds.",
+      "description": "Produces a script for an engaging Instagram Reel.",
+      "category": "Content Creation",
+      "tags": ["Instagram", "Reels", "video"],
+      "variables": [
+        {
+          "name": "topic",
+          "description": "The subject of the Reel.",
+          "example": "quick healthy breakfast recipes"
+        },
+        {
+          "name": "key_points",
+          "description": "Main points to cover.",
+          "example": "ingredients, steps, nutritional benefits"
+        },
+        {
+          "name": "visual_elements",
+          "description": "Visual components to include.",
+          "example": "close-up shots of ingredients, text overlays"
+        },
+        {
+          "name": "call_to_action",
+          "description": "Action for viewers to take.",
+          "example": "Follow for more recipes"
+        },
+        {
+          "name": "duration",
+          "description": "Maximum length of the Reel.",
+          "example": "30"
+        }
+      ]
+    },
+    {
+      "title": "Outline a Live Stream Event",
+      "content": "Plan a live stream on {platform} featuring {guest_speaker}. Define {topics_to_cover}, schedule for {date_time}, and promote using {marketing_channels}.",
+      "description": "Creates a plan for hosting a successful live stream event.",
+      "category": "Content Creation",
+      "tags": ["live stream", "event", "planning"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "Platform to host the live stream.",
+          "example": "Facebook Live"
+        },
+        {
+          "name": "guest_speaker",
+          "description": "Person who will speak or present.",
+          "example": "industry expert Dr. Allen"
+        },
+        {
+          "name": "topics_to_cover",
+          "description": "Subjects to be discussed.",
+          "example": "latest trends in digital marketing"
+        },
+        {
+          "name": "date_time",
+          "description": "When the live stream will occur.",
+          "example": "October 10th at 3 PM EST"
+        },
+        {
+          "name": "marketing_channels",
+          "description": "Ways to promote the event.",
+          "example": "email newsletters, social media posts"
+        }
+      ]
+    },
+    {
+      "title": "Design an Infographic for Social Sharing",
+      "content": "Create an infographic on {subject_matter} suitable for sharing on {platforms}. Include {data_points}, use {design_style}, and ensure it adheres to {dimensions}.",
+      "description": "Generates a design brief for creating a shareable infographic.",
+      "category": "Content Creation",
+      "tags": ["infographic", "design", "visual content"],
+      "variables": [
+        {
+          "name": "subject_matter",
+          "description": "Topic the infographic will cover.",
+          "example": "benefits of remote work"
+        },
+        {
+          "name": "platforms",
+          "description": "Social media platforms for sharing.",
+          "example": "LinkedIn and Twitter"
+        },
+        {
+          "name": "data_points",
+          "description": "Key statistics or facts to include.",
+          "example": "productivity increases, employee satisfaction rates"
+        },
+        {
+          "name": "design_style",
+          "description": "Visual style preferences.",
+          "example": "modern and minimalistic"
+        },
+        {
+          "name": "dimensions",
+          "description": "Size specifications for the graphic.",
+          "example": "1080x1080 pixels"
+        }
+      ]
+    },
+    {
+      "title": "Compose a Social Media Thank You Post",
+      "content": "Write a heartfelt post thanking {milestone_achievement}. Include {user_generated_content} and express gratitude towards {community}.",
+      "description": "Creates a post to thank followers and celebrate milestones.",
+      "category": "Content Creation",
+      "tags": ["gratitude", "milestone", "community"],
+      "variables": [
+        {
+          "name": "milestone_achievement",
+          "description": "The milestone being celebrated.",
+          "example": "reaching 10,000 followers"
+        },
+        {
+          "name": "user_generated_content",
+          "description": "Content from users to include.",
+          "example": "fan art, testimonials"
+        },
+        {
+          "name": "community",
+          "description": "The group being thanked.",
+          "example": "our amazing community of creators"
+        }
+      ]
+    },
+    {
+      "title": "Plan a Social Media Giveaway",
+      "content": "Outline a giveaway campaign on {platform}. Decide on {prizes}, set {entry_requirements}, and schedule for {duration}. Ensure compliance with {platform_policies}.",
+      "description": "Prepares a plan for a social media giveaway to increase engagement.",
+      "category": "Content Creation",
+      "tags": ["giveaway", "campaign", "engagement"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "Social media platform for the giveaway.",
+          "example": "Instagram"
+        },
+        {
+          "name": "prizes",
+          "description": "Items or experiences to be won.",
+          "example": "a free annual subscription to our service"
+        },
+        {
+          "name": "entry_requirements",
+          "description": "What users must do to enter.",
+          "example": "like the post, follow our account, tag a friend"
+        },
+        {
+          "name": "duration",
+          "description": "Length of the giveaway.",
+          "example": "one week"
+        },
+        {
+          "name": "platform_policies",
+          "description": "Rules and guidelines to follow.",
+          "example": "Instagram's promotion guidelines"
+        }
+      ]
+    },
+    {
+      "title": "Write a Social Media Press Release",
+      "content": "Draft a press release suitable for sharing on {platforms} announcing {news_event}. Include {quotes_from_leadership} and {key_highlights}.",
+      "description": "Creates a press release to share significant news on social media.",
+      "category": "Content Creation",
+      "tags": ["press release", "announcement", "PR"],
+      "variables": [
+        {
+          "name": "platforms",
+          "description": "Social media platforms to share on.",
+          "example": "LinkedIn and Twitter"
+        },
+        {
+          "name": "news_event",
+          "description": "The event or news being announced.",
+          "example": "our company's merger with XYZ Corp"
+        },
+        {
+          "name": "quotes_from_leadership",
+          "description": "Statements from company leaders.",
+          "example": "CEO's remarks on the merger"
+        },
+        {
+          "name": "key_highlights",
+          "description": "Important points to emphasize.",
+          "example": "benefits to customers, future plans"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media FAQ Series",
+      "content": "Develop a series of posts addressing frequently asked questions about {topic}. Provide clear answers and use {visual_aids} to enhance understanding.",
+      "description": "Generates content to address common customer inquiries.",
+      "category": "Content Creation",
+      "tags": ["FAQ", "customer service", "education"],
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Subject matter of the FAQs.",
+          "example": "our new app features"
+        },
+        {
+          "name": "visual_aids",
+          "description": "Graphics or videos to include.",
+          "example": "infographics, short tutorial videos"
+        }
+      ]
+    },
+    {
+      "title": "Develop a Social Media Meme",
+      "content": "Create a meme for {platform} that relates to {industry_trend}. Use {popular_template} and ensure it resonates with {target_audience}.",
+      "description": "Produces a humorous meme to increase shareability.",
+      "category": "Content Creation",
+      "tags": ["meme", "viral", "humor"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "Social media platform for the meme.",
+          "example": "Twitter"
+        },
+        {
+          "name": "industry_trend",
+          "description": "Current trend or event in the industry.",
+          "example": "remote work challenges"
+        },
+        {
+          "name": "popular_template",
+          "description": "Meme template to use.",
+          "example": "Distracted Boyfriend"
+        },
+        {
+          "name": "target_audience",
+          "description": "Audience the meme should appeal to.",
+          "example": "young professionals"
+        }
+      ]
+    },
+    {
+      "title": "Compose a Social Media Countdown Post",
+      "content": "Write a series of posts counting down to {event}. Include {teasers} and use {hashtags} to build excitement.",
+      "description": "Creates a countdown campaign to generate anticipation.",
+      "category": "Content Creation",
+      "tags": ["countdown", "campaign", "anticipation"],
+      "variables": [
+        {
+          "name": "event",
+          "description": "The upcoming event.",
+          "example": "our product launch"
+        },
+        {
+          "name": "teasers",
+          "description": "Sneak peeks or hints to share.",
+          "example": "partial images of the product"
+        },
+        {
+          "name": "hashtags",
+          "description": "Campaign-specific hashtags.",
+          "example": "#ComingSoon #InnovationUnveiled"
+        }
+      ]
+    },
+    {
+      "title": "Draft a Social Media Policy Document",
+      "content": "Create a policy document outlining {guidelines} for employees' use of {social_media_platforms}. Include sections on {acceptable_use}, {privacy}, and {brand_reputation}.",
+      "description": "Develops a policy to guide employee social media usage.",
+      "category": "Content Creation",
+      "tags": ["policy", "guidelines", "compliance"],
+      "variables": [
+        {
+          "name": "guidelines",
+          "description": "Rules and best practices to include.",
+          "example": "professional conduct, confidentiality"
+        },
+        {
+          "name": "social_media_platforms",
+          "description": "Platforms covered by the policy.",
+          "example": "all major social media sites"
+        },
+        {
+          "name": "acceptable_use",
+          "description": "Definition of acceptable activities.",
+          "example": "sharing public company news, engaging positively"
+        },
+        {
+          "name": "privacy",
+          "description": "Rules regarding privacy and data protection.",
+          "example": "prohibition of sharing confidential information"
+        },
+        {
+          "name": "brand_reputation",
+          "description": "Guidelines to protect the company's image.",
+          "example": "avoiding controversial topics"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media Trend Report",
+      "content": "Compile a report on the latest trends in {social_media_landscape}. Analyze {emerging_platforms}, {content_formats}, and {user_behaviors}. Provide {recommendations} for adaptation.",
+      "description": "Produces a report to inform strategy based on current social media trends.",
+      "category": "Content Creation",
+      "tags": ["trend analysis", "strategy", "research"],
+      "variables": [
+        {
+          "name": "social_media_landscape",
+          "description": "Scope of the analysis.",
+          "example": "global social media usage"
+        },
+        {
+          "name": "emerging_platforms",
+          "description": "New platforms gaining popularity.",
+          "example": "Clubhouse, TikTok"
+        },
+        {
+          "name": "content_formats",
+          "description": "Types of content trending.",
+          "example": "short-form videos, live streams"
+        },
+        {
+          "name": "user_behaviors",
+          "description": "How users are interacting with content.",
+          "example": "increased preference for authentic content"
+        },
+        {
+          "name": "recommendations",
+          "description": "Suggestions for strategic changes.",
+          "example": "invest in video content creation"
+        }
+      ]
+    },
+    {
+      "title": "Compose an Employee Spotlight Post",
+      "content": "Write a post highlighting {employee_name} from the {department}. Share their {achievements} and include a {personal_quote}. Add {visuals} to enhance the post.",
+      "description": "Creates a post to recognize employee contributions.",
+      "category": "Content Creation",
+      "tags": ["employee recognition", "company culture", "engagement"],
+      "variables": [
+        {
+          "name": "employee_name",
+          "description": "Name of the employee.",
+          "example": "Michael Lee"
+        },
+        {
+          "name": "department",
+          "description": "Department they work in.",
+          "example": "Research and Development"
+        },
+        {
+          "name": "achievements",
+          "description": "Notable accomplishments.",
+          "example": "led the development of our new AI algorithm"
+        },
+        {
+          "name": "personal_quote",
+          "description": "A quote from the employee.",
+          "example": "\"I'm passionate about creating innovative solutions.\""
+        },
+        {
+          "name": "visuals",
+          "description": "Photos or videos to include.",
+          "example": "professional headshot, photo of them at work"
+        }
+      ]
+    },
+    {
+      "title": "Develop a Social Media Outreach Plan",
+      "content": "Create a plan to reach out to {influencers_bloggers} in {industry}. Outline {communication_strategies}, set {goals}, and prepare {collaboration_proposals}.",
+      "description": "Generates a strategy for connecting with key online personalities.",
+      "category": "Content Creation",
+      "tags": ["outreach", "collaboration", "networking"],
+      "variables": [
+        {
+          "name": "influencers_bloggers",
+          "description": "Types of individuals to contact.",
+          "example": "tech influencers and bloggers"
+        },
+        {
+          "name": "industry",
+          "description": "Industry or niche focus.",
+          "example": "consumer electronics"
+        },
+        {
+          "name": "communication_strategies",
+          "description": "Approach for initiating contact.",
+          "example": "personalized emails, social media DMs"
+        },
+        {
+          "name": "goals",
+          "description": "Objectives for the outreach.",
+          "example": "secure product reviews, guest posts"
+        },
+        {
+          "name": "collaboration_proposals",
+          "description": "Ideas for working together.",
+          "example": "sponsored content, affiliate partnerships"
+        }
+      ]
+    },
+    {
+      "title": "Write a Social Media Testimonial Request",
+      "content": "Draft a message requesting {customers_clients} to share testimonials about {product_service}. Offer {incentives} and provide {instructions} on how to submit.",
+      "description": "Encourages satisfied customers to provide testimonials.",
+      "category": "Content Creation",
+      "tags": ["testimonials", "customer engagement", "feedback"],
+      "variables": [
+        {
+          "name": "customers_clients",
+          "description": "The audience to request testimonials from.",
+          "example": "recent buyers of our software"
+        },
+        {
+          "name": "product_service",
+          "description": "What they should provide feedback on.",
+          "example": "our project management tool"
+        },
+        {
+          "name": "incentives",
+          "description": "Rewards for providing testimonials.",
+          "example": "a 10% discount on their next purchase"
+        },
+        {
+          "name": "instructions",
+          "description": "How they can submit their testimonials.",
+          "example": "reply to this message or fill out our online form"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media Success Story",
+      "content": "Write a post sharing the success story of {client_name} who achieved {results} using {product_service}. Include {data_points} and a {call_to_action}.",
+      "description": "Highlights a client's success to showcase product effectiveness.",
+      "category": "Content Creation",
+      "tags": ["success story", "case study", "testimonial"],
+      "variables": [
+        {
+          "name": "client_name",
+          "description": "Name of the client or company.",
+          "example": "GreenTech Solutions"
+        },
+        {
+          "name": "results",
+          "description": "The success they achieved.",
+          "example": "a 50% increase in productivity"
+        },
+        {
+          "name": "product_service",
+          "description": "What they used to achieve success.",
+          "example": "our workflow automation software"
+        },
+        {
+          "name": "data_points",
+          "description": "Specific metrics or statistics.",
+          "example": "reduced project completion time from 4 weeks to 2 weeks"
+        },
+        {
+          "name": "call_to_action",
+          "description": "Prompt for readers to take action.",
+          "example": "Learn how we can help your business too"
+        }
+      ]
+    },
+    {
+      "title": "Design a Social Media Quiz",
+      "content": "Develop an interactive quiz for {platform} titled {quiz_title}. Create {number_of_questions} questions related to {topic}, and provide {results_interpretation}.",
+      "description": "Engages the audience through an interactive quiz.",
+      "category": "Content Creation",
+      "tags": ["quiz", "engagement", "interactive"],
+      "variables": [
+        {
+          "name": "platform",
+          "description": "Platform where the quiz will be hosted.",
+          "example": "Instagram Stories"
+        },
+        {
+          "name": "quiz_title",
+          "description": "The title of the quiz.",
+          "example": "What's Your Productivity Style?"
+        },
+        {
+          "name": "number_of_questions",
+          "description": "Total questions in the quiz.",
+          "example": "5"
+        },
+        {
+          "name": "topic",
+          "description": "Subject matter of the quiz.",
+          "example": "work habits and productivity"
+        },
+        {
+          "name": "results_interpretation",
+          "description": "Explanation of possible outcomes.",
+          "example": "personalized tips based on their productivity style"
+        }
+      ]
+    },
+    {
+      "title": "Plan a Social Media Storytelling Series",
+      "content": "Outline a series of posts that tell the story of {brand_journey}. Divide the story into {number_of_parts}, each focusing on {key_milestones}.",
+      "description": "Engages followers by sharing the brand's history and evolution.",
+      "category": "Content Creation",
+      "tags": ["storytelling", "brand history", "engagement"],
+      "variables": [
+        {
+          "name": "brand_journey",
+          "description": "Overview of the brand's development.",
+          "example": "from startup to industry leader"
+        },
+        {
+          "name": "number_of_parts",
+          "description": "Total posts in the series.",
+          "example": "5"
+        },
+        {
+          "name": "key_milestones",
+          "description": "Significant events to highlight.",
+          "example": "founding, first product launch, major partnerships"
+        }
+      ]
+    },
+    {
+      "title": "Write a Social Media Survey Invitation",
+      "content": "Compose an invitation for followers to participate in a survey about {survey_topic}. Mention {incentives} and explain how their feedback will {benefit}.",
+      "description": "Encourages audience participation in a survey to gather insights.",
+      "category": "Content Creation",
+      "tags": ["survey", "feedback", "engagement"],
+      "variables": [
+        {
+          "name": "survey_topic",
+          "description": "Subject of the survey.",
+          "example": "customer satisfaction with our services"
+        },
+        {
+          "name": "incentives",
+          "description": "Rewards for completing the survey.",
+          "example": "entry into a prize draw"
+        },
+        {
+          "name": "benefit",
+          "description": "How their feedback will be used.",
+          "example": "improve our offerings"
+        }
+      ]
+    },
+    {
+      "title": "Create a Social Media Event Recap",
+      "content": "Write a post summarizing {event_name}. Include {highlights}, share {photos_videos}, and thank {participants_sponsors}.",
+      "description": "Provides an overview of an event to inform those who couldn't attend.",
+      "category": "Content Creation",
+      "tags": ["event", "recap", "engagement"],
+      "variables": [
+        {
+          "name": "event_name",
+          "description": "Name of the event.",
+          "example": "Annual Tech Conference 2023"
+        },
+        {
+          "name": "highlights",
+          "description": "Key moments or achievements.",
+          "example": "keynote speeches, product launches"
+        },
+        {
+          "name": "photos_videos",
+          "description": "Media to include.",
+          "example": "album of event photos"
+        },
+        {
+          "name": "participants_sponsors",
+          "description": "People or organizations to acknowledge.",
+          "example": "guest speakers, sponsoring companies"
+        }
+      ]
+    },
+    {
+      "title": "Compose a Social Media Thank You Note",
+      "content": "Write a heartfelt thank you note to {specific_group} for {reason}. Include {personal_touch} to make it sincere.",
+      "description": "Expresses gratitude to a specific group for their support or contribution.",
+      "category": "Content Creation",
+      "tags": ["gratitude", "community", "engagement"],
+      "variables": [
+        {
+          "name": "specific_group",
+          "description": "The audience being thanked.",
+          "example": "volunteers who helped at our event"
+        },
+        {
+          "name": "reason",
+          "description": "What you are thanking them for.",
+          "example": "their time and dedication"
+        },
+        {
+          "name": "personal_touch",
+          "description": "Additional details to personalize the message.",
+          "example": "mentioning specific contributions or moments"
+        }
+      ]
+    },
+    {
+      "title": "Design a Social Media Educational Series",
+      "content": "Plan a series of posts to educate followers about {subject_matter}. Break down the content into {number_of_posts} parts, each covering {subtopics}.",
+      "description": "Provides valuable information to the audience over a series of posts.",
+      "category": "Content Creation",
+      "tags": ["educational", "series", "content"],
+      "variables": [
+        {
+          "name": "subject_matter",
+          "description": "The main topic of the series.",
+          "example": "digital marketing strategies"
+        },
+        {
+          "name": "number_of_posts",
+          "description": "Total number of posts in the series.",
+          "example": "7"
+        },
+        {
+          "name": "subtopics",
+          "description": "Specific areas to cover in each post.",
+          "example": "SEO, content marketing, social media advertising"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1845 @@
+{
+    "prompts": [
+      {
+        "title": "Conduct a Customer Survey for {{product_or_service}}",
+        "content": "Design a customer survey to gather feedback on {{product_or_service}}. Include questions about satisfaction, preferences, and areas for improvement.",
+        "description": "Collects valuable customer insights to inform business decisions.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["customer survey", "feedback", "data collection"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service to survey customers about",
+            "example": "Premium Subscription Plan"
+          }
+        ]
+      },
+      {
+        "title": "Analyze Market Trends in {{industry}}",
+        "content": "Compile a report on current market trends in the {{industry}} sector, including consumer behavior, technological advancements, and competitive landscape.",
+        "description": "Provides an overview of industry trends to guide strategy.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["market trends", "industry analysis", "strategy"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "The industry to analyze",
+            "example": "electric vehicles"
+          }
+        ]
+      },
+      {
+        "title": "Conduct a SWOT Analysis for {{company}}",
+        "content": "Perform a SWOT analysis identifying the strengths, weaknesses, opportunities, and threats related to {{company}} in the current market.",
+        "description": "Evaluates the company's strategic position.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["SWOT analysis", "strategic planning", "business assessment"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company to analyze",
+            "example": "FreshFoods Organic Market"
+          }
+        ]
+      },
+      {
+        "title": "Identify Target Market Segments for {{product}}",
+        "content": "Determine the most promising market segments for {{product}} by analyzing demographic, geographic, psychographic, and behavioral factors.",
+        "description": "Helps focus marketing efforts on the most receptive audiences.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["target market", "segmentation", "audience analysis"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to identify market segments for",
+            "example": "Noise-Canceling Headphones"
+          }
+        ]
+      },
+      {
+        "title": "Evaluate Competitor Strategies in {{market}}",
+        "content": "Analyze the marketing strategies of key competitors in the {{market}} to identify their strengths and weaknesses.",
+        "description": "Provides insights to develop competitive advantages.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["competitor analysis", "strategic insight", "competitive intelligence"],
+        "variables": [
+          {
+            "name": "market",
+            "description": "The market or industry",
+            "example": "online education platforms"
+          }
+        ]
+      },
+      {
+        "title": "Assess Market Entry Opportunities in {{region}}",
+        "content": "Research and assess the potential for entering the market in {{region}}, considering factors like demand, competition, and regulatory environment.",
+        "description": "Helps determine feasibility of expanding into new regions.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["market entry", "regional analysis", "expansion"],
+        "variables": [
+          {
+            "name": "region",
+            "description": "The geographical region of interest",
+            "example": "Southeast Asia"
+          }
+        ]
+      },
+      {
+        "title": "Analyze Consumer Buying Behavior for {{product_category}}",
+        "content": "Study the buying behavior of consumers in the {{product_category}} category, including factors that influence purchase decisions.",
+        "description": "Informs marketing strategies by understanding consumer motivations.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["consumer behavior", "purchase decisions", "market analysis"],
+        "variables": [
+          {
+            "name": "product_category",
+            "description": "The category of products",
+            "example": "smart home devices"
+          }
+        ]
+      },
+      {
+        "title": "Prepare a Market Feasibility Study for {{new_product_or_service}}",
+        "content": "Conduct a market feasibility study for {{new_product_or_service}}, analyzing potential demand, competition, and profitability.",
+        "description": "Assesses viability of launching a new product or service.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["feasibility study", "market analysis", "product launch"],
+        "variables": [
+          {
+            "name": "new_product_or_service",
+            "description": "The new product or service being considered",
+            "example": "Online Personal Training Program"
+          }
+        ]
+      },
+      {
+        "title": "Create Buyer Personas for {{brand}}",
+        "content": "Develop detailed buyer personas for {{brand}} based on market research data, including demographics, goals, challenges, and buying habits.",
+        "description": "Helps tailor marketing efforts to specific customer types.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["buyer personas", "customer profiling", "targeting"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand creating buyer personas",
+            "example": "Adventure Travel Co."
+          }
+        ]
+      },
+      {
+        "title": "Forecast Market Growth for {{industry}} Over the Next {{time_period}}",
+        "content": "Predict the growth of the {{industry}} industry over the next {{time_period}} using historical data, current trends, and economic indicators.",
+        "description": "Provides projections to inform strategic planning.",
+        "category": "Marketing",
+        "subcategory": "Market Research",
+        "tags": ["market forecasting", "industry analysis", "strategic planning"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "The industry to forecast",
+            "example": "renewable energy"
+          },
+          {
+            "name": "time_period",
+            "description": "The future time period for the forecast",
+            "example": "5 years"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Go-to-Market Strategy for {{product}}",
+        "content": "Create a go-to-market strategy for {{product}}, including target market identification, positioning, pricing, and promotional tactics.",
+        "description": "Plans the launch of a product to the market effectively.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["go-to-market", "product launch", "strategy"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to be launched",
+            "example": "Smart Fitness Tracker"
+          }
+        ]
+      },
+      {
+        "title": "Craft Product Messaging and Positioning",
+        "content": "Develop clear and compelling messaging for {{product}}, highlighting its unique value proposition and differentiators in the market.",
+        "description": "Defines how the product is communicated to the target audience.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["messaging", "positioning", "value proposition"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to create messaging for",
+            "example": "Cloud Storage Solution"
+          }
+        ]
+      },
+      {
+        "title": "Train Sales Team on Product Features and Benefits",
+        "content": "Prepare training materials for the sales team covering the features, benefits, and competitive advantages of {{product}}.",
+        "description": "Equips the sales team with knowledge to sell effectively.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["sales training", "product knowledge", "enablement"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to train the sales team on",
+            "example": "AI-Powered Customer Support Software"
+          }
+        ]
+      },
+      {
+        "title": "Plan a Product Launch Event",
+        "content": "Organize a launch event for {{product}}, including venue selection, agenda planning, guest list, and promotional activities.",
+        "description": "Creates buzz and excitement around a new product.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["product launch", "event planning", "promotion"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product being launched",
+            "example": "Virtual Reality Gaming Headset"
+          }
+        ]
+      },
+      {
+        "title": "Develop Product Packaging and Branding",
+        "content": "Design packaging and branding elements for {{product}} that reflect its positioning and appeal to the target market.",
+        "description": "Enhances product appeal through visual branding.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["packaging", "branding", "design"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product needing packaging",
+            "example": "Organic Skincare Line"
+          }
+        ]
+      },
+      {
+        "title": "Create Product Demonstration Videos",
+        "content": "Produce instructional videos demonstrating how to use {{product}}, highlighting key features and benefits.",
+        "description": "Provides visual aid to educate customers about the product.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["product demo", "video marketing", "customer education"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to demonstrate",
+            "example": "Home Automation System"
+          }
+        ]
+      },
+      {
+        "title": "Manage Product Lifecycle Planning",
+        "content": "Outline a plan for managing the lifecycle of {{product}}, from introduction to growth, maturity, and eventual decline or renewal.",
+        "description": "Ensures the product remains competitive throughout its lifecycle.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["product lifecycle", "planning", "strategy"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to plan for",
+            "example": "Subscription-Based Software Service"
+          }
+        ]
+      },
+      {
+        "title": "Set Pricing Strategies for {{product}}",
+        "content": "Determine the optimal pricing strategy for {{product}} considering factors like cost, competition, and perceived value.",
+        "description": "Establishes a price point that maximizes profitability and market share.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["pricing strategy", "value-based pricing", "market analysis"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to price",
+            "example": "Eco-Friendly Cleaning Supplies"
+          }
+        ]
+      },
+      {
+        "title": "Gather and Analyze Customer Feedback on {{product}}",
+        "content": "Collect customer feedback on {{product}} through surveys, reviews, and support interactions. Analyze the data to identify areas for improvement.",
+        "description": "Uses customer insights to enhance the product.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["customer feedback", "product improvement", "analysis"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to gather feedback on",
+            "example": "Mobile Banking App"
+          }
+        ]
+      },
+      {
+        "title": "Coordinate Cross-Functional Teams for Product Launch",
+        "content": "Facilitate collaboration between marketing, sales, product development, and customer support teams to ensure a successful launch of {{product}}.",
+        "description": "Aligns different departments for cohesive product rollout.",
+        "category": "Marketing",
+        "subcategory": "Product Marketing",
+        "tags": ["cross-functional collaboration", "launch coordination", "team management"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product being launched",
+            "example": "Electric Scooter Model X"
+          }
+        ]
+      },
+
+      {
+        "title": "Develop an Advertising Campaign for {{brand}}",
+        "content": "Create a comprehensive advertising campaign for {{brand}}, including objectives, target audience, key messages, media channels, and budget allocation.",
+        "description": "Plans an effective campaign to promote the brand.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["campaign planning", "media strategy", "brand promotion"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand to advertise",
+            "example": "Luxury Watch Collection"
+          }
+        ]
+      },
+      {
+        "title": "Design Print Advertisements for {{product}}",
+        "content": "Create visually compelling print ads for {{product}} to be placed in magazines, newspapers, or billboards, including copy and graphics.",
+        "description": "Generates print materials to attract potential customers.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["print advertising", "design", "creative"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to advertise",
+            "example": "Gourmet Coffee Beans"
+          }
+        ]
+      },
+      {
+        "title": "Plan a Television Commercial Script for {{service}}",
+        "content": "Write a script for a television commercial promoting {{service}}, focusing on storytelling and emotional appeal to engage viewers.",
+        "description": "Creates a concept for a TV ad to promote a service.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["TV commercial", "scriptwriting", "storytelling"],
+        "variables": [
+          {
+            "name": "service",
+            "description": "The service to advertise",
+            "example": "Home Cleaning Services"
+          }
+        ]
+      },
+      {
+        "title": "Set Up a Programmatic Advertising Campaign",
+        "content": "Develop a programmatic ad campaign for {{brand}}, selecting platforms, setting targeting parameters, and creating ad creatives.",
+        "description": "Automates ad buying to reach a specific audience efficiently.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["programmatic advertising", "automation", "targeting"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand to advertise",
+            "example": "TechGadget Store"
+          }
+        ]
+      },
+      {
+        "title": "Create Radio Ad Scripts for {{promotion}}",
+        "content": "Write engaging and concise scripts for radio advertisements promoting {{promotion}}, including a clear call-to-action.",
+        "description": "Reaches audiences through audio advertising.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["radio ads", "scriptwriting", "audio marketing"],
+        "variables": [
+          {
+            "name": "promotion",
+            "description": "The promotion or offer",
+            "example": "Holiday Sale Event"
+          }
+        ]
+      },
+      {
+        "title": "Design Online Display Ads",
+        "content": "Create a set of online display ads for {{campaign}}, ensuring they are visually appealing and optimized for various ad sizes and platforms.",
+        "description": "Develops digital ads to increase online visibility.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["display ads", "digital advertising", "design"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The advertising campaign",
+            "example": "New Product Launch"
+          }
+        ]
+      },
+      {
+        "title": "Plan an Outdoor Advertising Strategy",
+        "content": "Develop a strategy for outdoor advertising for {{brand}}, including billboard locations, transit ads, and street furniture placements.",
+        "description": "Increases brand exposure through outdoor media.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["outdoor advertising", "media planning", "brand awareness"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand to promote",
+            "example": "CityBike Rentals"
+          }
+        ]
+      },
+      {
+        "title": "Measure the Effectiveness of Advertising Campaigns",
+        "content": "Establish KPIs and methods for measuring the effectiveness of {{campaign}}, analyzing metrics like reach, engagement, and conversion.",
+        "description": "Assesses campaign performance to inform future efforts.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["campaign measurement", "analytics", "ROI"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The advertising campaign to measure",
+            "example": "Back-to-School Promotion"
+          }
+        ]
+      },
+      {
+        "title": "Negotiate Media Buying Agreements",
+        "content": "Plan and negotiate media buying agreements for {{brand}}, securing favorable rates and placements across selected channels.",
+        "description": "Optimizes media spend through effective negotiation.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["media buying", "negotiation", "budget optimization"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand purchasing media",
+            "example": "Premium Auto Dealers"
+          }
+        ]
+      },
+      {
+        "title": "Ensure Advertising Compliance with Regulations",
+        "content": "Review {{campaign}} to ensure all advertising materials comply with legal regulations and industry standards, avoiding misleading claims.",
+        "description": "Protects the brand by ensuring ethical advertising practices.",
+        "category": "Marketing",
+        "subcategory": "Advertising",
+        "tags": ["compliance", "regulations", "ethical advertising"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The advertising campaign to review",
+            "example": "Weight Loss Supplement Ads"
+          }
+        ]
+      },
+      {
+        "title": "Develop a PR Strategy for {{company}}",
+        "content": "Create a comprehensive public relations strategy for {{company}}, focusing on enhancing brand image, managing media relations, and handling crisis communication.",
+        "description": "Plans PR activities to promote a positive brand reputation.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["PR strategy", "brand image", "media relations"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company needing a PR strategy",
+            "example": "GlobalTech Innovations"
+          }
+        ]
+      },
+      {
+        "title": "Write a Press Release Announcing {{event_or_announcement}}",
+        "content": "Compose a press release to announce {{event_or_announcement}}, including key details, quotes from executives, and contact information for media inquiries.",
+        "description": "Communicates important news to the media effectively.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["press release", "media communication", "announcement"],
+        "variables": [
+          {
+            "name": "event_or_announcement",
+            "description": "The event or news to announce",
+            "example": "the opening of a new headquarters"
+          }
+        ]
+      },
+      {
+        "title": "Prepare a Crisis Communication Plan",
+        "content": "Develop a crisis communication plan for {{company}}, outlining procedures, spokespersons, and key messages to handle potential PR crises.",
+        "description": "Ensures readiness to manage public relations issues proactively.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["crisis management", "communication plan", "PR"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company preparing the plan",
+            "example": "Oceanic Airlines"
+          }
+        ]
+      },
+      {
+        "title": "Organize a Media Event for {{product_launch}}",
+        "content": "Plan a media event to promote {{product_launch}}, including invitations, agenda, venue setup, and press kits for attending journalists.",
+        "description": "Generates media coverage through event engagement.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["media event", "product launch", "press engagement"],
+        "variables": [
+          {
+            "name": "product_launch",
+            "description": "The product being launched",
+            "example": "the latest electric vehicle model"
+          }
+        ]
+      },
+      {
+        "title": "Build Relationships with Industry Influencers",
+        "content": "Identify key influencers and journalists in the {{industry}} sector and develop strategies to build and maintain positive relationships.",
+        "description": "Enhances brand visibility through influencer relations.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["influencer relations", "media contacts", "networking"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "The industry or sector",
+            "example": "technology and innovation"
+          }
+        ]
+      },
+      {
+        "title": "Monitor and Manage Online Reputation",
+        "content": "Set up tools and processes to monitor {{brand}}'s online reputation, responding to reviews and comments appropriately to maintain a positive image.",
+        "description": "Protects the brand by addressing public perceptions online.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["online reputation", "brand management", "customer engagement"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand to monitor",
+            "example": "FreshBrew Coffee"
+          }
+        ]
+      },
+      {
+        "title": "Create a Corporate Social Responsibility (CSR) Campaign",
+        "content": "Develop a CSR campaign for {{company}}, focusing on initiatives that align with the company's values and contribute positively to the community.",
+        "description": "Enhances brand image through social responsibility.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["CSR", "community engagement", "brand values"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company undertaking CSR activities",
+            "example": "EcoEnergy Solutions"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Speech for a Public Appearance",
+        "content": "Write a compelling speech for {{executive_name}} to deliver at {{event}}, highlighting key messages and aligning with PR objectives.",
+        "description": "Communicates important messages through public speaking.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["speechwriting", "public speaking", "executive communication"],
+        "variables": [
+          {
+            "name": "executive_name",
+            "description": "The name of the executive",
+            "example": "CEO Jane Thompson"
+          },
+          {
+            "name": "event",
+            "description": "The event where the speech will be delivered",
+            "example": "the Annual Tech Conference"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Media Kit for {{company_or_brand}}",
+        "content": "Assemble a media kit that includes background information, press releases, high-resolution images, and executive bios for {{company_or_brand}}.",
+        "description": "Provides essential information to media representatives.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["media kit", "press resources", "brand information"],
+        "variables": [
+          {
+            "name": "company_or_brand",
+            "description": "The company or brand",
+            "example": "AdventureWear Apparel"
+          }
+        ]
+      },
+      {
+        "title": "Handle a PR Crisis Due to {{issue}}",
+        "content": "Develop a response plan to manage the PR crisis caused by {{issue}}, including official statements, communication channels, and stakeholder engagement.",
+        "description": "Mitigates negative impact through effective communication.",
+        "category": "Marketing",
+        "subcategory": "Public Relations (PR)",
+        "tags": ["crisis management", "issue resolution", "public communication"],
+        "variables": [
+          {
+            "name": "issue",
+            "description": "The issue causing the PR crisis",
+            "example": "a product recall due to safety concerns"
+          }
+        ]
+      },
+    
+      {
+        "title": "Plan a Trade Show Exhibition for {{company}}",
+        "content": "Organize {{company}}'s participation in the upcoming {{trade_show}}, including booth design, promotional materials, and attendee engagement strategies.",
+        "description": "Maximizes brand exposure at industry events.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["trade show", "event planning", "brand promotion"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company participating",
+            "example": "Innovative Robotics Inc."
+          },
+          {
+            "name": "trade_show",
+            "description": "The trade show event",
+            "example": "International Tech Expo 2024"
+          }
+        ]
+      },
+      {
+        "title": "Host a Webinar on {{topic}}",
+        "content": "Plan and execute a webinar on {{topic}} to educate and engage {{target_audience}}, including content creation, speaker coordination, and promotion.",
+        "description": "Provides value and generates leads through online events.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["webinar", "lead generation", "education"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the webinar",
+            "example": "Digital Transformation in Healthcare"
+          },
+          {
+            "name": "target_audience",
+            "description": "The intended audience",
+            "example": "healthcare executives and IT professionals"
+          }
+        ]
+      },
+      {
+        "title": "Organize a Product Launch Event",
+        "content": "Plan a live event to launch {{product}}, including venue selection, agenda, guest invitations, and post-event follow-up activities.",
+        "description": "Creates excitement and media buzz around a new product.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["product launch", "event planning", "promotion"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product being launched",
+            "example": "Next-Gen Gaming Console"
+          }
+        ]
+      },
+      {
+        "title": "Coordinate a Sponsorship for {{event}}",
+        "content": "Arrange for {{company}} to sponsor {{event}}, including negotiation of sponsorship packages, branding opportunities, and activation strategies.",
+        "description": "Enhances brand visibility through event sponsorship.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["sponsorship", "brand exposure", "event partnership"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The sponsoring company",
+            "example": "Elite Financial Services"
+          },
+          {
+            "name": "event",
+            "description": "The event to sponsor",
+            "example": "Annual Investment Summit"
+          }
+        ]
+      },
+      {
+        "title": "Plan a Virtual Conference for {{industry}} Professionals",
+        "content": "Organize a virtual conference targeting professionals in the {{industry}} sector, including platform selection, agenda planning, and speaker recruitment.",
+        "description": "Connects industry professionals through online events.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["virtual conference", "networking", "industry event"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "The industry focus",
+            "example": "digital marketing"
+          }
+        ]
+      },
+      {
+        "title": "Execute a Pop-Up Event in {{location}}",
+        "content": "Plan a pop-up event in {{location}} to promote {{product_or_service}}, including site selection, permits, promotional activities, and staffing.",
+        "description": "Engages customers through temporary, experiential marketing.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["pop-up event", "experiential marketing", "customer engagement"],
+        "variables": [
+          {
+            "name": "location",
+            "description": "The location for the event",
+            "example": "Downtown Los Angeles"
+          },
+          {
+            "name": "product_or_service",
+            "description": "The product or service to promote",
+            "example": "Gourmet Ice Cream Flavors"
+          }
+        ]
+      },
+      {
+        "title": "Manage Event Logistics for {{conference}}",
+        "content": "Oversee all logistical aspects of {{conference}}, including venue coordination, audio-visual requirements, catering, and attendee registration.",
+        "description": "Ensures smooth execution of event operations.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["event logistics", "conference management", "operations"],
+        "variables": [
+          {
+            "name": "conference",
+            "description": "The conference to manage",
+            "example": "Global Sustainability Summit"
+          }
+        ]
+      },
+      {
+        "title": "Promote an Event Through Multi-Channel Marketing",
+        "content": "Develop a marketing plan to promote {{event}} across various channels, including social media, email marketing, PR, and paid advertising.",
+        "description": "Drives event attendance through integrated marketing efforts.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["event promotion", "multi-channel marketing", "attendance"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event to promote",
+            "example": "Startup Pitch Competition"
+          }
+        ]
+      },
+      {
+        "title": "Engage Attendees During an Event",
+        "content": "Plan interactive activities and engagement strategies for attendees at {{event}}, such as live polls, Q&A sessions, and networking opportunities.",
+        "description": "Enhances attendee experience and satisfaction.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["attendee engagement", "event activities", "experience"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event where engagement is planned",
+            "example": "Annual Customer Summit"
+          }
+        ]
+      },
+      {
+        "title": "Measure Event ROI and Effectiveness",
+        "content": "Establish KPIs and methods to evaluate the success of {{event}}, analyzing metrics like attendance, engagement, lead generation, and post-event feedback.",
+        "description": "Assesses the impact of event marketing efforts.",
+        "category": "Marketing",
+        "subcategory": "Event Marketing",
+        "tags": ["event ROI", "analytics", "performance measurement"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event to evaluate",
+            "example": "International Tech Fair"
+          }
+        ]
+      },
+    
+      {
+        "title": "Develop a Direct Mail Campaign for {{product_or_service}}",
+        "content": "Create a direct mail campaign promoting {{product_or_service}} to a targeted list of recipients, including mailer design, messaging, and call-to-action.",
+        "description": "Reaches customers through physical mail to drive action.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["direct mail", "campaign", "targeted marketing"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service to promote",
+            "example": "Home Insurance Plans"
+          }
+        ]
+      },
+      {
+        "title": "Plan a Telemarketing Script for Lead Generation",
+        "content": "Write a telemarketing script aimed at generating leads for {{service}}, ensuring compliance with regulations and effective communication techniques.",
+        "description": "Engages potential customers through phone calls.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["telemarketing", "lead generation", "scriptwriting"],
+        "variables": [
+          {
+            "name": "service",
+            "description": "The service to promote",
+            "example": "Business Consulting Services"
+          }
+        ]
+      },
+      {
+        "title": "Create Personalized Marketing Materials",
+        "content": "Design personalized marketing materials for {{campaign}}, using customer data to tailor messages and offers to individual recipients.",
+        "description": "Increases relevance and response rates through personalization.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["personalization", "marketing materials", "customer engagement"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The marketing campaign",
+            "example": "Loyalty Program Invitations"
+          }
+        ]
+      },
+      {
+        "title": "Implement a SMS Marketing Strategy",
+        "content": "Develop a SMS marketing strategy for {{brand}}, including message content, timing, frequency, and opt-in management.",
+        "description": "Communicates with customers through text messages.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["SMS marketing", "mobile marketing", "direct communication"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand using SMS marketing",
+            "example": "QuickEats Food Delivery"
+          }
+        ]
+      },
+      {
+        "title": "Design a Catalog for Mail Order Sales",
+        "content": "Create a product catalog for {{brand}}, including product descriptions, images, pricing, and ordering information for mail order customers.",
+        "description": "Provides a comprehensive guide for customers to order products.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["catalog design", "mail order", "product marketing"],
+        "variables": [
+          {
+            "name": "brand",
+            "description": "The brand offering the catalog",
+            "example": "Classic Home Furnishings"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Door-to-Door Sales Pitch",
+        "content": "Craft a persuasive sales pitch for door-to-door representatives selling {{product_or_service}}, focusing on key benefits and handling objections.",
+        "description": "Equips sales reps with effective communication tools.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["sales pitch", "door-to-door", "personal selling"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service being sold",
+            "example": "Residential Solar Panel Installation"
+          }
+        ]
+      },
+      {
+        "title": "Analyze Response Rates of Direct Marketing Efforts",
+        "content": "Evaluate the response rates of {{campaign}}, identifying factors that influenced performance and providing recommendations for improvement.",
+        "description": "Measures the effectiveness of direct marketing activities.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["response rates", "analytics", "campaign performance"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The direct marketing campaign",
+            "example": "Holiday Discount Offers"
+          }
+        ]
+      },
+      {
+        "title": "Ensure Compliance with Direct Marketing Regulations",
+        "content": "Review {{campaign}} to ensure all direct marketing activities comply with legal regulations such as GDPR, CAN-SPAM, and Do Not Call lists.",
+        "description": "Protects the company by adhering to legal requirements.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["compliance", "regulations", "legal"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The campaign to review",
+            "example": "Email Outreach to Potential Clients"
+          }
+        ]
+      },
+      {
+        "title": "Integrate Direct Marketing with CRM Systems",
+        "content": "Plan how to integrate direct marketing efforts with {{company}}'s CRM system to track customer interactions and automate follow-ups.",
+        "description": "Enhances efficiency and personalization through technology.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["CRM integration", "automation", "customer tracking"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company implementing integration",
+            "example": "Premium Insurance Co."
+          }
+        ]
+      },
+      {
+        "title": "Segment Customer Lists for Targeted Direct Marketing",
+        "content": "Segment {{company}}'s customer list based on criteria like purchase history, demographics, and engagement levels to improve targeting in direct marketing campaigns.",
+        "description": "Improves effectiveness by reaching the right audience.",
+        "category": "Marketing",
+        "subcategory": "Direct Marketing",
+        "tags": ["segmentation", "targeting", "customer data"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company with the customer list",
+            "example": "HealthPlus Supplements"
+          }
+        ]
+      },
+      {
+        "prompts": [
+          {
+            "title": "Develop a Mobile App Marketing Strategy for {{app_name}}",
+            "content": "Create a comprehensive marketing strategy to promote {{app_name}}. Include tactics such as app store optimization, in-app advertising, and push notifications.",
+            "description": "Plans marketing efforts to increase app downloads and engagement.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["app marketing", "mobile strategy", "user acquisition"],
+            "variables": [
+              {
+                "name": "app_name",
+                "description": "The name of the mobile application",
+                "example": "FitTrack Wellness App"
+              }
+            ]
+          },
+          {
+            "title": "Optimize {{app_name}} for App Store Search Rankings",
+            "content": "Provide strategies to improve {{app_name}}'s visibility in app store search results, including keyword optimization, engaging descriptions, and high-quality screenshots.",
+            "description": "Enhances app discoverability through App Store Optimization (ASO).",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["ASO", "app store optimization", "visibility"],
+            "variables": [
+              {
+                "name": "app_name",
+                "description": "The mobile application to optimize",
+                "example": "TravelBuddy Planner"
+              }
+            ]
+          },
+          {
+            "title": "Create a Mobile Advertising Campaign",
+            "content": "Design a mobile advertising campaign targeting {{audience}} using platforms like in-app ads, mobile web banners, and social media ads.",
+            "description": "Reaches users on their mobile devices to increase engagement.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["mobile ads", "targeting", "campaign"],
+            "variables": [
+              {
+                "name": "audience",
+                "description": "The target audience for the campaign",
+                "example": "young adults interested in fashion"
+              }
+            ]
+          },
+          {
+            "title": "Implement SMS Marketing for {{business}}",
+            "content": "Develop an SMS marketing strategy for {{business}}, including message content, frequency, and compliance with regulations.",
+            "description": "Engages customers directly through text messages.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["SMS marketing", "direct communication", "customer engagement"],
+            "variables": [
+              {
+                "name": "business",
+                "description": "The business using SMS marketing",
+                "example": "FreshMarket Grocery Delivery"
+              }
+            ]
+          },
+          {
+            "title": "Enhance User Engagement with Push Notifications",
+            "content": "Plan a push notification strategy for {{app_name}} to re-engage users, including message personalization and optimal timing.",
+            "description": "Boosts app engagement and retention through targeted notifications.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["push notifications", "user engagement", "app retention"],
+            "variables": [
+              {
+                "name": "app_name",
+                "description": "The mobile application",
+                "example": "LearnLang Language App"
+              }
+            ]
+          },
+          {
+            "title": "Analyze Mobile User Behavior",
+            "content": "Use analytics tools to study how users interact with {{app_or_mobile_site}}, identifying areas for improvement in the user experience.",
+            "description": "Improves mobile platforms by understanding user actions.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["user behavior", "analytics", "UX"],
+            "variables": [
+              {
+                "name": "app_or_mobile_site",
+                "description": "The app or mobile website to analyze",
+                "example": "ShopEase Mobile App"
+              }
+            ]
+          },
+          {
+            "title": "Develop a Mobile-Friendly Website",
+            "content": "Provide guidelines for designing a mobile-friendly version of {{website}}, ensuring optimal performance and user experience on mobile devices.",
+            "description": "Enhances website accessibility for mobile users.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["mobile optimization", "responsive design", "UX"],
+            "variables": [
+              {
+                "name": "website",
+                "description": "The website to optimize",
+                "example": "www.artgalleryonline.com"
+              }
+            ]
+          },
+          {
+            "title": "Leverage QR Codes for Marketing",
+            "content": "Plan how to use QR codes in marketing materials for {{campaign}}, directing users to mobile landing pages or app downloads.",
+            "description": "Bridges offline materials with online mobile content.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["QR codes", "cross-channel marketing", "mobile engagement"],
+            "variables": [
+              {
+                "name": "campaign",
+                "description": "The campaign utilizing QR codes",
+                "example": "New Store Opening Promotion"
+              }
+            ]
+          },
+          {
+            "title": "Implement Location-Based Marketing",
+            "content": "Design a marketing strategy for {{business}} that uses geofencing and location data to send targeted messages to customers in specific areas.",
+            "description": "Delivers personalized content based on user location.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["location-based marketing", "geofencing", "personalization"],
+            "variables": [
+              {
+                "name": "business",
+                "description": "The business implementing location-based marketing",
+                "example": "UrbanCoffee Cafe Chain"
+              }
+            ]
+          },
+          {
+            "title": "Optimize Mobile Checkout Process",
+            "content": "Provide recommendations to streamline the mobile checkout process on {{ecommerce_site}}, reducing friction and improving conversion rates.",
+            "description": "Enhances mobile shopping experience to boost sales.",
+            "category": "Marketing",
+            "subcategory": "Mobile Marketing",
+            "tags": ["mobile commerce", "checkout optimization", "conversion rate"],
+            "variables": [
+              {
+                "name": "ecommerce_site",
+                "description": "The e-commerce site to optimize",
+                "example": "www.trendyfashion.com"
+              }
+            ]
+          },
+          {
+            "prompts": [
+              {
+                "title": "Plan a Guerrilla Marketing Stunt for {{brand}}",
+                "content": "Develop a creative and unexpected guerrilla marketing stunt for {{brand}} to capture public attention and generate buzz.",
+                "description": "Attracts attention through unconventional marketing tactics.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["stunt", "brand awareness", "creative marketing"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand executing the stunt",
+                    "example": "AdventureX Outdoor Gear"
+                  }
+                ]
+              },
+              {
+                "title": "Create Street Art Campaign for {{product_or_service}}",
+                "content": "Design a street art campaign promoting {{product_or_service}}, incorporating graffiti, murals, or sidewalk art in public spaces (where permitted).",
+                "description": "Engages the public through artistic expression.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["street art", "public engagement", "creativity"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service to promote",
+                    "example": "Urban Cycling Tours"
+                  }
+                ]
+              },
+              {
+                "title": "Organize a Flash Mob Event",
+                "content": "Plan a flash mob event in a high-traffic area to promote {{brand_or_campaign}}, including choreography, participants, and legal considerations.",
+                "description": "Generates viral content and public interest.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["flash mob", "event planning", "viral marketing"],
+                "variables": [
+                  {
+                    "name": "brand_or_campaign",
+                    "description": "The brand or campaign",
+                    "example": "Dance4Health Initiative"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Sticker Marketing Campaign",
+                "content": "Create eye-catching stickers for {{brand}}, distributing them strategically in locations frequented by the target audience.",
+                "description": "Increases brand visibility through simple, low-cost materials.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["stickers", "brand visibility", "low-cost marketing"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to promote",
+                    "example": "EcoSip Reusable Bottles"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Viral Social Media Challenge",
+                "content": "Create a social media challenge for {{brand}} that encourages user participation and sharing, aiming to go viral.",
+                "description": "Engages users and expands reach through social sharing.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["viral marketing", "social media", "user engagement"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand initiating the challenge",
+                    "example": "SmileBright Toothpaste"
+                  }
+                ]
+              },
+              {
+                "title": "Use Projection Advertising on Buildings",
+                "content": "Plan a projection advertising campaign for {{message_or_brand}}, displaying visuals on prominent buildings (with permission) to reach a wide audience.",
+                "description": "Creates a striking visual impact in urban environments.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["projection advertising", "outdoor marketing", "visual impact"],
+                "variables": [
+                  {
+                    "name": "message_or_brand",
+                    "description": "The message or brand to promote",
+                    "example": "Global Peace Initiative"
+                  }
+                ]
+              },
+              {
+                "title": "Host a Pop-Up Experience",
+                "content": "Organize a pop-up experience for {{brand}}, offering interactive activities that surprise and delight participants.",
+                "description": "Engages consumers directly through immersive experiences.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["pop-up", "experiential marketing", "consumer engagement"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand hosting the pop-up",
+                    "example": "ChocoDelight Confections"
+                  }
+                ]
+              },
+              {
+                "title": "Create a Publicity Stunt Using Costumed Characters",
+                "content": "Design a publicity stunt involving costumed characters representing {{brand_or_product}}, interacting with the public to generate interest.",
+                "description": "Attracts attention through fun and memorable interactions.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["publicity stunt", "costumed characters", "public interaction"],
+                "variables": [
+                  {
+                    "name": "brand_or_product",
+                    "description": "The brand or product to promote",
+                    "example": "SuperSnack Energy Bars"
+                  }
+                ]
+              },
+              {
+                "title": "Implement Reverse Graffiti for Advertising",
+                "content": "Use reverse graffiti techniques to create eco-friendly advertisements for {{brand}} on dirty surfaces by cleaning selected areas to form images or messages.",
+                "description": "Promotes the brand while highlighting environmental consciousness.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["reverse graffiti", "eco-friendly", "innovative advertising"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to advertise",
+                    "example": "PureClean Detergents"
+                  }
+                ]
+              },
+              {
+                "title": "Distribute Free Samples in Unexpected Places",
+                "content": "Plan the distribution of free samples of {{product}} in unconventional locations to surprise potential customers and encourage trial.",
+                "description": "Generates goodwill and product awareness through sampling.",
+                "category": "Marketing",
+                "subcategory": "Guerrilla Marketing",
+                "tags": ["free samples", "product trial", "customer surprise"],
+                "variables": [
+                  {
+                    "name": "product",
+                    "description": "The product to sample",
+                    "example": "GlowSkin Moisturizer"
+                  }
+                ]
+              },
+              {
+                "title": "Create a Viral Video Concept for {{brand}}",
+                "content": "Develop a concept for a viral video that aligns with {{brand}}'s image and has the potential to be widely shared on social media.",
+                "description": "Aims to increase brand exposure through shareable content.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["viral video", "content creation", "social sharing"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand to promote",
+                    "example": "LaughOutLoud Comedy Club"
+                  }
+                ]
+              },
+              {
+                "title": "Plan a Social Media Hashtag Campaign",
+                "content": "Design a hashtag campaign for {{event_or_purpose}} that encourages user-generated content and widespread participation.",
+                "description": "Facilitates content sharing and engagement.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["hashtag campaign", "user-generated content", "engagement"],
+                "variables": [
+                  {
+                    "name": "event_or_purpose",
+                    "description": "The event or purpose of the campaign",
+                    "example": "Earth Day Environmental Awareness"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Referral Program with Viral Potential",
+                "content": "Create a referral program for {{product_or_service}} that incentivizes existing users to share with friends, aiming for exponential growth.",
+                "description": "Leverages existing customers to acquire new ones.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["referral program", "customer acquisition", "incentives"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service to promote",
+                    "example": "StreamLine Music App"
+                  }
+                ]
+              },
+              {
+                "title": "Launch a Memorable Online Challenge",
+                "content": "Initiate an online challenge related to {{brand_or_cause}} that encourages participation and sharing across social platforms.",
+                "description": "Engages users through interactive and fun activities.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["online challenge", "engagement", "social media"],
+                "variables": [
+                  {
+                    "name": "brand_or_cause",
+                    "description": "The brand or cause behind the challenge",
+                    "example": "HealthyHabits Fitness Program"
+                  }
+                ]
+              },
+              {
+                "title": "Design an Interactive Online Game",
+                "content": "Create an interactive online game featuring {{brand_or_product}} that is entertaining and easy to share with others.",
+                "description": "Promotes brand engagement through gamification.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["online game", "gamification", "brand engagement"],
+                "variables": [
+                  {
+                    "name": "brand_or_product",
+                    "description": "The brand or product featured",
+                    "example": "BerryBlast Smoothies"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Time-Limited Offer with Viral Appeal",
+                "content": "Develop a time-sensitive promotion for {{product_or_service}} that creates urgency and encourages customers to share the offer with others.",
+                "description": "Drives quick action and word-of-mouth sharing.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["limited offer", "urgency", "word-of-mouth"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service on offer",
+                    "example": "Online Photography Course"
+                  }
+                ]
+              },
+              {
+                "title": "Craft an Emotional Story for Viral Content",
+                "content": "Write a compelling story that evokes strong emotions related to {{cause_or_brand}}, aiming to resonate deeply with the audience and encourage sharing.",
+                "description": "Utilizes storytelling to connect with audiences.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["storytelling", "emotional appeal", "content marketing"],
+                "variables": [
+                  {
+                    "name": "cause_or_brand",
+                    "description": "The cause or brand featured",
+                    "example": "HopeForAll Charity"
+                  }
+                ]
+              },
+              {
+                "title": "Use Influencer Partnerships to Amplify Content",
+                "content": "Collaborate with influencers to create and share content about {{product_or_campaign}}, leveraging their followers to increase reach.",
+                "description": "Expands audience through trusted voices.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["influencer marketing", "content amplification", "reach"],
+                "variables": [
+                  {
+                    "name": "product_or_campaign",
+                    "description": "The product or campaign to promote",
+                    "example": "EcoWear Sustainable Clothing Line"
+                  }
+                ]
+              },
+              {
+                "title": "Incorporate User-Generated Content into Marketing",
+                "content": "Encourage customers to create and share content featuring {{brand_or_product}}, and showcase the best submissions in marketing materials.",
+                "description": "Builds community and authenticity through user content.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["user-generated content", "community engagement", "authenticity"],
+                "variables": [
+                  {
+                    "name": "brand_or_product",
+                    "description": "The brand or product",
+                    "example": "HappyPaws Pet Supplies"
+                  }
+                ]
+              },
+              {
+                "title": "Create a Controversial Campaign to Spark Discussion",
+                "content": "Design a bold campaign for {{brand}} that challenges norms and sparks conversations, ensuring it aligns with brand values and is handled sensitively.",
+                "description": "Generates buzz through provocative messaging.",
+                "category": "Marketing",
+                "subcategory": "Viral Marketing",
+                "tags": ["controversial marketing", "discussion", "brand awareness"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand launching the campaign",
+                    "example": "BoldBrew Coffee"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Customer Relationship Strategy for {{company}}",
+                "content": "Create a comprehensive relationship marketing strategy for {{company}}, focusing on building long-term relationships with customers through personalized communication and engagement.",
+                "description": "Enhances customer loyalty and retention through relationship-building tactics.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["customer loyalty", "engagement", "personalization"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company implementing the strategy",
+                    "example": "EliteFitness Gym"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Customer Feedback Program",
+                "content": "Design a customer feedback program for {{business}}, including surveys, feedback forms, and follow-up procedures to improve products and services based on customer input.",
+                "description": "Encourages open communication and shows customers their opinions matter.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["customer feedback", "engagement", "improvement"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business seeking customer feedback",
+                    "example": "TechSolutions Software"
+                  }
+                ]
+              },
+              {
+                "title": "Create a Personalized Email Campaign",
+                "content": "Develop an email campaign for {{product_or_service}} that uses customer data to personalize content, fostering a stronger relationship with recipients.",
+                "description": "Enhances connection with customers through tailored messaging.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["personalization", "email marketing", "customer engagement"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service being promoted",
+                    "example": "Premium Online Courses"
+                  }
+                ]
+              },
+              {
+                "title": "Plan a Customer Appreciation Event",
+                "content": "Organize an event to show appreciation for {{company}}'s loyal customers, including event activities, invitations, and special offers.",
+                "description": "Strengthens customer relationships by expressing gratitude.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["customer appreciation", "event planning", "loyalty"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company hosting the event",
+                    "example": "Gourmet Delights Catering"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Customer Onboarding Process",
+                "content": "Create a smooth onboarding process for new customers of {{product_or_service}}, including welcome communications, tutorials, and support resources.",
+                "description": "Helps new customers feel valued and supported from the start.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["customer onboarding", "support", "engagement"],
+                "variables": [
+                  {
+                    "name": "product_or_service",
+                    "description": "The product or service being offered",
+                    "example": "Cloud-Based Project Management Tool"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Loyalty Program",
+                "content": "Design a loyalty program for {{business}}, rewarding customers for repeat purchases and engagement to encourage long-term relationships.",
+                "description": "Incentivizes continued patronage through rewards.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["loyalty program", "customer retention", "rewards"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business offering the loyalty program",
+                    "example": "HealthyBites Organic Grocers"
+                  }
+                ]
+              },
+              {
+                "title": "Use Social Media to Build Customer Relationships",
+                "content": "Develop a plan for {{company}} to engage with customers on social media platforms, responding to comments and messages to build a community.",
+                "description": "Fosters a two-way dialogue with customers online.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["social media", "customer engagement", "community building"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company engaging on social media",
+                    "example": "TravelAdventures Agency"
+                  }
+                ]
+              },
+              {
+                "title": "Segment Customers for Targeted Relationship Strategies",
+                "content": "Identify different customer segments for {{business}} based on behavior and preferences to tailor relationship-building strategies effectively.",
+                "description": "Enhances relevance of marketing efforts to various customer groups.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["segmentation", "targeting", "customer relationships"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business segmenting its customers",
+                    "example": "LuxuryHome Decor"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Customer Referral Program",
+                "content": "Create a referral program for {{company}} that rewards customers for referring new clients, strengthening relationships and expanding the customer base.",
+                "description": "Leverages existing relationships to grow the business.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["referral program", "customer loyalty", "growth"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company offering the referral program",
+                    "example": "ZenYoga Studios"
+                  }
+                ]
+              },
+              {
+                "title": "Measure Customer Satisfaction and Loyalty",
+                "content": "Develop metrics and methods to assess customer satisfaction and loyalty for {{brand}}, using tools like Net Promoter Score and customer surveys.",
+                "description": "Evaluates the effectiveness of relationship marketing efforts.",
+                "category": "Marketing",
+                "subcategory": "Relationship Marketing",
+                "tags": ["customer satisfaction", "loyalty metrics", "analysis"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand measuring satisfaction",
+                    "example": "PureGlow Skincare"
+                  }
+                ]
+              },
+              {
+                "title": "Map the Customer Journey for {{business}}",
+                "content": "Create a detailed customer journey map for {{business}}, identifying all touchpoints and opportunities to enhance the customer experience.",
+                "description": "Provides insights into the customer perspective to improve CX.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["customer journey", "touchpoints", "CX improvement"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business analyzing the customer journey",
+                    "example": "SmartHome Solutions"
+                  }
+                ]
+              },
+              {
+                "title": "Conduct a Customer Experience Audit",
+                "content": "Evaluate the current customer experience offered by {{company}}, identifying areas of strength and opportunities for enhancement.",
+                "description": "Assesses all aspects of CX to identify improvements.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["CX audit", "evaluation", "improvement"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company conducting the audit",
+                    "example": "UrbanStyle Clothing"
+                  }
+                ]
+              },
+              {
+                "title": "Implement Omnichannel Customer Support",
+                "content": "Develop a plan for {{business}} to offer seamless customer support across multiple channels, including phone, email, live chat, and social media.",
+                "description": "Enhances customer experience by providing consistent support.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["omnichannel", "customer support", "CX"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business improving customer support",
+                    "example": "ElectroGadgets Online Store"
+                  }
+                ]
+              },
+              {
+                "title": "Personalize the Customer Experience",
+                "content": "Develop strategies for {{company}} to personalize interactions with customers, using data and technology to tailor the experience.",
+                "description": "Improves customer satisfaction through personalization.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["personalization", "customer satisfaction", "CX"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company enhancing personalization",
+                    "example": "BookNook Online Library"
+                  }
+                ]
+              },
+              {
+                "title": "Train Staff on Customer Experience Best Practices",
+                "content": "Create a training program for {{business}}'s staff to improve customer interactions and deliver exceptional service.",
+                "description": "Empowers employees to enhance the customer experience.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["staff training", "customer service", "CX"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business training staff",
+                    "example": "GlobeTrotter Travel Agency"
+                  }
+                ]
+              },
+              {
+                "title": "Use Customer Feedback to Improve CX",
+                "content": "Implement a system for collecting and analyzing customer feedback for {{company}}, using insights to make data-driven improvements to the experience.",
+                "description": "Continuously enhances CX based on customer input.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["customer feedback", "data analysis", "improvement"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company using feedback",
+                    "example": "FitnessPro Gym"
+                  }
+                ]
+              },
+              {
+                "title": "Design a User-Friendly Website",
+                "content": "Provide recommendations for {{company}}'s website to improve usability, navigation, and overall user experience.",
+                "description": "Enhances online CX through website optimization.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["website optimization", "usability", "online CX"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company improving its website",
+                    "example": "EcoShop Sustainable Goods"
+                  }
+                ]
+              },
+              {
+                "title": "Implement a Customer Experience Management Platform",
+                "content": "Advise {{business}} on selecting and implementing a CX management platform to track and analyze customer interactions.",
+                "description": "Uses technology to manage and improve CX.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["CX management", "technology", "analytics"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business adopting the platform",
+                    "example": "UrbanRide Transportation Services"
+                  }
+                ]
+              },
+              {
+                "title": "Develop a Voice of the Customer Program",
+                "content": "Create a program for {{company}} to systematically collect and act upon customer insights, ensuring the customer voice guides business decisions.",
+                "description": "Aligns business strategies with customer needs and preferences.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["voice of the customer", "insights", "customer-centric"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company implementing the program",
+                    "example": "GlobalBank Financial Services"
+                  }
+                ]
+              },
+              {
+                "title": "Measure Customer Experience Metrics",
+                "content": "Identify key CX metrics for {{business}} such as Customer Satisfaction Score (CSAT), Net Promoter Score (NPS), and Customer Effort Score (CES), and develop methods to track them.",
+                "description": "Provides quantifiable data to evaluate CX performance.",
+                "category": "Marketing",
+                "subcategory": "Customer Experience (CX)",
+                "tags": ["metrics", "performance measurement", "CX evaluation"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business measuring CX",
+                    "example": "MedCare Health Services"
+                  }
+                ]
+              },
+              {
+                "title": "Design a Customer Loyalty Program",
+                "content": "Create a customer loyalty program for {{business}}, offering rewards and incentives to encourage repeat purchases and long-term engagement.",
+                "description": "Builds customer loyalty through rewards and benefits.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["loyalty program", "customer retention", "rewards"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business creating the program",
+                    "example": "FreshFlavors Restaurant"
+                  }
+                ]
+              },
+              {
+                "title": "Implement Tiered Loyalty Levels",
+                "content": "Develop a tiered loyalty system for {{brand}}, where customers earn status levels with increasing benefits as they engage more with the brand.",
+                "description": "Encourages higher levels of engagement through escalating rewards.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["tiered loyalty", "customer engagement", "incentives"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand implementing tiers",
+                    "example": "SkyHigh Airlines"
+                  }
+                ]
+              },
+              {
+                "title": "Create Exclusive Offers for Loyal Customers",
+                "content": "Plan exclusive promotions and offers for loyal customers of {{company}}, enhancing their sense of value and appreciation.",
+                "description": "Strengthens relationships with top customers through special treatment.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["exclusive offers", "customer appreciation", "loyalty"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company offering exclusives",
+                    "example": "StyleBoutique Fashion"
+                  }
+                ]
+              },
+              {
+                "title": "Leverage Data to Personalize Loyalty Programs",
+                "content": "Use customer data to tailor the loyalty program of {{business}} to individual preferences and shopping habits.",
+                "description": "Enhances the effectiveness of loyalty initiatives through personalization.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["data-driven", "personalization", "loyalty program"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business using data",
+                    "example": "TechHub Electronics"
+                  }
+                ]
+              },
+              {
+                "title": "Promote a Referral Incentive Program",
+                "content": "Develop a referral incentive within the loyalty program of {{brand}}, rewarding customers for bringing in new patrons.",
+                "description": "Expands customer base through loyal customer advocacy.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["referral program", "customer acquisition", "loyalty"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand promoting referrals",
+                    "example": "ZenSpa Wellness Center"
+                  }
+                ]
+              },
+              {
+                "title": "Measure the ROI of Loyalty Marketing Efforts",
+                "content": "Analyze the return on investment for {{company}}'s loyalty marketing activities, considering factors like increased spending, retention rates, and program costs.",
+                "description": "Evaluates the financial effectiveness of loyalty initiatives.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["ROI", "analysis", "customer retention"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company analyzing ROI",
+                    "example": "GlobalFit Gym Chain"
+                  }
+                ]
+              },
+              {
+                "title": "Integrate a Mobile App for Loyalty Program",
+                "content": "Develop a mobile app for {{business}}'s loyalty program, allowing customers to track rewards, receive offers, and engage with the brand on-the-go.",
+                "description": "Enhances accessibility and engagement with the loyalty program.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["mobile app", "customer engagement", "loyalty program"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business launching the app",
+                    "example": "CaféConnect Coffee Shops"
+                  }
+                ]
+              },
+              {
+                "title": "Implement Gamification in Loyalty Programs",
+                "content": "Incorporate gamification elements into {{brand}}'s loyalty program, such as challenges, badges, and leaderboards to increase participation.",
+                "description": "Makes the loyalty program more engaging and fun.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["gamification", "engagement", "loyalty"],
+                "variables": [
+                  {
+                    "name": "brand",
+                    "description": "The brand adding gamification",
+                    "example": "AdventureGear Outdoor Store"
+                  }
+                ]
+              },
+              {
+                "title": "Offer Partner Rewards in Loyalty Program",
+                "content": "Collaborate with other businesses to offer partner rewards in {{company}}'s loyalty program, providing more value to customers.",
+                "description": "Enhances the loyalty program's appeal through partnerships.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["partnerships", "rewards", "customer value"],
+                "variables": [
+                  {
+                    "name": "company",
+                    "description": "The company forming partnerships",
+                    "example": "CityStay Hotels"
+                  }
+                ]
+              },
+              {
+                "title": "Promote the Loyalty Program to Increase Enrollment",
+                "content": "Develop a marketing plan to promote {{business}}'s loyalty program to existing and potential customers, highlighting benefits and ease of joining.",
+                "description": "Aims to grow the loyalty program membership base.",
+                "category": "Marketing",
+                "subcategory": "Loyalty Marketing",
+                "tags": ["promotion", "customer acquisition", "loyalty program"],
+                "variables": [
+                  {
+                    "name": "business",
+                    "description": "The business promoting the program",
+                    "example": "FreshMart Supermarkets"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

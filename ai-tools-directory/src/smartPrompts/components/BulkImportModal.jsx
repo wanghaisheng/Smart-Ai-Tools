@@ -13,7 +13,8 @@ const CATEGORY_MAPPING = {
   'Technical Documentation': 'Technical',
   'Business Writing': 'Business',
   'Creative Writing': 'Creative',
-  'Educational Content': 'Education'
+  'Educational Content': 'Education',
+  'Marketing': 'Business'  // Map Marketing to Business category
 };
 
 const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
