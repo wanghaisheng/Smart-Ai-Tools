@@ -49,26 +49,46 @@ const providerApiKeySchema = new mongoose.Schema({
 
 // Encrypt API key before saving
 providerApiKeySchema.pre('save', function(next) {
-  if (this.isModified('apiKey')) {
-    const cipher = crypto.createCipher('aes-256-cbc', process.env.ENCRYPTION_KEY);
+  if (!this.isModified('apiKey')) return next();
+
+  try {
+    // Use a random 16-byte IV for each encryption
+    const iv = crypto.randomBytes(16);
+    const cipher = crypto.createCipheriv('aes-256-cbc', Buffer.from(process.env.ENCRYPTION_KEY, 'hex'), iv);
     let encrypted = cipher.update(this.apiKey, 'utf8', 'hex');
     encrypted += cipher.final('hex');
-    this.apiKey = encrypted;
+    
+    // Store both the IV and encrypted data
+    this.apiKey = iv.toString('hex') + ':' + encrypted;
+
+    // Enable default models for new API keys
+    if (this.isNew) {
+      const defaultModels = ProviderApiKey.getProviderModels(this.provider);
+      defaultModels.forEach(model => {
+        this.enabledModels.set(model, true);
+      });
+    }
+
+    next();
+  } catch (error) {
+    next(error);
   }
-  
-  if (this.isModified()) {
-    this.updatedAt = Date.now();
-  }
-  
-  next();
 });
 
 // Decrypt API key when retrieving
 providerApiKeySchema.methods.getDecryptedKey = function() {
-  const decipher = crypto.createDecipher('aes-256-cbc', process.env.ENCRYPTION_KEY);
-  let decrypted = decipher.update(this.apiKey, 'hex', 'utf8');
-  decrypted += decipher.final('utf8');
-  return decrypted;
+  try {
+    // Split IV and encrypted data
+    const [ivHex, encryptedHex] = this.apiKey.split(':');
+    const iv = Buffer.from(ivHex, 'hex');
+    const decipher = crypto.createDecipheriv('aes-256-cbc', Buffer.from(process.env.ENCRYPTION_KEY, 'hex'), iv);
+    let decrypted = decipher.update(encryptedHex, 'hex', 'utf8');
+    decrypted += decipher.final('utf8');
+    return decrypted;
+  } catch (error) {
+    console.error('Error decrypting API key:', error);
+    throw new Error('Failed to decrypt API key');
+  }
 };
 
 // Instance method to toggle model availability

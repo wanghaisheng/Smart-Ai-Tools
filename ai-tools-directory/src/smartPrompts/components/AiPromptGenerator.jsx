@@ -9,6 +9,7 @@ import {
   LightBulbIcon
 } from '@heroicons/react/24/outline';
 import { toast } from 'react-hot-toast';
+import api from '../../utils/api';
 
 const PROMPT_TYPES = [
   { id: 'creative', name: 'Creative Writing', icon: LightBulbIcon },
@@ -47,8 +48,8 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
   useEffect(() => {
     const loadModels = async () => {
       try {
-        const response = await fetch('/api/settings/available-models');
-        const data = await response.json();
+        const response = await api.get('/settings/available-models');
+        const data = response.data;
         setAvailableModels(data.models);
         if (data.models.length > 0) {
           setSelectedModel(data.models[0].id);
@@ -74,23 +75,17 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
 
     setLoading(true);
     try {
-      const response = await fetch('/api/generate-prompt', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          topic,
-          model: selectedModel,
-          type: promptType,
-          tone,
-          length,
-          temperature,
-          generateVariations: true
-        }),
+      const response = await api.post('/generate-prompt', {
+        topic,
+        model: selectedModel,
+        type: promptType,
+        tone,
+        length,
+        temperature,
+        generateVariations: true
       });
 
-      const data = await response.json();
+      const data = response.data;
       if (!response.ok) throw new Error(data.message);
 
       setGeneratedPrompt(data.prompts[0]);
