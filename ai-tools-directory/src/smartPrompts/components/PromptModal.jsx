@@ -48,31 +48,41 @@ const PromptModal = ({ prompt, isOpen, onClose, onLike, onSave, onRate }) => {
 
   const handleShare = async () => {
     try {
-      await navigator.share({
-        title: prompt.title,
-        text: prompt.description,
-        url: window.location.href
-      });
+      if (navigator.share) {
+        await navigator.share({
+          title: prompt.title,
+          text: prompt.description,
+          url: window.location.href
+        });
+      } else {
+        await navigator.clipboard.writeText(window.location.href);
+        toast.success('Link copied to clipboard!');
+      }
     } catch (error) {
-      // Fallback to copying URL
-      await navigator.clipboard.writeText(window.location.href);
-      toast.success('Link copied to clipboard!');
+      console.error('Error sharing:', error);
+      toast.error('Failed to share prompt');
     }
   };
 
   const handleLike = () => {
-    setIsLiked(!isLiked);
-    if (onLike) onLike(prompt._id);
+    if (onLike) {
+      onLike();
+      setIsLiked(!isLiked);
+    }
   };
 
   const handleSave = () => {
-    setIsSaved(!isSaved);
-    if (onSave) onSave(prompt._id);
+    if (onSave) {
+      onSave();
+      setIsSaved(!isSaved);
+    }
   };
 
   const handleRate = (value) => {
-    setRating(value);
-    if (onRate) onRate(prompt._id, value);
+    if (onRate) {
+      onRate(value);
+      setRating(value);
+    }
   };
 
   if (!isOpen) return null;
