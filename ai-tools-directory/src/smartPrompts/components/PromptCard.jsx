@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { 
   StarIcon, 
@@ -13,23 +13,50 @@ import {
   HeartIcon as HeartIconSolid,
   BookmarkIcon as BookmarkIconSolid
 } from '@heroicons/react/24/solid';
-import axios from 'axios';
+import { api } from '../../utils/api';
 import toast from 'react-hot-toast';
+import { useAuth } from '../../contexts/AuthContext';
 
-const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser, onUpdate }) => {
-  const [isLiked, setIsLiked] = useState(prompt.likes?.includes(currentUser?.id));
-  const [isSaved, setIsSaved] = useState(prompt.saves?.includes(currentUser?.id));
-  const isOwner = currentUser && prompt.creator._id === currentUser.id;
+const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate }) => {
+  const { user } = useAuth();
+  const [isLiked, setIsLiked] = useState(false);
+  const [isSaved, setIsSaved] = useState(false);
+  const [likesCount, setLikesCount] = useState(prompt.likes?.length || 0);
+  const [savesCount, setSavesCount] = useState(prompt.saves?.length || 0);
+  const isOwner = user && prompt.creator._id === user.id;
+
+  // Update like/save states when prompt or user changes
+  useEffect(() => {
+    if (user && prompt) {
+      setIsLiked(prompt.likes?.includes(user.id));
+      setIsSaved(prompt.saves?.includes(user.id));
+      setLikesCount(prompt.likes?.length || 0);
+      setSavesCount(prompt.saves?.length || 0);
+    }
+  }, [prompt, user]);
   
   const handleLike = async () => {
-    if (!currentUser) {
+    if (!user) {
       toast.error('Please login to like prompts');
       return;
     }
     try {
-      await axios.post(`/api/smart-prompts/${prompt._id}/like`);
-      setIsLiked(!isLiked);
-      if (onUpdate) onUpdate();
+      const token = localStorage.getItem('token');
+      const response = await api.post(`/smart-prompts/${prompt._id}/like`, {}, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
+      
+      console.log('Like response:', response.data);
+      
+      const { likes, isLiked: newIsLiked } = response.data;
+      setIsLiked(newIsLiked);
+      setLikesCount(likes);
+      
+      // Force a refresh of the prompt data
+      if (onUpdate) {
+        console.log('Calling onUpdate after like');
+        onUpdate(prompt._id);
+      }
     } catch (error) {
       console.error('Error liking prompt:', error);
       toast.error('Failed to like prompt');
@@ -37,14 +64,27 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser, on
   };
 
   const handleSave = async () => {
-    if (!currentUser) {
+    if (!user) {
       toast.error('Please login to save prompts');
       return;
     }
     try {
-      await axios.post(`/api/smart-prompts/${prompt._id}/save`);
-      setIsSaved(!isSaved);
-      if (onUpdate) onUpdate();
+      const token = localStorage.getItem('token');
+      const response = await api.post(`/smart-prompts/${prompt._id}/save`, {}, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
+      
+      console.log('Save response:', response.data);
+      
+      const { saves, isSaved: newIsSaved } = response.data;
+      setIsSaved(newIsSaved);
+      setSavesCount(saves);
+      
+      // Force a refresh of the prompt data
+      if (onUpdate) {
+        console.log('Calling onUpdate after save');
+        onUpdate(prompt._id);
+      }
     } catch (error) {
       console.error('Error saving prompt:', error);
       toast.error('Failed to save prompt');
@@ -57,7 +97,13 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser, on
       return (
         <button
           key={index}
-          onClick={() => onRate(prompt._id, index + 1)}
+          onClick={() => {
+            if (!user) {
+              toast.error('Please login to rate prompts');
+              return;
+            }
+            onRate(prompt._id, index + 1);
+          }}
           className="focus:outline-none"
         >
           {index < rating ? (
@@ -74,86 +120,103 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser, on
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
-      className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-200"
+      className="relative bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
     >
-      <div className="flex justify-between items-start mb-4">
-        <div>
-          <h3 className="text-xl font-semibold text-gray-900">{prompt.title}</h3>
-          <p className="text-sm text-gray-500">by {prompt.creator.username}</p>
-        </div>
-        <span className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800">
-          {prompt.category}
-        </span>
-      </div>
-
-      <p className="text-gray-600 mb-4">{prompt.description}</p>
-
-      <div className="flex flex-wrap gap-2 mb-4">
-        {prompt.tags.map((tag, index) => (
-          <span
-            key={index}
-            className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800"
-          >
-            {tag}
-          </span>
-        ))}
-      </div>
-
-      <div className="flex justify-between items-center">
-        <div className="flex items-center space-x-4">
-          <div className="flex items-center">
-            {renderStars()}
-            <span className="ml-2 text-sm text-gray-500">
-              ({prompt.stats.totalRatings})
-            </span>
-          </div>
-          
-          <button 
-            onClick={handleLike}
-            className="focus:outline-none"
-          >
-            {isLiked ? (
-              <HeartIconSolid className="h-6 w-6 text-red-500" />
-            ) : (
-              <HeartIcon className="h-6 w-6 text-gray-400 hover:text-red-500" />
-            )}
-          </button>
-
-          <button 
-            onClick={handleSave}
-            className="focus:outline-none"
-          >
-            {isSaved ? (
-              <BookmarkIconSolid className="h-6 w-6 text-blue-500" />
-            ) : (
-              <BookmarkIcon className="h-6 w-6 text-gray-400 hover:text-blue-500" />
-            )}
-          </button>
-
-          <button
-            onClick={onShare}
-            className="focus:outline-none"
-          >
-            <ShareIcon className="h-6 w-6 text-gray-400 hover:text-gray-600" />
-          </button>
-        </div>
-
-        {isOwner && (
+      {/* Card Header */}
+      <div className="p-4 border-b">
+        <div className="flex justify-between items-start mb-2">
+          <h3 className="text-lg font-semibold text-gray-900 flex-grow truncate mr-2">
+            {prompt.title}
+          </h3>
           <div className="flex items-center space-x-2">
+            {/* Like Button with Counter */}
+            <div className="flex items-center">
+              <button
+                onClick={handleLike}
+                className="p-1 rounded-full hover:bg-gray-100 transition-colors duration-200"
+                title={isLiked ? "Unlike" : "Like"}
+              >
+                {isLiked ? (
+                  <HeartIconSolid className="h-6 w-6 text-red-500" />
+                ) : (
+                  <HeartIcon className="h-6 w-6 text-gray-500 hover:text-red-500" />
+                )}
+              </button>
+              <span className="ml-1 text-sm text-gray-600">{likesCount}</span>
+            </div>
+
+            {/* Save Button with Counter */}
+            <div className="flex items-center">
+              <button
+                onClick={handleSave}
+                className="p-1 rounded-full hover:bg-gray-100 transition-colors duration-200"
+                title={isSaved ? "Unsave" : "Save"}
+              >
+                {isSaved ? (
+                  <BookmarkIconSolid className="h-6 w-6 text-blue-500" />
+                ) : (
+                  <BookmarkIcon className="h-6 w-6 text-gray-500 hover:text-blue-500" />
+                )}
+              </button>
+              <span className="ml-1 text-sm text-gray-600">{savesCount}</span>
+            </div>
+
+            {/* Share Button */}
             <button
-              onClick={onEdit}
-              className="focus:outline-none"
+              onClick={() => onShare(prompt._id)}
+              className="p-1 rounded-full hover:bg-gray-100 transition-colors duration-200"
+              title="Share"
             >
-              <PencilIcon className="h-5 w-5 text-gray-400 hover:text-gray-600" />
+              <ShareIcon className="h-6 w-6 text-gray-500 hover:text-indigo-500" />
             </button>
-            <button
-              onClick={onDelete}
-              className="focus:outline-none"
-            >
-              <TrashIcon className="h-5 w-5 text-gray-400 hover:text-red-500" />
-            </button>
+
+            {/* Edit and Delete buttons for owner */}
+            {isOwner && (
+              <>
+                <button
+                  onClick={() => onEdit(prompt)}
+                  className="p-1 rounded-full hover:bg-gray-100 transition-colors duration-200"
+                  title="Edit"
+                >
+                  <PencilIcon className="h-6 w-6 text-gray-500 hover:text-green-500" />
+                </button>
+                <button
+                  onClick={() => onDelete(prompt._id)}
+                  className="p-1 rounded-full hover:bg-gray-100 transition-colors duration-200"
+                  title="Delete"
+                >
+                  <TrashIcon className="h-6 w-6 text-gray-500 hover:text-red-500" />
+                </button>
+              </>
+            )}
           </div>
-        )}
+        </div>
+      </div>
+
+      <div className="p-4">
+        <p className="text-gray-600">{prompt.description}</p>
+
+        <div className="flex flex-wrap gap-2 mb-4">
+          {prompt.tags.map((tag, index) => (
+            <span
+              key={index}
+              className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-800"
+            >
+              {tag}
+            </span>
+          ))}
+        </div>
+
+        <div className="flex justify-between items-center">
+          <div className="flex items-center space-x-4">
+            <div className="flex items-center">
+              {renderStars()}
+              <span className="ml-2 text-sm text-gray-500">
+                ({prompt.stats.totalRatings})
+              </span>
+            </div>
+          </div>
+        </div>
       </div>
     </motion.div>
   );

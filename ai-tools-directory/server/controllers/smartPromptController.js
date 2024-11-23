@@ -119,7 +119,11 @@ export const getPromptById = async (req, res) => {
       return res.status(403).json({ message: 'Access denied' });
     }
 
-    res.json(prompt);
+    res.json({
+      ...prompt,
+      isLiked: prompt.likes.includes(req.userId),
+      isSaved: prompt.saves.includes(req.userId)
+    });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -191,5 +195,87 @@ export const ratePrompt = async (req, res) => {
     res.json(prompt);
   } catch (error) {
     res.status(400).json({ message: error.message });
+  }
+};
+
+// Toggle like on a prompt
+export const toggleLike = async (req, res) => {
+  try {
+    console.log('toggleLike controller - Start:', {
+      promptId: req.params.id,
+      userId: req.userId,
+      headers: req.headers
+    });
+
+    const prompt = await SmartPrompt.findById(req.params.id);
+    if (!prompt) {
+      console.log('toggleLike controller - Prompt not found');
+      return res.status(404).json({ message: 'Prompt not found' });
+    }
+
+    console.log('toggleLike controller - Found prompt:', {
+      promptId: prompt._id,
+      currentLikes: prompt.likes,
+      likesCount: prompt.likes?.length
+    });
+
+    await prompt.toggleLike(req.userId);
+    await prompt.save();  // Explicitly save again to ensure persistence
+
+    console.log('toggleLike controller - After toggle:', {
+      promptId: prompt._id,
+      newLikes: prompt.likes,
+      newLikesCount: prompt.likes.length,
+      isLiked: prompt.likes.includes(req.userId)
+    });
+    
+    res.json({
+      likes: prompt.likes.length,
+      isLiked: prompt.likes.includes(req.userId)
+    });
+  } catch (error) {
+    console.error('toggleLike controller - Error:', error);
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// Toggle save on a prompt
+export const toggleSave = async (req, res) => {
+  try {
+    console.log('toggleSave controller - Start:', {
+      promptId: req.params.id,
+      userId: req.userId,
+      headers: req.headers
+    });
+
+    const prompt = await SmartPrompt.findById(req.params.id);
+    if (!prompt) {
+      console.log('toggleSave controller - Prompt not found');
+      return res.status(404).json({ message: 'Prompt not found' });
+    }
+
+    console.log('toggleSave controller - Found prompt:', {
+      promptId: prompt._id,
+      currentSaves: prompt.saves,
+      savesCount: prompt.saves?.length
+    });
+
+    await prompt.toggleSave(req.userId);
+    await prompt.save();  // Explicitly save again to ensure persistence
+
+    console.log('toggleSave controller - After toggle:', {
+      promptId: prompt._id,
+      newSaves: prompt.saves,
+      newSavesCount: prompt.saves.length,
+      isSaved: prompt.saves.includes(req.userId)
+    });
+    
+    res.json({
+      saves: prompt.saves.length,
+      isSaved: prompt.saves.includes(req.userId)
+    });
+  } catch (error) {
+    console.error('toggleSave controller - Error:', error);
+    res.status(500).json({ message: error.message });
   }
 };

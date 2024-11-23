@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const api = axios.create({
+const api = axios.create({
   baseURL: '/api',  // Use relative URL for proxy
   headers: {
     'Content-Type': 'application/json',
@@ -10,16 +10,21 @@ export const api = axios.create({
 // Request interceptor
 api.interceptors.request.use(
   (config) => {
-    console.log('API Request:', {
-      method: config.method,
-      url: config.url,
-      hasToken: !!config.headers.Authorization
-    });
-
     const token = localStorage.getItem('token');
+    
+    // Add token to request if it exists
     if (token) {
       config.headers.Authorization = `Bearer ${token}`;
     }
+
+    // Log request details
+    console.log('API Request:', {
+      method: config.method,
+      url: config.url,
+      hasToken: !!config.headers.Authorization,
+      token: token ? token.substring(0, 10) + '...' : null  // Log part of token for debugging
+    });
+
     return config;
   },
   (error) => {
@@ -34,7 +39,8 @@ api.interceptors.response.use(
     console.log('API Response:', {
       status: response.status,
       url: response.config.url,
-      hasData: !!response.data
+      hasData: !!response.data,
+      hasToken: !!response.config.headers.Authorization
     });
     return response;
   },
@@ -43,7 +49,8 @@ api.interceptors.response.use(
       status: error.response?.status,
       url: error.config?.url,
       message: error.message,
-      data: error.response?.data
+      data: error.response?.data,
+      hasToken: !!error.config?.headers?.Authorization
     });
 
     const originalRequest = error.config;
@@ -70,7 +77,7 @@ api.interceptors.response.use(
             // Update the original request with the new token
             originalRequest.headers.Authorization = `Bearer ${refreshResponse.data.token}`;
             
-            // Retry the original request with the configured api instance
+            // Retry the original request
             return api(originalRequest);
           }
         }
@@ -85,10 +92,10 @@ api.interceptors.response.use(
       }
     }
 
-    // For other errors, just reject the promise
     return Promise.reject(error);
   }
 );
 
-// Also export as default for backward compatibility
+// Export both default and named export for compatibility
+export { api };
 export default api;

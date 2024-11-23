@@ -6,6 +6,8 @@ import {
   updatePrompt,
   deletePrompt,
   ratePrompt,
+  toggleLike,
+  toggleSave
 } from '../controllers/smartPromptController.js';
 import { auth } from '../middleware/auth.js';
 
@@ -21,5 +23,7 @@ router.post('/', createPrompt);
 router.put('/:id', updatePrompt);
 router.delete('/:id', deletePrompt);
 router.post('/:id/rate', ratePrompt);
+router.post('/:id/like', toggleLike);
+router.post('/:id/save', toggleSave);
 
 export default router;

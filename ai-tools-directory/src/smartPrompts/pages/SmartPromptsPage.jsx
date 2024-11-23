@@ -48,12 +48,14 @@ const SmartPromptsPage = () => {
 
   const fetchPrompts = async () => {
     try {
+      console.log('Fetching prompts with filters:', filters);
       setLoading(true);
       const response = await promptService.getPrompts({
         ...filters,
         view: activeTab,
         userId: user?.id // Only pass userId if it exists
       });
+      console.log('Fetched prompts:', response);
       setPrompts(response.prompts || []);
       setTotalPages(response.totalPages || 1);
     } catch (error) {
@@ -133,6 +135,11 @@ const SmartPromptsPage = () => {
     const url = `${window.location.origin}/prompts/${promptId}`;
     navigator.clipboard.writeText(url);
     toast.success('Prompt link copied to clipboard');
+  };
+
+  const handlePromptUpdate = async (promptId) => {
+    console.log('Handling prompt update for:', promptId);
+    await fetchPrompts(); // Refresh all prompts to get latest data
   };
 
   const renderEmptyState = () => {
@@ -280,6 +287,7 @@ const SmartPromptsPage = () => {
                 setShowForm(true);
               }}
               onDelete={handleDeletePrompt}
+              onUpdate={handlePromptUpdate}
               showActions={activeTab === 'my-prompts' || 
                           (prompt.userId === user?.id) ||
                           (activeTab === 'shared' && prompt.sharedWith?.includes(user?.id))}

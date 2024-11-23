@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { api } from '../../utils/api';
 
-const BASE_URL = '/api/smart-prompts'; // Updated to match our API route
+const BASE_URL = '/smart-prompts'; // Remove /api prefix since it's already in api.js
 
 const getAuthHeader = () => {
   const token = localStorage.getItem('token');
@@ -114,7 +114,10 @@ export const promptService = {
   // Rate a prompt
   async ratePrompt(id, rating) {
     try {
-      const response = await api.post(`/smart-prompts/${id}/rate`, { rating });
+      if (!localStorage.getItem('token')) {
+        throw new Error('Authentication required to rate prompts');
+      }
+      const response = await api.post(`${BASE_URL}/${id}/rate`, { rating });
       return response.data;
     } catch (error) {
       console.error('Error rating prompt:', error);

@@ -77,6 +77,20 @@ const smartPromptSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'SmartPrompt',
   },
+  likes: {
+    type: [{
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'User'
+    }],
+    default: [],
+  },
+  saves: {
+    type: [{
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'User'
+    }],
+    default: [],
+  }
 }, {
   timestamps: true,
 });
@@ -86,16 +100,95 @@ smartPromptSchema.index({ title: 'text', description: 'text', tags: 'text' });
 
 // Method to increment usage count
 smartPromptSchema.methods.incrementUses = async function() {
+  console.log('incrementUses - Start:', {
+    promptId: this._id,
+    currentUses: this.stats.uses
+  });
   this.stats.uses += 1;
+  console.log('incrementUses - After update:', {
+    promptId: this._id,
+    newUses: this.stats.uses
+  });
   return this.save();
 };
 
 // Method to add rating
 smartPromptSchema.methods.addRating = async function(rating) {
+  console.log('addRating - Start:', {
+    promptId: this._id,
+    rating,
+    currentAverageRating: this.stats.averageRating,
+    currentTotalRatings: this.stats.totalRatings
+  });
   const newTotalRatings = this.stats.totalRatings + 1;
   const oldRatingSum = this.stats.averageRating * this.stats.totalRatings;
   this.stats.averageRating = (oldRatingSum + rating) / newTotalRatings;
   this.stats.totalRatings = newTotalRatings;
+  console.log('addRating - After update:', {
+    promptId: this._id,
+    newAverageRating: this.stats.averageRating,
+    newTotalRatings: this.stats.totalRatings
+  });
+  return this.save();
+};
+
+// Method to toggle like
+smartPromptSchema.methods.toggleLike = async function(userId) {
+  console.log('toggleLike - Start:', {
+    promptId: this._id,
+    userId,
+    currentLikes: this.likes,
+    likesCount: this.likes?.length
+  });
+
+  const userIdStr = userId.toString();
+  const index = this.likes.findIndex(id => id.toString() === userIdStr);
+  
+  if (index === -1) {
+    console.log('toggleLike - Adding like');
+    this.likes.push(userId);
+  } else {
+    console.log('toggleLike - Removing like');
+    this.likes.splice(index, 1);
+  }
+  
+  console.log('toggleLike - After update:', {
+    promptId: this._id,
+    userId,
+    newLikes: this.likes,
+    newLikesCount: this.likes.length
+  });
+
+  return this.save();
+};
+
+// Method to toggle save
+smartPromptSchema.methods.toggleSave = async function(userId) {
+  console.log('toggleSave - Start:', {
+    promptId: this._id,
+    userId,
+    currentSaves: this.saves,
+    savesCount: this.saves?.length
+  });
+
+  const userIdStr = userId.toString();
+  const index = this.saves.findIndex(id => id.toString() === userIdStr);
+  
+  if (index === -1) {
+    console.log('toggleSave - Adding save');
+    this.saves.push(userId);
+  } else {
+    console.log('toggleSave - Removing save');
+    this.saves.splice(index, 1);
+  }
+  
+  console.log('toggleSave - After update:', {
+    promptId: this._id,
+    userId,
+    newSaves: this.saves,
+    newSavesCount: this.saves.length
+  });
+
   return this.save();
 };
 
