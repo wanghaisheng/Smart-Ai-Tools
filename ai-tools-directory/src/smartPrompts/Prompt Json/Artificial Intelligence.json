@@ -1,0 +1,858 @@
+{
+    "prompts": [
+      {
+        "title": "AI in Healthcare",
+        "content": "Write a blog post about the applications of artificial intelligence in healthcare, including diagnosis, treatment, and patient care. (1000 words)",
+        "description": "Explore the benefits and challenges of AI in healthcare",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "healthcare", "machine learning"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of healthcare AI is being applied",
+            "example": "cancer diagnosis"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Chatbots",
+        "content": "Create a guide on how to build an AI-powered chatbot for customer service, including language processing and response generation. (800 words)",
+        "description": "Develop a conversational AI chatbot for customer support",
+        "category": "Artificial Intelligence",
+        "tags": ["chatbots", "customer service", "NLP"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "Industry-specific chatbot application",
+            "example": "e-commerce"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Image Recognition",
+        "content": "Write a research paper on the applications of deep learning in image recognition, including convolutional neural networks and transfer learning. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in image recognition",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "image recognition", "CNN"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for image recognition",
+            "example": "ImageNet"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Sentiment Analysis",
+        "content": "Create a tutorial on how to build a sentiment analysis tool using NLP techniques, including text preprocessing and machine learning models. (1000 words)",
+        "description": "Develop a sentiment analysis tool for social media monitoring",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "sentiment analysis", "text analysis"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for sentiment analysis",
+            "example": "IMDB"
+          }
+        ]
+      },
+      {
+        "title": "AI in Education",
+        "content": "Write a blog post about the applications of artificial intelligence in education, including personalized learning and adaptive assessment. (800 words)",
+        "description": "Explore the benefits and challenges of AI in education",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "education", "personalized learning"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of education AI is being applied",
+            "example": "adaptive assessment"
+          }
+        ]
+      },
+      {
+        "title": "Robotics and Computer Vision",
+        "content": "Create a research paper on the applications of computer vision in robotics, including object recognition and tracking. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in computer vision for robotics",
+        "category": "Artificial Intelligence",
+        "tags": ["robotics", "computer vision", "object recognition"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for computer vision",
+            "example": "Pascal VOC"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Predictive Maintenance",
+        "content": "Write a tutorial on how to build a predictive maintenance model using machine learning techniques, including data preprocessing and model evaluation. (1000 words)",
+        "description": "Develop a predictive maintenance model for industrial equipment",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "predictive maintenance", "industrial equipment"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for predictive maintenance",
+            "example": "NASA Turbofan Engine"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Recommendation Systems",
+        "content": "Create a guide on how to build an AI-powered recommendation system for e-commerce, including user profiling and item ranking. (800 words)",
+        "description": "Develop a recommendation system for online shopping",
+        "category": "Artificial Intelligence",
+        "tags": ["recommendation systems", "e-commerce", "user profiling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for recommendation systems",
+            "example": "MovieLens"
+          }
+        ]
+      },
+      {
+        "title": "AI for Cybersecurity",
+        "content": "Write a research paper on the applications of artificial intelligence in cybersecurity, including threat detection and incident response. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for cybersecurity",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "cybersecurity", "threat detection"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for cybersecurity",
+            "example": "NSL-KDD"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Assistants",
+        "content": "Create a tutorial on how to build an AI-powered virtual assistant for smart homes, including voice recognition and task automation. (1000 words)",
+        "description": "Develop a virtual assistant for smart home automation",
+        "category": "Artificial Intelligence",
+        "tags": ["virtual assistants", "smart homes", "voice recognition"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual assistants",
+            "example": "Smart Home Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Natural Language Processing",
+        "content": "Write a research paper on the applications of deep learning in natural language processing, including language models and text classification. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in deep learning for NLP",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "NLP", "language models"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for NLP",
+            "example": "GLUE"
+          }
+        ]
+      },
+      {
+        "title": "AI for Environmental Sustainability",
+        "content": "Create a blog post about the applications of artificial intelligence in environmental sustainability, including climate modeling and renewable energy. (800 words)",
+        "description": "Explore the benefits and challenges of AI in environmental sustainability",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "environmental sustainability", "climate modeling"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of environmental sustainability AI is being applied",
+            "example": "renewable energy"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Time Series Forecasting",
+        "content": "Write a tutorial on how to build a machine learning model for time series forecasting, including data preprocessing and model evaluation. (1000 words)",
+        "description": "Develop a time series forecasting model for financial data",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "time series forecasting", "financial data"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for time series forecasting",
+            "example": "Stock Market Data"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Vehicles",
+        "content": "Create a research paper on the applications of artificial intelligence in autonomous vehicles, including computer vision and sensor fusion. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for autonomous vehicles",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous vehicles", "computer vision"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous vehicles",
+            "example": "KITTI"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Text Summarization",
+        "content": "Write a tutorial on how to build a text summarization tool using NLP techniques, including text preprocessing and summarization algorithms. (1000 words)",
+        "description": "Develop a text summarization tool for news articles",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "text summarization", "news articles"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for text summarization",
+            "example": "CNN/Daily Mail"
+          }
+        ]
+      },
+      {
+        "title": "AI for Social Media Monitoring",
+        "content": "Create a blog post about the applications of artificial intelligence in social media monitoring, including sentiment analysis and trend detection. (800 words)",
+        "description": "Explore the benefits and challenges of AI in social media monitoring",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "social media monitoring", "sentiment analysis"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of social media monitoring AI is being applied",
+            "example": "trend detection"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Computer Vision",
+        "content": "Write a research paper on the applications of deep learning in computer vision, including image recognition and object detection. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in deep learning for computer vision",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "computer vision", "image recognition"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for computer vision",
+            "example": "ImageNet"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Chatbots for Customer Service",
+        "content": "Create a tutorial on how to build an AI-powered chatbot for customer service, including language processing and response generation. (1000 words)",
+        "description": "Develop a conversational AI chatbot for customer support",
+        "category": "Artificial Intelligence",
+        "tags": ["chatbots", "customer service", "NLP"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "Industry-specific chatbot application",
+            "example": "e-commerce"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Anomaly Detection",
+        "content": "Write a research paper on the applications of machine learning in anomaly detection, including data preprocessing and model evaluation. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in machine learning for anomaly detection",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "anomaly detection", "data preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for anomaly detection",
+            "example": "NSL-KDD"
+          }
+        ]
+      },
+      {
+        "title": "AI for Financial Forecasting",
+        "content": "Create a blog post about the applications of artificial intelligence in financial forecasting, including stock market prediction and risk analysis. (800 words)",
+        "description": "Explore the benefits and challenges of AI in financial forecasting",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "financial forecasting", "stock market prediction"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of financial forecasting AI is being applied",
+            "example": "risk analysis"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Language Translation",
+        "content": "Write a tutorial on how to build a language translation tool using NLP techniques, including text preprocessing and machine translation. (1000 words)",
+        "description": "Develop a language translation tool for travel applications",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "language translation", "travel applications"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for language translation",
+            "example": "WMT"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Reality",
+        "content": "Create a research paper on the applications of artificial intelligence in virtual reality, including computer vision and sensor fusion. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for virtual reality",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "virtual reality", "computer vision"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual reality",
+            "example": "VR Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Speech Recognition",
+        "content": "Write a tutorial on how to build a speech recognition tool using deep learning techniques, including audio preprocessing and speech-to-text. (1000 words)",
+        "description": "Develop a speech recognition tool for voice assistants",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "speech recognition", "voice assistants"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for speech recognition",
+            "example": "LibriSpeech"
+          }
+        ]
+      },
+      {
+        "title": "AI for Healthcare Analytics",
+        "content": "Create a blog post about the applications of artificial intelligence in healthcare analytics, including patient data analysis and disease diagnosis. (800 words)",
+        "description": "Explore the benefits and challenges of AI in healthcare analytics",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "healthcare analytics", "patient data analysis"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of healthcare analytics AI is being applied",
+            "example": "disease diagnosis"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Recommendation Systems",
+        "content": "Write a research paper on the applications of machine learning in recommendation systems, including user profiling and item ranking. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in machine learning for recommendation systems",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "recommendation systems", "user profiling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for recommendation systems",
+            "example": "MovieLens"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Drones",
+        "content": "Create a tutorial on how to build an AI-powered autonomous drone for aerial surveillance, including computer vision and sensor fusion. (1000 words)",
+        "description": "Develop an autonomous drone for aerial surveillance",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous drones", "aerial surveillance"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous drones",
+            "example": "Drone Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Sentiment Analysis",
+        "content": "Write a research paper on the applications of natural language processing in sentiment analysis, including text preprocessing and machine learning models. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in NLP for sentiment analysis",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "sentiment analysis", "text preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for sentiment analysis",
+            "example": "IMDB"
+          }
+        ]
+      },
+      {
+        "title": "AI for Cybersecurity Threat Detection",
+        "content": "Create a blog post about the applications of artificial intelligence in cybersecurity threat detection, including anomaly detection and incident response. (800 words)",
+        "description": "Explore the benefits and challenges of AI in cybersecurity threat detection",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "cybersecurity", "threat detection"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of cybersecurity threat detection AI is being applied",
+            "example": "anomaly detection"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Natural Language Processing",
+        "content": "Write a tutorial on how to build a deep learning model for natural language processing, including text preprocessing and language modeling. (1000 words)",
+        "description": "Develop a deep learning model for language translation",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "NLP", "language modeling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for NLP",
+            "example": "WMT"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Assistants for Healthcare",
+        "content": "Create a research paper on the applications of artificial intelligence in virtual assistants for healthcare, including patient data analysis and disease diagnosis. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for virtual assistants in healthcare",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "virtual assistants", "healthcare"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual assistants in healthcare",
+            "example": "Healthcare Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Time Series Analysis",
+        "content": "Write a tutorial on how to build a machine learning model for time series analysis, including data preprocessing and model evaluation. (1000 words)",
+        "description": "Develop a time series analysis model for financial data",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "time series analysis", "financial data"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for time series analysis",
+            "example": "Stock Market Data"
+          }
+        ]
+      },
+      {
+        "title": "AI for Environmental Monitoring",
+        "content": "Create a blog post about the applications of artificial intelligence in environmental monitoring, including air quality monitoring and climate modeling. (800 words)",
+        "description": "Explore the benefits and challenges of AI in environmental monitoring",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "environmental monitoring", "air quality monitoring"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of environmental monitoring AI is being applied",
+            "example": "climate modeling"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Computer Vision",
+        "content": "Write a research paper on the applications of deep learning in computer vision, including image recognition and object detection. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in deep learning for computer vision",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "computer vision", "image recognition"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for computer vision",
+            "example": "ImageNet"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Vehicles for Transportation",
+        "content": "Create a tutorial on how to build an AI-powered autonomous vehicle for transportation, including computer vision and sensor fusion. (1000 words)",
+        "description": "Develop an autonomous vehicle for transportation",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous vehicles", "transportation"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous vehicles",
+            "example": "KITTI"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Text Classification",
+        "content": "Write a research paper on the applications of natural language processing in text classification, including text preprocessing and machine learning models. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in NLP for text classification",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "text classification", "text preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for text classification",
+            "example": "20 Newsgroups"
+          }
+        ]
+      },
+      {
+        "title": "AI for Social Media Analytics",
+        "content": "Create a blog post about the applications of artificial intelligence in social media analytics, including sentiment analysis and trend detection. (800 words)",
+        "description": "Explore the benefits and challenges of AI in social media analytics",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "social media analytics", "sentiment analysis"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of social media analytics AI is being applied",
+            "example": "trend detection"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Speech Recognition",
+        "content": "Write a tutorial on how to build a deep learning model for speech recognition, including audio preprocessing and speech-to-text. (1000 words)",
+        "description": "Develop a speech recognition model for voice assistants",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "speech recognition", "voice assistants"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for speech recognition",
+            "example": "LibriSpeech"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Reality for Education",
+        "content": "Create a research paper on the applications of artificial intelligence in virtual reality for education, including interactive learning and simulation-based training. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for virtual reality in education",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "virtual reality", "education"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual reality in education",
+            "example": "Education Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Anomaly Detection",
+        "content": "Write a tutorial on how to build a machine learning model for anomaly detection, including data preprocessing and model evaluation. (1000 words)",
+        "description": "Develop an anomaly detection model for industrial equipment",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "anomaly detection", "industrial equipment"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for anomaly detection",
+            "example": "NASA Turbofan Engine"
+          }
+        ]
+      },
+      {
+        "title": "AI for Financial Risk Management",
+        "content": "Create a blog post about the applications of artificial intelligence in financial risk management, including credit risk assessment and portfolio optimization. (800 words)",
+        "description": "Explore the benefits and challenges of AI in financial risk management",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "financial risk management", "credit risk assessment"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of financial risk management AI is being applied",
+            "example": "portfolio optimization"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Language Generation",
+        "content": "Write a research paper on the applications of natural language processing in language generation, including text preprocessing and language modeling. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in NLP for language generation",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "language generation", "text preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for language generation",
+            "example": "WMT"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Systems for Industrial Automation",
+        "content": "Create a tutorial on how to build an AI-powered autonomous system for industrial automation, including computer vision and sensor fusion. (1000 words)",
+        "description": "Develop an autonomous system for industrial automation",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous systems", "industrial automation"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous systems",
+            "example": "Industrial Automation Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Time Series Forecasting",
+        "content": "Write a research paper on the applications of deep learning in time series forecasting, including data preprocessing and model evaluation. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in deep learning for time series forecasting",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "time series forecasting", "data preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for time series forecasting",
+            "example": "Stock Market Data"
+          }
+        ]
+      },
+      {
+        "title": "AI for Healthcare Informatics",
+        "content": "Create a blog post about the applications of artificial intelligence in healthcare informatics, including patient data analysis and disease diagnosis. (800 words)",
+        "description": "Explore the benefits and challenges of AI in healthcare informatics",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "healthcare informatics", "patient data analysis"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of healthcare informatics AI is being applied",
+            "example": "disease diagnosis"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Recommendation Systems",
+        "content": "Write a tutorial on how to build a machine learning model for recommendation systems, including user profiling and item ranking. (1000 words)",
+        "description": "Develop a recommendation system for online shopping",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "recommendation systems", "user profiling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for recommendation systems",
+            "example": "MovieLens"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Assistants for Customer Service",
+        "content": "Create a research paper on the applications of artificial intelligence in virtual assistants for customer service, including language processing and response generation. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for virtual assistants in customer service",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "virtual assistants", "customer service"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual assistants in customer service",
+            "example": "Customer Service Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Natural Language Processing",
+        "content": "Write a tutorial on how to build a deep learning model for natural language processing, including text preprocessing and language modeling. (1000 words)",
+        "description": "Develop a deep learning model for language translation",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "NLP", "language modeling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for NLP",
+            "example": "WMT"
+          }
+        ]
+      },
+      {
+        "title": "AI for Environmental Sustainability",
+        "content": "Create a blog post about the applications of artificial intelligence in environmental sustainability, including climate modeling and renewable energy. (800 words)",
+        "description": "Explore the benefits and challenges of AI in environmental sustainability",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "environmental sustainability", "climate modeling"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of environmental sustainability AI is being applied",
+            "example": "renewable energy"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Anomaly Detection",
+        "content": "Write a research paper on the applications of machine learning in anomaly detection, including data preprocessing and model evaluation. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in machine learning for anomaly detection",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "anomaly detection", "data preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for anomaly detection",
+            "example": "NSL-KDD"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Vehicles for Transportation",
+        "content": "Create a tutorial on how to build an AI-powered autonomous vehicle for transportation, including computer vision and sensor fusion. (1000 words)",
+        "description": "Develop an autonomous vehicle for transportation",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous vehicles", "transportation"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous vehicles",
+            "example": "KITTI"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Sentiment Analysis",
+        "content": "Write a research paper on the applications of natural language processing in sentiment analysis, including text preprocessing and machine learning models. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in NLP for sentiment analysis",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "sentiment analysis", "text preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for sentiment analysis",
+            "example": "IMDB"
+          }
+        ]
+      },
+      {
+        "title": "AI for Cybersecurity Threat Detection",
+        "content": "Create a blog post about the applications of artificial intelligence in cybersecurity threat detection, including anomaly detection and incident response. (800 words)",
+        "description": "Explore the benefits and challenges of AI in cybersecurity threat detection",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "cybersecurity", "threat detection"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of cybersecurity threat detection AI is being applied",
+            "example": "anomaly detection"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Computer Vision",
+        "content": "Write a tutorial on how to build a deep learning model for computer vision, including image preprocessing and object detection. (1000 words)",
+        "description": "Develop a deep learning model for image recognition",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "computer vision", "image recognition"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for computer vision",
+            "example": "ImageNet"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Virtual Reality for Entertainment",
+        "content": "Create a research paper on the applications of artificial intelligence in virtual reality for entertainment, including interactive storytelling and simulation-based games. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in AI for virtual reality in entertainment",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "virtual reality", "entertainment"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for virtual reality in entertainment",
+            "example": "Entertainment Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Time Series Analysis",
+        "content": "Write a tutorial on how to build a machine learning model for time series analysis, including data preprocessing and model evaluation. (1000 words)",
+        "description": "Develop a time series analysis model for financial data",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "time series analysis", "financial data"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for time series analysis",
+            "example": "Stock Market Data"
+          }
+        ]
+      },
+      {
+        "title": "AI for Healthcare Informatics",
+        "content": "Create a blog post about the applications of artificial intelligence in healthcare informatics, including patient data analysis and disease diagnosis. (800 words)",
+        "description": "Explore the benefits and challenges of AI in healthcare informatics",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "healthcare informatics", "patient data analysis"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of healthcare informatics AI is being applied",
+            "example": "disease diagnosis"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning for Natural Language Processing",
+        "content": "Write a research paper on the applications of deep learning in natural language processing, including text preprocessing and language modeling. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in deep learning for NLP",
+        "category": "Artificial Intelligence",
+        "tags": ["deep learning", "NLP", "language modeling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for NLP",
+            "example": "WMT"
+          }
+        ]
+      },
+      {
+        "title": "AI-powered Autonomous Systems for Industrial Automation",
+        "content": "Create a tutorial on how to build an AI-powered autonomous system for industrial automation, including computer vision and sensor fusion. (1000 words)",
+        "description": "Develop an autonomous system for industrial automation",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "autonomous systems", "industrial automation"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for autonomous systems",
+            "example": "Industrial Automation Dataset"
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning for Recommendation Systems",
+        "content": "Write a research paper on the applications of machine learning in recommendation systems, including user profiling and item ranking. (1500 words)",
+        "description": "Explore the state-of-the-art techniques in machine learning for recommendation systems",
+        "category": "Artificial Intelligence",
+        "tags": ["machine learning", "recommendation systems", "user profiling"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for recommendation systems",
+            "example": "MovieLens"
+          }
+        ]
+      },
+      {
+        "title": "AI for Financial Risk Management",
+        "content": "Create a blog post about the applications of artificial intelligence in financial risk management, including credit risk assessment and portfolio optimization. (800 words)",
+        "description": "Explore the benefits and challenges of AI in financial risk management",
+        "category": "Artificial Intelligence",
+        "tags": ["AI", "financial risk management", "credit risk assessment"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "Specific area of financial risk management AI is being applied",
+            "example": "portfolio optimization"
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing for Language Generation",
+        "content": "Write a tutorial on how to build a natural language processing model for language generation, including text preprocessing and language modeling. (1000 words)",
+        "description": "Develop a language generation model for chatbots",
+        "category": "Artificial Intelligence",
+        "tags": ["NLP", "language generation", "text preprocessing"],
+        "variables": [
+          {
+            "name": "dataset",
+            "description": "Specific dataset used for language generation",
+            "example": "WMT"
+          }
+        ]
+      }
+    ]
+  }

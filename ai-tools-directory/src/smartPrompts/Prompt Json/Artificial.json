@@ -1,0 +1,75 @@
+{
+    "Artificial Intelligence": {
+      "Machine Learning": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Transfer Learning",
+        "Meta-Learning",
+        "Online Learning",
+        "Semi-Supervised Learning",
+        "Active Learning",
+        "Ensemble Learning"
+      ],
+      "Natural Language Processing (NLP)": [
+        "Machine Translation",
+        "Text Summarization",
+        "Sentiment Analysis",
+        "Named Entity Recognition",
+        "Question Answering",
+        "Dialogue Systems",
+        "Text Generation",
+        "Natural Language Understanding",
+        "Speech Recognition",
+        "Speech Synthesis"
+      ],
+      "Computer Vision": [
+        "Image Classification",
+        "Object Detection",
+        "Image Segmentation",
+        "Image Recognition",
+        "Video Analysis",
+        "3D Vision",
+        "Facial Recognition",
+        "Optical Character Recognition (OCR)",
+        "Medical Image Analysis"
+      ],
+      "Robotics": [
+        "Robot Control",
+        "Robot Navigation",
+        "Robot Perception",
+        "Robot Manipulation",
+        "Human-Robot Interaction",
+        "Swarm Robotics"
+      ],
+      "Expert Systems": [
+        "Knowledge Representation",
+        "Knowledge Acquisition",
+        "Inference Engines",
+        "Rule-Based Systems",
+        "Case-Based Reasoning"
+      ],
+      "Knowledge Representation and Reasoning": [
+        "Description Logics",
+        "Ontologies",
+        "Semantic Web",
+        "Knowledge Graphs",
+        "Probabilistic Reasoning"
+      ],
+      "Planning and Scheduling": [
+        "Classical Planning",
+        "Hierarchical Planning",
+        "Constraint Satisfaction Problems",
+        "Scheduling Algorithms"
+      ],
+      "Search and Optimization": [
+        "Graph Search Algorithms",
+        "Evolutionary Algorithms",
+        "Simulated Annealing",
+        "Linear Programming",
+        "Integer Programming"
+      ]
+    }
+  }
+  
