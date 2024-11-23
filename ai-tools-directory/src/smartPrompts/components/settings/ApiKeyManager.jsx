@@ -15,6 +15,27 @@ import {
 } from '@heroicons/react/24/outline';
 import { toast } from 'react-hot-toast';
 
+// Toggle Switch Component
+const ToggleSwitch = ({ enabled, onChange }) => {
+  return (
+    <button
+      type="button"
+      className={`${
+        enabled ? 'bg-blue-600' : 'bg-gray-700'
+      } relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none`}
+      role="switch"
+      aria-checked={enabled}
+      onClick={() => onChange(!enabled)}
+    >
+      <span
+        className={`${
+          enabled ? 'translate-x-5' : 'translate-x-0'
+        } pointer-events-none relative inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out`}
+      />
+    </button>
+  );
+};
+
 const SETTINGS_CATEGORIES = [
   { id: 'models', name: 'Default Model', icon: KeyIcon },
   { id: 'general', name: 'General Settings', icon: Cog6ToothIcon },
@@ -117,10 +138,90 @@ const ApiKeyManager = () => {
   const [selectedCategory, setSelectedCategory] = useState('models');
   const [selectedProvider, setSelectedProvider] = useState(null);
   const [newApiKey, setNewApiKey] = useState('');
+  const [enabledModels, setEnabledModels] = useState({});
+  const [enabledProviders, setEnabledProviders] = useState({});
 
   useEffect(() => {
     loadApiKeys();
+    loadEnabledModels();
+    loadEnabledProviders();
   }, []);
+
+  const loadEnabledProviders = async () => {
+    try {
+      const stored = localStorage.getItem('enabledProviders');
+      if (stored) {
+        setEnabledProviders(JSON.parse(stored));
+      }
+    } catch (error) {
+      console.error('Error loading enabled providers:', error);
+    }
+  };
+
+  const toggleProvider = async (providerId) => {
+    try {
+      const newEnabledProviders = {
+        ...enabledProviders,
+        [providerId]: !enabledProviders[providerId]
+      };
+      setEnabledProviders(newEnabledProviders);
+      localStorage.setItem('enabledProviders', JSON.stringify(newEnabledProviders));
+
+      // Toggle all models for this provider
+      const providerModels = getAvailableModels(providerId);
+      const newEnabledModels = {
+        ...enabledModels,
+        [providerId]: providerModels.reduce((acc, model) => ({
+          ...acc,
+          [model]: newEnabledProviders[providerId]
+        }), {})
+      };
+      setEnabledModels(newEnabledModels);
+      localStorage.setItem('enabledModels', JSON.stringify(newEnabledModels));
+
+      toast.success(`${providerId} ${newEnabledProviders[providerId] ? 'enabled' : 'disabled'}`);
+    } catch (error) {
+      console.error('Error toggling provider:', error);
+      toast.error('Failed to update provider status');
+    }
+  };
+
+  const isProviderEnabled = (providerId) => {
+    return enabledProviders[providerId] || false;
+  };
+
+  const loadEnabledModels = async () => {
+    try {
+      const stored = localStorage.getItem('enabledModels');
+      if (stored) {
+        setEnabledModels(JSON.parse(stored));
+      }
+    } catch (error) {
+      console.error('Error loading enabled models:', error);
+    }
+  };
+
+  const toggleModel = async (providerId, modelName) => {
+    try {
+      const newEnabledModels = {
+        ...enabledModels,
+        [providerId]: {
+          ...enabledModels[providerId],
+          [modelName]: !enabledModels[providerId]?.[modelName]
+        }
+      };
+      setEnabledModels(newEnabledModels);
+      localStorage.setItem('enabledModels', JSON.stringify(newEnabledModels));
+      toast.success(`${modelName} ${newEnabledModels[providerId][modelName] ? 'enabled' : 'disabled'}`);
+    } catch (error) {
+      console.error('Error toggling model:', error);
+      toast.error('Failed to update model status');
+    }
+  };
+
+  const isModelEnabled = (providerId, modelName) => {
+    return enabledModels[providerId]?.[modelName] || false;
+  };
 
   const loadApiKeys = async () => {
     try {
@@ -229,6 +330,55 @@ const ApiKeyManager = () => {
     }
   };
 
+  const renderSettingsContent = () => {
+    if (selectedCategory === 'models') {
+      return (
+        <div className="space-y-6">
+          <h3 className="text-lg font-semibold text-gray-200 mb-4">Enabled Models</h3>
+          {Object.entries(apiKeys).map(([providerId, apiKey]) => {
+            const provider = Object.values(MODEL_PROVIDERS)
+              .flatMap(category => category.providers)
+              .find(p => p.id === providerId);
+            
+            if (!provider || !apiKey) return null;
+
+            return (
+              <div key={providerId} className="bg-gray-800/50 rounded-lg p-4 space-y-3">
+                <h4 className="text-md font-medium text-gray-300">{provider.name}</h4>
+                <div className="space-y-2">
+                  {getAvailableModels(providerId).map((modelName) => (
+                    <div key={modelName} className="flex items-center justify-between py-2 px-3 bg-gray-700/30 rounded-lg">
+                      <span className="text-sm text-gray-300">{modelName}</span>
+                      <ToggleSwitch
+                        enabled={isModelEnabled(providerId, modelName)}
+                        onChange={() => toggleModel(providerId, modelName)}
+                      />
+                    </div>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
+          {Object.keys(apiKeys).length === 0 && (
+            <div className="text-center text-gray-400 py-8">
+              <KeyIcon className="h-12 w-12 mx-auto mb-3" />
+              <p>No API keys configured. Add an API key to enable models.</p>
+            </div>
+          )}
+        </div>
+      );
+    }
+    
+    return (
+      <div className="flex flex-col items-center justify-center h-[300px] text-gray-400">
+        <div className="text-center">
+          <h3 className="text-lg font-medium mb-2">Coming Soon</h3>
+          <p>This section is under development</p>
+        </div>
+      </div>
+    );
+  };
+
   return (
     <div className="space-y-6">
       {/* Header with Add Button */}
@@ -249,74 +399,123 @@ const ApiKeyManager = () => {
       </div>
 
       {/* API Provider Cards Grid */}
-      {loading ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {[1, 2, 3, 4].map((i) => (
-            <div key={i} className="animate-pulse bg-gray-800/50 rounded-xl p-4 h-32"></div>
-          ))}
-        </div>
-      ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {API_PROVIDERS.map((provider) => (
-            <motion.div
-              key={provider.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              className="relative group"
-            >
-              <div className="absolute inset-0 bg-gradient-to-r opacity-0 group-hover:opacity-10 transition-opacity duration-200 rounded-xl ${provider.color}"></div>
-              <div className="relative bg-gray-800 rounded-xl p-4 shadow-lg hover:shadow-xl transition-all duration-200">
-                <div className="flex justify-between items-start mb-3">
-                  <h4 className="font-medium text-gray-200">{provider.name}</h4>
-                  {apiKeys[provider.id] && (
-                    <div className="flex gap-2">
-                      <motion.button
-                        whileHover={{ scale: 1.1 }}
-                        whileTap={{ scale: 0.9 }}
+      {!loading && (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {API_PROVIDERS.map((provider) => {
+            const hasKey = apiKeys[provider.id];
+            const isTesting = testing[provider.id];
+            const modelCount = getAvailableModels(provider.id).length;
+
+            return (
+              <motion.div
+                key={provider.id}
+                whileHover={{ scale: 1.02 }}
+                className={`relative p-4 rounded-xl border ${
+                  hasKey ? 'border-green-500/30 bg-green-500/5' : 'border-gray-700 bg-gray-800/50'
+                } hover:shadow-lg transition-all duration-200`}
+              >
+                {/* Provider Header */}
+                <div className="flex flex-col gap-2 mb-4">
+                  <div className="flex items-center justify-between">
+                    <h4 className="text-md font-medium text-gray-200">{provider.name}</h4>
+                    <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-700/50 text-gray-300">
+                      {modelCount} {modelCount === 1 ? 'model' : 'models'}
+                    </span>
+                  </div>
+                  
+                  {/* Toggle All Section */}
+                  <div className="flex items-center justify-between bg-gray-700/30 rounded-lg px-3 py-2">
+                    <div className="flex items-center gap-2">
+                      <div className={`h-2 w-2 rounded-full ${isProviderEnabled(provider.id) ? 'bg-blue-400' : 'bg-gray-500'}`} />
+                      <span className="text-sm text-gray-300">
+                        {isProviderEnabled(provider.id) ? 'All models enabled' : 'All models disabled'}
+                      </span>
+                    </div>
+                    <ToggleSwitch
+                      enabled={isProviderEnabled(provider.id)}
+                      onChange={() => toggleProvider(provider.id)}
+                    />
+                  </div>
+                </div>
+
+                {/* API Key Status Bar */}
+                <div className="flex items-center gap-2 mb-3">
+                  <div className="flex-1">
+                    <div className="h-1 rounded-full bg-gray-700">
+                      <div
+                        className={`h-1 rounded-full ${
+                          hasKey ? 'bg-green-500' : 'bg-gray-600'
+                        } transition-all duration-500`}
+                        style={{ width: hasKey ? '100%' : '0%' }}
+                      />
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-1">
+                    {hasKey ? (
+                      <>
+                        <CheckCircleIcon className="h-4 w-4 text-green-500" />
+                        <span className="text-xs text-green-500">Connected</span>
+                      </>
+                    ) : (
+                      <>
+                        <KeyIcon className="h-4 w-4 text-gray-500" />
+                        <span className="text-xs text-gray-500">Not Connected</span>
+                      </>
+                    )}
+                  </div>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="flex items-center justify-between mt-4">
+                  <div className="flex items-center gap-2">
+                    {hasKey && (
+                      <button
                         onClick={() => testApiKey(provider.id)}
-                        disabled={testing[provider.id]}
-                        className="p-1 rounded-full bg-gray-700 hover:bg-gray-600 transition-colors"
-                        title="Test API Key"
+                        className={`text-xs px-3 py-1.5 rounded-lg flex items-center gap-1.5 ${
+                          isTesting
+                            ? 'bg-blue-500/10 text-blue-400'
+                            : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
+                        } transition-colors`}
+                        disabled={isTesting}
                       >
-                        {testing[provider.id] ? (
-                          <ArrowPathIcon className="h-4 w-4 text-gray-400 animate-spin" />
+                        {isTesting ? (
+                          <>
+                            <ArrowPathIcon className="h-3.5 w-3.5 animate-spin" />
+                            <span>Testing...</span>
+                          </>
                         ) : (
-                          <CheckCircleIcon className="h-4 w-4 text-green-400" />
+                          <>
+                            <CheckCircleIcon className="h-3.5 w-3.5" />
+                            <span>Test Connection</span>
+                          </>
                         )}
-                      </motion.button>
-                      <motion.button
-                        whileHover={{ scale: 1.1 }}
-                        whileTap={{ scale: 0.9 }}
-                        onClick={() => deleteApiKey(provider.id)}
-                        className="p-1 rounded-full bg-gray-700 hover:bg-red-600 transition-colors"
-                        title="Delete API Key"
-                      >
-                        <TrashIcon className="h-4 w-4 text-gray-400 group-hover:text-white" />
-                      </motion.button>
+                      </button>
+                    )}
+                  </div>
+
+                  {hasKey && (
+                    <button
+                      onClick={() => deleteApiKey(provider.id)}
+                      className="text-xs px-3 py-1.5 rounded-lg flex items-center gap-1.5 text-red-400 hover:bg-red-500/10 transition-colors"
+                    >
+                      <TrashIcon className="h-3.5 w-3.5" />
+                      <span>Remove</span>
+                    </button>
+                  )}
+                </div>
+
+                {/* Quick Actions Overlay */}
+                <div className="absolute top-2 right-2 flex items-center gap-2">
+                  {hasKey && (
+                    <div className="flex items-center gap-1 px-2 py-1 rounded-full bg-green-500/10 text-green-400 text-xs">
+                      <CheckCircleIcon className="h-3.5 w-3.5" />
+                      <span>Active</span>
                     </div>
                   )}
                 </div>
-                
-                <p className="text-sm text-gray-400 mb-2">{provider.description}</p>
-                
-                {apiKeys[provider.id] ? (
-                  <div className="flex items-center gap-2 text-sm">
-                    <div className="h-2 w-2 bg-green-400 rounded-full"></div>
-                    <span className="text-green-400">Configured</span>
-                  </div>
-                ) : (
-                  <div className="flex items-center gap-2 text-sm">
-                    <div className="h-2 w-2 bg-gray-400 rounded-full"></div>
-                    <span className="text-gray-400">Not Configured</span>
-                  </div>
-                )}
-                
-                <div className="mt-2 text-xs text-gray-500">
-                  {provider.models.join(', ')}
-                </div>
-              </div>
-            </motion.div>
-          ))}
+              </motion.div>
+            );
+          })}
         </div>
       )}
 
@@ -401,7 +600,7 @@ const ApiKeyManager = () => {
                       </p>
                     </div>
 
-                    {/* Available Models */}
+                    {/* Available Models with Toggles */}
                     <div className="space-y-2">
                       <label className="block text-sm font-medium text-gray-300">
                         Available Models
@@ -410,10 +609,16 @@ const ApiKeyManager = () => {
                         {getAvailableModels(selectedProvider.id).map((model) => (
                           <div
                             key={model}
-                            className="flex items-center gap-2 px-3 py-2 bg-gray-700/50 rounded-lg"
+                            className="flex items-center justify-between px-3 py-2 bg-gray-700/50 rounded-lg"
                           >
-                            <div className="h-2 w-2 bg-blue-400 rounded-full"></div>
-                            <span className="text-sm text-gray-300">{model}</span>
+                            <div className="flex items-center gap-2">
+                              <div className="h-2 w-2 bg-blue-400 rounded-full"></div>
+                              <span className="text-sm text-gray-300">{model}</span>
+                            </div>
+                            <ToggleSwitch
+                              enabled={isModelEnabled(selectedProvider.id, model)}
+                              onChange={() => toggleModel(selectedProvider.id, model)}
+                            />
                           </div>
                         ))}
                       </div>
@@ -453,6 +658,11 @@ const ApiKeyManager = () => {
           </motion.div>
         </div>
       )}
+
+      {/* Main Settings Content */}
+      <div className="mt-6">
+        {renderSettingsContent()}
+      </div>
     </div>
   );
 };
