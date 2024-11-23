@@ -1,0 +1,430 @@
+{
+    "prompts": [
+      {
+        "title": "Create a User Manual for {{product_name}}",
+        "content": "Develop a comprehensive user manual for {{product_name}} that includes detailed instructions on setup, operation, maintenance, and troubleshooting. Ensure the language is clear and suitable for {{target_audience}}.",
+        "description": "Generates a user manual for a specific product tailored to its users.",
+        "category": "Technical Documentation",
+        "subcategory": "User Manuals",
+        "tags": ["user manual", "instructional guide", "product documentation"],
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "The name of the product needing a user manual",
+            "example": "SmartHome Thermostat X100"
+          },
+          {
+            "name": "target_audience",
+            "description": "The intended users of the product",
+            "example": "Homeowners with basic technical knowledge"
+          }
+        ]
+      },
+      {
+        "title": "Write Installation Instructions for {{equipment}}",
+        "content": "Compose step-by-step installation instructions for {{equipment}}. Include necessary safety precautions, required tools, and diagrams to assist {{installer_type}}.",
+        "description": "Provides installation guidelines for specific equipment.",
+        "category": "Technical Documentation",
+        "subcategory": "Installation Guides",
+        "tags": ["installation", "setup", "equipment"],
+        "variables": [
+          {
+            "name": "equipment",
+            "description": "The equipment to be installed",
+            "example": "Industrial Air Conditioning Unit Model AC-5000"
+          },
+          {
+            "name": "installer_type",
+            "description": "The person or group performing the installation",
+            "example": "Professional HVAC technicians"
+          }
+        ]
+      },
+      {
+        "title": "Develop API Documentation for {{api_name}}",
+        "content": "Create thorough API documentation for {{api_name}}. Include endpoint descriptions, request and response examples, authentication methods, and error codes to assist developers integrating the API.",
+        "description": "Generates comprehensive API documentation.",
+        "category": "Technical Documentation",
+        "subcategory": "API Documentation",
+        "tags": ["API", "developer guide", "integration"],
+        "variables": [
+          {
+            "name": "api_name",
+            "description": "The name of the API",
+            "example": "PaymentGateway SecurePay API"
+          }
+        ]
+      },
+      {
+        "title": "Create a Maintenance Manual for {{machine}}",
+        "content": "Write a detailed maintenance manual for {{machine}}. Include regular maintenance schedules, procedures, troubleshooting tips, and parts replacement guidelines.",
+        "description": "Produces a maintenance guide for machinery or equipment.",
+        "category": "Technical Documentation",
+        "subcategory": "Maintenance Manuals",
+        "tags": ["maintenance", "manual", "equipment"],
+        "variables": [
+          {
+            "name": "machine",
+            "description": "The machine requiring a maintenance manual",
+            "example": "Model ZX-9000 CNC Milling Machine"
+          }
+        ]
+      },
+      {
+        "title": "Draft Technical Specifications for {{product_or_system}}",
+        "content": "Develop technical specifications for {{product_or_system}}. Detail the design, components, performance criteria, and compliance standards to guide engineers and developers.",
+        "description": "Creates technical specs outlining product or system details.",
+        "category": "Technical Documentation",
+        "subcategory": "Technical Specifications",
+        "tags": ["technical specs", "engineering", "product development"],
+        "variables": [
+          {
+            "name": "product_or_system",
+            "description": "The product or system being specified",
+            "example": "NextGen Solar Panel Array Model SP-300"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Troubleshooting Guide for {{software_or_hardware}}",
+        "content": "Write a troubleshooting guide for {{software_or_hardware}}. Identify common issues, error messages, and step-by-step solutions to assist users in resolving problems.",
+        "description": "Provides users with solutions to common issues.",
+        "category": "Technical Documentation",
+        "subcategory": "Troubleshooting Guides",
+        "tags": ["troubleshooting", "support", "user assistance"],
+        "variables": [
+          {
+            "name": "software_or_hardware",
+            "description": "The software or hardware product",
+            "example": "VirtualMeet Video Conferencing Software"
+          }
+        ]
+      },
+      {
+        "title": "Develop Release Notes for Version {{version_number}} of {{product}}",
+        "content": "Create release notes for version {{version_number}} of {{product}}. Include new features, bug fixes, known issues, and upgrade instructions for users.",
+        "description": "Informs users about updates in a new product version.",
+        "category": "Technical Documentation",
+        "subcategory": "Release Notes",
+        "tags": ["release notes", "product updates", "versioning"],
+        "variables": [
+          {
+            "name": "version_number",
+            "description": "The new version number",
+            "example": "2.5.1"
+          },
+          {
+            "name": "product",
+            "description": "The name of the product",
+            "example": "SecureSync File Sharing Platform"
+          }
+        ]
+      },
+      {
+        "title": "Create a System Architecture Document for {{system_name}}",
+        "content": "Draft a system architecture document for {{system_name}}. Detail the system components, interactions, data flow diagrams, and technology stack used.",
+        "description": "Outlines the structural design of a system.",
+        "category": "Technical Documentation",
+        "subcategory": "System Architecture",
+        "tags": ["architecture", "system design", "technical overview"],
+        "variables": [
+          {
+            "name": "system_name",
+            "description": "The name of the system",
+            "example": "Enterprise Resource Planning (ERP) System"
+          }
+        ]
+      },
+      {
+        "title": "Write a Software Requirements Specification for {{project_name}}",
+        "content": "Develop a Software Requirements Specification (SRS) document for {{project_name}}. Include functional requirements, non-functional requirements, use cases, and acceptance criteria.",
+        "description": "Defines the software requirements for a project.",
+        "category": "Technical Documentation",
+        "subcategory": "Software Requirements Specifications",
+        "tags": ["SRS", "requirements", "software development"],
+        "variables": [
+          {
+            "name": "project_name",
+            "description": "The name of the software project",
+            "example": "HealthTrack Mobile App"
+          }
+        ]
+      },
+      {
+        "title": "Compose Test Plans for {{application_or_system}}",
+        "content": "Create detailed test plans for {{application_or_system}}. Outline test objectives, scope, resources, schedules, and test cases to ensure quality assurance.",
+        "description": "Establishes a testing framework for software or systems.",
+        "category": "Technical Documentation",
+        "subcategory": "Test Plans",
+        "tags": ["testing", "QA", "test cases"],
+        "variables": [
+          {
+            "name": "application_or_system",
+            "description": "The application or system to be tested",
+            "example": "Online Banking Portal"
+          }
+        ]
+      },
+      {
+        "title": "Develop Code Documentation for {{codebase_or_module}}",
+        "content": "Write comprehensive code documentation for {{codebase_or_module}}. Include explanations of functions, classes, methods, and examples of usage to assist other developers.",
+        "description": "Provides in-depth documentation of code for developers.",
+        "category": "Technical Documentation",
+        "subcategory": "Code Documentation",
+        "tags": ["code docs", "developer reference", "programming"],
+        "variables": [
+          {
+            "name": "codebase_or_module",
+            "description": "The codebase or specific module",
+            "example": "Authentication Module in Java"
+          }
+        ]
+      },
+      {
+        "title": "Create Knowledge Base Articles for {{topic}}",
+        "content": "Write informative knowledge base articles on {{topic}}. Include clear explanations, step-by-step guides, and FAQs to help users understand and troubleshoot.",
+        "description": "Generates support articles for a knowledge base.",
+        "category": "Technical Documentation",
+        "subcategory": "Knowledge Base Articles",
+        "tags": ["knowledge base", "support", "user assistance"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the article",
+            "example": "Resetting Passwords on SecureMail Platform"
+          }
+        ]
+      },
+      {
+        "title": "Draft Data Sheets for {{product_or_service}}",
+        "content": "Compose data sheets for {{product_or_service}}. Highlight key specifications, performance metrics, and technical features important to clients and engineers.",
+        "description": "Provides technical details in a concise format.",
+        "category": "Technical Documentation",
+        "subcategory": "Data Sheets",
+        "tags": ["data sheet", "specifications", "product info"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service for the data sheet",
+            "example": "High-Speed Ethernet Switch Model ES-1000"
+          }
+        ]
+      },
+      {
+        "title": "Write Configuration Guides for {{system_or_software}}",
+        "content": "Develop detailed configuration guides for {{system_or_software}}. Include initial setup steps, customization options, and best practices for optimal performance.",
+        "description": "Helps users configure systems or software correctly.",
+        "category": "Technical Documentation",
+        "subcategory": "Configuration Guides",
+        "tags": ["configuration", "setup", "optimization"],
+        "variables": [
+          {
+            "name": "system_or_software",
+            "description": "The system or software to configure",
+            "example": "Cloud Storage Management System"
+          }
+        ]
+      },
+      {
+        "title": "Compose Training Manuals for {{tool_or_application}}",
+        "content": "Create a training manual for {{tool_or_application}} aimed at {{user_group}}. Include lessons, exercises, and quizzes to facilitate learning.",
+        "description": "Produces educational material for training purposes.",
+        "category": "Technical Documentation",
+        "subcategory": "Training Manuals",
+        "tags": ["training", "manual", "education"],
+        "variables": [
+          {
+            "name": "tool_or_application",
+            "description": "The tool or application to train on",
+            "example": "Data Analysis Software Suite"
+          },
+          {
+            "name": "user_group",
+            "description": "The group being trained",
+            "example": "Junior Data Analysts"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Process Documentation for {{business_process}}",
+        "content": "Write detailed process documentation for {{business_process}}. Include process maps, roles and responsibilities, inputs and outputs, and KPIs.",
+        "description": "Defines and documents business processes.",
+        "category": "Technical Documentation",
+        "subcategory": "Process Documentation",
+        "tags": ["process", "workflow", "business"],
+        "variables": [
+          {
+            "name": "business_process",
+            "description": "The business process to document",
+            "example": "Customer Onboarding Procedure"
+          }
+        ]
+      },
+      {
+        "title": "Create a Security Documentation for {{system_or_application}}",
+        "content": "Develop security documentation for {{system_or_application}}. Outline security protocols, user access levels, data protection measures, and compliance requirements.",
+        "description": "Provides guidelines on security measures and policies.",
+        "category": "Technical Documentation",
+        "subcategory": "Security Documentation",
+        "tags": ["security", "compliance", "data protection"],
+        "variables": [
+          {
+            "name": "system_or_application",
+            "description": "The system or application to secure",
+            "example": "Financial Transactions Platform"
+          }
+        ]
+      },
+      {
+        "title": "Write Deployment Guides for {{software_version}}",
+        "content": "Compose a deployment guide for {{software_version}}. Include pre-deployment steps, environment setup, deployment procedures, and post-deployment validation.",
+        "description": "Assists in deploying software versions correctly.",
+        "category": "Technical Documentation",
+        "subcategory": "Deployment Guides",
+        "tags": ["deployment", "software release", "IT operations"],
+        "variables": [
+          {
+            "name": "software_version",
+            "description": "The software version to deploy",
+            "example": "Enterprise CRM Version 5.2"
+          }
+        ]
+      },
+      {
+        "title": "Draft Regulatory Compliance Documentation for {{industry_standard}}",
+        "content": "Prepare documentation to ensure compliance with {{industry_standard}}. Include policies, procedures, and controls necessary for adherence.",
+        "description": "Helps organizations comply with industry regulations.",
+        "category": "Technical Documentation",
+        "subcategory": "Regulatory Compliance Documentation",
+        "tags": ["compliance", "regulations", "standards"],
+        "variables": [
+          {
+            "name": "industry_standard",
+            "description": "The regulatory standard to comply with",
+            "example": "GDPR for Data Protection"
+          }
+        ]
+      },
+      {
+        "title": "Create Functional Specifications for {{software_project}}",
+        "content": "Develop functional specifications for {{software_project}}. Detail user interactions, system behaviors, and functional requirements to guide developers.",
+        "description": "Defines what the software should do from the user's perspective.",
+        "category": "Technical Documentation",
+        "subcategory": "Functional Specifications",
+        "tags": ["functional specs", "requirements", "software design"],
+        "variables": [
+          {
+            "name": "software_project",
+            "description": "The software project in question",
+            "example": "Online Appointment Scheduling System"
+          }
+        ]
+      },
+      {
+        "title": "Compose Interface Design Documents for {{application}}",
+        "content": "Write an interface design document for {{application}}. Include UI mockups, user interaction flows, and design principles to be followed.",
+        "description": "Documents the design of user interfaces for applications.",
+        "category": "Technical Documentation",
+        "subcategory": "Interface Design Documents",
+        "tags": ["UI design", "UX", "interface documentation"],
+        "variables": [
+          {
+            "name": "application",
+            "description": "The application requiring interface design",
+            "example": "E-Commerce Mobile App"
+          }
+        ]
+      },
+      {
+        "title": "Develop Test Cases for {{functionality}}",
+        "content": "Create detailed test cases for {{functionality}}. Include test steps, expected results, and test data to validate the functionality.",
+        "description": "Helps QA teams in testing specific functionalities.",
+        "category": "Technical Documentation",
+        "subcategory": "Test Plans",
+        "tags": ["test cases", "quality assurance", "software testing"],
+        "variables": [
+          {
+            "name": "functionality",
+            "description": "The specific functionality to test",
+            "example": "User login and authentication process"
+          }
+        ]
+      },
+      {
+        "title": "Write White Papers on {{technical_topic}}",
+        "content": "Compose a white paper on {{technical_topic}}. Provide in-depth analysis, background information, and potential solutions to inform and persuade technical audiences.",
+        "description": "Generates authoritative reports on technical topics.",
+        "category": "Technical Documentation",
+        "subcategory": "White Papers",
+        "tags": ["white paper", "research", "thought leadership"],
+        "variables": [
+          {
+            "name": "technical_topic",
+            "description": "The technical topic to explore",
+            "example": "Advancements in Quantum Computing"
+          }
+        ]
+      },
+      {
+        "title": "Create FAQs for {{product_or_service}}",
+        "content": "Develop a list of frequently asked questions and answers for {{product_or_service}}. Address common user concerns and provide clear, concise responses.",
+        "description": "Helps users by addressing common questions.",
+        "category": "Technical Documentation",
+        "subcategory": "FAQs",
+        "tags": ["FAQ", "user support", "customer service"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service the FAQs are for",
+            "example": "Cloud Storage Service"
+          }
+        ]
+      },
+      {
+        "title": "Design Technical Diagrams for {{system_or_process}}",
+        "content": "Create technical diagrams for {{system_or_process}}. Include flowcharts, network diagrams, or schematics to visually represent technical information.",
+        "description": "Provides visual representations of systems or processes.",
+        "category": "Technical Documentation",
+        "subcategory": "Technical Diagrams",
+        "tags": ["diagrams", "visual aids", "technical illustration"],
+        "variables": [
+          {
+            "name": "system_or_process",
+            "description": "The system or process to diagram",
+            "example": "Data Flow in E-Commerce Transaction Processing"
+          }
+        ]
+      },
+      {
+        "title": "Develop Configuration Management Plans for {{project}}",
+        "content": "Write a configuration management plan for {{project}}. Outline procedures for configuration identification, control, auditing, and status accounting.",
+        "description": "Ensures proper management of project configurations.",
+        "category": "Technical Documentation",
+        "subcategory": "Configuration Management",
+        "tags": ["configuration management", "project management", "control"],
+        "variables": [
+          {
+            "name": "project",
+            "description": "The project requiring a configuration management plan",
+            "example": "Automated Warehouse System Implementation"
+          }
+        ]
+      },
+      {
+        "title": "Compose an End-of-Life (EOL) Notice for {{product_version}}",
+        "content": "Draft an EOL notice for {{product_version}}. Inform customers about the discontinuation, important dates, and recommended next steps or upgrades.",
+        "description": "Communicates product discontinuation to stakeholders.",
+        "category": "Technical Documentation",
+        "subcategory": "End-of-Life Notices",
+        "tags": ["EOL notice", "product lifecycle", "customer communication"],
+        "variables": [
+          {
+            "name": "product_version",
+            "description": "The specific product version being retired",
+            "example": "Antivirus Software Version 10.0"
+          }
+        ]
+      }
+    ]
+  }
+  

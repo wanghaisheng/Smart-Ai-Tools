@@ -294,3 +294,88 @@ export const toggleSave = async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 };
+
+// Category mapping for import
+const categoryMapping = {
+  'Content Writing': 'Content Creation',
+  'Technical Documentation': 'Technical',
+  'Business Writing': 'Business',
+  'Creative Writing': 'Creative',
+  'Educational Content': 'Education'
+};
+
+// Bulk import prompts
+export const bulkImportPrompts = async (req, res) => {
+  try {
+    const { prompts } = req.body;
+    
+    if (!Array.isArray(prompts)) {
+      return res.status(400).json({ message: 'Prompts must be an array' });
+    }
+
+    const results = {
+      total: prompts.length,
+      successful: 0,
+      failed: 0,
+      errors: []
+    };
+
+    for (const promptData of prompts) {
+      try {
+        // Map category if needed
+        const mappedCategory = categoryMapping[promptData.category] || promptData.category;
+        
+        // Add creator and set visibility to public by default
+        const enrichedPromptData = {
+          ...promptData,
+          creator: req.userId,
+          visibility: 'public', // Set to public by default
+          category: mappedCategory
+        };
+
+        // Create and validate the prompt
+        const prompt = new SmartPrompt(enrichedPromptData);
+        await prompt.save();
+        results.successful++;
+      } catch (error) {
+        results.failed++;
+        results.errors.push({
+          title: promptData.title,
+          error: error.message,
+          details: error.errors
+        });
+        console.error('Error importing prompt:', {
+          title: promptData.title,
+          error: error.message,
+          details: error.errors
+        });
+      }
+    }
+
+    res.status(200).json({
+      message: 'Bulk import completed',
+      results
+    });
+  } catch (error) {
+    console.error('Error in bulk import:', error);
+    res.status(500).json({ message: 'Error processing bulk import', error: error.message });
+  }
+};
+
+// Update visibility of all prompts for a user
+export const updateUserPromptsVisibility = async (req, res) => {
+  try {
+    const result = await SmartPrompt.updateMany(
+      { creator: req.userId },
+      { $set: { visibility: 'public' } }
+    );
+
+    res.status(200).json({
+      message: 'Successfully updated prompt visibility',
+      modifiedCount: result.modifiedCount
+    });
+  } catch (error) {
+    console.error('Error updating prompt visibility:', error);
+    res.status(500).json({ message: 'Error updating prompt visibility' });
+  }
+};

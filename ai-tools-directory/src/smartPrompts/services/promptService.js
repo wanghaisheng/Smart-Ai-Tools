@@ -65,9 +65,20 @@ const getPrompts = async ({ page = 1, limit = 12, search = '', category = '', vi
   }
 };
 
+const updatePromptsVisibility = async () => {
+  try {
+    const response = await api.post(`${BASE_URL}/update-visibility`, {}, {
+      headers: getAuthHeader()
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error updating prompts visibility:', error);
+    throw error;
+  }
+};
+
 export const promptService = {
   getPrompts,
-  
   // Get a single prompt by ID
   async getPromptById(id) {
     try {
@@ -128,11 +139,14 @@ export const promptService = {
   // Bulk import prompts
   async bulkImportPrompts(prompts) {
     try {
-      const response = await api.post('/smart-prompts/bulk', prompts);
+      // Ensure prompts is in the correct format
+      const payload = Array.isArray(prompts) ? { prompts } : prompts;
+      const response = await api.post(`${BASE_URL}/bulk`, payload);
       return response.data;
     } catch (error) {
       console.error('Error bulk importing prompts:', error);
       throw error;
     }
   },
+  updatePromptsVisibility
 };

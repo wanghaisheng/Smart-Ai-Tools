@@ -4,6 +4,18 @@ import { motion } from 'framer-motion';
 import { promptService } from '../services/promptService';
 import toast from 'react-hot-toast';
 
+// Valid categories
+const VALID_CATEGORIES = ['Content Creation', 'Technical', 'Business', 'Creative', 'Education', 'Other'];
+
+// Category mapping for validation
+const CATEGORY_MAPPING = {
+  'Content Writing': 'Content Creation',
+  'Technical Documentation': 'Technical',
+  'Business Writing': 'Business',
+  'Creative Writing': 'Creative',
+  'Educational Content': 'Education'
+};
+
 const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
   const [file, setFile] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -32,6 +44,25 @@ const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
           errors.push(`Prompt at index ${index} is missing required field: ${field}`);
         }
       });
+
+      // Validate category
+      const mappedCategory = CATEGORY_MAPPING[prompt.category] || prompt.category;
+      if (!VALID_CATEGORIES.includes(mappedCategory)) {
+        errors.push(`Prompt at index ${index} has invalid category: ${prompt.category}. Valid categories are: ${VALID_CATEGORIES.join(', ')}`);
+      }
+
+      // Validate variables if present
+      if (prompt.variables) {
+        if (!Array.isArray(prompt.variables)) {
+          errors.push(`Prompt at index ${index} has invalid variables format`);
+        } else {
+          prompt.variables.forEach((variable, varIndex) => {
+            if (!variable.name || !variable.description) {
+              errors.push(`Prompt at index ${index}, variable at index ${varIndex} is missing required fields`);
+            }
+          });
+        }
+      }
     });
 
     if (errors.length > 0) {
@@ -59,18 +90,33 @@ const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
           validatePrompts(prompts);
 
           // Perform bulk import
-          const result = await promptService.bulkImportPrompts(prompts);
+          const result = await promptService.bulkImportPrompts({ prompts });
           
           setImportStats({
-            total: prompts.length,
-            successful: result.successful || prompts.length,
-            failed: result.failed || 0
+            total: result.results.total,
+            successful: result.results.successful,
+            failed: result.results.failed
           });
 
-          toast.success('Prompts imported successfully!');
-          if (onSuccess) {
-            onSuccess(result);
+          if (result.results.successful > 0) {
+            toast.success(`Successfully imported ${result.results.successful} prompts!`);
+            
+            // Trigger refresh of prompts list
+            if (onSuccess) {
+              onSuccess(result);
+            }
+
+            // Close modal and refresh page after short delay
+            setTimeout(() => {
+              onClose();
+              window.location.reload(); // Refresh to show new prompts
+            }, 2000);
           }
+          
+          if (result.results.failed > 0) {
+            toast.error(`Failed to import ${result.results.failed} prompts`);
+          }
+
         } catch (error) {
           console.error('Error processing file:', error);
           toast.error(error.message || 'Error processing file');
@@ -175,12 +221,28 @@ const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
                 Successfully imported {importStats.successful} out of {importStats.total} prompts
                 {importStats.failed > 0 && ` (${importStats.failed} failed)`}
               </p>
-              <button
-                onClick={onClose}
-                className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 transition-colors"
-              >
-                Close
-              </button>
+              <div className="mt-4 flex justify-end space-x-2">
+                <button
+                  onClick={async () => {
+                    try {
+                      const result = await promptService.updatePromptsVisibility();
+                      toast.success(`Updated visibility for ${result.modifiedCount} prompts`);
+                      setTimeout(() => window.location.reload(), 1500);
+                    } catch (error) {
+                      toast.error('Failed to update prompt visibility');
+                    }
+                  }}
+                  className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                >
+                  Make All Prompts Public
+                </button>
+                <button
+                  onClick={onClose}
+                  className="px-4 py-2 bg-gray-200 text-gray-800 rounded hover:bg-gray-300"
+                >
+                  Close
+                </button>
+              </div>
             </div>
           )}
         </div>
