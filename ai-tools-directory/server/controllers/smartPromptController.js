@@ -1,4 +1,5 @@
 import SmartPrompt from '../models/SmartPrompt.js';
+import User from '../models/User.js';
 
 // Create a new prompt
 export const createPrompt = async (req, res) => {
@@ -313,6 +314,12 @@ export const bulkImportPrompts = async (req, res) => {
       return res.status(400).json({ message: 'Prompts must be an array' });
     }
 
+    // Find admin user
+    const adminUser = await User.findOne({ role: 'admin' });
+    if (!adminUser) {
+      return res.status(400).json({ message: 'Admin user not found' });
+    }
+
     const results = {
       total: prompts.length,
       successful: 0,
@@ -325,11 +332,11 @@ export const bulkImportPrompts = async (req, res) => {
         // Map category if needed
         const mappedCategory = categoryMapping[promptData.category] || promptData.category;
         
-        // Add creator and set visibility to public by default
+        // Add creator (admin) and set visibility to public by default
         const enrichedPromptData = {
           ...promptData,
-          creator: req.userId,
-          visibility: 'public', // Set to public by default
+          creator: adminUser._id, // Use admin's ID instead of the requesting user's ID
+          visibility: 'public',
           category: mappedCategory
         };
 
@@ -365,8 +372,14 @@ export const bulkImportPrompts = async (req, res) => {
 // Update visibility of all prompts for a user
 export const updateUserPromptsVisibility = async (req, res) => {
   try {
+    // Find admin user
+    const adminUser = await User.findOne({ role: 'admin' });
+    if (!adminUser) {
+      return res.status(400).json({ message: 'Admin user not found' });
+    }
+
     const result = await SmartPrompt.updateMany(
-      { creator: req.userId },
+      { creator: adminUser._id }, // Update Admin's prompts
       { $set: { visibility: 'public' } }
     );
 
