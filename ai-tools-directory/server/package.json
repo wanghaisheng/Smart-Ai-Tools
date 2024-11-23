@@ -13,6 +13,8 @@
     "test:coverage": "cross-env NODE_OPTIONS=--experimental-vm-modules jest --coverage"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@google/generative-ai": "^0.21.0",
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0",
     "cors": "^2.8.5",
@@ -22,6 +24,7 @@
     "jsonwebtoken": "^9.0.2",
     "marked": "^11.0.0",
     "mongoose": "^8.0.1",
+    "openai": "^4.73.0",
     "puppeteer": "^23.9.0"
   },
   "devDependencies": {

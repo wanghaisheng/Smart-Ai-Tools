@@ -47,14 +47,31 @@ const providerApiKeySchema = new mongoose.Schema({
   }
 });
 
+// Helper function to ensure encryption key is properly formatted
+function getEncryptionKey() {
+  const key = process.env.ENCRYPTION_KEY;
+  if (!key) {
+    throw new Error('ENCRYPTION_KEY environment variable is not set');
+  }
+  
+  // If key is already a 32-byte hex string, use it as is
+  if (/^[0-9a-f]{64}$/i.test(key)) {
+    return Buffer.from(key, 'hex');
+  }
+  
+  // Otherwise, hash the key to get a consistent 32-byte value
+  return crypto.createHash('sha256').update(key).digest();
+}
+
 // Encrypt API key before saving
 providerApiKeySchema.pre('save', function(next) {
   if (!this.isModified('apiKey')) return next();
 
   try {
+    const encryptionKey = getEncryptionKey();
     // Use a random 16-byte IV for each encryption
     const iv = crypto.randomBytes(16);
-    const cipher = crypto.createCipheriv('aes-256-cbc', Buffer.from(process.env.ENCRYPTION_KEY, 'hex'), iv);
+    const cipher = crypto.createCipheriv('aes-256-cbc', encryptionKey, iv);
     let encrypted = cipher.update(this.apiKey, 'utf8', 'hex');
     encrypted += cipher.final('hex');
     
@@ -78,10 +95,25 @@ providerApiKeySchema.pre('save', function(next) {
 // Decrypt API key when retrieving
 providerApiKeySchema.methods.getDecryptedKey = function() {
   try {
-    // Split IV and encrypted data
+    const encryptionKey = getEncryptionKey();
+    
+    if (!this.apiKey.includes(':')) {
+      // Legacy decryption (without IV)
+      const decipher = crypto.createDecipher('aes-256-cbc', process.env.ENCRYPTION_KEY);
+      let decrypted = decipher.update(this.apiKey, 'hex', 'utf8');
+      decrypted += decipher.final('utf8');
+      
+      // Re-encrypt with new format (with IV)
+      this.apiKey = decrypted;
+      this.save();
+      
+      return decrypted;
+    }
+
+    // New decryption (with IV)
     const [ivHex, encryptedHex] = this.apiKey.split(':');
     const iv = Buffer.from(ivHex, 'hex');
-    const decipher = crypto.createDecipheriv('aes-256-cbc', Buffer.from(process.env.ENCRYPTION_KEY, 'hex'), iv);
+    const decipher = crypto.createDecipheriv('aes-256-cbc', encryptionKey, iv);
     let decrypted = decipher.update(encryptedHex, 'hex', 'utf8');
     decrypted += decipher.final('utf8');
     return decrypted;

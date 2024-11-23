@@ -34,6 +34,7 @@ import smartPromptRoutes from './routes/smartPromptRoutes.js';
 import socialRoutes from './routes/social.js';
 import providerApiKeyRoutes from './routes/provider-api-keys.js';
 import settingsRoutes from './routes/settings.js';
+import generatePromptRoutes from './routes/generate-prompt.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -42,8 +43,15 @@ dotenv.config();
 
 const app = express();
 
+// CORS configuration
+app.use(cors({
+  origin: process.env.NODE_ENV === 'production' 
+    ? process.env.CLIENT_URL 
+    : ['http://localhost:5173', 'http://127.0.0.1:5173'],
+  credentials: true
+}));
+
 // Middleware
-app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -70,6 +78,7 @@ app.use('/api/smart-prompts', smartPromptRoutes);
 app.use('/api/social', socialRoutes);
 app.use('/api/provider-api-keys', providerApiKeyRoutes);
 app.use('/api/settings', settingsRoutes);
+app.use('/api/generate-prompt', generatePromptRoutes);
 
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {

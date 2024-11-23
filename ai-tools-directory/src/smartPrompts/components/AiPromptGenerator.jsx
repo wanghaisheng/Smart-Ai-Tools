@@ -85,11 +85,13 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
         generateVariations: true
       });
 
-      const data = response.data;
-      if (!response.ok) throw new Error(data.message);
+      const { prompts } = response.data;
+      if (!prompts || !prompts.length) {
+        throw new Error('No prompts were generated');
+      }
 
-      setGeneratedPrompt(data.prompts[0]);
-      setVariations(data.prompts);
+      setGeneratedPrompt(prompts[0]);
+      setVariations(prompts);
       setSelectedVariation(0);
       toast.success('Prompt generated successfully!');
     } catch (error) {
