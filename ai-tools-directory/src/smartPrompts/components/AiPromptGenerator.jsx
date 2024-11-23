@@ -43,6 +43,7 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
   const [temperature, setTemperature] = useState(0.7);
   const [variations, setVariations] = useState([]);
   const [selectedVariation, setSelectedVariation] = useState(0);
+  const [visibility, setVisibility] = useState('private');
 
   // Load available AI models from configured API keys
   useEffect(() => {
@@ -109,7 +110,7 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
       title: `AI Generated: ${topic}`,
       content: generatedPrompt,
       description: `AI generated prompt for ${topic} using ${selectedModel}. Type: ${promptType}, Tone: ${tone}, Length: ${length}`,
-      category: 'Technical', // Changed from 'AI Generated' to a valid category
+      category: 'Technical', 
       tags: ['ai-generated', promptType, tone.toLowerCase(), topic.toLowerCase()],
       metadata: {
         model: selectedModel,
@@ -118,7 +119,7 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
         length,
         temperature
       },
-      visibility: 'private'
+      visibility: visibility
     });
     
     toast.success('Prompt saved successfully!');
@@ -316,6 +317,14 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
           </div>
           
           <div className="flex gap-4">
+            <select
+              value={visibility}
+              onChange={(e) => setVisibility(e.target.value)}
+              className="rounded-md bg-gray-700 border-gray-600 text-white"
+            >
+              <option value="private">Private</option>
+              <option value="public">Public</option>
+            </select>
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
