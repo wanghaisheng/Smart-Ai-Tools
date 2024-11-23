@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import PromptModal from './PromptModal';
 import { motion } from 'framer-motion';
 import { 
   StarIcon, 
@@ -30,6 +31,7 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
   const [likesCount, setLikesCount] = useState(prompt.likes?.length || 0);
   const [savesCount, setSavesCount] = useState(prompt.saves?.length || 0);
   const isOwner = user && prompt.creator._id === user.id;
+  const [showModal, setShowModal] = useState(false);
 
   // Animation variants
   const cardVariants = {
@@ -107,13 +109,21 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     }
   };
 
+  const handleCardClick = (e) => {
+    e.stopPropagation();
+    setShowModal(true);
+    if (onClick) onClick();
+  };
+
+
+
   return (
     <motion.div
       initial="hidden"
       animate="visible"
       whileHover="hover"
       variants={cardVariants}
-      onClick={onClick}
+      onClick={handleCardClick}
       className="border border-gray-700 rounded-xl p-6 hover:shadow-xl transition-all duration-300 cursor-pointer bg-gray-800 relative overflow-hidden group"
     >
       {/* Gradient Overlay */}
@@ -288,8 +298,19 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
           </motion.div>
         )}
       </div>
+
+
+
+      {/* Modal */}
+      <PromptModal 
+  prompt={prompt}
+  isOpen={showModal}
+  onClose={() => setShowModal(false)}
+/>
     </motion.div>
   );
-};
+}
+
+      
 
 export default PromptCard;
