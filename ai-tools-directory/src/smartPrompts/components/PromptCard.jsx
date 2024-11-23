@@ -1,11 +1,56 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { StarIcon, ShareIcon, PencilIcon, TrashIcon } from '@heroicons/react/24/outline';
-import { StarIcon as StarIconSolid } from '@heroicons/react/24/solid';
+import { 
+  StarIcon, 
+  ShareIcon, 
+  PencilIcon, 
+  TrashIcon,
+  HeartIcon,
+  BookmarkIcon
+} from '@heroicons/react/24/outline';
+import { 
+  StarIcon as StarIconSolid,
+  HeartIcon as HeartIconSolid,
+  BookmarkIcon as BookmarkIconSolid
+} from '@heroicons/react/24/solid';
+import axios from 'axios';
+import toast from 'react-hot-toast';
 
-const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser }) => {
+const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser, onUpdate }) => {
+  const [isLiked, setIsLiked] = useState(prompt.likes?.includes(currentUser?.id));
+  const [isSaved, setIsSaved] = useState(prompt.saves?.includes(currentUser?.id));
   const isOwner = currentUser && prompt.creator._id === currentUser.id;
   
+  const handleLike = async () => {
+    if (!currentUser) {
+      toast.error('Please login to like prompts');
+      return;
+    }
+    try {
+      await axios.post(`/api/smart-prompts/${prompt._id}/like`);
+      setIsLiked(!isLiked);
+      if (onUpdate) onUpdate();
+    } catch (error) {
+      console.error('Error liking prompt:', error);
+      toast.error('Failed to like prompt');
+    }
+  };
+
+  const handleSave = async () => {
+    if (!currentUser) {
+      toast.error('Please login to save prompts');
+      return;
+    }
+    try {
+      await axios.post(`/api/smart-prompts/${prompt._id}/save`);
+      setIsSaved(!isSaved);
+      if (onUpdate) onUpdate();
+    } catch (error) {
+      console.error('Error saving prompt:', error);
+      toast.error('Failed to save prompt');
+    }
+  };
+
   const renderStars = () => {
     return [...Array(5)].map((_, index) => {
       const rating = Math.round(prompt.stats.averageRating);
@@ -54,39 +99,61 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, currentUser }) 
         ))}
       </div>
 
-      <div className="flex items-center justify-between mt-4 pt-4 border-t border-gray-200">
-        <div className="flex items-center space-x-1">
-          {renderStars()}
-          <span className="text-sm text-gray-500 ml-2">
-            ({prompt.stats.totalRatings} ratings)
-          </span>
+      <div className="flex justify-between items-center">
+        <div className="flex items-center space-x-4">
+          <div className="flex items-center">
+            {renderStars()}
+            <span className="ml-2 text-sm text-gray-500">
+              ({prompt.stats.totalRatings})
+            </span>
+          </div>
+          
+          <button 
+            onClick={handleLike}
+            className="focus:outline-none"
+          >
+            {isLiked ? (
+              <HeartIconSolid className="h-6 w-6 text-red-500" />
+            ) : (
+              <HeartIcon className="h-6 w-6 text-gray-400 hover:text-red-500" />
+            )}
+          </button>
+
+          <button 
+            onClick={handleSave}
+            className="focus:outline-none"
+          >
+            {isSaved ? (
+              <BookmarkIconSolid className="h-6 w-6 text-blue-500" />
+            ) : (
+              <BookmarkIcon className="h-6 w-6 text-gray-400 hover:text-blue-500" />
+            )}
+          </button>
+
+          <button
+            onClick={onShare}
+            className="focus:outline-none"
+          >
+            <ShareIcon className="h-6 w-6 text-gray-400 hover:text-gray-600" />
+          </button>
         </div>
 
-        <div className="flex items-center space-x-2">
-          <button
-            onClick={() => onShare(prompt._id)}
-            className="text-gray-400 hover:text-gray-500"
-          >
-            <ShareIcon className="h-5 w-5" />
-          </button>
-          
-          {isOwner && (
-            <>
-              <button
-                onClick={() => onEdit(prompt._id)}
-                className="text-gray-400 hover:text-blue-500"
-              >
-                <PencilIcon className="h-5 w-5" />
-              </button>
-              <button
-                onClick={() => onDelete(prompt._id)}
-                className="text-gray-400 hover:text-red-500"
-              >
-                <TrashIcon className="h-5 w-5" />
-              </button>
-            </>
-          )}
-        </div>
+        {isOwner && (
+          <div className="flex items-center space-x-2">
+            <button
+              onClick={onEdit}
+              className="focus:outline-none"
+            >
+              <PencilIcon className="h-5 w-5 text-gray-400 hover:text-gray-600" />
+            </button>
+            <button
+              onClick={onDelete}
+              className="focus:outline-none"
+            >
+              <TrashIcon className="h-5 w-5 text-gray-400 hover:text-red-500" />
+            </button>
+          </div>
+        )}
       </div>
     </motion.div>
   );
