@@ -203,19 +203,27 @@ const ApiKeyManager = () => {
 
   const toggleModel = async (providerId, modelName) => {
     try {
-      const newEnabledModels = {
-        ...enabledModels,
-        [providerId]: {
-          ...enabledModels[providerId],
-          [modelName]: !enabledModels[providerId]?.[modelName]
+      const response = await fetch(`/api/provider-api-keys/${providerId}/models/${modelName}/toggle`, {
+        method: 'PATCH',
+        headers: {
+          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          'Content-Type': 'application/json'
         }
-      };
-      setEnabledModels(newEnabledModels);
-      localStorage.setItem('enabledModels', JSON.stringify(newEnabledModels));
-      toast.success(`${modelName} ${newEnabledModels[providerId][modelName] ? 'enabled' : 'disabled'}`);
+      });
+
+      if (!response.ok) throw new Error('Failed to toggle model');
+
+      const data = await response.json();
+      setApiKeys(prev => ({
+        ...prev,
+        [providerId]: {
+          ...prev[providerId],
+          enabledModels: data.enabledModels
+        }
+      }));
     } catch (error) {
       console.error('Error toggling model:', error);
-      toast.error('Failed to update model status');
+      toast.error('Failed to toggle model');
     }
   };
 
@@ -225,7 +233,15 @@ const ApiKeyManager = () => {
 
   const loadApiKeys = async () => {
     try {
-      const response = await fetch('/api/settings/api-keys');
+      const response = await fetch('/api/provider-api-keys', {
+        headers: {
+          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          'Content-Type': 'application/json'
+        }
+      });
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
       const data = await response.json();
       setApiKeys(data);
     } catch (error) {
@@ -239,18 +255,22 @@ const ApiKeyManager = () => {
   const testApiKey = async (provider) => {
     setTesting(prev => ({ ...prev, [provider]: true }));
     try {
-      const response = await fetch('/api/settings/test-api-key', {
+      const response = await fetch(`/api/provider-api-keys/${provider}/test`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          provider,
-          apiKey: apiKeys[provider]
-        })
+        headers: {
+          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          'Content-Type': 'application/json'
+        }
       });
       
       if (!response.ok) throw new Error('API key test failed');
       
-      toast.success(`${provider} API key is valid`);
+      const data = await response.json();
+      if (data.isValid) {
+        toast.success(`${provider} API key is valid`);
+      } else {
+        toast.error(`${provider} API key is invalid`);
+      }
     } catch (error) {
       console.error('Error testing API key:', error);
       toast.error(`Failed to validate ${provider} API key`);
@@ -266,20 +286,28 @@ const ApiKeyManager = () => {
     }
 
     try {
-      const response = await fetch('/api/settings/api-keys', {
+      const response = await fetch(`/api/provider-api-keys/${selectedProvider.id}`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          'Content-Type': 'application/json'
+        },
         body: JSON.stringify({
-          provider: selectedProvider.id,
           apiKey: newApiKey
         })
       });
 
       if (!response.ok) throw new Error('Failed to save API key');
 
+      const data = await response.json();
       setApiKeys(prev => ({
         ...prev,
-        [selectedProvider.id]: newApiKey
+        [selectedProvider.id]: {
+          isValid: data.isValid,
+          isEnabled: data.isEnabled,
+          enabledModels: data.enabledModels,
+          lastTested: data.lastTested
+        }
       }));
 
       toast.success('API key saved successfully');
@@ -296,11 +324,15 @@ const ApiKeyManager = () => {
     if (!window.confirm('Are you sure you want to delete this API key?')) return;
 
     try {
-      await fetch('/api/settings/api-keys', {
+      const response = await fetch(`/api/provider-api-keys/${provider}`, {
         method: 'DELETE',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ provider })
+        headers: {
+          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          'Content-Type': 'application/json'
+        }
       });
+
+      if (!response.ok) throw new Error('Failed to delete API key');
 
       setApiKeys(prev => {
         const newKeys = { ...prev };
