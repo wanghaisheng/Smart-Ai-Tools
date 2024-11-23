@@ -5,16 +5,71 @@ import { promptService } from '../services/promptService';
 import toast from 'react-hot-toast';
 
 // Valid categories
-const VALID_CATEGORIES = ['Content Creation', 'Technical', 'Business', 'Creative', 'Education', 'Other'];
+const VALID_CATEGORIES = [
+  'Technology',
+  'Health and Wellness',
+  'Finance',
+  'Education',
+  'Entertainment',
+  'Travel',
+  'Food and Cooking',
+  'Fashion and Beauty',
+  'Sports',
+  'Science',
+  'Environment',
+  'Personal Development',
+  'Business and Entrepreneurship',
+  'Marketing',
+  'Artificial Intelligence',
+  'Social Media',
+  'Gaming',
+  'Politics',
+  'Relationships',
+  'Parenting',
+  'Real Estate',
+  'Automotive',
+  'Music',
+  'Art and Design',
+  'Lifestyle',
+  'News and Current Events',
+  'Cryptocurrency',
+  'Mental Health',
+  'Career Advice',
+  'DIY and Crafts',
+  'Fitness',
+  'History',
+  'Photography',
+  'Animals and Pets',
+  'Spirituality and Religion',
+  'Movies and TV Shows',
+  'Language Learning',
+  'Gardening',
+  'Space and Astronomy',
+  'Legal Advice',
+  'Cultural Diversity',
+  'Human Rights',
+  'Philosophy',
+  'Economics',
+  'Environmental Sustainability',
+  'Biotechnology',
+  'Robotics',
+  'Data Science',
+  'Cybersecurity',
+  'Virtual Reality and Augmented Reality'
+];
 
 // Category mapping for validation
 const CATEGORY_MAPPING = {
-  'Content Writing': 'Content Creation',
-  'Technical Documentation': 'Technical',
-  'Business Writing': 'Business',
-  'Creative Writing': 'Creative',
+  'Content Writing': 'Marketing',
+  'Technical Documentation': 'Technology',
+  'Business Writing': 'Business and Entrepreneurship',
+  'Creative Writing': 'Art and Design',
   'Educational Content': 'Education',
-  'Marketing': 'Business'  // Map Marketing to Business category
+  'Content Creation': 'Marketing',
+  'Technical': 'Technology',
+  'Business': 'Business and Entrepreneurship',
+  'Creative': 'Art and Design',
+  'Other': 'Technology'  // Default mapping for legacy 'Other' category
 };
 
 const BulkImportModal = ({ isOpen, onClose, onSuccess }) => {
