@@ -4,6 +4,7 @@ import { toast } from 'react-hot-toast';
 import { PlusIcon, FunnelIcon } from '@heroicons/react/24/outline';
 import PromptCard from '../components/PromptCard';
 import PromptForm from '../components/PromptForm';
+import AiPromptGenerator from '../components/AiPromptGenerator';
 import { promptService } from '../services/promptService';
 import { useAuth } from '../../contexts/AuthContext';
 
@@ -14,7 +15,8 @@ const TABS = [
   { id: 'my-prompts', name: 'My Prompts' },
   { id: 'public', name: 'Public Prompts' },
   { id: 'favorites', name: 'Favorites' },
-  { id: 'shared', name: 'Shared with Me' }
+  { id: 'shared', name: 'Shared with Me' },
+  { id: 'ai-gen', name: 'AI Prompt Gen' }
 ];
 
 const SmartPromptsPage = () => {
@@ -148,7 +150,8 @@ const SmartPromptsPage = () => {
       'my-prompts': 'You haven\'t created any prompts yet. Click "Create Prompt" to get started!',
       'public': 'No public prompts found. Be the first to share a prompt with the community!',
       'favorites': 'You haven\'t favorited any prompts yet. Browse prompts and click the star icon to add them here.',
-      'shared': 'No prompts have been shared with you yet.'
+      'shared': 'No prompts have been shared with you yet.',
+      'ai-gen': 'Start generating AI-powered prompts by clicking the "Generate" button!'
     };
 
     return (
@@ -265,15 +268,22 @@ const SmartPromptsPage = () => {
           {activeTab === 'shared' && (
             <p className="text-gray-300">View prompts that others have shared with you.</p>
           )}
+          {activeTab === 'ai-gen' && (
+            <p className="text-gray-300">Generate AI-powered prompts with our advanced tools.</p>
+          )}
         </div>
       </div>
 
       {/* Prompts Grid */}
       {loading ? (
-        <div className="flex justify-center items-center h-64">
+        <div className="flex justify-center items-center py-12">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
         </div>
-      ) : prompts.length > 0 ? (
+      ) : activeTab === 'ai-gen' ? (
+        <AiPromptGenerator onSavePrompt={handleCreatePrompt} />
+      ) : prompts.length === 0 ? (
+        renderEmptyState()
+      ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {prompts.map((prompt) => (
             <PromptCard
@@ -294,8 +304,6 @@ const SmartPromptsPage = () => {
             />
           ))}
         </div>
-      ) : (
-        renderEmptyState()
       )}
 
       {/* Pagination */}
