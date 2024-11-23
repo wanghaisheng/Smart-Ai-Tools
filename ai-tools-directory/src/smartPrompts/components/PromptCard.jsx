@@ -36,7 +36,27 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     visible: { 
       opacity: 1, 
       y: 0,
-      transition: { duration: 0.4, ease: "easeOut" }
+      transition: { 
+        duration: 0.4, 
+        ease: "easeOut",
+        staggerChildren: 0.1
+      }
+    },
+    hover: {
+      y: -5,
+      transition: {
+        duration: 0.2,
+        ease: "easeInOut"
+      }
+    }
+  };
+
+  const contentVariants = {
+    hidden: { opacity: 0, y: 10 },
+    visible: { 
+      opacity: 1, 
+      y: 0,
+      transition: { duration: 0.3 }
     }
   };
 
@@ -90,143 +110,174 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     <motion.div
       initial="hidden"
       animate="visible"
+      whileHover="hover"
       variants={cardVariants}
       onClick={onClick}
-      className="border rounded-lg p-4 hover:shadow-md transition-all duration-300 cursor-pointer bg-white"
+      className="border border-gray-700 rounded-xl p-6 hover:shadow-xl transition-all duration-300 cursor-pointer bg-gray-800 relative overflow-hidden group"
     >
-      <div className="flex items-start justify-between">
-        <div className="flex-grow">
+      {/* Gradient Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 to-purple-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+
+      <div className="flex items-start justify-between relative z-10">
+        <motion.div 
+          className="flex-grow"
+          variants={contentVariants}
+        >
           {/* Title and Creator */}
-          <h3 className="font-semibold text-lg text-gray-900 mb-1">
+          <h3 className="font-semibold text-lg text-gray-100 mb-1 group-hover:text-blue-400 transition-colors duration-300">
             {prompt.title}
           </h3>
-          <p className="text-gray-600 text-sm line-clamp-2 mb-2">
+          <p className="text-gray-400 text-sm line-clamp-2 mb-2 group-hover:text-gray-300 transition-colors duration-300">
             {prompt.description}
           </p>
 
           {/* Stats and Info */}
           <div className="mt-2 flex items-start space-x-2">
-            <InformationCircleIcon className="h-5 w-5 text-blue-500 flex-shrink-0" />
-            <div className="text-sm text-blue-600 space-y-1">
-              <p>Created by {prompt.creator.username}</p>
-              <p>{prompt.stats.uses} uses • {prompt.stats.totalRatings} ratings</p>
+            <InformationCircleIcon className="h-5 w-5 text-blue-400 flex-shrink-0" />
+            <div className="text-sm text-gray-300 space-y-1">
+              <p>Created by <span className="text-blue-400">{prompt.creator.username}</span></p>
+              <p className="text-gray-400">{prompt.stats.uses} uses • {prompt.stats.totalRatings} ratings</p>
             </div>
           </div>
-        </div>
+        </motion.div>
 
         {/* Right Side Actions */}
-        <div className="flex flex-col items-end space-y-2 ml-4">
+        <motion.div 
+          className="flex flex-col items-end space-y-2 ml-4"
+          variants={contentVariants}
+        >
           <div className="flex items-center space-x-2">
             {/* Like Button with Counter */}
-            <div className="flex items-center bg-white rounded-full px-2 py-1 hover:bg-gray-50 transition-colors">
+            <motion.div 
+              className="flex items-center bg-gray-700/50 rounded-full px-3 py-1.5 hover:bg-gray-700 transition-colors group/like"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
               <motion.button
                 onClick={handleLike}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.95 }}
                 className="relative"
               >
                 {isLiked ? (
                   <HeartIconSolid className="h-5 w-5 text-red-500" />
                 ) : (
-                  <HeartIcon className="h-5 w-5 text-gray-400" />
+                  <HeartIcon className="h-5 w-5 text-gray-400 group-hover/like:text-red-400" />
                 )}
                 <motion.span
                   initial={{ scale: 0 }}
                   animate={{ scale: isLiked ? 1 : 0 }}
-                  className="absolute -top-1 -right-1 h-2 w-2 bg-red-500 rounded-full"
+                  className="absolute -top-1 -right-1 h-2 w-2 bg-red-500 rounded-full ring-2 ring-gray-800"
                 />
               </motion.button>
-              <span className="ml-1.5 text-sm font-medium text-gray-600">{likesCount}</span>
-            </div>
+              <span className="ml-2 text-sm font-medium text-gray-300 group-hover/like:text-gray-100">{likesCount}</span>
+            </motion.div>
 
             {/* Save Button with Counter */}
-            <div className="flex items-center bg-white rounded-full px-2 py-1 hover:bg-gray-50 transition-colors">
+            <motion.div 
+              className="flex items-center bg-gray-700/50 rounded-full px-3 py-1.5 hover:bg-gray-700 transition-colors group/save"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
               <motion.button
                 onClick={handleSave}
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.95 }}
                 className="relative"
               >
                 {isSaved ? (
                   <BookmarkIconSolid className="h-5 w-5 text-blue-500" />
                 ) : (
-                  <BookmarkIcon className="h-5 w-5 text-gray-400" />
+                  <BookmarkIcon className="h-5 w-5 text-gray-400 group-hover/save:text-blue-400" />
                 )}
                 <motion.span
                   initial={{ scale: 0 }}
                   animate={{ scale: isSaved ? 1 : 0 }}
-                  className="absolute -top-1 -right-1 h-2 w-2 bg-blue-500 rounded-full"
+                  className="absolute -top-1 -right-1 h-2 w-2 bg-blue-500 rounded-full ring-2 ring-gray-800"
                 />
               </motion.button>
-              <span className="ml-1.5 text-sm font-medium text-gray-600">{savesCount}</span>
-            </div>
+              <span className="ml-2 text-sm font-medium text-gray-300 group-hover/save:text-gray-100">{savesCount}</span>
+            </motion.div>
           </div>
 
-          <div className="flex items-center text-blue-500 hover:text-blue-600">
+          <motion.div 
+            className="flex items-center text-blue-400 hover:text-blue-300 transition-colors"
+            whileHover={{ x: 3 }}
+          >
             <span className="text-sm mr-1">View</span>
             <ArrowRightIcon className="h-4 w-4" />
-          </div>
-        </div>
+          </motion.div>
+        </motion.div>
       </div>
 
       {/* Tags and Category */}
-      <div className="mt-3 flex flex-wrap gap-2">
-        <span className="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded-full flex items-center">
+      <motion.div 
+        className="mt-4 flex flex-wrap gap-2"
+        variants={contentVariants}
+      >
+        <motion.span 
+          className="px-3 py-1 bg-blue-500/10 text-blue-400 text-xs rounded-full flex items-center hover:bg-blue-500/20 transition-colors"
+          whileHover={{ scale: 1.05 }}
+        >
           <SparklesIcon className="h-3.5 w-3.5 mr-1" />
           {prompt.category}
-        </span>
+        </motion.span>
         {prompt.tags.map((tag) => (
-          <span
+          <motion.span
             key={tag}
-            className="px-2 py-1 bg-gray-50 text-gray-600 text-xs rounded-full flex items-center"
+            className="px-3 py-1 bg-gray-700/50 text-gray-300 text-xs rounded-full flex items-center hover:bg-gray-700 hover:text-gray-100 transition-colors"
+            whileHover={{ scale: 1.05 }}
           >
             <HashtagIcon className="h-3.5 w-3.5 mr-1" />
             {tag}
-          </span>
+          </motion.span>
         ))}
-      </div>
+      </motion.div>
 
       {/* AI Models */}
       {prompt.aiModels && prompt.aiModels.length > 0 && (
-        <div className="mt-2 flex flex-wrap gap-2">
+        <motion.div 
+          className="mt-3 flex flex-wrap gap-2"
+          variants={contentVariants}
+        >
           {prompt.aiModels.map((model) => (
-            <span
+            <motion.span
               key={model}
-              className="px-2 py-1 bg-purple-50 text-purple-600 text-xs rounded-full flex items-center"
+              className="px-3 py-1 bg-purple-500/10 text-purple-400 text-xs rounded-full flex items-center hover:bg-purple-500/20 transition-colors"
+              whileHover={{ scale: 1.05 }}
             >
               <SparklesIconSolid className="h-3.5 w-3.5 mr-1" />
               {model}
-            </span>
+            </motion.span>
           ))}
-        </div>
+        </motion.div>
       )}
 
       {/* Admin Actions */}
       {isOwner && (
-        <div className="mt-3 pt-3 border-t border-gray-100 flex justify-end space-x-2">
+        <motion.div 
+          className="mt-4 pt-3 border-t border-gray-700 flex justify-end space-x-2"
+          variants={contentVariants}
+        >
           <motion.button
             onClick={(e) => {
               e.stopPropagation();
               onEdit(prompt);
             }}
-            whileHover={{ scale: 1.05 }}
+            whileHover={{ scale: 1.1, color: '#10B981' }}
             whileTap={{ scale: 0.95 }}
-            className="p-1.5 rounded-full hover:bg-gray-50"
+            className="p-2 rounded-full hover:bg-gray-700/50 transition-colors"
           >
-            <PencilSquareIcon className="h-5 w-5 text-gray-400 hover:text-green-500" />
+            <PencilSquareIcon className="h-5 w-5 text-gray-400" />
           </motion.button>
           <motion.button
             onClick={(e) => {
               e.stopPropagation();
               onDelete(prompt._id);
             }}
-            whileHover={{ scale: 1.05 }}
+            whileHover={{ scale: 1.1, color: '#EF4444' }}
             whileTap={{ scale: 0.95 }}
-            className="p-1.5 rounded-full hover:bg-gray-50"
+            className="p-2 rounded-full hover:bg-gray-700/50 transition-colors"
           >
-            <TrashIcon className="h-5 w-5 text-gray-400 hover:text-red-500" />
+            <TrashIcon className="h-5 w-5 text-gray-400" />
           </motion.button>
-        </div>
+        </motion.div>
       )}
     </motion.div>
   );
