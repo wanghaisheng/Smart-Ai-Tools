@@ -14,7 +14,8 @@ import {
   FiHome,
   FiGrid,
   FiList,
-  FiInfo
+  FiInfo,
+  FiCommand
 } from 'react-icons/fi'
 import { useTheme } from '../contexts/ThemeContext'
 import { useAuth } from '../contexts/AuthContext'
@@ -25,6 +26,10 @@ const menuItems = [
   { name: 'Tools', path: '/tools', icon: FiGrid },
   { name: 'Categories', path: '/categories', icon: FiList },
   { name: 'About', path: '/about', icon: FiInfo },
+]
+
+const authenticatedMenuItems = [
+  { name: 'Smart Prompts', path: '/smart-prompts', icon: FiCommand },
 ]
 
 export default function Navbar() {
@@ -105,6 +110,41 @@ export default function Navbar() {
             {/* Desktop Menu Items */}
             <div className="flex space-x-8">
               {menuItems.map((item) => (
+                <motion.div
+                  key={item.path}
+                  whileHover={{ scale: 1.1 }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  <Link
+                    to={item.path}
+                    title={item.name}
+                    className={`
+                      relative px-3 py-2 text-sm font-medium transition-colors duration-200
+                      hover:text-primary-500 dark:hover:text-primary-400 flex items-center justify-center
+                      ${location.pathname === item.path 
+                        ? 'text-primary-500 dark:text-primary-400' 
+                        : 'text-gray-700 dark:text-gray-300'}
+                    `}
+                  >
+                    <motion.div
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      transition={{ duration: 0.2 }}
+                    >
+                      <item.icon className="w-7 h-7" />
+                    </motion.div>
+                    {location.pathname === item.path && (
+                      <motion.div
+                        layoutId="nav-indicator"
+                        className="absolute -bottom-1 left-0 right-0 h-1 bg-primary-500 dark:bg-primary-400 rounded-full"
+                        initial={false}
+                        transition={{ type: "spring", stiffness: 500, damping: 30 }}
+                      />
+                    )}
+                  </Link>
+                </motion.div>
+              ))}
+              {isAuthenticated && authenticatedMenuItems.map((item) => (
                 <motion.div
                   key={item.path}
                   whileHover={{ scale: 1.1 }}
@@ -291,6 +331,29 @@ export default function Navbar() {
               className="px-4 pt-2 pb-3 space-y-1"
             >
               {menuItems.map((item) => (
+                <motion.div key={item.path} variants={itemVariants}>
+                  <Link
+                    to={item.path}
+                    title={item.name}
+                    className={`
+                      flex items-center space-x-4 px-4 py-3 rounded-lg text-base font-medium transition-colors duration-200
+                      ${location.pathname === item.path
+                        ? 'text-primary-600 dark:text-primary-400 bg-primary-50 dark:bg-primary-900/20'
+                        : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800'
+                      }
+                    `}
+                  >
+                    <motion.div
+                      whileHover={{ scale: 1.1 }}
+                      whileTap={{ scale: 0.95 }}
+                    >
+                      <item.icon className="w-6 h-6" />
+                    </motion.div>
+                    <span>{item.name}</span>
+                  </Link>
+                </motion.div>
+              ))}
+              {isAuthenticated && authenticatedMenuItems.map((item) => (
                 <motion.div key={item.path} variants={itemVariants}>
                   <Link
                     to={item.path}
