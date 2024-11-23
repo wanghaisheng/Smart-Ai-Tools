@@ -36,26 +36,41 @@ export function AuthProvider({ children }) {
   };
 
   const login = async (email, password) => {
-    console.log('Login attempt for email:', email);
+    console.log('AuthContext: Login attempt started', {
+      emailLength: email.length,
+      passwordLength: password.length,
+      passwordChars: password.split('').map(c => c.charCodeAt(0))
+    });
+
     try {
+      console.log('AuthContext: Making login API request...');
       const response = await api.post('/auth/login', {
-        email,
-        password,
+        email: email.trim(),
+        password: password
       });
       
-      const { token, user: userData } = response.data;
-      localStorage.setItem('token', token);
-      setUser(userData);
-      setError('');
-      console.log('Login successful for user:', userData.username);
-      toast.success('Login successful! Welcome back!');
-      return userData;
+      console.log('AuthContext: Received login response:', { 
+        status: response.status,
+        hasToken: !!response.data.token,
+        hasUser: !!response.data.user 
+      });
+
+      if (response.data.token) {
+        localStorage.setItem('token', response.data.token);
+        localStorage.setItem('refreshToken', response.data.refreshToken);
+        setUser(response.data.user);
+        return { success: true };
+      }
+      return { success: false, error: 'Invalid response from server' };
     } catch (error) {
-      const errorMessage = error.response?.data?.message || 'Login failed';
-      console.error('Login failed:', errorMessage);
-      setError(errorMessage);
-      toast.error(errorMessage);
-      throw new Error(errorMessage);
+      console.error('AuthContext: Login error:', {
+        status: error.response?.status,
+        message: error.response?.data?.message || error.message
+      });
+      return { 
+        success: false, 
+        error: error.response?.data?.message || 'Login failed. Please try again.' 
+      };
     }
   };
 
@@ -74,13 +89,13 @@ export function AuthProvider({ children }) {
       setError('');
       console.log('Registration successful for user:', userData.username);
       toast.success('Registration successful! Welcome to AI Tools Directory!');
-      return userData;
+      return { success: true, user: userData };
     } catch (error) {
       const errorMessage = error.response?.data?.message || 'Registration failed';
       console.error('Registration failed:', errorMessage);
       setError(errorMessage);
       toast.error(errorMessage);
-      throw new Error(errorMessage);
+      return { success: false, error: errorMessage };
     }
   };
 

@@ -31,31 +31,39 @@ router.post('/register', [
   body('password').isLength({ min: 6 }).withMessage('Password must be at least 6 characters long')
 ], async (req, res) => {
   try {
+    console.log('Registration attempt received:', { 
+      email: req.body.email,
+      username: req.body.username,
+      passwordLength: req.body.password.length
+    });
+
     // Check for validation errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
+      console.log('Registration validation failed:', errors.array());
       return res.status(400).json({ errors: errors.array() });
     }
 
     const { username, email, password } = req.body;
 
     // Check if user exists
-    let user = await User.findOne({ $or: [{ email }, { username }] });
-    if (user) {
+    let existingUser = await User.findOne({ $or: [{ email }, { username }] });
+    if (existingUser) {
+      console.log('Registration failed: User exists:', { email, username });
       return res.status(400).json({ message: 'User already exists' });
     }
 
-    // Hash password
-    const hashedPassword = await bcrypt.hash(password, 12);
-
-    // Create user
-    user = new User({
+    // Create user with password hashing handled by the model
+    const user = await User.createUser({
       username,
       email,
-      password: hashedPassword
+      password
     });
 
-    await user.save();
+    console.log('User created in database:', {
+      id: user._id,
+      email: user.email
+    });
 
     // Create user profile
     const profile = new UserProfile({ user: user._id });
@@ -65,9 +73,13 @@ router.post('/register', [
     const token = generateToken(user._id);
     const refreshToken = generateRefreshToken(user._id);
 
-    // Save refresh token to user
-    user.refreshToken = refreshToken;
-    await user.save();
+    // Update user with refresh token
+    await User.findByIdAndUpdate(user._id, { refreshToken });
+
+    console.log('Registration successful:', {
+      userId: user._id,
+      email: user.email
+    });
 
     res.status(201).json({
       token,
@@ -80,7 +92,7 @@ router.post('/register', [
     });
   } catch (error) {
     console.error('Registration error:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
+    res.status(500).json({ message: 'Server error during registration' });
   }
 });
 
@@ -89,38 +101,61 @@ router.post('/login', [
   body('email').isEmail().normalizeEmail().withMessage('Please enter a valid email'),
   body('password').exists().withMessage('Password is required')
 ], async (req, res) => {
+  console.log('Login attempt received:', { 
+    email: req.body.email,
+    passwordReceived: !!req.body.password
+  });
+  
   try {
     // Check for validation errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
+      console.log('Login failed: Validation error');
       return res.status(400).json({ errors: errors.array() });
     }
 
     const { email, password } = req.body;
+    console.log('Processing login:', { 
+      emailLength: email.length,
+      passwordLength: password.length,
+      passwordChars: password.split('').map(c => c.charCodeAt(0))
+    });
 
-    // Check if user exists
+    // Find user
     const user = await User.findOne({ email });
+    console.log('User lookup result:', { 
+      found: !!user, 
+      email,
+      hashedPasswordLength: user ? user.password.length : 0
+    });
+
     if (!user) {
+      console.log('Login failed: User not found');
       return res.status(401).json({ message: 'Invalid credentials' });
     }
 
-    // Verify password
-    const isMatch = await bcrypt.compare(password, user.password);
+    // Verify password using the model method
+    const isMatch = await user.verifyPassword(password);
+    console.log('Password verification result:', { isMatch });
+
     if (!isMatch) {
+      console.log('Login failed: Invalid password');
       return res.status(401).json({ message: 'Invalid credentials' });
     }
 
     // Update last login time
     user.lastLoginAt = new Date();
-
+    await user.save();
+    
     // Generate tokens
     const token = generateToken(user._id);
     const refreshToken = generateRefreshToken(user._id);
 
-    // Save refresh token to user
+    // Update refresh token
     user.refreshToken = refreshToken;
     await user.save();
 
+    console.log('Login successful:', { userId: user._id, email: user.email });
     res.json({
       token,
       refreshToken,
@@ -132,7 +167,7 @@ router.post('/login', [
     });
   } catch (error) {
     console.error('Login error:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
+    res.status(500).json({ message: 'Server error during login' });
   }
 });
 
@@ -155,7 +190,7 @@ router.post('/refresh', auth, async (req, res) => {
     res.json({ token, refreshToken });
   } catch (error) {
     console.error('Token refresh error:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
+    res.status(500).json({ message: 'Server error' });
   }
 });
 
@@ -172,7 +207,7 @@ router.post('/logout', auth, async (req, res) => {
     res.json({ message: 'Logged out successfully' });
   } catch (error) {
     console.error('Logout error:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
+    res.status(500).json({ message: 'Server error' });
   }
 });
 

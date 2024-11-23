@@ -75,11 +75,32 @@ userSchema.index({ username: 1 });
 
 // Hash password before saving
 userSchema.pre('save', async function(next) {
-  if (this.isModified('password')) {
-    this.password = await bcrypt.hash(this.password, 12);
+  // Skip hashing if password hasn't been modified
+  if (!this.isModified('password')) {
+    return next();
   }
+
+  console.log('Hashing password in pre-save middleware');
+  this.password = await bcrypt.hash(this.password, 12);
   next();
 });
+
+// Static method to create a new user with proper password hashing
+userSchema.statics.createUser = async function(userData) {
+  console.log('Creating new user with createUser method');
+  const user = new this(userData);
+  await user.save();
+  return user;
+};
+
+// Method to verify password
+userSchema.methods.verifyPassword = async function(candidatePassword) {
+  console.log('Verifying password:', {
+    candidateLength: candidatePassword.length,
+    storedHashLength: this.password.length
+  });
+  return bcrypt.compare(candidatePassword, this.password);
+};
 
 const User = mongoose.model('User', userSchema);
 

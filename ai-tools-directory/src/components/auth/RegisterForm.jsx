@@ -22,23 +22,40 @@ export default function RegisterForm() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setValidationError('');
+    console.log('Registration attempt:', { 
+      username, 
+      email, 
+      passwordLength: password.length 
+    });
 
     if (password !== confirmPassword) {
+      console.log('Registration validation failed: Passwords do not match');
       setValidationError('Passwords do not match');
       return;
     }
 
     if (password.length < 6) {
+      console.log('Registration validation failed: Password too short');
       setValidationError('Password must be at least 6 characters long');
       return;
     }
 
+    setLoading(true);
     try {
-      setLoading(true);
-      await register(username, email, password);
-      navigate('/');
+      console.log('Sending registration request...');
+      const result = await register(username, email, password);
+      console.log('Registration response:', { success: result.success });
+      
+      if (result.success) {
+        console.log('Registration successful, navigating to home...');
+        navigate('/');
+      } else {
+        console.log('Registration failed:', result.error);
+        setValidationError(result.error || 'Registration failed');
+      }
     } catch (error) {
       console.error('Registration error:', error);
+      setValidationError('An unexpected error occurred');
     } finally {
       setLoading(false);
     }
