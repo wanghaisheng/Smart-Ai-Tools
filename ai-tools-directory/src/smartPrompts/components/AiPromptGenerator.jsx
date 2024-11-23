@@ -108,7 +108,8 @@ const AiPromptGenerator = ({ onSavePrompt }) => {
     onSavePrompt({
       title: `AI Generated: ${topic}`,
       content: generatedPrompt,
-      category: 'AI Generated',
+      description: `AI generated prompt for ${topic} using ${selectedModel}. Type: ${promptType}, Tone: ${tone}, Length: ${length}`,
+      category: 'Technical', // Changed from 'AI Generated' to a valid category
       tags: ['ai-generated', promptType, tone.toLowerCase(), topic.toLowerCase()],
       metadata: {
         model: selectedModel,

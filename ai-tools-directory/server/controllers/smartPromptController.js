@@ -3,17 +3,32 @@ import SmartPrompt from '../models/SmartPrompt.js';
 // Create a new prompt
 export const createPrompt = async (req, res) => {
   try {
+    console.log('Creating prompt with data:', {
+      body: req.body,
+      userId: req.userId,
+      headers: req.headers
+    });
+    
     const promptData = {
       ...req.body,
       creator: req.userId,
     };
     
     const prompt = new SmartPrompt(promptData);
+    console.log('Validating prompt:', prompt);
+    
     await prompt.save();
+    console.log('Prompt saved successfully:', prompt._id);
     
     res.status(201).json(prompt);
   } catch (error) {
-    res.status(400).json({ message: error.message });
+    console.error('Error creating prompt:', {
+      message: error.message,
+      name: error.name,
+      errors: error.errors,
+      stack: error.stack
+    });
+    res.status(400).json({ message: error.message, errors: error.errors });
   }
 };
 
