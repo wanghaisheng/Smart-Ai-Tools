@@ -303,10 +303,13 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
 
       {/* Modal */}
       <PromptModal 
-  prompt={prompt}
-  isOpen={showModal}
-  onClose={() => setShowModal(false)}
-/>
+        prompt={prompt}
+        isOpen={showModal}
+        onClose={() => setShowModal(false)}
+        onLike={handleLike}
+        onSave={handleSave}
+        onRate={onRate}
+      />
     </motion.div>
   );
 }
