@@ -1,18 +1,26 @@
 import React from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { XMarkIcon } from '@heroicons/react/24/outline';
+import { createPortal } from 'react-dom';
 
 const PromptModal = ({ prompt, isOpen, onClose }) => {
   if (!isOpen) return null;
 
-  return (
+  return createPortal(
     <div 
-      className="fixed inset-0 z-50 overflow-y-auto bg-gray-900/75"
+      className="fixed inset-0 z-[9999] overflow-y-auto bg-gray-900/75 flex items-center justify-center"
       onClick={onClose}
+      style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}
     >
-      <div className="flex min-h-screen items-center justify-center p-4">
+      <motion.div 
+        initial={{ opacity: 0, scale: 0.95 }}
+        animate={{ opacity: 1, scale: 1 }}
+        exit={{ opacity: 0, scale: 0.95 }}
+        transition={{ duration: 0.2 }}
+        className="flex min-h-screen items-center justify-center p-4 w-full"
+      >
         <div 
-          className="w-full max-w-2xl bg-gray-800 rounded-lg p-6"
+          className="w-full max-w-2xl bg-gray-800 rounded-lg p-6 shadow-xl relative"
           onClick={e => e.stopPropagation()}
         >
           <div className="flex justify-between items-start mb-4">
@@ -74,8 +82,9 @@ const PromptModal = ({ prompt, isOpen, onClose }) => {
             )}
           </div>
         </div>
-      </div>
-    </div>
+      </motion.div>
+    </div>,
+    document.body
   );
 };
 
