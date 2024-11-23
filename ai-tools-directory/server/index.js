@@ -15,6 +15,8 @@ import './models/Notification.js';
 import './models/ApiKey.js';
 import './models/Collection.js';
 import './models/SmartPrompt.js';
+import './models/SocialProfile.js';
+import './models/Comment.js';
 
 // Import routes
 import authRoutes from './routes/auth.js';
@@ -28,6 +30,7 @@ import { router as notificationRoutes } from './routes/notifications.js';
 import apiKeyRoutes from './routes/api-keys.js';
 import collectionRoutes from './routes/collections.js';
 import smartPromptRoutes from './routes/smartPromptRoutes.js';
+import socialRoutes from './routes/social.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -61,6 +64,7 @@ app.use('/api/notifications', notificationRoutes);
 app.use('/api/api-keys', apiKeyRoutes);
 app.use('/api/collections', collectionRoutes);
 app.use('/api/smart-prompts', smartPromptRoutes);
+app.use('/api/social', socialRoutes);
 
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {
