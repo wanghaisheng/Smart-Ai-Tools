@@ -220,7 +220,9 @@ async function testProviderApiKey(provider, apiKey) {
 
       case 'gemini':
         const geminiResponse = await axios.get('https://generativelanguage.googleapis.com/v1beta/models', {
-          headers: { 'Authorization': `Bearer ${apiKey}` }
+          params: {
+            key: apiKey
+          }
         });
         return geminiResponse.status === 200;
 
