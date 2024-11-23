@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { toast } from 'react-hot-toast';
-import { PlusIcon, FunnelIcon, Cog6ToothIcon } from '@heroicons/react/24/outline';
+import { PlusIcon, FunnelIcon, Cog6ToothIcon, ArrowUpTrayIcon } from '@heroicons/react/24/outline';
 import PromptCard from '../components/PromptCard';
 import PromptForm from '../components/PromptForm';
 import AiPromptGenerator from '../components/AiPromptGenerator';
 import ApiKeyManager from '../components/settings/ApiKeyManager';
+import BulkImportModal from '../components/BulkImportModal';
 import { promptService } from '../services/promptService';
 import { useAuth } from '../../contexts/AuthContext';
 
@@ -38,6 +39,7 @@ const SmartPromptsPage = () => {
     view: 'public' // Default to public view
   });
   const [totalPages, setTotalPages] = useState(1);
+  const [showBulkImport, setShowBulkImport] = useState(false);
 
   useEffect(() => {
     // If not logged in and trying to access protected tabs, show auth modal
@@ -144,6 +146,10 @@ const SmartPromptsPage = () => {
   const handlePromptUpdate = async (promptId) => {
     console.log('Handling prompt update for:', promptId);
     await fetchPrompts(); // Refresh all prompts to get latest data
+  };
+
+  const handleBulkImportSuccess = () => {
+    fetchPrompts();
   };
 
   const renderEmptyState = () => {
@@ -255,13 +261,22 @@ const SmartPromptsPage = () => {
       <div className="flex justify-between items-center mb-8">
         <h1 className="text-3xl font-bold text-gray-100">Smart Prompts</h1>
         {isAuthenticated && (
-          <button
-            onClick={() => setShowForm(true)}
-            className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
-          >
-            <PlusIcon className="h-5 w-5 mr-2" />
-            Create Prompt
-          </button>
+          <div className="flex gap-4">
+            <button
+              onClick={() => setShowBulkImport(true)}
+              className="px-4 py-2 bg-gray-700 text-white rounded-lg hover:bg-gray-600 transition-colors flex items-center gap-2"
+            >
+              <ArrowUpTrayIcon className="w-5 h-5" />
+              Import Prompts
+            </button>
+            <button
+              onClick={() => setShowForm(true)}
+              className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-500 transition-colors flex items-center gap-2"
+            >
+              <PlusIcon className="w-5 h-5" />
+              Create Prompt
+            </button>
+          </div>
         )}
       </div>
 
@@ -456,6 +471,13 @@ const SmartPromptsPage = () => {
           </div>
         </div>
       )}
+
+      {/* Bulk Import Modal */}
+      <BulkImportModal 
+        isOpen={showBulkImport}
+        onClose={() => setShowBulkImport(false)}
+        onSuccess={handleBulkImportSuccess}
+      />
 
       {/* Create/Edit Form Modal */}
       {showForm && (

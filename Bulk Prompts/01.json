@@ -1,0 +1,1194 @@
+{
+    "prompts": [
+      {
+        "title": "Write an Engaging Blog Post on {{topic}}",
+        "content": "Compose a detailed and informative blog post on the topic of {{topic}}, aimed at {{audience}}. Ensure the content is structured with an introduction, body, and conclusion, and includes actionable insights.",
+        "description": "Creates a comprehensive blog post tailored to a specific audience.",
+        "category": "Content Writing",
+        "tags": ["blogging", "content creation", "audience engagement"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject matter of the blog post",
+            "example": "Sustainable living tips"
+          },
+          {
+            "name": "audience",
+            "description": "The target readership of the blog post",
+            "example": "Eco-conscious millennials"
+          }
+        ]
+      },
+      {
+        "title": "Craft a Persuasive Product Description for {{product}}",
+        "content": "Write a compelling product description for {{product}} that highlights its key features and benefits. The description should appeal to {{customer_segment}} and encourage them to make a purchase.",
+        "description": "Generates a persuasive product description targeting specific customers.",
+        "category": "Content Writing",
+        "tags": ["product description", "marketing", "sales copy"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The name and type of the product",
+            "example": "Wireless noise-canceling headphones"
+          },
+          {
+            "name": "customer_segment",
+            "description": "The specific group of customers targeted",
+            "example": "Frequent travelers and commuters"
+          }
+        ]
+      },
+      {
+        "title": "Develop an Informative Newsletter on {{subject}}",
+        "content": "Create a newsletter covering the latest updates and insights on {{subject}}. The content should be informative and engaging for subscribers interested in {{interest_area}}.",
+        "description": "Produces content for a newsletter focused on a specific subject.",
+        "category": "Content Writing",
+        "tags": ["newsletter", "email marketing", "subscriber engagement"],
+        "variables": [
+          {
+            "name": "subject",
+            "description": "The main topic of the newsletter",
+            "example": "Advancements in artificial intelligence"
+          },
+          {
+            "name": "interest_area",
+            "description": "The area of interest for the subscribers",
+            "example": "Technology enthusiasts"
+          }
+        ]
+      },
+      {
+        "title": "Create an Engaging Social Media Post for {{platform}}",
+        "content": "Draft an engaging and shareable social media post suitable for {{platform}} about {{topic}}. Include a compelling call-to-action and relevant hashtags.",
+        "description": "Helps generate social media content tailored to a specific platform.",
+        "category": "Content Writing",
+        "tags": ["social media", "content creation", "engagement"],
+        "variables": [
+          {
+            "name": "platform",
+            "description": "The social media platform for the post",
+            "example": "Instagram"
+          },
+          {
+            "name": "topic",
+            "description": "The main subject of the social media post",
+            "example": "Launching a new product line"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Informative White Paper on {{subject}}",
+        "content": "Write a detailed white paper on {{subject}} that provides in-depth analysis and valuable insights. The content should be well-researched and suitable for industry professionals.",
+        "description": "Creates a comprehensive white paper for professional audiences.",
+        "category": "Content Writing",
+        "tags": ["white paper", "research", "professional"],
+        "variables": [
+          {
+            "name": "subject",
+            "description": "The topic of the white paper",
+            "example": "Blockchain technology in supply chain management"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Press Release Announcing {{event}}",
+        "content": "Create a press release announcing {{event}}. Include key details such as the who, what, when, where, and why, and ensure the tone is professional and newsworthy.",
+        "description": "Generates a press release for a specific event or announcement.",
+        "category": "Content Writing",
+        "tags": ["press release", "public relations", "announcement"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event or news to announce",
+            "example": "The opening of a new company headquarters"
+          }
+        ]
+      },
+      {
+        "title": "Write a Captivating Story for {{genre}}",
+        "content": "Craft a short story in the {{genre}} genre that revolves around {{main_character}} and the theme of {{theme}}. Ensure the narrative is engaging with a clear beginning, middle, and end.",
+        "description": "Helps in writing a short story with specified elements.",
+        "category": "Content Writing",
+        "tags": ["creative writing", "storytelling", "fiction"],
+        "variables": [
+          {
+            "name": "genre",
+            "description": "The genre of the story",
+            "example": "Science fiction"
+          },
+          {
+            "name": "main_character",
+            "description": "The protagonist of the story",
+            "example": "An adventurous astronaut"
+          },
+          {
+            "name": "theme",
+            "description": "The central theme of the story",
+            "example": "Discovery and self-realization"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Script for a {{format}} on {{topic}}",
+        "content": "Write a script for a {{format}} about {{topic}}. The script should include dialogue, scene descriptions, and any necessary directions for actors or presenters.",
+        "description": "Creates a script for various formats like videos or podcasts.",
+        "category": "Content Writing",
+        "tags": ["scriptwriting", "media production", "content creation"],
+        "variables": [
+          {
+            "name": "format",
+            "description": "The format of the script",
+            "example": "Podcast episode"
+          },
+          {
+            "name": "topic",
+            "description": "The subject of the script",
+            "example": "The impact of social media on society"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Effective Email Campaign for {{purpose}}",
+        "content": "Draft an email campaign consisting of {{number_of_emails}} emails aimed at {{purpose}}. Ensure each email has a clear message, call-to-action, and is tailored to {{audience}}.",
+        "description": "Generates content for an email marketing campaign.",
+        "category": "Content Writing",
+        "tags": ["email marketing", "copywriting", "campaign"],
+        "variables": [
+          {
+            "name": "purpose",
+            "description": "The goal of the email campaign",
+            "example": "Promoting a seasonal sale"
+          },
+          {
+            "name": "number_of_emails",
+            "description": "The number of emails in the campaign",
+            "example": "3"
+          },
+          {
+            "name": "audience",
+            "description": "The target audience for the emails",
+            "example": "Existing customers"
+          }
+        ]
+      },
+      {
+        "title": "Generate FAQs for {{product_or_service}}",
+        "content": "Create a list of frequently asked questions and answers for {{product_or_service}} to assist customers with common inquiries.",
+        "description": "Produces a helpful FAQ section for customers.",
+        "category": "Content Writing",
+        "tags": ["customer support", "FAQ", "content creation"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service the FAQs are about",
+            "example": "Online project management tool"
+          }
+        ]
+      },
+      {
+        "title": "Write a Detailed How-To Guide on {{process}}",
+        "content": "Compose a step-by-step how-to guide explaining {{process}}. Include clear instructions, tips, and any necessary warnings to assist readers in completing the task successfully.",
+        "description": "Creates instructional content to guide readers through a process.",
+        "category": "Content Writing",
+        "tags": ["how-to", "instructional", "guide"],
+        "variables": [
+          {
+            "name": "process",
+            "description": "The process or task to be explained",
+            "example": "Installing solar panels at home"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Company Mission Statement for {{company_name}}",
+        "content": "Write a compelling mission statement for {{company_name}} that reflects its values, goals, and the impact it aims to have on {{industry_or_community}}.",
+        "description": "Assists in crafting a mission statement for a company.",
+        "category": "Content Writing",
+        "tags": ["business writing", "branding", "corporate"],
+        "variables": [
+          {
+            "name": "company_name",
+            "description": "The name of the company",
+            "example": "GreenTech Innovations"
+          },
+          {
+            "name": "industry_or_community",
+            "description": "The industry or community the company serves",
+            "example": "Renewable energy sector"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Personal Bio for {{platform}}",
+        "content": "Write a professional and engaging personal bio suitable for {{platform}}. Highlight key achievements, skills, and interests that showcase {{individual_name}}'s expertise.",
+        "description": "Generates a personal bio tailored to a specific platform.",
+        "category": "Content Writing",
+        "tags": ["bio", "professional", "personal branding"],
+        "variables": [
+          {
+            "name": "platform",
+            "description": "The platform where the bio will be used",
+            "example": "LinkedIn"
+          },
+          {
+            "name": "individual_name",
+            "description": "The name of the individual",
+            "example": "Dr. Samantha Lee"
+          }
+        ]
+      },
+      {
+        "title": "Create an Outline for an E-book on {{topic}}",
+        "content": "Develop a comprehensive outline for an e-book on {{topic}}. Include chapter titles, subheadings, and a brief description of the content to be covered in each section.",
+        "description": "Helps in structuring an e-book before writing.",
+        "category": "Content Writing",
+        "tags": ["e-book", "outline", "planning"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The main subject of the e-book",
+            "example": "The fundamentals of digital marketing"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Case Study Highlighting {{project}}",
+        "content": "Write a detailed case study about {{project}} that outlines the challenges faced, solutions implemented, and the results achieved. Present the information in a way that demonstrates expertise and value to potential clients.",
+        "description": "Creates a case study to showcase successful projects.",
+        "category": "Content Writing",
+        "tags": ["case study", "marketing", "client acquisition"],
+        "variables": [
+          {
+            "name": "project",
+            "description": "The project or campaign to be highlighted",
+            "example": "A successful social media marketing campaign for a retail brand"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Thought Leadership Article on {{topic}}",
+        "content": "Write an insightful thought leadership article on {{topic}} that offers unique perspectives and expert opinions. The content should establish credibility and encourage discussion within {{industry}}.",
+        "description": "Produces an article to position someone as a leader in their field.",
+        "category": "Content Writing",
+        "tags": ["thought leadership", "expertise", "industry insights"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject matter of the article",
+            "example": "The future of remote work"
+          },
+          {
+            "name": "industry",
+            "description": "The industry related to the topic",
+            "example": "Human Resources and Talent Management"
+          }
+        ]
+      },
+      {
+        "title": "Write an SEO-Optimized Blog Post on {{topic}}",
+        "content": "Create a comprehensive blog post on {{topic}} that is optimized for search engines. Incorporate relevant keywords, use proper headings, and ensure the content is engaging and valuable to {{audience}}.",
+        "description": "Generates an SEO-friendly blog post tailored to a specific audience.",
+        "category": "Content Writing",
+        "subcategory": "Blogging",
+        "tags": ["blogging", "SEO", "content marketing"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The main subject of the blog post",
+            "example": "Effective time management strategies"
+          },
+          {
+            "name": "audience",
+            "description": "The target readership of the blog post",
+            "example": "Busy professionals"
+          }
+        ]
+      },
+      {
+        "title": "Craft a Captivating Social Media Caption for {{platform}}",
+        "content": "Write an engaging and concise caption for a post on {{platform}} about {{topic}}. Include relevant hashtags and a call-to-action to encourage {{desired_engagement}}.",
+        "description": "Helps create compelling social media captions to boost engagement.",
+        "category": "Content Writing",
+        "subcategory": "Social Media",
+        "tags": ["social media", "engagement", "content creation"],
+        "variables": [
+          {
+            "name": "platform",
+            "description": "The social media platform",
+            "example": "Instagram"
+          },
+          {
+            "name": "topic",
+            "description": "The main subject of the post",
+            "example": "Launching our new app feature"
+          },
+          {
+            "name": "desired_engagement",
+            "description": "The type of engagement you want from the audience",
+            "example": "shares and comments"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Press Release Announcing {{event}}",
+        "content": "Compose a professional press release to announce {{event}}. Include quotes from key stakeholders, essential details, and contact information for media inquiries.",
+        "description": "Creates a press release suitable for media distribution.",
+        "category": "Content Writing",
+        "subcategory": "Public Relations",
+        "tags": ["press release", "PR", "media"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event or announcement",
+            "example": "Opening of a new retail store location"
+          }
+        ]
+      },
+      {
+        "title": "Write a Product Review for {{product_name}}",
+        "content": "Draft an unbiased and detailed product review for {{product_name}}. Discuss its features, benefits, drawbacks, and provide a final recommendation for potential buyers.",
+        "description": "Generates a comprehensive product review.",
+        "category": "Content Writing",
+        "subcategory": "Reviews",
+        "tags": ["product review", "consumer advice", "writing"],
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "The name of the product to review",
+            "example": "SmartHome Thermostat X200"
+          }
+        ]
+      },
+      {
+        "title": "Create an Email Newsletter on {{topic}}",
+        "content": "Compose an engaging email newsletter about {{topic}} for subscribers interested in {{interest_area}}. Include recent news, tips, and a call-to-action.",
+        "description": "Produces content for an email newsletter.",
+        "category": "Content Writing",
+        "subcategory": "Email Marketing",
+        "tags": ["newsletter", "email", "engagement"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The main focus of the newsletter",
+            "example": "Healthy lifestyle tips"
+          },
+          {
+            "name": "interest_area",
+            "description": "The subscribers' area of interest",
+            "example": "Wellness and fitness"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Video Script for {{video_type}} on {{topic}}",
+        "content": "Write a script for a {{video_type}} video about {{topic}}. Include visual cues, dialogue, and key points to cover, aiming to engage {{target_audience}}.",
+        "description": "Creates a video script tailored to a specific format and audience.",
+        "category": "Content Writing",
+        "subcategory": "Scriptwriting",
+        "tags": ["video script", "content creation", "media"],
+        "variables": [
+          {
+            "name": "video_type",
+            "description": "The format of the video",
+            "example": "Explainer video"
+          },
+          {
+            "name": "topic",
+            "description": "The subject of the video",
+            "example": "How blockchain technology works"
+          },
+          {
+            "name": "target_audience",
+            "description": "The intended viewers of the video",
+            "example": "Tech enthusiasts"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Informative Whitepaper on {{subject}}",
+        "content": "Develop a detailed whitepaper on {{subject}} that includes thorough research, data analysis, and expert insights. Structure the content to appeal to industry professionals in {{industry}}.",
+        "description": "Produces an in-depth whitepaper for professional audiences.",
+        "category": "Content Writing",
+        "subcategory": "Technical Writing",
+        "tags": ["whitepaper", "research", "professional"],
+        "variables": [
+          {
+            "name": "subject",
+            "description": "The topic of the whitepaper",
+            "example": "Cybersecurity trends in 2024"
+          },
+          {
+            "name": "industry",
+            "description": "The industry focus",
+            "example": "Information Technology"
+          }
+        ]
+      },
+      {
+        "title": "Write a Compelling Ad Copy for {{product_or_service}}",
+        "content": "Create a persuasive ad copy for {{product_or_service}} targeting {{customer_segment}}. Highlight the unique selling points and include a strong call-to-action.",
+        "description": "Generates ad copy designed to attract and convert customers.",
+        "category": "Content Writing",
+        "subcategory": "Copywriting",
+        "tags": ["ad copy", "marketing", "sales"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The item being advertised",
+            "example": "Eco-friendly cleaning products"
+          },
+          {
+            "name": "customer_segment",
+            "description": "The target customer group",
+            "example": "Environmentally conscious homeowners"
+          }
+        ]
+      },
+      {
+        "title": "Draft an Engaging Podcast Script on {{topic}}",
+        "content": "Write a podcast script covering {{topic}}. Include an introduction, main discussion points, and a conclusion, aiming to educate and entertain {{listener_demographic}}.",
+        "description": "Creates a podcast script with a focus on engagement.",
+        "category": "Content Writing",
+        "subcategory": "Podcasting",
+        "tags": ["podcast", "scriptwriting", "audio content"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the podcast episode",
+            "example": "The history of jazz music"
+          },
+          {
+            "name": "listener_demographic",
+            "description": "The intended audience for the podcast",
+            "example": "Music enthusiasts and historians"
+          }
+        ]
+      },
+      {
+        "title": "Create a User Guide for {{product}}",
+        "content": "Compose a comprehensive user guide for {{product}}. Include step-by-step instructions, troubleshooting tips, and safety precautions to assist users in effectively operating the product.",
+        "description": "Develops a user manual to enhance customer experience.",
+        "category": "Content Writing",
+        "subcategory": "Technical Documentation",
+        "tags": ["user guide", "manual", "technical writing"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product requiring a user guide",
+            "example": "4K Ultra HD Camera"
+          }
+        ]
+      },
+      {
+        "title": "Write Educational Course Content on {{subject}}",
+        "content": "Develop detailed course material on {{subject}} for {{education_level}} students. Include learning objectives, lesson plans, and assessment methods.",
+        "description": "Creates educational content for academic purposes.",
+        "category": "Content Writing",
+        "subcategory": "Educational Writing",
+        "tags": ["education", "course material", "lesson planning"],
+        "variables": [
+          {
+            "name": "subject",
+            "description": "The topic of the course",
+            "example": "Introduction to Microeconomics"
+          },
+          {
+            "name": "education_level",
+            "description": "The academic level targeted",
+            "example": "Undergraduate students"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Motivational Speech on {{theme}}",
+        "content": "Write an inspiring speech on {{theme}} aimed at {{audience}}. Incorporate anecdotes, rhetorical devices, and a powerful closing message.",
+        "description": "Generates a speech intended to motivate and inspire listeners.",
+        "category": "Content Writing",
+        "subcategory": "Speechwriting",
+        "tags": ["speech", "motivation", "public speaking"],
+        "variables": [
+          {
+            "name": "theme",
+            "description": "The central theme of the speech",
+            "example": "Overcoming adversity"
+          },
+          {
+            "name": "audience",
+            "description": "The group the speech is directed at",
+            "example": "High school graduates"
+          }
+        ]
+      },
+      {
+        "title": "Develop Website Content for {{business_type}}",
+        "content": "Create engaging and SEO-friendly website content for a {{business_type}}. Include an About Us page, service descriptions, and compelling calls-to-action.",
+        "description": "Produces website copy to attract and retain visitors.",
+        "category": "Content Writing",
+        "subcategory": "Web Content",
+        "tags": ["website", "SEO", "copywriting"],
+        "variables": [
+          {
+            "name": "business_type",
+            "description": "The nature of the business",
+            "example": "Boutique digital marketing agency"
+          }
+        ]
+      },
+      {
+        "title": "Write a Grant Proposal for {{project}}",
+        "content": "Compose a detailed grant proposal for {{project}}. Include the project overview, objectives, methodology, budget, and expected outcomes to persuade funders.",
+        "description": "Creates a grant proposal to secure funding.",
+        "category": "Content Writing",
+        "subcategory": "Proposal Writing",
+        "tags": ["grant proposal", "funding", "nonprofit"],
+        "variables": [
+          {
+            "name": "project",
+            "description": "The project seeking funding",
+            "example": "Community arts education program"
+          }
+        ]
+      },
+      {
+        "title": "Generate FAQs for {{service}}",
+        "content": "Develop a list of frequently asked questions and answers for {{service}} to help users understand and effectively utilize the service.",
+        "description": "Provides an FAQ section to improve user experience.",
+        "category": "Content Writing",
+        "subcategory": "Customer Support",
+        "tags": ["FAQ", "customer service", "support"],
+        "variables": [
+          {
+            "name": "service",
+            "description": "The service the FAQs are about",
+            "example": "Online language learning platform"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Personal Statement for {{application_type}}",
+        "content": "Write a compelling personal statement for a {{application_type}} application. Highlight achievements, experiences, and goals that demonstrate suitability for {{program_or_position}}.",
+        "description": "Creates a personal statement to enhance an application.",
+        "category": "Content Writing",
+        "subcategory": "Academic Writing",
+        "tags": ["personal statement", "application", "education"],
+        "variables": [
+          {
+            "name": "application_type",
+            "description": "The type of application",
+            "example": "Graduate school"
+          },
+          {
+            "name": "program_or_position",
+            "description": "The specific program or position applied for",
+            "example": "Master of Business Administration"
+          }
+        ]
+      },
+      {
+        "title": "Draft an Investor Pitch Deck Content for {{startup}}",
+        "content": "Create the written content for an investor pitch deck for {{startup}}. Include company overview, market analysis, product details, and financial projections.",
+        "description": "Develops content to support an investor presentation.",
+        "category": "Content Writing",
+        "subcategory": "Business Writing",
+        "tags": ["pitch deck", "startup", "investment"],
+        "variables": [
+          {
+            "name": "startup",
+            "description": "The name and focus of the startup",
+            "example": "EcoRide: A sustainable ride-sharing app"
+          }
+        ]
+      },
+      {
+        "title": "Write a Press Kit for {{artist_or_band}}",
+        "content": "Assemble a press kit for {{artist_or_band}}. Include a biography, recent achievements, high-resolution images, and contact information for bookings.",
+        "description": "Creates a press kit to promote an artist or band.",
+        "category": "Content Writing",
+        "subcategory": "Entertainment Writing",
+        "tags": ["press kit", "music", "promotion"],
+        "variables": [
+          {
+            "name": "artist_or_band",
+            "description": "The name of the artist or band",
+            "example": "The Silver Strings Quartet"
+          }
+        ]
+      },
+      {
+        "title": "Develop Product Packaging Copy for {{product}}",
+        "content": "Write engaging and informative copy for the packaging of {{product}}. Highlight key features, usage instructions, and any legal disclaimers.",
+        "description": "Produces packaging content to attract consumers.",
+        "category": "Content Writing",
+        "subcategory": "Marketing",
+        "tags": ["packaging", "copywriting", "branding"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product requiring packaging copy",
+            "example": "Organic dark chocolate bars"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Legal Contract for {{agreement_type}}",
+        "content": "Draft a legal contract for a {{agreement_type}} between {{party_one}} and {{party_two}}. Include all necessary clauses, terms, and conditions to ensure legality.",
+        "description": "Creates a legal contract outlining agreement terms.",
+        "category": "Content Writing",
+        "subcategory": "Legal Writing",
+        "tags": ["legal contract", "agreement", "law"],
+        "variables": [
+          {
+            "name": "agreement_type",
+            "description": "The type of agreement",
+            "example": "Non-disclosure agreement"
+          },
+          {
+            "name": "party_one",
+            "description": "The first party involved",
+            "example": "Innovatech Solutions LLC"
+          },
+          {
+            "name": "party_two",
+            "description": "The second party involved",
+            "example": "John Doe Consulting"
+          }
+        ]
+      },
+      {
+        "title": "Create a Survey Questionnaire on {{topic}}",
+        "content": "Design a set of survey questions to gather data on {{topic}} from {{target_audience}}. Include a mix of question types to obtain both quantitative and qualitative insights.",
+        "description": "Generates a survey to collect valuable data.",
+        "category": "Content Writing",
+        "subcategory": "Research",
+        "tags": ["survey", "questionnaire", "data collection"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the survey",
+            "example": "Customer satisfaction with our new product"
+          },
+          {
+            "name": "target_audience",
+            "description": "The group to survey",
+            "example": "Recent purchasers"
+          }
+        ]
+      },
+      {
+        "title": "Write an Annual Report for {{organization}}",
+        "content": "Compose the annual report for {{organization}}. Include an executive summary, financial statements, achievements, and future objectives.",
+        "description": "Creates an annual report to inform stakeholders.",
+        "category": "Content Writing",
+        "subcategory": "Corporate Communication",
+        "tags": ["annual report", "corporate", "stakeholders"],
+        "variables": [
+          {
+            "name": "organization",
+            "description": "The name of the organization",
+            "example": "Global Health Initiative"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Job Description for {{position}}",
+        "content": "Write a detailed job description for the position of {{position}} at {{company}}. Outline responsibilities, qualifications, and how to apply.",
+        "description": "Generates a job listing to attract suitable candidates.",
+        "category": "Content Writing",
+        "subcategory": "Human Resources",
+        "tags": ["job description", "recruitment", "HR"],
+        "variables": [
+          {
+            "name": "position",
+            "description": "The job title",
+            "example": "Senior UX Designer"
+          },
+          {
+            "name": "company",
+            "description": "The hiring company",
+            "example": "Creative Minds Agency"
+          }
+        ]
+      },
+      {
+        "title": "Develop Content for a Crowdfunding Campaign for {{project}}",
+        "content": "Create compelling content for a crowdfunding campaign to support {{project}}. Include a project overview, goals, rewards for backers, and a call-to-action.",
+        "description": "Produces content to drive crowdfunding efforts.",
+        "category": "Content Writing",
+        "subcategory": "Fundraising",
+        "tags": ["crowdfunding", "campaign", "fundraising"],
+        "variables": [
+          {
+            "name": "project",
+            "description": "The project seeking funding",
+            "example": "A documentary film on climate change"
+          }
+        ]
+      },
+      {
+        "title": "Write a Case Study Showcasing {{success_story}}",
+        "content": "Compose a case study that details {{success_story}}. Highlight the challenges faced, solutions provided, and the positive outcomes achieved.",
+        "description": "Creates a case study to demonstrate effectiveness.",
+        "category": "Content Writing",
+        "subcategory": "Marketing",
+        "tags": ["case study", "success story", "B2B"],
+        "variables": [
+          {
+            "name": "success_story",
+            "description": "The successful project or client experience",
+            "example": "Improving client ROI by 150% through SEO strategies"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Poem on {{theme}}",
+        "content": "Write a poem exploring the theme of {{theme}}. Use literary devices such as metaphors, similes, and personification to enhance the emotional impact.",
+        "description": "Generates a creative poem based on a given theme.",
+        "category": "Content Writing",
+        "subcategory": "Creative Writing",
+        "tags": ["poetry", "creative", "literature"],
+        "variables": [
+          {
+            "name": "theme",
+            "description": "The central theme of the poem",
+            "example": "The passage of time"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Content Strategy Plan for {{business_type}}",
+        "content": "Create a comprehensive content strategy plan for a {{business_type}}. Include target audience analysis, content goals, content types, distribution channels, and a content calendar.",
+        "description": "Generates a content strategy plan tailored to a specific business.",
+        "category": "Content Writing",
+        "subcategory": "Content Strategy",
+        "tags": ["content strategy", "planning", "marketing"],
+        "variables": [
+          {
+            "name": "business_type",
+            "description": "The type of business or industry",
+            "example": "Online fashion retailer"
+          }
+        ]
+      },
+      {
+        "title": "Translate Text from {{source_language}} to {{target_language}}",
+        "content": "Translate the following text from {{source_language}} to {{target_language}}, ensuring that the meaning and tone are preserved: {{text_to_translate}}",
+        "description": "Provides accurate translation of text between languages.",
+        "category": "Content Writing",
+        "subcategory": "Translation",
+        "tags": ["translation", "language", "multilingual"],
+        "variables": [
+          {
+            "name": "source_language",
+            "description": "The language of the original text",
+            "example": "English"
+          },
+          {
+            "name": "target_language",
+            "description": "The language to translate the text into",
+            "example": "Spanish"
+          },
+          {
+            "name": "text_to_translate",
+            "description": "The text that needs to be translated",
+            "example": "Welcome to our annual conference."
+          }
+        ]
+      },
+      {
+        "title": "Write a Resume Tailored for {{job_position}}",
+        "content": "Create a professional resume for an individual applying for a {{job_position}} position. Highlight relevant skills, experiences, and achievements that match the job requirements.",
+        "description": "Generates a customized resume for a specific job application.",
+        "category": "Content Writing",
+        "subcategory": "Resume Writing",
+        "tags": ["resume", "career", "professional"],
+        "variables": [
+          {
+            "name": "job_position",
+            "description": "The job title being applied for",
+            "example": "Software Engineer"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Cover Letter for {{company}}",
+        "content": "Write a persuasive cover letter for an application to {{company}} for the role of {{position}}. Emphasize how the applicant's skills and experiences align with the company's values and needs.",
+        "description": "Creates a tailored cover letter to accompany a job application.",
+        "category": "Content Writing",
+        "subcategory": "Cover Letter Writing",
+        "tags": ["cover letter", "job application", "career"],
+        "variables": [
+          {
+            "name": "company",
+            "description": "The company the application is addressed to",
+            "example": "Innovative Tech Solutions"
+          },
+          {
+            "name": "position",
+            "description": "The position being applied for",
+            "example": "Project Manager"
+          }
+        ]
+      },
+      {
+        "title": "Edit and Proofread the Following Text",
+        "content": "Review the following text for grammatical errors, clarity, and style consistency. Provide corrections and suggestions for improvement: {{text_to_edit}}",
+        "description": "Offers editing and proofreading services for written content.",
+        "category": "Content Writing",
+        "subcategory": "Editing and Proofreading",
+        "tags": ["editing", "proofreading", "grammar"],
+        "variables": [
+          {
+            "name": "text_to_edit",
+            "description": "The text that needs to be edited",
+            "example": "Their is many reasons why this project is important."
+          }
+        ]
+      },
+      {
+        "title": "Create a Content Calendar for {{month}}",
+        "content": "Develop a content calendar for {{month}} focusing on {{theme_or_topic}}. Include content ideas for each day, considering relevant events, holidays, and audience engagement tactics.",
+        "description": "Generates a monthly content calendar to plan content publishing.",
+        "category": "Content Writing",
+        "subcategory": "Content Planning",
+        "tags": ["content calendar", "planning", "scheduling"],
+        "variables": [
+          {
+            "name": "month",
+            "description": "The month for the content calendar",
+            "example": "March 2024"
+          },
+          {
+            "name": "theme_or_topic",
+            "description": "The central theme or topic for the content",
+            "example": "Women's History Month"
+          }
+        ]
+      },
+      {
+        "title": "Write a News Article on {{event}}",
+        "content": "Compose a journalistic news article reporting on {{event}}. Include the who, what, when, where, why, and how, and present the information in an objective manner.",
+        "description": "Produces a news article covering a specific event.",
+        "category": "Content Writing",
+        "subcategory": "Journalism",
+        "tags": ["news article", "journalism", "reporting"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event to report on",
+            "example": "The city council's new environmental policy"
+          }
+        ]
+      },
+      {
+        "title": "Ghostwrite a Chapter on {{topic}} for {{author}}",
+        "content": "Write a chapter on {{topic}} in the writing style of {{author}}. Ensure the tone, voice, and language match the author's previous works.",
+        "description": "Ghostwrites content that aligns with a specific author's style.",
+        "category": "Content Writing",
+        "subcategory": "Ghostwriting",
+        "tags": ["ghostwriting", "author", "style"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the chapter",
+            "example": "The impact of AI on society"
+          },
+          {
+            "name": "author",
+            "description": "The name of the author to mimic",
+            "example": "Dr. Jane Smith"
+          }
+        ]
+      },
+      {
+        "title": "Transcribe Audio Content to Text",
+        "content": "Transcribe the following audio content into written text, ensuring accuracy and proper punctuation: {{audio_content}}",
+        "description": "Converts spoken words from audio into written text.",
+        "category": "Content Writing",
+        "subcategory": "Transcription",
+        "tags": ["transcription", "audio", "text"],
+        "variables": [
+          {
+            "name": "audio_content",
+            "description": "The audio content to transcribe",
+            "example": "Audio file of a keynote speech"
+          }
+        ]
+      },
+      {
+        "title": "Write an E-commerce Product Listing for {{product}}",
+        "content": "Create an engaging product listing for {{product}} to be used on an e-commerce platform. Include a compelling title, detailed description, key features, and benefits.",
+        "description": "Generates product listings optimized for online sales.",
+        "category": "Content Writing",
+        "subcategory": "E-commerce Content",
+        "tags": ["product listing", "e-commerce", "sales"],
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product to be listed",
+            "example": "Bluetooth wireless earbuds"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Brand's Tone of Voice Guidelines",
+        "content": "Create a tone of voice guideline document for {{brand_name}}. Define the brand's personality, language style, and communication dos and don'ts.",
+        "description": "Establishes consistent communication style for a brand.",
+        "category": "Content Writing",
+        "subcategory": "Branding",
+        "tags": ["tone of voice", "branding", "guidelines"],
+        "variables": [
+          {
+            "name": "brand_name",
+            "description": "The name of the brand",
+            "example": "Healthy Eats Co."
+          }
+        ]
+      },
+      {
+        "title": "Adapt Existing Content for {{new_platform}}",
+        "content": "Repurpose the following content for {{new_platform}}, ensuring it fits the platform's format and audience preferences: {{original_content}}",
+        "description": "Adapts content to suit a different platform or medium.",
+        "category": "Content Writing",
+        "subcategory": "Content Repurposing",
+        "tags": ["content repurposing", "adaptation", "multichannel"],
+        "variables": [
+          {
+            "name": "new_platform",
+            "description": "The platform to adapt the content for",
+            "example": "TikTok"
+          },
+          {
+            "name": "original_content",
+            "description": "The content to be repurposed",
+            "example": "A blog post on healthy recipes"
+          }
+        ]
+      },
+      {
+        "title": "Curate a List of Articles on {{topic}}",
+        "content": "Compile a list of high-quality articles on {{topic}}. Include brief annotations for each article explaining its relevance and key insights.",
+        "description": "Provides a curated list of resources on a specific topic.",
+        "category": "Content Writing",
+        "subcategory": "Content Curation",
+        "tags": ["content curation", "research", "resources"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject for which to curate articles",
+            "example": "Sustainable fashion trends"
+          }
+        ]
+      },
+      {
+        "title": "Create Interview Questions for {{position_or_topic}}",
+        "content": "Develop a list of insightful interview questions for {{position_or_topic}}. Include both technical and behavioral questions to assess the candidate's suitability.",
+        "description": "Generates interview questions for hiring or research purposes.",
+        "category": "Content Writing",
+        "subcategory": "Interview Preparation",
+        "tags": ["interview questions", "HR", "recruitment"],
+        "variables": [
+          {
+            "name": "position_or_topic",
+            "description": "The position or topic of the interview",
+            "example": "Senior Data Analyst"
+          }
+        ]
+      },
+      {
+        "title": "Write a Creative Short Story on {{prompt}}",
+        "content": "Compose a creative short story based on the following prompt: {{prompt}}. Ensure the narrative includes well-developed characters, a setting, and a plot with a clear beginning, middle, and end.",
+        "description": "Produces a short story inspired by a given prompt.",
+        "category": "Content Writing",
+        "subcategory": "Creative Writing",
+        "tags": ["short story", "creative writing", "fiction"],
+        "variables": [
+          {
+            "name": "prompt",
+            "description": "The creative prompt for the story",
+            "example": "A world where time travel is commonplace"
+          }
+        ]
+      },
+      {
+        "title": "Develop an Executive Summary for {{document}}",
+        "content": "Write an executive summary for {{document}} that highlights the main points, findings, and recommendations. Ensure it provides a clear overview for readers who may not read the full document.",
+        "description": "Creates a concise summary of a larger document.",
+        "category": "Content Writing",
+        "subcategory": "Executive Summaries",
+        "tags": ["executive summary", "business writing", "overview"],
+        "variables": [
+          {
+            "name": "document",
+            "description": "The document to summarize",
+            "example": "Annual market analysis report"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Article for {{publication}} on {{topic}}",
+        "content": "Write an article suitable for publication in {{publication}} on the topic of {{topic}}. Adhere to the publication's style guidelines and audience preferences.",
+        "description": "Produces an article tailored to a specific publication.",
+        "category": "Content Writing",
+        "subcategory": "Article Writing",
+        "tags": ["article", "publication", "writing"],
+        "variables": [
+          {
+            "name": "publication",
+            "description": "The name of the publication",
+            "example": "Tech Innovators Magazine"
+          },
+          {
+            "name": "topic",
+            "description": "The subject of the article",
+            "example": "Emerging trends in artificial intelligence"
+          }
+        ]
+      },
+      {
+        "title": "Create a Slogan for {{brand_or_campaign}}",
+        "content": "Brainstorm and propose several catchy and memorable slogans for {{brand_or_campaign}} that reflect its values and appeal to its target audience.",
+        "description": "Generates slogans to enhance brand recognition.",
+        "category": "Content Writing",
+        "subcategory": "Advertising",
+        "tags": ["slogan", "branding", "marketing"],
+        "variables": [
+          {
+            "name": "brand_or_campaign",
+            "description": "The brand or campaign needing a slogan",
+            "example": "A new eco-friendly cleaning product line"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Privacy Policy for {{website_or_app}}",
+        "content": "Compose a comprehensive privacy policy for {{website_or_app}} that complies with relevant laws and regulations, explaining how user data is collected, used, and protected.",
+        "description": "Creates a privacy policy to inform users about data practices.",
+        "category": "Content Writing",
+        "subcategory": "Legal Writing",
+        "tags": ["privacy policy", "legal", "compliance"],
+        "variables": [
+          {
+            "name": "website_or_app",
+            "description": "The website or application the policy is for",
+            "example": "MyFitLife Fitness App"
+          }
+        ]
+      },
+      {
+        "title": "Write a Scientific Research Paper on {{topic}}",
+        "content": "Develop a scientific research paper on {{topic}} suitable for submission to a peer-reviewed journal. Include an abstract, introduction, methodology, results, discussion, and references.",
+        "description": "Produces a research paper adhering to academic standards.",
+        "category": "Content Writing",
+        "subcategory": "Academic Writing",
+        "tags": ["research paper", "academic", "science"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the research paper",
+            "example": "The effects of microplastics on marine life"
+          }
+        ]
+      },
+      {
+        "title": "Develop Content for a Webinar on {{topic}}",
+        "content": "Create the script and presentation outline for a webinar on {{topic}}. Include key points, visual aid suggestions, and audience engagement strategies.",
+        "description": "Generates content to deliver an informative webinar.",
+        "category": "Content Writing",
+        "subcategory": "Webinar Content",
+        "tags": ["webinar", "presentation", "education"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The subject of the webinar",
+            "example": "Digital marketing trends in 2024"
+          }
+        ]
+      },
+      {
+        "title": "Write a User Testimonial for {{product_or_service}}",
+        "content": "Compose a genuine-sounding user testimonial for {{product_or_service}} that highlights its benefits and positive impact on the user's life or business.",
+        "description": "Creates a testimonial to build trust with potential customers.",
+        "category": "Content Writing",
+        "subcategory": "Marketing",
+        "tags": ["testimonial", "social proof", "marketing"],
+        "variables": [
+          {
+            "name": "product_or_service",
+            "description": "The product or service being endorsed",
+            "example": "EcoBright LED Lighting Solutions"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Formal Invitation Letter for {{event}}",
+        "content": "Write a formal invitation letter for {{event}}, including all necessary details such as date, time, location, dress code, and RSVP instructions.",
+        "description": "Produces an invitation letter for formal events.",
+        "category": "Content Writing",
+        "subcategory": "Event Planning",
+        "tags": ["invitation", "formal letter", "event"],
+        "variables": [
+          {
+            "name": "event",
+            "description": "The event to invite guests to",
+            "example": "The annual charity gala"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Social Media Content Plan for {{campaign}}",
+        "content": "Create a detailed social media content plan for {{campaign}} across platforms such as Facebook, Twitter, and Instagram. Include post ideas, scheduling, and engagement strategies.",
+        "description": "Plans social media content to support a campaign.",
+        "category": "Content Writing",
+        "subcategory": "Social Media Strategy",
+        "tags": ["social media", "content plan", "strategy"],
+        "variables": [
+          {
+            "name": "campaign",
+            "description": "The campaign to promote",
+            "example": "New product launch of the SmartHome Hub"
+          }
+        ]
+      },
+      {
+        "title": "Write a Blog Post Series on {{topic}}",
+        "content": "Outline and write a series of {{number_of_posts}} blog posts covering different aspects of {{topic}}. Ensure each post is interconnected and provides value to the reader.",
+        "description": "Creates a series of blog posts on a specific topic.",
+        "category": "Content Writing",
+        "subcategory": "Blogging",
+        "tags": ["blog series", "content marketing", "engagement"],
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The overarching topic of the blog series",
+            "example": "Mastering digital photography"
+          },
+          {
+            "name": "number_of_posts",
+            "description": "The total number of blog posts in the series",
+            "example": "5"
+          }
+        ]
+      },
+      {
+        "title": "Create a Children's Storybook on {{theme}}",
+        "content": "Write a children's storybook focused on the theme of {{theme}} suitable for ages {{age_range}}. Include engaging characters, a simple plot, and a moral lesson.",
+        "description": "Produces a storybook tailored for young readers.",
+        "category": "Content Writing",
+        "subcategory": "Children's Literature",
+        "tags": ["children's story", "literature", "education"],
+        "variables": [
+          {
+            "name": "theme",
+            "description": "The central theme of the story",
+            "example": "The importance of sharing"
+          },
+          {
+            "name": "age_range",
+            "description": "The target age group for the story",
+            "example": "4-7 years old"
+          }
+        ]
+      }
+    ]
+  }
+  

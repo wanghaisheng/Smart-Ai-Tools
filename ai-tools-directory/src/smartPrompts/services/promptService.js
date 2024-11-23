@@ -123,5 +123,16 @@ export const promptService = {
       console.error('Error rating prompt:', error);
       throw error;
     }
-  }
+  },
+
+  // Bulk import prompts
+  async bulkImportPrompts(prompts) {
+    try {
+      const response = await api.post('/smart-prompts/bulk', prompts);
+      return response.data;
+    } catch (error) {
+      console.error('Error bulk importing prompts:', error);
+      throw error;
+    }
+  },
 };
