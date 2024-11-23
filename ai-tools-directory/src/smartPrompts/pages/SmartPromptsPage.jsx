@@ -106,7 +106,7 @@ const SmartPromptsPage = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">Smart Prompts</h1>
+        <h1 className="text-3xl font-bold text-gray-100">Smart Prompts</h1>
         <button
           onClick={() => setShowForm(true)}
           className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
@@ -117,7 +117,7 @@ const SmartPromptsPage = () => {
       </div>
 
       {/* Filters */}
-      <div className="mb-8 p-4 bg-white rounded-lg shadow">
+      <div className="mb-8 p-4 bg-gray-800 rounded-lg shadow border border-gray-700">
         <div className="flex items-center gap-4">
           <div className="flex-1">
             <input
@@ -126,7 +126,7 @@ const SmartPromptsPage = () => {
               value={filters.search}
               onChange={handleFilter}
               placeholder="Search prompts..."
-              className="block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+              className="block w-full rounded-md bg-gray-700 border-gray-600 text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:ring-blue-500"
             />
           </div>
           <div className="w-48">
@@ -134,7 +134,7 @@ const SmartPromptsPage = () => {
               name="category"
               value={filters.category}
               onChange={handleFilter}
-              className="block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500"
+              className="block w-full rounded-md bg-gray-700 border-gray-600 text-gray-100 focus:border-blue-500 focus:ring-blue-500"
             >
               <option value="">All Categories</option>
               <option value="Content Creation">Content Creation</option>
@@ -182,8 +182,8 @@ const SmartPromptsPage = () => {
                     onClick={() => setFilters(prev => ({ ...prev, page: i + 1 }))}
                     className={`relative inline-flex items-center px-4 py-2 border text-sm font-medium ${
                       filters.page === i + 1
-                        ? 'z-10 bg-blue-50 border-blue-500 text-blue-600'
-                        : 'bg-white border-gray-300 text-gray-500 hover:bg-gray-50'
+                        ? 'z-10 bg-blue-900 border-blue-700 text-blue-100'
+                        : 'bg-gray-800 border-gray-700 text-gray-300 hover:bg-gray-700'
                     }`}
                   >
                     {i + 1}
@@ -197,19 +197,23 @@ const SmartPromptsPage = () => {
 
       {/* Create/Edit Form Modal */}
       {showForm && (
-        <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center p-4 z-50">
-          <div className="bg-white rounded-lg p-6 max-w-2xl w-full max-h-[90vh] overflow-y-auto">
-            <h2 className="text-2xl font-bold mb-6">
-              {editingPrompt ? 'Edit Prompt' : 'Create New Prompt'}
-            </h2>
-            <PromptForm
-              prompt={editingPrompt}
-              onSubmit={editingPrompt ? handleUpdatePrompt : handleCreatePrompt}
-              onCancel={() => {
-                setShowForm(false);
-                setEditingPrompt(null);
-              }}
-            />
+        <div className="fixed inset-0 bg-gray-900 bg-opacity-75 flex items-center justify-center p-4 z-50">
+          <div className="bg-gray-800 rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto">
+            <div className="border-b border-gray-700 px-6 py-4">
+              <h2 className="text-2xl font-bold text-gray-100">
+                {editingPrompt ? 'Edit Prompt' : 'Create New Prompt'}
+              </h2>
+            </div>
+            <div className="p-6">
+              <PromptForm
+                prompt={editingPrompt}
+                onSubmit={editingPrompt ? handleUpdatePrompt : handleCreatePrompt}
+                onCancel={() => {
+                  setShowForm(false);
+                  setEditingPrompt(null);
+                }}
+              />
+            </div>
           </div>
         </div>
       )}
