@@ -31,7 +31,8 @@ const CollectionView = lazy(() => import('./pages/Dashboard/CollectionView'))
 const Notifications = lazy(() => import('./pages/Dashboard/Notifications'))
 const ApiKeys = lazy(() => import('./pages/Dashboard/ApiKeys'))
 const ProfileSettings = lazy(() => import('./pages/Dashboard/ProfileSettings'))
-const SmartPromptsPage = lazy(() => import('./smartPrompts/pages/SmartPromptsPage'))
+// Import SmartPromptsPage directly
+import SmartPromptsPage from './smartPrompts/pages/SmartPromptsPage'
 
 function App() {
   return (

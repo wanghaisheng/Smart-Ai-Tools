@@ -5,7 +5,8 @@ import {
   PlusIcon, 
   TrashIcon, 
   CheckCircleIcon,
-  ExclamationCircleIcon
+  ExclamationCircleIcon,
+  ArrowPathIcon
 } from '@heroicons/react/24/outline';
 import { toast } from 'react-hot-toast';
 
@@ -15,28 +16,32 @@ const API_PROVIDERS = [
     name: 'OpenAI',
     models: ['gpt-4', 'gpt-3.5-turbo', 'davinci-003'],
     placeholder: 'sk-...',
-    description: 'Powers GPT-4 and GPT-3.5 models'
+    description: 'Powers GPT-4 and GPT-3.5 models',
+    color: 'from-emerald-500 to-teal-500'
   },
   {
     id: 'anthropic',
     name: 'Anthropic',
     models: ['claude-2', 'claude-instant'],
     placeholder: 'sk-ant-...',
-    description: 'Powers Claude models'
+    description: 'Powers Claude models',
+    color: 'from-blue-500 to-indigo-500'
   },
   {
     id: 'cohere',
     name: 'Cohere',
     models: ['command', 'command-light'],
     placeholder: 'co-...',
-    description: 'Specialized in text generation and analysis'
+    description: 'Specialized in text generation and analysis',
+    color: 'from-purple-500 to-pink-500'
   },
   {
     id: 'stability',
     name: 'Stability AI',
     models: ['stable-diffusion-xl'],
     placeholder: 'sk-...',
-    description: 'Powers image generation models'
+    description: 'Powers image generation models',
+    color: 'from-orange-500 to-red-500'
   }
 ];
 
@@ -145,97 +150,117 @@ const ApiKeyManager = () => {
   };
 
   return (
-    <div className="bg-gray-800 rounded-lg p-6">
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-xl font-semibold text-gray-100">API Key Management</h2>
+    <div className="space-y-6">
+      {/* Header with Add Button */}
+      <div className="flex justify-between items-center">
+        <div className="flex items-center gap-2">
+          <KeyIcon className="h-5 w-5 text-gray-400" />
+          <h3 className="text-lg font-medium text-gray-200">API Keys</h3>
+        </div>
         <motion.button
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
+          whileHover={{ scale: 1.02 }}
+          whileTap={{ scale: 0.98 }}
           onClick={() => setShowAddModal(true)}
-          className="px-4 py-2 bg-blue-600 text-white rounded-md flex items-center gap-2 hover:bg-blue-700"
+          className="inline-flex items-center px-3 py-1.5 text-sm bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg shadow-md hover:shadow-lg transition-all duration-200"
         >
-          <PlusIcon className="h-5 w-5" />
-          Add API Key
+          <PlusIcon className="h-4 w-4 mr-1" />
+          Add Key
         </motion.button>
       </div>
 
+      {/* API Provider Cards Grid */}
       {loading ? (
-        <div className="flex justify-center py-8">
-          <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {[1, 2, 3, 4].map((i) => (
+            <div key={i} className="animate-pulse bg-gray-800/50 rounded-xl p-4 h-32"></div>
+          ))}
         </div>
       ) : (
-        <div className="space-y-4">
-          {API_PROVIDERS.map(provider => (
-            <div
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {API_PROVIDERS.map((provider) => (
+            <motion.div
               key={provider.id}
-              className="bg-gray-700 rounded-lg p-4 flex items-center justify-between"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="relative group"
             >
-              <div className="flex-1">
-                <h3 className="text-lg font-medium text-gray-200">{provider.name}</h3>
-                <p className="text-sm text-gray-400">{provider.description}</p>
-                <div className="mt-1 text-sm text-gray-400">
-                  Models: {provider.models.join(', ')}
+              <div className="absolute inset-0 bg-gradient-to-r opacity-0 group-hover:opacity-10 transition-opacity duration-200 rounded-xl ${provider.color}"></div>
+              <div className="relative bg-gray-800 rounded-xl p-4 shadow-lg hover:shadow-xl transition-all duration-200">
+                <div className="flex justify-between items-start mb-3">
+                  <h4 className="font-medium text-gray-200">{provider.name}</h4>
+                  {apiKeys[provider.id] && (
+                    <div className="flex gap-2">
+                      <motion.button
+                        whileHover={{ scale: 1.1 }}
+                        whileTap={{ scale: 0.9 }}
+                        onClick={() => testApiKey(provider.id)}
+                        disabled={testing[provider.id]}
+                        className="p-1 rounded-full bg-gray-700 hover:bg-gray-600 transition-colors"
+                        title="Test API Key"
+                      >
+                        {testing[provider.id] ? (
+                          <ArrowPathIcon className="h-4 w-4 text-gray-400 animate-spin" />
+                        ) : (
+                          <CheckCircleIcon className="h-4 w-4 text-green-400" />
+                        )}
+                      </motion.button>
+                      <motion.button
+                        whileHover={{ scale: 1.1 }}
+                        whileTap={{ scale: 0.9 }}
+                        onClick={() => deleteApiKey(provider.id)}
+                        className="p-1 rounded-full bg-gray-700 hover:bg-red-600 transition-colors"
+                        title="Delete API Key"
+                      >
+                        <TrashIcon className="h-4 w-4 text-gray-400 group-hover:text-white" />
+                      </motion.button>
+                    </div>
+                  )}
+                </div>
+                
+                <p className="text-sm text-gray-400 mb-2">{provider.description}</p>
+                
+                {apiKeys[provider.id] ? (
+                  <div className="flex items-center gap-2 text-sm">
+                    <div className="h-2 w-2 bg-green-400 rounded-full"></div>
+                    <span className="text-green-400">Configured</span>
+                  </div>
+                ) : (
+                  <div className="flex items-center gap-2 text-sm">
+                    <div className="h-2 w-2 bg-gray-400 rounded-full"></div>
+                    <span className="text-gray-400">Not Configured</span>
+                  </div>
+                )}
+                
+                <div className="mt-2 text-xs text-gray-500">
+                  {provider.models.join(', ')}
                 </div>
               </div>
-              
-              <div className="flex items-center gap-4">
-                {apiKeys[provider.id] ? (
-                  <>
-                    <motion.button
-                      whileHover={{ scale: 1.05 }}
-                      whileTap={{ scale: 0.95 }}
-                      onClick={() => testApiKey(provider.id)}
-                      disabled={testing[provider.id]}
-                      className="px-3 py-1 bg-green-600 text-white rounded-md flex items-center gap-2 hover:bg-green-700 disabled:opacity-50"
-                    >
-                      <CheckCircleIcon className="h-4 w-4" />
-                      Test
-                    </motion.button>
-                    <motion.button
-                      whileHover={{ scale: 1.05 }}
-                      whileTap={{ scale: 0.95 }}
-                      onClick={() => deleteApiKey(provider.id)}
-                      className="px-3 py-1 bg-red-600 text-white rounded-md flex items-center gap-2 hover:bg-red-700"
-                    >
-                      <TrashIcon className="h-4 w-4" />
-                      Delete
-                    </motion.button>
-                  </>
-                ) : (
-                  <span className="text-yellow-500 flex items-center gap-2">
-                    <ExclamationCircleIcon className="h-5 w-5" />
-                    Not configured
-                  </span>
-                )}
-              </div>
-            </div>
+            </motion.div>
           ))}
         </div>
       )}
 
       {/* Add API Key Modal */}
       {showAddModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
           <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
+            initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
-            className="bg-gray-800 rounded-lg p-6 max-w-md w-full"
+            className="bg-gray-800 rounded-xl p-6 max-w-md w-full shadow-xl"
           >
-            <h3 className="text-xl font-semibold text-gray-100 mb-4">Add New API Key</h3>
+            <h3 className="text-xl font-semibold text-gray-100 mb-4">Add API Key</h3>
             
             <div className="space-y-4">
               <div>
-                <label className="block text-sm font-medium text-gray-300 mb-2">
+                <label className="block text-sm font-medium text-gray-300 mb-1">
                   Select Provider
                 </label>
                 <select
                   value={selectedProvider?.id || ''}
-                  onChange={(e) => setSelectedProvider(
-                    API_PROVIDERS.find(p => p.id === e.target.value)
-                  )}
-                  className="w-full rounded-md bg-gray-700 border-gray-600 text-white"
+                  onChange={(e) => setSelectedProvider(API_PROVIDERS.find(p => p.id === e.target.value))}
+                  className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500"
                 >
-                  <option value="">Select a provider...</option>
+                  <option value="">Choose a provider...</option>
                   {API_PROVIDERS.map(provider => (
                     <option key={provider.id} value={provider.id}>
                       {provider.name}
@@ -244,40 +269,39 @@ const ApiKeyManager = () => {
                 </select>
               </div>
 
-              {selectedProvider && (
-                <div>
-                  <label className="block text-sm font-medium text-gray-300 mb-2">
-                    API Key
-                  </label>
-                  <input
-                    type="password"
-                    value={newApiKey}
-                    onChange={(e) => setNewApiKey(e.target.value)}
-                    placeholder={selectedProvider.placeholder}
-                    className="w-full rounded-md bg-gray-700 border-gray-600 text-white"
-                  />
-                </div>
-              )}
+              <div>
+                <label className="block text-sm font-medium text-gray-300 mb-1">
+                  API Key
+                </label>
+                <input
+                  type="password"
+                  value={newApiKey}
+                  onChange={(e) => setNewApiKey(e.target.value)}
+                  placeholder={selectedProvider?.placeholder || 'Enter API key...'}
+                  className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500"
+                />
+              </div>
             </div>
 
-            <div className="mt-6 flex justify-end gap-4">
+            <div className="mt-6 flex justify-end gap-3">
               <button
                 onClick={() => {
                   setShowAddModal(false);
-                  setNewApiKey('');
                   setSelectedProvider(null);
+                  setNewApiKey('');
                 }}
-                className="px-4 py-2 text-gray-400 hover:text-white"
+                className="px-4 py-2 text-sm text-gray-300 hover:text-white transition-colors"
               >
                 Cancel
               </button>
               <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
                 onClick={saveApiKey}
-                className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+                disabled={!selectedProvider || !newApiKey.trim()}
+                className="px-4 py-2 text-sm bg-gradient-to-r from-blue-500 to-indigo-500 text-white rounded-lg shadow-md hover:shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                Save API Key
+                Save Key
               </motion.button>
             </div>
           </motion.div>

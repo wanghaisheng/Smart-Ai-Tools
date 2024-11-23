@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { toast } from 'react-hot-toast';
-import { PlusIcon, FunnelIcon } from '@heroicons/react/24/outline';
+import { PlusIcon, FunnelIcon, Cog6ToothIcon } from '@heroicons/react/24/outline';
 import PromptCard from '../components/PromptCard';
 import PromptForm from '../components/PromptForm';
 import AiPromptGenerator from '../components/AiPromptGenerator';
+import ApiKeyManager from '../components/settings/ApiKeyManager';
 import { promptService } from '../services/promptService';
 import { useAuth } from '../../contexts/AuthContext';
 
@@ -16,7 +17,8 @@ const TABS = [
   { id: 'public', name: 'Public Prompts' },
   { id: 'favorites', name: 'Favorites' },
   { id: 'shared', name: 'Shared with Me' },
-  { id: 'ai-gen', name: 'AI Prompt Gen' }
+  { id: 'ai-gen', name: 'AI Prompt Gen' },
+  { id: 'settings', name: 'Settings' }
 ];
 
 const SmartPromptsPage = () => {
@@ -167,6 +169,87 @@ const SmartPromptsPage = () => {
     );
   };
 
+  const renderSettingsContent = () => (
+    <div className="max-w-6xl mx-auto">
+      {/* Settings Header */}
+      <div className="mb-6">
+        <h1 className="text-2xl font-bold text-gray-100 flex items-center gap-3">
+          <Cog6ToothIcon className="h-7 w-7 text-gray-400" />
+          Settings
+        </h1>
+        <p className="mt-2 text-gray-400">
+          Configure your AI services and manage your Smart Prompts preferences
+        </p>
+      </div>
+
+      {/* Settings Grid */}
+      <div className="grid gap-6">
+        {/* AI Services Section */}
+        <section className="bg-gray-800/50 rounded-xl p-6 border border-gray-700/50">
+          <ApiKeyManager />
+        </section>
+
+        {/* Additional Settings Sections */}
+        <section className="bg-gray-800/50 rounded-xl p-6 border border-gray-700/50">
+          <div className="flex items-center gap-2 mb-4">
+            <FunnelIcon className="h-5 w-5 text-gray-400" />
+            <h2 className="text-lg font-medium text-gray-200">Preferences</h2>
+          </div>
+          
+          <div className="grid gap-4">
+            {/* Default Model Selection */}
+            <div className="space-y-2">
+              <label className="block text-sm font-medium text-gray-300">
+                Default AI Model
+              </label>
+              <select className="w-full bg-gray-700 border-gray-600 rounded-lg text-gray-200 focus:ring-blue-500 focus:border-blue-500">
+                <option value="gpt-4">GPT-4</option>
+                <option value="gpt-3.5">GPT-3.5 Turbo</option>
+                <option value="claude-2">Claude 2</option>
+              </select>
+            </div>
+
+            {/* Default Temperature */}
+            <div className="space-y-2">
+              <label className="block text-sm font-medium text-gray-300">
+                Default Temperature
+              </label>
+              <input 
+                type="range" 
+                min="0" 
+                max="100" 
+                className="w-full accent-blue-500"
+              />
+              <div className="flex justify-between text-xs text-gray-400">
+                <span>Conservative</span>
+                <span>Balanced</span>
+                <span>Creative</span>
+              </div>
+            </div>
+
+            {/* Other preferences */}
+            <div className="space-y-2">
+              <label className="block text-sm font-medium text-gray-300">
+                Default Prompt Length
+              </label>
+              <div className="flex gap-3">
+                <button className="px-3 py-1.5 bg-gray-700 text-gray-300 rounded-lg hover:bg-gray-600">
+                  Short
+                </button>
+                <button className="px-3 py-1.5 bg-blue-600 text-white rounded-lg">
+                  Medium
+                </button>
+                <button className="px-3 py-1.5 bg-gray-700 text-gray-300 rounded-lg hover:bg-gray-600">
+                  Long
+                </button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="flex justify-between items-center mb-8">
@@ -271,6 +354,9 @@ const SmartPromptsPage = () => {
           {activeTab === 'ai-gen' && (
             <p className="text-gray-300">Generate AI-powered prompts with our advanced tools.</p>
           )}
+          {activeTab === 'settings' && (
+            <p className="text-gray-300">Configure your Smart Prompts settings.</p>
+          )}
         </div>
       </div>
 
@@ -279,8 +365,22 @@ const SmartPromptsPage = () => {
         <div className="flex justify-center items-center py-12">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
         </div>
+      ) : activeTab === 'settings' ? (
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: 20 }}
+        >
+          {renderSettingsContent()}
+        </motion.div>
       ) : activeTab === 'ai-gen' ? (
-        <AiPromptGenerator onSavePrompt={handleCreatePrompt} />
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: 20 }}
+        >
+          <AiPromptGenerator onSavePrompt={handleCreatePrompt} />
+        </motion.div>
       ) : prompts.length === 0 ? (
         renderEmptyState()
       ) : (
