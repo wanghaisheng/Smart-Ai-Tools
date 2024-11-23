@@ -1,0 +1,219 @@
+{
+  "prompts": [
+    {
+      "title": "Write Technical Documentation for {{software_product}}",
+      "content": "Create comprehensive technical documentation for {{software_product}}, including system architecture, API references, and deployment guides. Focus on {{specific_aspect}} and ensure it's suitable for {{target_audience}}.",
+      "description": "Generates detailed technical documentation for software products",
+      "category": "Technology",
+      "tags": ["documentation", "technical writing", "software"],
+      "variables": [
+        {
+          "name": "software_product",
+          "description": "The software product being documented",
+          "example": "Cloud Database Service"
+        },
+        {
+          "name": "specific_aspect",
+          "description": "Particular feature or component to focus on",
+          "example": "REST API endpoints"
+        },
+        {
+          "name": "target_audience",
+          "description": "The intended readers of the documentation",
+          "example": "Senior developers"
+        }
+      ]
+    },
+    {
+      "title": "Create a Cybersecurity Incident Response Plan",
+      "content": "Develop a detailed incident response plan for {{organization_type}} to address {{security_threat_type}}. Include detection, containment, eradication, and recovery procedures.",
+      "description": "Generates cybersecurity incident response procedures",
+      "category": "Technology",
+      "tags": ["cybersecurity", "incident response", "security"],
+      "variables": [
+        {
+          "name": "organization_type",
+          "description": "Type of organization the plan is for",
+          "example": "Financial institution"
+        },
+        {
+          "name": "security_threat_type",
+          "description": "Type of security threat to address",
+          "example": "Ransomware attack"
+        }
+      ]
+    },
+    {
+      "title": "Design System Architecture for {{application_type}}",
+      "content": "Create a detailed system architecture design for {{application_type}}, considering {{scalability_requirements}} and {{performance_needs}}. Include component diagrams and infrastructure specifications.",
+      "description": "Produces system architecture documentation",
+      "category": "Technology",
+      "tags": ["architecture", "system design", "infrastructure"],
+      "variables": [
+        {
+          "name": "application_type",
+          "description": "Type of application being designed",
+          "example": "E-commerce platform"
+        },
+        {
+          "name": "scalability_requirements",
+          "description": "Scalability needs of the system",
+          "example": "Support for 1 million concurrent users"
+        },
+        {
+          "name": "performance_needs",
+          "description": "Performance requirements",
+          "example": "Sub-second response time"
+        }
+      ]
+    },
+    {
+      "title": "Develop AI Model Training Guidelines",
+      "content": "Create guidelines for training {{ai_model_type}} models, including data preparation, model selection, hyperparameter tuning, and evaluation metrics for {{specific_use_case}}.",
+      "description": "Provides AI model training instructions",
+      "category": "Technology",
+      "tags": ["artificial intelligence", "machine learning", "model training"],
+      "variables": [
+        {
+          "name": "ai_model_type",
+          "description": "Type of AI model",
+          "example": "Natural Language Processing"
+        },
+        {
+          "name": "specific_use_case",
+          "description": "Specific application of the AI model",
+          "example": "Sentiment analysis"
+        }
+      ]
+    },
+    {
+      "title": "Create Cloud Migration Strategy",
+      "content": "Develop a comprehensive cloud migration strategy for {{current_infrastructure}} to {{target_cloud_platform}}, considering {{migration_priorities}}.",
+      "description": "Plans cloud migration procedures",
+      "category": "Technology",
+      "tags": ["cloud computing", "migration", "infrastructure"],
+      "variables": [
+        {
+          "name": "current_infrastructure",
+          "description": "Current infrastructure setup",
+          "example": "On-premise data center"
+        },
+        {
+          "name": "target_cloud_platform",
+          "description": "Target cloud platform",
+          "example": "AWS"
+        },
+        {
+          "name": "migration_priorities",
+          "description": "Key priorities for the migration",
+          "example": "Minimal downtime and data integrity"
+        }
+      ]
+    },
+    {
+      "title": "Write API Documentation for {{api_service}}",
+      "content": "Create detailed API documentation for {{api_service}}, including endpoints, request/response formats, authentication methods, and example usage for {{primary_use_case}}.",
+      "description": "Generates API documentation",
+      "category": "Technology",
+      "tags": ["API", "documentation", "development"],
+      "variables": [
+        {
+          "name": "api_service",
+          "description": "The API service being documented",
+          "example": "Payment Processing API"
+        },
+        {
+          "name": "primary_use_case",
+          "description": "Main use case of the API",
+          "example": "Processing credit card transactions"
+        }
+      ]
+    },
+    {
+      "title": "Create DevOps Pipeline Documentation",
+      "content": "Document the CI/CD pipeline for {{project_type}}, including {{build_tools}} configuration, testing procedures, and deployment strategies to {{deployment_environment}}.",
+      "description": "Documents DevOps processes and pipelines",
+      "category": "Technology",
+      "tags": ["DevOps", "CI/CD", "automation"],
+      "variables": [
+        {
+          "name": "project_type",
+          "description": "Type of project",
+          "example": "Microservices application"
+        },
+        {
+          "name": "build_tools",
+          "description": "Build tools used",
+          "example": "Jenkins and Docker"
+        },
+        {
+          "name": "deployment_environment",
+          "description": "Target deployment environment",
+          "example": "Kubernetes cluster"
+        }
+      ]
+    },
+    {
+      "title": "Develop Database Schema Documentation",
+      "content": "Create comprehensive documentation for {{database_type}} schema, including table structures, relationships, indexes, and optimization strategies for {{data_requirements}}.",
+      "description": "Documents database schema and design",
+      "category": "Technology",
+      "tags": ["database", "schema", "documentation"],
+      "variables": [
+        {
+          "name": "database_type",
+          "description": "Type of database",
+          "example": "PostgreSQL"
+        },
+        {
+          "name": "data_requirements",
+          "description": "Specific data requirements",
+          "example": "High-frequency financial transactions"
+        }
+      ]
+    },
+    {
+      "title": "Create IoT Device Integration Guide",
+      "content": "Develop an integration guide for {{iot_device}} with {{platform}}, including setup procedures, communication protocols, and data handling for {{use_case}}.",
+      "description": "Guides IoT device integration",
+      "category": "Technology",
+      "tags": ["IoT", "integration", "devices"],
+      "variables": [
+        {
+          "name": "iot_device",
+          "description": "IoT device type",
+          "example": "Smart temperature sensor"
+        },
+        {
+          "name": "platform",
+          "description": "Integration platform",
+          "example": "AWS IoT Core"
+        },
+        {
+          "name": "use_case",
+          "description": "Specific use case",
+          "example": "Industrial temperature monitoring"
+        }
+      ]
+    },
+    {
+      "title": "Write Blockchain Smart Contract Documentation",
+      "content": "Create documentation for smart contracts on {{blockchain_platform}}, including contract functions, security considerations, and deployment procedures for {{contract_purpose}}.",
+      "description": "Documents blockchain smart contracts",
+      "category": "Technology",
+      "tags": ["blockchain", "smart contracts", "cryptocurrency"],
+      "variables": [
+        {
+          "name": "blockchain_platform",
+          "description": "Blockchain platform",
+          "example": "Ethereum"
+        },
+        {
+          "name": "contract_purpose",
+          "description": "Purpose of the smart contract",
+          "example": "NFT marketplace"
+        }
+      ]
+    }
+  ]
+}

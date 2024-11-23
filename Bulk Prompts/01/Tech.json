@@ -1,0 +1,1322 @@
+{
+    "prompts": [
+      {
+        "title": "Explain Quantum Computing Concepts",
+        "content": "Write a detailed explanation about {quantum_concept} suitable for an audience with {audience_knowledge_level}. Include examples of {real_world_applications} and explain the implications for {industry}.",
+        "description": "Generates an informative piece explaining quantum computing concepts.",
+        "category": "Technology",
+        "tags": ["quantum computing", "education", "technology"],
+        "variables": [
+          {
+            "name": "quantum_concept",
+            "description": "Specific concept in quantum computing.",
+            "example": "quantum entanglement"
+          },
+          {
+            "name": "audience_knowledge_level",
+            "description": "The level of knowledge the audience has.",
+            "example": "beginner"
+          },
+          {
+            "name": "real_world_applications",
+            "description": "Practical applications of the concept.",
+            "example": "secure communication"
+          },
+          {
+            "name": "industry",
+            "description": "Industry impacted by the concept.",
+            "example": "cybersecurity"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Software Requirements Specification",
+        "content": "Create a detailed software requirements specification for a {software_type} application that performs {key_functions}. The specification should include {user_stories}, {functional_requirements}, and {non_functional_requirements}.",
+        "description": "Produces a comprehensive software requirements document.",
+        "category": "Technology",
+        "tags": ["software development", "requirements", "documentation"],
+        "variables": [
+          {
+            "name": "software_type",
+            "description": "Type of software application.",
+            "example": "mobile banking"
+          },
+          {
+            "name": "key_functions",
+            "description": "Core functions the software should perform.",
+            "example": "account management, fund transfers"
+          },
+          {
+            "name": "user_stories",
+            "description": "Scenarios from the user's perspective.",
+            "example": "As a user, I want to check my balance"
+          },
+          {
+            "name": "functional_requirements",
+            "description": "Specific functions the software must have.",
+            "example": "login authentication, transaction history"
+          },
+          {
+            "name": "non_functional_requirements",
+            "description": "System attributes like security and performance.",
+            "example": "data encryption, response time under 2 seconds"
+          }
+        ]
+      },
+      {
+        "title": "Write a Technology Trend Analysis Report",
+        "content": "Compose a report analyzing the current trends in {technology_field}. Include data on {market_growth}, discuss {emerging_technologies}, and predict {future_impacts} on {related_industries}.",
+        "description": "Generates a professional report on technology trends.",
+        "category": "Technology",
+        "tags": ["trend analysis", "report", "technology"],
+        "variables": [
+          {
+            "name": "technology_field",
+            "description": "Specific area of technology.",
+            "example": "artificial intelligence"
+          },
+          {
+            "name": "market_growth",
+            "description": "Data on market size and growth.",
+            "example": "AI market expected to reach $190 billion by 2025"
+          },
+          {
+            "name": "emerging_technologies",
+            "description": "New technologies in the field.",
+            "example": "edge AI, federated learning"
+          },
+          {
+            "name": "future_impacts",
+            "description": "Potential future effects.",
+            "example": "automation of routine tasks"
+          },
+          {
+            "name": "related_industries",
+            "description": "Industries that will be affected.",
+            "example": "healthcare, finance"
+          }
+        ]
+      },
+      {
+        "title": "Design a Network Architecture Diagram",
+        "content": "Create a network architecture diagram for a {organization_type} that requires {network_requirements}. Include components like {hardware_devices}, {security_measures}, and plan for {scalability_options}.",
+        "description": "Produces a visual representation of a network setup.",
+        "category": "Technology",
+        "tags": ["networking", "architecture", "design"],
+        "variables": [
+          {
+            "name": "organization_type",
+            "description": "Type of organization.",
+            "example": "medium-sized enterprise"
+          },
+          {
+            "name": "network_requirements",
+            "description": "Specific needs of the network.",
+            "example": "high availability, remote access"
+          },
+          {
+            "name": "hardware_devices",
+            "description": "Network hardware to include.",
+            "example": "routers, switches, firewalls"
+          },
+          {
+            "name": "security_measures",
+            "description": "Security protocols and devices.",
+            "example": "VPNs, intrusion detection systems"
+          },
+          {
+            "name": "scalability_options",
+            "description": "Plans for future expansion.",
+            "example": "cloud integration, modular design"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Cybersecurity Incident Response Plan",
+        "content": "Develop a comprehensive incident response plan for handling {cybersecurity_threats}. Outline steps for {detection_methods}, {containment_procedures}, and {recovery_processes}. Include roles for {team_members}.",
+        "description": "Creates a plan to respond to cybersecurity incidents.",
+        "category": "Technology",
+        "tags": ["cybersecurity", "incident response", "planning"],
+        "variables": [
+          {
+            "name": "cybersecurity_threats",
+            "description": "Types of threats to address.",
+            "example": "ransomware attacks"
+          },
+          {
+            "name": "detection_methods",
+            "description": "How threats will be identified.",
+            "example": "network monitoring, anomaly detection"
+          },
+          {
+            "name": "containment_procedures",
+            "description": "Steps to limit the impact.",
+            "example": "isolating affected systems"
+          },
+          {
+            "name": "recovery_processes",
+            "description": "Methods to restore normal operations.",
+            "example": "data backups, system reboots"
+          },
+          {
+            "name": "team_members",
+            "description": "Personnel involved in the response.",
+            "example": "IT security team, legal advisors"
+          }
+        ]
+      },
+      {
+        "title": "Draft an API Documentation",
+        "content": "Write detailed documentation for the {api_name} API that allows developers to {api_functionality}. Include sections on {endpoints}, {authentication_methods}, and provide {code_examples} in {programming_languages}.",
+        "description": "Generates developer-friendly API documentation.",
+        "category": "Technology",
+        "tags": ["API", "documentation", "development"],
+        "variables": [
+          {
+            "name": "api_name",
+            "description": "Name of the API.",
+            "example": "WeatherDataPro"
+          },
+          {
+            "name": "api_functionality",
+            "description": "What the API enables developers to do.",
+            "example": "access real-time weather data"
+          },
+          {
+            "name": "endpoints",
+            "description": "Available API endpoints.",
+            "example": "/current, /forecast, /historical"
+          },
+          {
+            "name": "authentication_methods",
+            "description": "How to authenticate requests.",
+            "example": "API keys, OAuth 2.0"
+          },
+          {
+            "name": "code_examples",
+            "description": "Sample code snippets.",
+            "example": "GET requests in Python and JavaScript"
+          },
+          {
+            "name": "programming_languages",
+            "description": "Languages for code examples.",
+            "example": "Python, JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Create a User Manual for a Tech Product",
+        "content": "Develop a user manual for the {product_name}, covering {setup_instructions}, {feature_explanations}, and {troubleshooting_tips}. Use clear language suitable for {target_audience}.",
+        "description": "Produces a comprehensive user guide for a technology product.",
+        "category": "Technology",
+        "tags": ["user manual", "documentation", "product"],
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "Name of the product.",
+            "example": "SmartHome Hub X2"
+          },
+          {
+            "name": "setup_instructions",
+            "description": "Guidelines to set up the product.",
+            "example": "hardware installation, initial configuration"
+          },
+          {
+            "name": "feature_explanations",
+            "description": "Detailed descriptions of features.",
+            "example": "voice control, remote access"
+          },
+          {
+            "name": "troubleshooting_tips",
+            "description": "Solutions to common issues.",
+            "example": "resetting the device, connectivity problems"
+          },
+          {
+            "name": "target_audience",
+            "description": "Intended users of the manual.",
+            "example": "non-technical consumers"
+          }
+        ]
+      },
+      {
+        "title": "Outline a Machine Learning Project Proposal",
+        "content": "Prepare a project proposal for developing a machine learning model to {solve_problem}. Include objectives like {performance_metrics}, discuss {data_requirements}, and outline {methodologies} to be used.",
+        "description": "Creates a proposal for a machine learning initiative.",
+        "category": "Technology",
+        "tags": ["machine learning", "project", "proposal"],
+        "variables": [
+          {
+            "name": "solve_problem",
+            "description": "Problem the ML model aims to solve.",
+            "example": "predict customer churn"
+          },
+          {
+            "name": "performance_metrics",
+            "description": "Metrics to evaluate the model.",
+            "example": "accuracy, precision, recall"
+          },
+          {
+            "name": "data_requirements",
+            "description": "Data needed for the project.",
+            "example": "customer interaction logs, transaction history"
+          },
+          {
+            "name": "methodologies",
+            "description": "Approach and algorithms to use.",
+            "example": "supervised learning, random forest classifier"
+          }
+        ]
+      },
+      {
+        "title": "Design a Mobile App Wireframe",
+        "content": "Create a wireframe for a mobile app that offers {app_services}. The design should focus on {user_experience_features} and be optimized for {platforms}. Include screens for {key_pages}.",
+        "description": "Generates a blueprint for a mobile application interface.",
+        "category": "Technology",
+        "tags": ["UI/UX design", "mobile app", "wireframe"],
+        "variables": [
+          {
+            "name": "app_services",
+            "description": "Services provided by the app.",
+            "example": "on-demand food delivery"
+          },
+          {
+            "name": "user_experience_features",
+            "description": "Important UX considerations.",
+            "example": "easy navigation, quick checkout"
+          },
+          {
+            "name": "platforms",
+            "description": "Operating systems targeted.",
+            "example": "iOS and Android"
+          },
+          {
+            "name": "key_pages",
+            "description": "Essential screens to design.",
+            "example": "home page, menu, cart, order tracking"
+          }
+        ]
+      },
+      {
+        "title": "Write a Technical Blog Post",
+        "content": "Compose a blog post about {technical_topic} that explains {key_concepts} and provides {practical_examples}. Target the content towards {reader_skill_level} developers.",
+        "description": "Produces an educational blog post on a technical subject.",
+        "category": "Technology",
+        "tags": ["blog", "education", "development"],
+        "variables": [
+          {
+            "name": "technical_topic",
+            "description": "Subject of the blog post.",
+            "example": "containerization with Docker"
+          },
+          {
+            "name": "key_concepts",
+            "description": "Important ideas to cover.",
+            "example": "creating Docker images, managing containers"
+          },
+          {
+            "name": "practical_examples",
+            "description": "Hands-on examples or tutorials.",
+            "example": "building a Dockerfile for a Node.js app"
+          },
+          {
+            "name": "reader_skill_level",
+            "description": "Skill level of the target audience.",
+            "example": "intermediate"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Test Plan for Software Application",
+        "content": "Create a detailed test plan for a {software_type} application focusing on {testing_types}. Include test cases for {core_features} and specify {testing_tools} to be used.",
+        "description": "Generates a comprehensive software testing strategy.",
+        "category": "Technology",
+        "tags": ["testing", "quality assurance", "software"],
+        "variables": [
+          {
+            "name": "software_type",
+            "description": "Type of software to test.",
+            "example": "e-commerce platform"
+          },
+          {
+            "name": "testing_types",
+            "description": "Kinds of testing to perform.",
+            "example": "unit testing, integration testing, performance testing"
+          },
+          {
+            "name": "core_features",
+            "description": "Main features to focus on.",
+            "example": "shopping cart, payment processing"
+          },
+          {
+            "name": "testing_tools",
+            "description": "Software tools for testing.",
+            "example": "Selenium, JUnit"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Email Migration Plan",
+        "content": "Draft a plan to migrate email services from {current_provider} to {new_provider}. Address {migration_steps}, potential {risks}, and include a {rollback_strategy}.",
+        "description": "Creates a structured approach for migrating email services.",
+        "category": "Technology",
+        "tags": ["migration", "IT", "planning"],
+        "variables": [
+          {
+            "name": "current_provider",
+            "description": "Existing email service provider.",
+            "example": "Microsoft Exchange"
+          },
+          {
+            "name": "new_provider",
+            "description": "New email service provider.",
+            "example": "Google Workspace"
+          },
+          {
+            "name": "migration_steps",
+            "description": "Sequential steps to perform the migration.",
+            "example": "data backup, DNS configuration, user training"
+          },
+          {
+            "name": "risks",
+            "description": "Possible issues that may arise.",
+            "example": "data loss, downtime"
+          },
+          {
+            "name": "rollback_strategy",
+            "description": "Plan to revert changes if needed.",
+            "example": "maintain backups, switch back DNS settings"
+          }
+        ]
+      },
+      {
+        "title": "Design an IoT System Architecture",
+        "content": "Create an architectural plan for an IoT system that monitors {environmental_parameters}. Include components like {sensors}, {communication_protocols}, and {data_processing_methods}.",
+        "description": "Outlines the structure of an Internet of Things system.",
+        "category": "Technology",
+        "tags": ["IoT", "architecture", "design"],
+        "variables": [
+          {
+            "name": "environmental_parameters",
+            "description": "Parameters to be monitored.",
+            "example": "temperature, humidity"
+          },
+          {
+            "name": "sensors",
+            "description": "Types of sensors required.",
+            "example": "thermistors, hygrometers"
+          },
+          {
+            "name": "communication_protocols",
+            "description": "Methods for data transmission.",
+            "example": "MQTT, Wi-Fi"
+          },
+          {
+            "name": "data_processing_methods",
+            "description": "How data will be processed and analyzed.",
+            "example": "edge computing, cloud analytics"
+          }
+        ]
+      },
+      {
+        "title": "Write a White Paper on Emerging Technology",
+        "content": "Compose a white paper discussing the potential of {emerging_technology} in transforming {industry_sector}. Include analysis of {benefits}, {challenges}, and {case_studies}.",
+        "description": "Generates an authoritative report on new technology applications.",
+        "category": "Technology",
+        "tags": ["white paper", "emerging technology", "industry"],
+        "variables": [
+          {
+            "name": "emerging_technology",
+            "description": "New technology to discuss.",
+            "example": "blockchain"
+          },
+          {
+            "name": "industry_sector",
+            "description": "Industry affected by the technology.",
+            "example": "supply chain management"
+          },
+          {
+            "name": "benefits",
+            "description": "Advantages offered by the technology.",
+            "example": "transparency, security"
+          },
+          {
+            "name": "challenges",
+            "description": "Obstacles to implementation.",
+            "example": "scalability issues, regulatory concerns"
+          },
+          {
+            "name": "case_studies",
+            "description": "Real-world examples.",
+            "example": "companies implementing blockchain for tracking goods"
+          }
+        ]
+      },
+      {
+        "title": "Create a Data Backup and Recovery Plan",
+        "content": "Develop a plan for backing up and recovering data for a {business_size} organization. Specify {backup_methods}, {storage_solutions}, and outline {recovery_procedures}.",
+        "description": "Provides a strategy for data protection and recovery.",
+        "category": "Technology",
+        "tags": ["data backup", "recovery", "IT"],
+        "variables": [
+          {
+            "name": "business_size",
+            "description": "Scale of the organization.",
+            "example": "small business"
+          },
+          {
+            "name": "backup_methods",
+            "description": "Techniques for backing up data.",
+            "example": "full backups, incremental backups"
+          },
+          {
+            "name": "storage_solutions",
+            "description": "Where backups will be stored.",
+            "example": "cloud storage, off-site servers"
+          },
+          {
+            "name": "recovery_procedures",
+            "description": "Steps to restore data.",
+            "example": "data retrieval protocols, system restoration"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Proposal for IT Infrastructure Upgrade",
+        "content": "Prepare a proposal to upgrade the IT infrastructure of a {company_type}. Address needs like {performance_improvements}, {security_enhancements}, and provide a {budget_estimate}.",
+        "description": "Creates a formal proposal for improving IT systems.",
+        "category": "Technology",
+        "tags": ["IT infrastructure", "proposal", "upgrade"],
+        "variables": [
+          {
+            "name": "company_type",
+            "description": "Type of company.",
+            "example": "retail chain"
+          },
+          {
+            "name": "performance_improvements",
+            "description": "Areas where performance can be enhanced.",
+            "example": "network speed, server uptime"
+          },
+          {
+            "name": "security_enhancements",
+            "description": "Security measures to implement.",
+            "example": "firewalls, intrusion detection systems"
+          },
+          {
+            "name": "budget_estimate",
+            "description": "Projected costs for the upgrade.",
+            "example": "$150,000"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Code Review Checklist",
+        "content": "Create a checklist for reviewing code in {programming_language}. Include items related to {code_quality}, {security}, and {performance}. Tailor it for {development_team_size}.",
+        "description": "Provides guidelines for conducting thorough code reviews.",
+        "category": "Technology",
+        "tags": ["code review", "development", "best practices"],
+        "variables": [
+          {
+            "name": "programming_language",
+            "description": "Language of the codebase.",
+            "example": "JavaScript"
+          },
+          {
+            "name": "code_quality",
+            "description": "Standards for code quality.",
+            "example": "readability, adherence to style guides"
+          },
+          {
+            "name": "security",
+            "description": "Security considerations.",
+            "example": "input validation, protection against injection attacks"
+          },
+          {
+            "name": "performance",
+            "description": "Performance optimization points.",
+            "example": "efficient algorithms, resource management"
+          },
+          {
+            "name": "development_team_size",
+            "description": "Size of the team using the checklist.",
+            "example": "a small team of 5 developers"
+          }
+        ]
+      },
+      {
+        "title": "Design a Cloud Migration Strategy",
+        "content": "Outline a strategy to migrate on-premises infrastructure to the {cloud_provider} cloud platform. Address {migration_phases}, {cost_estimations}, and include plans for {training_staff}.",
+        "description": "Creates a plan for moving services to the cloud.",
+        "category": "Technology",
+        "tags": ["cloud computing", "migration", "strategy"],
+        "variables": [
+          {
+            "name": "cloud_provider",
+            "description": "Cloud service provider.",
+            "example": "Amazon Web Services (AWS)"
+          },
+          {
+            "name": "migration_phases",
+            "description": "Stages of the migration process.",
+            "example": "assessment, planning, execution"
+          },
+          {
+            "name": "cost_estimations",
+            "description": "Projected expenses for migration.",
+            "example": "initial setup costs, ongoing operational costs"
+          },
+          {
+            "name": "training_staff",
+            "description": "Plans for staff education.",
+            "example": "AWS certification courses"
+          }
+        ]
+      },
+      {
+        "title": "Write a Tech Product Review",
+        "content": "Compose a comprehensive review of the {product_name}, focusing on {features}, {performance}, and {user_experience}. Provide comparisons with {competitor_products} and include a {recommendation}.",
+        "description": "Generates an in-depth review of a technology product.",
+        "category": "Technology",
+        "tags": ["product review", "analysis", "technology"],
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "Name of the product being reviewed.",
+            "example": "XYZ Smartwatch 3"
+          },
+          {
+            "name": "features",
+            "description": "Key features to highlight.",
+            "example": "heart rate monitoring, GPS tracking"
+          },
+          {
+            "name": "performance",
+            "description": "Assessment of how well the product works.",
+            "example": "battery life, responsiveness"
+          },
+          {
+            "name": "user_experience",
+            "description": "Ease of use and interface design.",
+            "example": "intuitive navigation, customization options"
+          },
+          {
+            "name": "competitor_products",
+            "description": "Similar products for comparison.",
+            "example": "ABC Fitness Tracker, DEF Smartwatch"
+          },
+          {
+            "name": "recommendation",
+            "description": "Final verdict on the product.",
+            "example": "Highly recommended for fitness enthusiasts"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Virtual Reality Application Proposal",
+        "content": "Prepare a proposal for creating a virtual reality application aimed at {target_audience}. The app will feature {key_elements} and will be used for {application_purpose}.",
+        "description": "Creates a plan for developing a VR application.",
+        "category": "Technology",
+        "tags": ["virtual reality", "application", "proposal"],
+        "variables": [
+          {
+            "name": "target_audience",
+            "description": "Intended users of the application.",
+            "example": "medical students"
+          },
+          {
+            "name": "key_elements",
+            "description": "Main features of the app.",
+            "example": "interactive anatomy lessons, simulated surgeries"
+          },
+          {
+            "name": "application_purpose",
+            "description": "The primary use of the app.",
+            "example": "educational training"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Ethical Hacking Tutorial",
+        "content": "Write a step-by-step tutorial on how to perform {ethical_hacking_technique} using {tools}. Emphasize {legal_considerations} and best practices for {security_improvement}.",
+        "description": "Provides educational content on ethical hacking methods.",
+        "category": "Technology",
+        "tags": ["cybersecurity", "tutorial", "ethical hacking"],
+        "variables": [
+          {
+            "name": "ethical_hacking_technique",
+            "description": "Specific hacking method to teach.",
+            "example": "penetration testing"
+          },
+          {
+            "name": "tools",
+            "description": "Software or tools required.",
+            "example": "Metasploit Framework"
+          },
+          {
+            "name": "legal_considerations",
+            "description": "Laws and ethics to be aware of.",
+            "example": "obtaining permission before testing"
+          },
+          {
+            "name": "security_improvement",
+            "description": "How the technique aids in security.",
+            "example": "identifying vulnerabilities in systems"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Patent Application for a Tech Invention",
+        "content": "Prepare a patent application for an invention that {invention_description}. Include detailed {technical_drawings}, explain the {novel_features}, and outline the {potential_applications}.",
+        "description": "Creates the documentation needed for a tech patent application.",
+        "category": "Technology",
+        "tags": ["patent", "invention", "legal"],
+        "variables": [
+          {
+            "name": "invention_description",
+            "description": "Overview of the invention.",
+            "example": "a new type of energy-efficient battery"
+          },
+          {
+            "name": "technical_drawings",
+            "description": "Visual representations of the invention.",
+            "example": "schematics, diagrams"
+          },
+          {
+            "name": "novel_features",
+            "description": "Unique aspects that make it patentable.",
+            "example": "innovative electrolyte composition"
+          },
+          {
+            "name": "potential_applications",
+            "description": "Ways the invention can be used.",
+            "example": "electric vehicles, portable devices"
+          }
+        ]
+      },
+      {
+        "title": "Create a Technical Presentation Slide Deck",
+        "content": "Design a slide deck for a presentation on {technical_topic}. Include slides on {introduction}, {main_points}, {data_visualizations}, and conclude with {call_to_action}.",
+        "description": "Produces a professional presentation on a technical subject.",
+        "category": "Technology",
+        "tags": ["presentation", "slide deck", "technical"],
+        "variables": [
+          {
+            "name": "technical_topic",
+            "description": "Subject of the presentation.",
+            "example": "the impact of 5G technology"
+          },
+          {
+            "name": "introduction",
+            "description": "Opening slides content.",
+            "example": "background on mobile networks"
+          },
+          {
+            "name": "main_points",
+            "description": "Key information to convey.",
+            "example": "benefits of 5G, challenges in deployment"
+          },
+          {
+            "name": "data_visualizations",
+            "description": "Graphs or charts to include.",
+            "example": "speed comparisons, adoption rates"
+          },
+          {
+            "name": "call_to_action",
+            "description": "What you want the audience to do next.",
+            "example": "invest in 5G infrastructure"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Robotics Project Plan",
+        "content": "Outline a project plan for building a robot that can {robot_functionality}. Detail the required {hardware_components}, {software_algorithms}, and set milestones for {development_phases}.",
+        "description": "Creates a roadmap for a robotics project.",
+        "category": "Technology",
+        "tags": ["robotics", "project plan", "engineering"],
+        "variables": [
+          {
+            "name": "robot_functionality",
+            "description": "What the robot is designed to do.",
+            "example": "navigate autonomously in a warehouse"
+          },
+          {
+            "name": "hardware_components",
+            "description": "Physical parts needed.",
+            "example": "sensors, microcontrollers, actuators"
+          },
+          {
+            "name": "software_algorithms",
+            "description": "Programming required.",
+            "example": "pathfinding, obstacle avoidance"
+          },
+          {
+            "name": "development_phases",
+            "description": "Stages of the project.",
+            "example": "design, prototyping, testing"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Data Privacy Policy",
+        "content": "Write a data privacy policy for a {type_of_website} that collects {types_of_data}. Include information on {data_usage}, {user_rights}, and comply with {regulatory_requirements}.",
+        "description": "Generates a policy document outlining data privacy practices.",
+        "category": "Technology",
+        "tags": ["privacy policy", "legal", "compliance"],
+        "variables": [
+          {
+            "name": "type_of_website",
+            "description": "Nature of the website.",
+            "example": "e-commerce site"
+          },
+          {
+            "name": "types_of_data",
+            "description": "Data collected from users.",
+            "example": "personal information, payment details"
+          },
+          {
+            "name": "data_usage",
+            "description": "How the data will be used.",
+            "example": "order processing, personalized recommendations"
+          },
+          {
+            "name": "user_rights",
+            "description": "Rights granted to users.",
+            "example": "access to data, deletion requests"
+          },
+          {
+            "name": "regulatory_requirements",
+            "description": "Laws to comply with.",
+            "example": "GDPR, CCPA"
+          }
+        ]
+      },
+      {
+        "title": "Design a Blockchain-based Application",
+        "content": "Outline a plan to develop a blockchain application for {use_case}. Specify the {blockchain_platform}, define {smart_contracts}, and discuss {security_measures}.",
+        "description": "Creates a development plan for a blockchain application.",
+        "category": "Technology",
+        "tags": ["blockchain", "application", "development"],
+        "variables": [
+          {
+            "name": "use_case",
+            "description": "The problem the application solves.",
+            "example": "supply chain transparency"
+          },
+          {
+            "name": "blockchain_platform",
+            "description": "The platform to build on.",
+            "example": "Ethereum"
+          },
+          {
+            "name": "smart_contracts",
+            "description": "Contracts that automate processes.",
+            "example": "automated payment upon delivery confirmation"
+          },
+          {
+            "name": "security_measures",
+            "description": "Methods to secure the application.",
+            "example": "encryption, consensus algorithms"
+          }
+        ]
+      },
+      {
+        "title": "Compose Guidelines for Remote Work Technology",
+        "content": "Write a set of guidelines for employees on using {remote_work_tools}. Include best practices for {communication}, {security}, and {productivity}.",
+        "description": "Provides instructions to optimize remote work technology usage.",
+        "category": "Technology",
+        "tags": ["remote work", "guidelines", "productivity"],
+        "variables": [
+          {
+            "name": "remote_work_tools",
+            "description": "Tools used for remote work.",
+            "example": "Zoom, Slack, VPN"
+          },
+          {
+            "name": "communication",
+            "description": "Best practices for staying connected.",
+            "example": "regular check-ins, status updates"
+          },
+          {
+            "name": "security",
+            "description": "How to maintain data security.",
+            "example": "using secure networks, strong passwords"
+          },
+          {
+            "name": "productivity",
+            "description": "Tips to remain productive.",
+            "example": "time management, avoiding distractions"
+          }
+        ]
+      },
+      {
+        "title": "Create a Proposal for an AI Chatbot",
+        "content": "Draft a proposal to develop an AI chatbot for {business_purpose}. Outline its {features}, discuss the {technologies_used}, and provide a {development_timeline}.",
+        "description": "Generates a plan for creating an AI chatbot.",
+        "category": "Technology",
+        "tags": ["AI", "chatbot", "proposal"],
+        "variables": [
+          {
+            "name": "business_purpose",
+            "description": "The main function of the chatbot.",
+            "example": "customer service support"
+          },
+          {
+            "name": "features",
+            "description": "Capabilities of the chatbot.",
+            "example": "natural language understanding, multilingual support"
+          },
+          {
+            "name": "technologies_used",
+            "description": "AI technologies and platforms.",
+            "example": "machine learning, NLP, TensorFlow"
+          },
+          {
+            "name": "development_timeline",
+            "description": "Projected schedule for development.",
+            "example": "6 months"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Cybersecurity Awareness Training",
+        "content": "Prepare training materials on cybersecurity awareness covering topics like {threat_types}, {best_practices}, and {incident_reporting}. Tailor it for {employee_level}.",
+        "description": "Creates content for educating employees on cybersecurity.",
+        "category": "Technology",
+        "tags": ["cybersecurity", "training", "education"],
+        "variables": [
+          {
+            "name": "threat_types",
+            "description": "Types of cyber threats to cover.",
+            "example": "phishing, malware"
+          },
+          {
+            "name": "best_practices",
+            "description": "Recommended security behaviors.",
+            "example": "password management, recognizing suspicious emails"
+          },
+          {
+            "name": "incident_reporting",
+            "description": "How to report security incidents.",
+            "example": "contacting IT, documenting the incident"
+          },
+          {
+            "name": "employee_level",
+            "description": "Target audience within the company.",
+            "example": "all staff members"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Proposal for Renewable Energy Technology",
+        "content": "Write a proposal to implement {renewable_energy_solution} in {location}. Include {cost_analysis}, {environmental_benefits}, and a plan for {community_engagement}.",
+        "description": "Generates a plan to adopt renewable energy technologies.",
+        "category": "Technology",
+        "tags": ["renewable energy", "proposal", "sustainability"],
+        "variables": [
+          {
+            "name": "renewable_energy_solution",
+            "description": "Type of renewable energy.",
+            "example": "solar power systems"
+          },
+          {
+            "name": "location",
+            "description": "Where the solution will be implemented.",
+            "example": "municipal buildings in City X"
+          },
+          {
+            "name": "cost_analysis",
+            "description": "Financial evaluation of the project.",
+            "example": "initial investment vs. long-term savings"
+          },
+          {
+            "name": "environmental_benefits",
+            "description": "Positive impacts on the environment.",
+            "example": "reduced carbon emissions"
+          },
+          {
+            "name": "community_engagement",
+            "description": "How the community will be involved.",
+            "example": "public forums, educational programs"
+          }
+        ]
+      },
+      {
+        "title": "Create a User Interface Design Guideline",
+        "content": "Develop a set of UI design guidelines for {application_type}, focusing on {usability_principles}, {accessibility_standards}, and {branding_elements}.",
+        "description": "Provides standards for designing user interfaces.",
+        "category": "Technology",
+        "tags": ["UI design", "guidelines", "UX"],
+        "variables": [
+          {
+            "name": "application_type",
+            "description": "Type of application.",
+            "example": "mobile health app"
+          },
+          {
+            "name": "usability_principles",
+            "description": "Key usability considerations.",
+            "example": "intuitive navigation, consistent layout"
+          },
+          {
+            "name": "accessibility_standards",
+            "description": "Standards to make the app accessible.",
+            "example": "WCAG compliance, screen reader support"
+          },
+          {
+            "name": "branding_elements",
+            "description": "Brand-specific design elements.",
+            "example": "color schemes, logo usage"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Proposal for Implementing 3D Printing",
+        "content": "Write a proposal to integrate 3D printing technology into {manufacturing_process}. Discuss {benefits}, required {equipment}, and {training} for staff.",
+        "description": "Creates a plan for adopting 3D printing in manufacturing.",
+        "category": "Technology",
+        "tags": ["3D printing", "manufacturing", "proposal"],
+        "variables": [
+          {
+            "name": "manufacturing_process",
+            "description": "The process to enhance with 3D printing.",
+            "example": "prototype development"
+          },
+          {
+            "name": "benefits",
+            "description": "Advantages of using 3D printing.",
+            "example": "reduced production time, cost savings"
+          },
+          {
+            "name": "equipment",
+            "description": "Hardware needed for implementation.",
+            "example": "industrial-grade 3D printers"
+          },
+          {
+            "name": "training",
+            "description": "Educational programs for employees.",
+            "example": "workshops on 3D modeling software"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Article on Ethical AI",
+        "content": "Write an article exploring the ethical considerations of {AI_application}. Discuss issues like {bias}, {transparency}, and suggest {best_practices}.",
+        "description": "Generates a thought-provoking piece on AI ethics.",
+        "category": "Technology",
+        "tags": ["AI ethics", "article", "technology"],
+        "variables": [
+          {
+            "name": "AI_application",
+            "description": "Specific AI use case.",
+            "example": "facial recognition technology"
+          },
+          {
+            "name": "bias",
+            "description": "Potential biases in AI systems.",
+            "example": "racial profiling, gender discrimination"
+          },
+          {
+            "name": "transparency",
+            "description": "Openness in AI algorithms.",
+            "example": "explainable AI, open-source models"
+          },
+          {
+            "name": "best_practices",
+            "description": "Recommendations for ethical AI use.",
+            "example": "regular audits, diverse training data"
+          }
+        ]
+      },
+      {
+        "title": "Create a Proposal for Smart City Technology",
+        "content": "Draft a proposal to implement smart city solutions in {city_name}. Focus on {technology_areas}, provide {budget_estimates}, and outline {implementation_timeline}.",
+        "description": "Plans the integration of technology into urban infrastructure.",
+        "category": "Technology",
+        "tags": ["smart city", "proposal", "urban planning"],
+        "variables": [
+          {
+            "name": "city_name",
+            "description": "Name of the city.",
+            "example": "Metropolis"
+          },
+          {
+            "name": "technology_areas",
+            "description": "Areas to apply smart solutions.",
+            "example": "traffic management, energy efficiency"
+          },
+          {
+            "name": "budget_estimates",
+            "description": "Financial projections.",
+            "example": "$10 million over 5 years"
+          },
+          {
+            "name": "implementation_timeline",
+            "description": "Schedule for rolling out technologies.",
+            "example": "pilot phase, full deployment"
+          }
+        ]
+      },
+      {
+        "title": "Design an Augmented Reality Experience",
+        "content": "Plan an augmented reality application for {industry_use}. Include {interactive_elements}, specify the {hardware_requirements}, and discuss {user_engagement_strategies}.",
+        "description": "Creates a blueprint for an AR application.",
+        "category": "Technology",
+        "tags": ["augmented reality", "design", "application"],
+        "variables": [
+          {
+            "name": "industry_use",
+            "description": "How the AR app will be used.",
+            "example": "retail product visualization"
+          },
+          {
+            "name": "interactive_elements",
+            "description": "Features that users can interact with.",
+            "example": "virtual try-on, 3D product models"
+          },
+          {
+            "name": "hardware_requirements",
+            "description": "Devices needed to run the app.",
+            "example": "smartphones with AR capabilities"
+          },
+          {
+            "name": "user_engagement_strategies",
+            "description": "Methods to keep users engaged.",
+            "example": "gamification, personalized content"
+          }
+        ]
+      },
+      {
+        "title": "Compose Guidelines for Data Visualization",
+        "content": "Develop guidelines for creating effective data visualizations for {data_type}. Emphasize {visual_best_practices}, recommend {tools}, and consider {audience_needs}.",
+        "description": "Provides standards for visualizing data effectively.",
+        "category": "Technology",
+        "tags": ["data visualization", "guidelines", "design"],
+        "variables": [
+          {
+            "name": "data_type",
+            "description": "Type of data to visualize.",
+            "example": "financial metrics"
+          },
+          {
+            "name": "visual_best_practices",
+            "description": "Principles of good visualization.",
+            "example": "clarity, simplicity, accuracy"
+          },
+          {
+            "name": "tools",
+            "description": "Software for creating visuals.",
+            "example": "Tableau, Power BI"
+          },
+          {
+            "name": "audience_needs",
+            "description": "Considerations based on who will view the data.",
+            "example": "executive summaries, detailed analysis for analysts"
+          }
+        ]
+      },
+      {
+        "title": "Draft a Proposal for AI in Healthcare",
+        "content": "Write a proposal to implement AI solutions in {healthcare_setting}. Discuss {benefits}, potential {ethical_concerns}, and outline {implementation_steps}.",
+        "description": "Creates a plan for integrating AI into healthcare.",
+        "category": "Technology",
+        "tags": ["AI", "healthcare", "proposal"],
+        "variables": [
+          {
+            "name": "healthcare_setting",
+            "description": "Type of healthcare environment.",
+            "example": "hospital diagnostics"
+          },
+          {
+            "name": "benefits",
+            "description": "Advantages of using AI.",
+            "example": "improved accuracy, faster results"
+          },
+          {
+            "name": "ethical_concerns",
+            "description": "Possible ethical issues.",
+            "example": "patient privacy, algorithmic bias"
+          },
+          {
+            "name": "implementation_steps",
+            "description": "How to introduce AI solutions.",
+            "example": "pilot programs, staff training"
+          }
+        ]
+      },
+      {
+        "title": "Create a Disaster Recovery Plan for IT Systems",
+        "content": "Develop a disaster recovery plan for {organization_type} focusing on {critical_systems}. Include {risk_assessment}, {recovery_strategies}, and {communication_plan}.",
+        "description": "Prepares an organization for IT disasters.",
+        "category": "Technology",
+        "tags": ["disaster recovery", "IT", "planning"],
+        "variables": [
+          {
+            "name": "organization_type",
+            "description": "Type of organization.",
+            "example": "financial institution"
+          },
+          {
+            "name": "critical_systems",
+            "description": "Systems essential to operations.",
+            "example": "transaction processing, customer databases"
+          },
+          {
+            "name": "risk_assessment",
+            "description": "Evaluation of potential risks.",
+            "example": "natural disasters, cyberattacks"
+          },
+          {
+            "name": "recovery_strategies",
+            "description": "Methods to restore systems.",
+            "example": "data replication, failover systems"
+          },
+          {
+            "name": "communication_plan",
+            "description": "How to inform stakeholders.",
+            "example": "notification protocols, status updates"
+          }
+        ]
+      },
+      {
+        "title": "Compose an Article on 5G Technology Impact",
+        "content": "Write an article discussing the impact of 5G technology on {industry_sector}. Cover {opportunities}, {challenges}, and future {predictions}.",
+        "description": "Explores how 5G will transform industries.",
+        "category": "Technology",
+        "tags": ["5G", "article", "technology impact"],
+        "variables": [
+          {
+            "name": "industry_sector",
+            "description": "Industry to focus on.",
+            "example": "autonomous vehicles"
+          },
+          {
+            "name": "opportunities",
+            "description": "New possibilities enabled by 5G.",
+            "example": "real-time data processing"
+          },
+          {
+            "name": "challenges",
+            "description": "Obstacles to adoption.",
+            "example": "infrastructure costs, regulatory hurdles"
+          },
+          {
+            "name": "predictions",
+            "description": "Future developments.",
+            "example": "mass adoption of connected cars by 2030"
+          }
+        ]
+      },
+      {
+        "title": "Design a Voice User Interface (VUI)",
+        "content": "Create a design plan for a voice user interface for {application_type}. Define {user_commands}, outline {response_behaviors}, and ensure compliance with {accessibility_guidelines}.",
+        "description": "Plans the development of a voice-controlled interface.",
+        "category": "Technology",
+        "tags": ["VUI", "design", "voice technology"],
+        "variables": [
+          {
+            "name": "application_type",
+            "description": "Type of application.",
+            "example": "smart home control system"
+          },
+          {
+            "name": "user_commands",
+            "description": "Commands users can say.",
+            "example": "\"Turn on the lights\", \"Set thermostat to 70 degrees\""
+          },
+          {
+            "name": "response_behaviors",
+            "description": "How the system responds.",
+            "example": "audible confirmations, status updates"
+          },
+          {
+            "name": "accessibility_guidelines",
+            "description": "Standards to make the VUI accessible.",
+            "example": "support for multiple languages, speech recognition accuracy"
+          }
+        ]
+      },
+      {
+        "title": "Compose a Report on Cloud Security Best Practices",
+        "content": "Write a report detailing best practices for securing cloud environments in {industry}. Cover areas like {data_protection}, {access_control}, and {compliance}.",
+        "description": "Provides guidance on maintaining security in the cloud.",
+        "category": "Technology",
+        "tags": ["cloud security", "best practices", "report"],
+        "variables": [
+          {
+            "name": "industry",
+            "description": "Industry context.",
+            "example": "healthcare"
+          },
+          {
+            "name": "data_protection",
+            "description": "Methods to safeguard data.",
+            "example": "encryption, backups"
+          },
+          {
+            "name": "access_control",
+            "description": "Managing user access.",
+            "example": "role-based permissions, multi-factor authentication"
+          },
+          {
+            "name": "compliance",
+            "description": "Meeting regulatory standards.",
+            "example": "HIPAA, GDPR"
+          }
+        ]
+      },
+      {
+        "title": "Develop a Plan for Implementing Edge Computing",
+        "content": "Outline a strategy to integrate edge computing into {business_operations}. Discuss {use_cases}, required {infrastructure}, and {potential_benefits}.",
+        "description": "Creates a plan for adopting edge computing technology.",
+        "category": "Technology",
+        "tags": ["edge computing", "implementation", "strategy"],
+        "variables": [
+          {
+            "name": "business_operations",
+            "description": "Areas of business to enhance.",
+            "example": "real-time analytics in retail stores"
+          },
+          {
+            "name": "use_cases",
+            "description": "Specific applications of edge computing.",
+            "example": "inventory management, customer behavior analysis"
+          },
+          {
+            "name": "infrastructure",
+            "description": "Hardware and software needed.",
+            "example": "edge servers, IoT devices"
+          },
+          {
+            "name": "potential_benefits",
+            "description": "Advantages of implementation.",
+            "example": "reduced latency, improved data processing"
+          }
+        ]
+      },
+      {
+        "title": "Compose Guidelines for BYOD (Bring Your Own Device)",
+        "content": "Develop guidelines for employees who use personal devices for work. Address {security_policies}, {acceptable_use}, and {support_procedures}.",
+        "description": "Provides a policy framework for BYOD practices.",
+        "category": "Technology",
+        "tags": ["BYOD", "policy", "IT management"],
+        "variables": [
+          {
+            "name": "security_policies",
+            "description": "Rules to protect company data.",
+            "example": "mandatory antivirus software, device encryption"
+          },
+          {
+            "name": "acceptable_use",
+            "description": "What is permissible on personal devices.",
+            "example": "restrictions on accessing sensitive data"
+          },
+          {
+            "name": "support_procedures",
+            "description": "How IT support will be provided.",
+            "example": "limited support for approved apps"
+          }
+        ]
+      }
+    ]
+  }
+  
