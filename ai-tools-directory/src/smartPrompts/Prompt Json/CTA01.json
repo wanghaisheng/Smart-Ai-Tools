@@ -1,0 +1,245 @@
+{
+    "prompts": [
+      {
+        "title": "Limited-Time Discount Offer",
+        "content": "Unlock an exclusive **{{discountPercentage}}% off** your first purchase with us! Hurry, this offer is only available for a limited time.\n\n**Why wait?**\n- Get access to premium features at a fraction of the cost.\n- Boost your productivity instantly.\n- No hidden fees, just pure value.\n\n**Sign up today** and claim your discount before it expires!\n\n[**Claim Your Discount Now**]",
+        "description": "Encourage users to act quickly with a limited-time offer, driving urgency.",
+        "category": "Marketing",
+        "subcategory": "Discount Offers",
+        "variables": [
+          {
+            "name": "discountPercentage",
+            "description": "The percentage discount offered to the user",
+            "defaultValue": "20"
+          }
+        ],
+        "tags": ["CTA", "discount", "limited-time offer"]
+      },
+      {
+        "title": "Exclusive Webinar Registration",
+        "content": "Register now for our **free webinar** on **{{topic}}** and gain expert insights from industry leaders.\n\n**What You'll Learn**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Reserve Your Spot** before it fills up!\n\n[**Register Now**]",
+        "description": "Encourage users to register for an exclusive webinar, highlighting key benefits.",
+        "category": "Webinars",
+        "subcategory": "Event Registration",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The topic or theme of the webinar",
+            "defaultValue": "Digital Marketing Strategies"
+          },
+          {
+            "name": "benefit1",
+            "description": "First key benefit of attending the webinar",
+            "defaultValue": "How to drive more leads"
+          },
+          {
+            "name": "benefit2",
+            "description": "Second key benefit of attending the webinar",
+            "defaultValue": "Proven techniques for higher conversions"
+          },
+          {
+            "name": "benefit3",
+            "description": "Third key benefit of attending the webinar",
+            "defaultValue": "Expert tips and tricks from top marketers"
+          }
+        ],
+        "tags": ["webinar", "registration", "expert advice"]
+      },
+      {
+        "title": "Start Your Free Trial",
+        "content": "Start your **free trial** of **{{productName}}** today and experience all of its powerful features.\n\n- **Zero Commitment**: No credit card required.\n- **Full Access**: Try everything, risk-free.\n- **No Hidden Charges**: Full transparency.\n\n**Get started** now and see how it works for you!\n\n[**Start Free Trial**]",
+        "description": "Offer a risk-free trial to encourage sign-ups and conversions.",
+        "category": "Product Trials",
+        "subcategory": "Free Trials",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "The name of the product being offered in the trial",
+            "defaultValue": "Our Software"
+          }
+        ],
+        "tags": ["CTA", "trial", "free trial"]
+      },
+      {
+        "title": "Download Our E-Book",
+        "content": "Download your **free e-book** on **{{topic}}** and start improving your skills today.\n\n**What’s Inside**:\n- {{highlight1}}\n- {{highlight2}}\n- {{highlight3}}\n\n**Don’t miss out** on this valuable resource!\n\n[**Download Now**]",
+        "description": "Encourage users to download a free e-book, showcasing its value.",
+        "category": "Content Marketing",
+        "subcategory": "Lead Magnets",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The topic of the e-book",
+            "defaultValue": "SEO Best Practices"
+          },
+          {
+            "name": "highlight1",
+            "description": "First key point or feature of the e-book",
+            "defaultValue": "Proven SEO techniques"
+          },
+          {
+            "name": "highlight2",
+            "description": "Second key point or feature of the e-book",
+            "defaultValue": "Actionable strategies for beginners"
+          },
+          {
+            "name": "highlight3",
+            "description": "Third key point or feature of the e-book",
+            "defaultValue": "Expert tips and tools for optimization"
+          }
+        ],
+        "tags": ["ebook", "download", "lead magnet"]
+      },
+      {
+        "title": "Request a Demo",
+        "content": "Want to see how **{{productName}}** can transform your business? Request a personalized demo today.\n\n**What you’ll get**:\n- Tailored walkthrough of key features\n- Insight into how the product can solve your challenges\n- Answers to all your questions from an expert\n\n**Book your demo** now and discover the difference!\n\n[**Request Demo**]",
+        "description": "Encourage users to request a personalized demo of your product.",
+        "category": "Sales",
+        "subcategory": "Demo Requests",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "The product name being demoed",
+            "defaultValue": "Our Solution"
+          }
+        ],
+        "tags": ["demo", "sales", "request"]
+      },
+      {
+        "title": "Join Our Community",
+        "content": "Become a part of our growing community of **{{audienceType}}** and gain exclusive access to expert advice, resources, and updates.\n\n**What You’ll Enjoy**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Join Now** and start connecting with like-minded individuals!\n\n[**Join Now**]",
+        "description": "Invite users to join a community, showcasing the benefits of being part of it.",
+        "category": "Community Building",
+        "subcategory": "Membership",
+        "variables": [
+          {
+            "name": "audienceType",
+            "description": "Type of audience or community members",
+            "defaultValue": "professionals"
+          },
+          {
+            "name": "benefit1",
+            "description": "First benefit of joining the community",
+            "defaultValue": "Networking opportunities"
+          },
+          {
+            "name": "benefit2",
+            "description": "Second benefit of joining the community",
+            "defaultValue": "Exclusive events and content"
+          },
+          {
+            "name": "benefit3",
+            "description": "Third benefit of joining the community",
+            "defaultValue": "Expert guidance and support"
+          }
+        ],
+        "tags": ["community", "membership", "networking"]
+      },
+      {
+        "title": "Get Instant Access",
+        "content": "Get **instant access** to **{{resourceName}}** and start using it right away.\n\n- **Instant download**\n- **No sign-up required**\n- **Start immediately**\n\n**Get started** now and experience the benefits today!\n\n[**Get Instant Access**]",
+        "description": "Offer immediate access to a resource, emphasizing ease and speed.",
+        "category": "Content",
+        "subcategory": "Instant Access",
+        "variables": [
+          {
+            "name": "resourceName",
+            "description": "Name of the resource being offered",
+            "defaultValue": "the guide"
+          }
+        ],
+        "tags": ["instant access", "download", "CTA"]
+      },
+      {
+        "title": "Subscribe for Updates",
+        "content": "Stay ahead of the curve by subscribing to our newsletter for the latest **{{industry}}** news, tips, and exclusive content.\n\n- **Get regular updates**\n- **Stay informed** on trends\n- **Receive actionable insights**\n\n**Sign up now** and never miss a beat!\n\n[**Subscribe Now**]",
+        "description": "Encourage users to subscribe to a newsletter for ongoing updates.",
+        "category": "Subscriptions",
+        "subcategory": "Newsletters",
+        "variables": [
+          {
+            "name": "industry",
+            "description": "Industry or niche the newsletter covers",
+            "defaultValue": "digital marketing"
+          }
+        ],
+        "tags": ["subscription", "newsletter", "updates"]
+      },
+      {
+        "title": "Explore Our Solutions",
+        "content": "Discover how **{{productName}}** can help you achieve your goals and solve your biggest challenges.\n\n- **Features**: {{feature1}}, {{feature2}}, {{feature3}}\n- **Benefits**: {{benefit1}}, {{benefit2}}\n- **Success stories**: See how others have succeeded with us.\n\n**Start exploring** now and see what we can do for you!\n\n[**Explore Now**]",
+        "description": "Encourage users to learn more about your product or service and its benefits.",
+        "category": "Product Discovery",
+        "subcategory": "Product Exploration",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product being explored",
+            "defaultValue": "Our Service"
+          },
+          {
+            "name": "feature1",
+            "description": "First key feature of the product",
+            "defaultValue": "Easy integration"
+          },
+          {
+            "name": "feature2",
+            "description": "Second key feature of the product",
+            "defaultValue": "Real-time analytics"
+          },
+          {
+            "name": "feature3",
+            "description": "Third key feature of the product",
+            "defaultValue": "Scalable performance"
+          },
+          {
+            "name": "benefit1",
+            "description": "First key benefit of the product",
+            "defaultValue": "Increase efficiency"
+          },
+          {
+            "name": "benefit2",
+            "description": "Second key benefit of the product",
+            "defaultValue": "Save time and costs"
+          }
+        ],
+        "tags": ["CTA", "explore", "product features"]
+      },
+      {
+        "title": "Shop Now for Exclusive Deals",
+        "content": "Don’t miss out on **exclusive deals** available only to our subscribers. Shop now and enjoy big savings on **{{productCategory}}**.\n\n- **Up to {{discountPercentage}}% off** on select items\n- **Free shipping** on all orders\n- **Limited stock** – act fast!\n\n**Shop now** before the deals disappear!\n\n[**Shop Now**]",
+        "description": "Create urgency and excitement around exclusive offers.",
+        "category": "E-commerce",
+        "subcategory": "Sales",
+        "variables": [
+          {
+            "name": "productCategory",
+            "description": "Category of products on sale",
+            "defaultValue": "electronics"
+          },
+          {
+            "name": "discountPercentage",
+            "description": "Percentage of discount offered on select items",
+            "defaultValue": "30"
+          }
+        ],
+        "tags": ["ecommerce", "sale", "exclusive deals"]
+      },
+      {
+        "title": "Sign Up for VIP Access",
+        "content": "Become a **VIP member** today and get exclusive benefits, including early access to **{{productName}}**, special promotions, and personalized support.\n\n- **Priority access** to new features\n- **VIP-only discounts**\n- **Exclusive content and events**\n\n**Sign up now** to unlock VIP perks!\n\n[**Join VIP Now**]",
+        "description": "Invite users to join a VIP membership program for exclusive benefits.",
+        "category": "Membership",
+        "subcategory": "VIP Access",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Product or service the VIP members will receive early access to",
+            "defaultValue": "our latest release"
+          }
+        ],
+        "tags": ["VIP", "membership", "exclusive benefits"]
+      }
+    ]
+  }
+  

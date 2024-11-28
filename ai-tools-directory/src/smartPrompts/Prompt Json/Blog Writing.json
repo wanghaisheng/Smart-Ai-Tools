@@ -1,0 +1,270 @@
+{
+    "prompts": [
+      {
+        "title": "Blog Post Generator",
+        "content": "Write a comprehensive blog post about {{topic}} that includes:\n1. Engaging introduction\n2. Key points and analysis\n3. Relevant examples\n4. Expert insights\n5. Actionable takeaways\n6. Compelling conclusion\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate well-structured, SEO-friendly blog posts on any topic",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "Main topic of the blog post",
+            "defaultValue": "digital transformation"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "business professionals"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., professional, casual, academic)",
+            "defaultValue": "professional"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1000 words"
+          }
+        ],
+        "tags": ["blog", "content writing", "SEO"]
+      },
+      {
+        "title": "How-to Guide Blog Post",
+        "content": "Write a step-by-step blog post on how to {{process}} using {{tools}}. Include clear instructions, tips, and visuals if necessary.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a how-to guide for explaining processes clearly",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "process",
+            "description": "The process being explained",
+            "defaultValue": "set up an online store"
+          },
+          {
+            "name": "tools",
+            "description": "The tools used in the process",
+            "defaultValue": "Shopify"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "small business owners"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., professional, casual, instructional)",
+            "defaultValue": "instructional"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1200 words"
+          }
+        ],
+        "tags": ["how-to", "guide", "blog"]
+      },
+      {
+        "title": "Listicle Blog Post",
+        "content": "Write a listicle blog post titled 'Top {{number}} ways to {{action}}'. Include engaging bullet points, relevant examples, and actionable tips.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a listicle blog post with actionable points",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "number",
+            "description": "Number of ways",
+            "defaultValue": "10"
+          },
+          {
+            "name": "action",
+            "description": "Action being performed",
+            "defaultValue": "improve productivity"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "entrepreneurs"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., informative, fun, serious)",
+            "defaultValue": "informative"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1500 words"
+          }
+        ],
+        "tags": ["listicle", "blog", "content writing"]
+      },
+      {
+        "title": "Expert Roundup Blog Post",
+        "content": "Write a blog post that compiles expert opinions on {{topic}}. Include at least {{number}} expert quotes or insights. Provide context and analysis for each expert's point of view.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a roundup blog post with expert insights",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "Main topic of the blog post",
+            "defaultValue": "AI in healthcare"
+          },
+          {
+            "name": "number",
+            "description": "Number of experts to feature",
+            "defaultValue": "5"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "healthcare professionals"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., professional, casual, journalistic)",
+            "defaultValue": "professional"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "2000 words"
+          }
+        ],
+        "tags": ["expert roundup", "blog", "content writing"]
+      },
+      {
+        "title": "Case Study Blog Post",
+        "content": "Write a detailed case study about {{company}}'s success with {{strategy}}. Include background, challenges, solutions, results, and lessons learned.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a detailed case study blog post",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "company",
+            "description": "Name of the company featured",
+            "defaultValue": "XYZ Corp"
+          },
+          {
+            "name": "strategy",
+            "description": "The strategy being analyzed",
+            "defaultValue": "digital marketing"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "business owners"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., analytical, storytelling)",
+            "defaultValue": "analytical"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "2500 words"
+          }
+        ],
+        "tags": ["case study", "business blog", "content writing"]
+      },
+      {
+        "title": "How-to Blog Post with Visuals",
+        "content": "Write a detailed blog post on how to {{process}} using {{tools}}. Include step-by-step instructions and insert relevant visuals (e.g., screenshots, diagrams).\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a blog post with visuals for easier understanding",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "process",
+            "description": "The process being explained",
+            "defaultValue": "set up an e-commerce website"
+          },
+          {
+            "name": "tools",
+            "description": "The tools used in the process",
+            "defaultValue": "WordPress"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "beginner website owners"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., instructional, casual)",
+            "defaultValue": "instructional"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1500 words"
+          }
+        ],
+        "tags": ["how-to", "blog", "content writing"]
+      },
+      {
+        "title": "Interview-style Blog Post",
+        "content": "Write a blog post that features an interview with an expert in {{industry}}. The post should include direct quotes, analysis of the answers, and relevant context.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate a blog post in an interview format",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "industry",
+            "description": "Industry being discussed",
+            "defaultValue": "finance"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "investors"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., conversational, formal)",
+            "defaultValue": "conversational"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1800 words"
+          }
+        ],
+        "tags": ["interview", "blog", "content writing"]
+      },
+      {
+        "title": "Opinion Piece Blog Post",
+        "content": "Write a blog post expressing your opinion on {{topic}}. Support your argument with facts, data, and relevant examples. Provide a clear conclusion.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate an opinion piece with supporting evidence",
+        "category": "Content Creation",
+        "subcategory": "Blog Writing",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "Topic of the opinion piece",
+            "defaultValue": "remote work"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "HR managers"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., persuasive, assertive)",
+            "defaultValue": "persuasive"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1200 words"
+          }
+        ],
+        "tags": ["opinion", "blog", "content writing"]
+      }
+    ]
+  }
+  

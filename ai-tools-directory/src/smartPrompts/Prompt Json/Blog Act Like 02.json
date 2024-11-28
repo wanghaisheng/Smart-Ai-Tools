@@ -1,0 +1,354 @@
+{
+  "prompts": [
+    {
+      "title": "Product Review Blog Post",
+      "content": "Act like a professional product reviewer. Write a detailed review of {{product}}. Include pros, cons, key features, performance, and comparisons with similar products in the market.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a detailed product review blog post with pros and cons",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "product",
+          "description": "Product being reviewed",
+          "defaultValue": "smartphone"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "tech enthusiasts"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., objective, critical, positive)",
+          "defaultValue": "objective"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        }
+      ],
+      "tags": ["product review", "blog", "content writing"]
+    },
+    {
+      "title": "Trending Topics Blog Post",
+      "content": "Act like a social media strategist. Write a blog post about the current trending topic {{topic}}. Include context, recent developments, and potential future trends.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post about trending topics with analysis and predictions",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Trending topic of interest",
+          "defaultValue": "AI in education"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "tech professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., analytical, news-style, opinionated)",
+          "defaultValue": "analytical"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1000 words"
+        }
+      ],
+      "tags": ["trending topics", "blog", "content writing"]
+    },
+    {
+      "title": "Industry Trends Blog Post",
+      "content": "Act like a business analyst. Write a blog post discussing the latest trends in the {{industry}} sector. Highlight key developments, challenges, and predictions.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post analyzing the latest industry trends",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "industry",
+          "description": "Industry being analyzed",
+          "defaultValue": "healthcare"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "industry professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, formal, critical)",
+          "defaultValue": "professional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "2000 words"
+        }
+      ],
+      "tags": ["industry trends", "blog", "content writing"]
+    },
+    {
+      "title": "How-to Tutorial with Case Studies",
+      "content": "Act like an experienced trainer. Write a blog post providing a tutorial on how to {{action}}. Include real-world case studies, actionable tips, and potential pitfalls to avoid.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a tutorial blog post with case studies and practical insights",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "action",
+          "description": "Action or process being taught",
+          "defaultValue": "optimize your website for SEO"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "small business owners"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., educational, motivational)",
+          "defaultValue": "educational"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["how-to", "tutorial", "content writing"]
+    },
+    {
+      "title": "Comparison Blog Post",
+      "content": "Act like a tech reviewer. Write a blog post comparing {{product1}} and {{product2}}. Include features, performance, pricing, and value for money. Offer a final recommendation.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a comparison blog post between two products with a recommendation",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "product1",
+          "description": "First product being compared",
+          "defaultValue": "iPhone 15"
+        },
+        {
+          "name": "product2",
+          "description": "Second product being compared",
+          "defaultValue": "Samsung Galaxy S24"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "tech buyers"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., impartial, expert)",
+          "defaultValue": "impartial"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1800 words"
+        }
+      ],
+      "tags": ["comparison", "product review", "blog"]
+    },
+    {
+      "title": "Guest Post Invitation Blog Post",
+      "content": "Act like a community manager. Write a blog post inviting industry experts to submit guest posts on {{topic}}. Highlight the benefits, guidelines, and submission process.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post inviting guest contributors for a specific topic",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Topic for guest submissions",
+          "defaultValue": "digital marketing"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "content creators"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., friendly, professional)",
+          "defaultValue": "friendly"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1000 words"
+        }
+      ],
+      "tags": ["guest post", "blog", "content writing"]
+    },
+    {
+      "title": "Behind-the-Scenes Blog Post",
+      "content": "Act like a brand ambassador. Write a blog post that takes readers behind the scenes at {{company}}. Include a day in the life of employees, processes, and company culture.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a behind-the-scenes blog post showcasing company culture and operations",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "company",
+          "description": "Company being featured",
+          "defaultValue": "Tech Innovations Inc."
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "prospective employees"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., casual, corporate)",
+          "defaultValue": "casual"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        }
+      ],
+      "tags": ["behind-the-scenes", "company culture", "blog"]
+    },
+    {
+      "title": "Seasonal Blog Post",
+      "content": "Act like a seasonal content creator. Write a blog post about how to prepare for {{season}}. Include tips, must-have products, and seasonal trends.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a seasonal blog post with relevant tips and recommendations",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "season",
+          "description": "Season being discussed",
+          "defaultValue": "summer"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "outdoor enthusiasts"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., upbeat, informative)",
+          "defaultValue": "informative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "800 words"
+        }
+      ],
+      "tags": ["seasonal", "tips", "blog"]
+    },
+    {
+      "title": "Lifestyle Blogger",
+      "content": "Act as a lifestyle blogger and create an engaging blog post about {{topic}}. Include:\n\n1. Personal experiences\n2. Expert advice\n3. Product recommendations\n4. Lifestyle tips\n5. Practical solutions\n6. Reader engagement questions\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}\nStyle: {{style}}",
+      "description": "Generate lifestyle blog posts with personal insights and recommendations",
+      "category": "Content Creation",
+      "subcategory": "Lifestyle Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Lifestyle topic to write about",
+          "defaultValue": "work-life balance"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "young professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., friendly, relatable, inspiring)",
+          "defaultValue": "friendly"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        },
+        {
+          "name": "style",
+          "description": "Writing style (e.g., conversational, personal)",
+          "defaultValue": "conversational"
+        }
+      ],
+      "tags": ["lifestyle blog", "personal development", "advice"]
+    },
+    {
+      "title": "Fashion Blogger",
+      "content": "Act as a fashion blogger and write a trendy blog post about {{topic}}. Include:\n\n1. Current trends\n2. Style tips\n3. Outfit combinations\n4. Shopping recommendations\n5. Seasonal advice\n6. Fashion dos and don'ts\n\nFashion season: {{season}}\nStyle category: {{category}}\nBudget range: {{budget}}\nOccasion: {{occasion}}",
+      "description": "Generate fashion blog posts with style tips and trends",
+      "category": "Content Creation",
+      "subcategory": "Fashion Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Fashion topic to write about",
+          "defaultValue": "sustainable fashion"
+        },
+        {
+          "name": "season",
+          "description": "Fashion season",
+          "defaultValue": "summer"
+        },
+        {
+          "name": "category",
+          "description": "Style category",
+          "defaultValue": "casual wear"
+        },
+        {
+          "name": "budget",
+          "description": "Budget range",
+          "defaultValue": "affordable"
+        },
+        {
+          "name": "occasion",
+          "description": "Occasion type",
+          "defaultValue": "everyday wear"
+        }
+      ],
+      "tags": ["fashion blog", "style tips", "trends"]
+    },
+    {
+      "title": "Fitness Blogger",
+      "content": "Act as a fitness blogger and create an informative blog post about {{topic}}. Include:\n\n1. Exercise routines\n2. Nutrition advice\n3. Workout tips\n4. Progress tracking\n5. Common mistakes to avoid\n6. Success stories\n7. Scientific research\n\nFitness level: {{level}}\nWorkout type: {{workoutType}}\nDuration: {{duration}}\nEquipment needed: {{equipment}}",
+      "description": "Generate fitness blog posts with workout plans and health advice",
+      "category": "Content Creation",
+      "subcategory": "Fitness Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Fitness topic to write about",
+          "defaultValue": "HIIT workouts"
+        },
+        {
+          "name": "level",
+          "description": "Fitness level",
+          "defaultValue": "intermediate"
+        },
+        {
+          "name": "workoutType",
+          "description": "Type of workout",
+          "defaultValue": "cardio"
+        },
+        {
+          "name": "duration",
+          "description": "Workout duration",
+          "defaultValue": "30 minutes"
+        },
+        {
+          "name": "equipment",
+          "description": "Required equipment",
+          "defaultValue": "minimal equipment"
+        }
+      ],
+      "tags": ["fitness blog", "workout", "health"]
+    }
+  ]
+}
