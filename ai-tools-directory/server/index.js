@@ -4,6 +4,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import cookieParser from 'cookie-parser';
 
 // Import models
 import './models/User.js';
@@ -35,6 +36,7 @@ import socialRoutes from './routes/social.js';
 import providerApiKeyRoutes from './routes/provider-api-keys.js';
 import settingsRoutes from './routes/settings.js';
 import generatePromptRoutes from './routes/generate-prompt.js';
+import adminRoutes from './routes/admin.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -54,6 +56,11 @@ app.use(cors({
 // Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser());
+
+// Set view engine for admin panel
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI, {
@@ -79,6 +86,9 @@ app.use('/api/social', socialRoutes);
 app.use('/api/provider-api-keys', providerApiKeyRoutes);
 app.use('/api/settings', settingsRoutes);
 app.use('/api/generate-prompt', generatePromptRoutes);
+
+// Admin routes
+app.use('/admin', adminRoutes);
 
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {
