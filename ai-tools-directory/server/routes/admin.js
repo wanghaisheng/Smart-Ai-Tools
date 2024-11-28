@@ -258,6 +258,87 @@ router.get('/settings', isAdmin, async (req, res) => {
     }
 });
 
+// Tools Manager Page
+router.get('/tools-manager', isAdmin, async (req, res) => {
+    try {
+        const page = parseInt(req.query.page) || 1;
+        const limit = parseInt(req.query.limit) || 10;
+        const search = req.query.search || '';
+
+        const query = search
+            ? { 
+                $or: [
+                    { name: { $regex: search, $options: 'i' } },
+                    { description: { $regex: search, $options: 'i' } }
+                ]
+            }
+            : {};
+
+        const [tools, totalTools, categories] = await Promise.all([
+            Tool.find(query)
+                .populate('category')
+                .skip((page - 1) * limit)
+                .limit(limit)
+                .sort({ createdAt: -1 }),
+            Tool.countDocuments(query),
+            Category.find().sort({ name: 1 })
+        ]);
+
+        res.render('admin/tools-manager', {
+            tools,
+            categories,
+            pagination: {
+                current: page,
+                pages: Math.ceil(totalTools / limit),
+                total: totalTools
+            },
+            search
+        });
+    } catch (error) {
+        console.error('Tools Manager Error:', error);
+        res.status(500).render('admin/tools-manager', { error: 'Failed to load tools data' });
+    }
+});
+
+// Prompts Manager Page
+router.get('/prompts-manager', isAdmin, async (req, res) => {
+    try {
+        const page = parseInt(req.query.page) || 1;
+        const limit = parseInt(req.query.limit) || 10;
+        const search = req.query.search || '';
+
+        const query = search
+            ? { 
+                $or: [
+                    { title: { $regex: search, $options: 'i' } },
+                    { description: { $regex: search, $options: 'i' } }
+                ]
+            }
+            : {};
+
+        const [prompts, totalPrompts] = await Promise.all([
+            SmartPrompt.find(query)
+                .skip((page - 1) * limit)
+                .limit(limit)
+                .sort({ createdAt: -1 }),
+            SmartPrompt.countDocuments(query)
+        ]);
+
+        res.render('admin/prompts-manager', {
+            prompts,
+            pagination: {
+                current: page,
+                pages: Math.ceil(totalPrompts / limit),
+                total: totalPrompts
+            },
+            search
+        });
+    } catch (error) {
+        console.error('Prompts Manager Error:', error);
+        res.status(500).render('admin/prompts-manager', { error: 'Failed to load prompts data' });
+    }
+});
+
 // API endpoints for admin actions
 router.post('/api/users/:userId/status', isAdmin, async (req, res) => {
     try {
@@ -289,6 +370,68 @@ router.delete('/api/categories/:categoryId', isAdmin, async (req, res) => {
         res.json({ success: true });
     } catch (error) {
         res.status(500).json({ error: 'Failed to delete category' });
+    }
+});
+
+// API endpoints for tools management
+router.post('/api/tools', isAdmin, async (req, res) => {
+    try {
+        const tool = new Tool(req.body);
+        await tool.save();
+        res.json(tool);
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to create tool' });
+    }
+});
+
+router.put('/api/tools/:toolId', isAdmin, async (req, res) => {
+    try {
+        const { toolId } = req.params;
+        const tool = await Tool.findByIdAndUpdate(toolId, req.body, { new: true });
+        res.json(tool);
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to update tool' });
+    }
+});
+
+router.delete('/api/tools/:toolId', isAdmin, async (req, res) => {
+    try {
+        const { toolId } = req.params;
+        await Tool.findByIdAndDelete(toolId);
+        res.json({ success: true });
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to delete tool' });
+    }
+});
+
+// API endpoints for prompts management
+router.post('/api/prompts', isAdmin, async (req, res) => {
+    try {
+        const prompt = new SmartPrompt(req.body);
+        await prompt.save();
+        res.json(prompt);
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to create prompt' });
+    }
+});
+
+router.put('/api/prompts/:promptId', isAdmin, async (req, res) => {
+    try {
+        const { promptId } = req.params;
+        const prompt = await SmartPrompt.findByIdAndUpdate(promptId, req.body, { new: true });
+        res.json(prompt);
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to update prompt' });
+    }
+});
+
+router.delete('/api/prompts/:promptId', isAdmin, async (req, res) => {
+    try {
+        const { promptId } = req.params;
+        await SmartPrompt.findByIdAndDelete(promptId);
+        res.json({ success: true });
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to delete prompt' });
     }
 });
 
