@@ -393,3 +393,66 @@ export const updateUserPromptsVisibility = async (req, res) => {
     res.status(500).json({ message: 'Error updating prompt visibility' });
   }
 };
+
+// Save a modified version of a prompt with variables
+export const saveModifiedPrompt = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { title, content, variables } = req.body;
+
+    // Validate required fields
+    if (!title || !content) {
+      return res.status(400).json({ 
+        message: 'Title and content are required' 
+      });
+    }
+
+    // Get the original prompt
+    const originalPrompt = await SmartPrompt.findById(id);
+    if (!originalPrompt) {
+      return res.status(404).json({ 
+        message: 'Original prompt not found' 
+      });
+    }
+
+    // Create new prompt object with modified data
+    const modifiedPrompt = new SmartPrompt({
+      title,
+      content,
+      variables,
+      category: 'My Prompts',
+      creator: req.userId,
+      originalPromptId: id,
+      isModified: true,
+      visibility: 'private',
+      description: originalPrompt.description,
+      tags: originalPrompt.tags,
+      createdAt: new Date()
+    });
+
+    // Save the modified prompt
+    await modifiedPrompt.save();
+
+    // Add to user's prompts collection
+    await User.findByIdAndUpdate(
+      req.userId,
+      { 
+        $addToSet: { 
+          myPrompts: modifiedPrompt._id 
+        } 
+      }
+    );
+
+    res.status(201).json({
+      message: 'Modified prompt saved successfully',
+      prompt: modifiedPrompt
+    });
+
+  } catch (error) {
+    console.error('Error saving modified prompt:', error);
+    res.status(500).json({ 
+      message: 'Error saving modified prompt',
+      error: error.message 
+    });
+  }
+};

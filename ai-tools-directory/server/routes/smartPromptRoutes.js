@@ -9,7 +9,8 @@ import {
   toggleLike,
   toggleSave,
   bulkImportPrompts,
-  updateUserPromptsVisibility
+  updateUserPromptsVisibility,
+  saveModifiedPrompt
 } from '../controllers/smartPromptController.js';
 import { auth } from '../middleware/auth.js';
 
@@ -29,5 +30,6 @@ router.post('/:id/rate', ratePrompt);
 router.post('/:id/like', toggleLike);
 router.post('/:id/save', toggleSave);
 router.post('/update-visibility', updateUserPromptsVisibility);
+router.post('/:id/save-modified', saveModifiedPrompt);
 
 export default router;
