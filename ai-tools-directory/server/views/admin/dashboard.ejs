@@ -16,12 +16,18 @@
                     <h1 class="h2">Dashboard Overview</h1>
                 </div>
 
+                <% if (typeof error !== 'undefined') { %>
+                    <div class="alert alert-danger" role="alert">
+                        <%= error %>
+                    </div>
+                <% } %>
+
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Users</h5>
-                                <p class="card-text display-4">1,234</p>
+                                <p class="card-text display-4"><%= stats.totalUsers %></p>
                                 <i class="bi bi-people-fill stat-icon"></i>
                             </div>
                         </div>
@@ -29,108 +35,97 @@
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body position-relative">
-                                <h5 class="card-title">Active Sessions</h5>
-                                <p class="card-text display-4">856</p>
-                                <i class="bi bi-activity stat-icon"></i>
+                                <h5 class="card-title">Total Tools</h5>
+                                <p class="card-text display-4"><%= stats.totalTools %></p>
+                                <i class="bi bi-tools stat-icon"></i>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body position-relative">
-                                <h5 class="card-title">System Status</h5>
-                                <p class="card-text display-4">
-                                    <span class="text-success">
-                                        <i class="bi bi-check-circle-fill"></i>
-                                    </span>
-                                </p>
-                                <i class="bi bi-hdd-rack-fill stat-icon"></i>
+                                <h5 class="card-title">Total Reviews</h5>
+                                <p class="card-text display-4"><%= stats.totalReviews %></p>
+                                <i class="bi bi-star-fill stat-icon"></i>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Recent Activity -->
                 <div class="row mt-4">
                     <div class="col-md-8">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">Recent Activity</h5>
                                 <div class="table-responsive">
-                                    <table class="table">
+                                    <table class="table table-hover">
                                         <thead>
                                             <tr>
-                                                <th>User</th>
-                                                <th>Action</th>
-                                                <th>Time</th>
+                                                <th>Type</th>
+                                                <th>Details</th>
+                                                <th>Date</th>
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex align-items-center">
-                                                        <div class="avatar-circle me-2">JD</div>
-                                                        <div>John Doe</div>
-                                                    </div>
-                                                </td>
-                                                <td>Updated profile settings</td>
-                                                <td>5 mins ago</td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex align-items-center">
-                                                        <div class="avatar-circle me-2">AS</div>
-                                                        <div>Alice Smith</div>
-                                                    </div>
-                                                </td>
-                                                <td>Created new project</td>
-                                                <td>15 mins ago</td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex align-items-center">
-                                                        <div class="avatar-circle me-2">RJ</div>
-                                                        <div>Robert Johnson</div>
-                                                    </div>
-                                                </td>
-                                                <td>Logged in</td>
-                                                <td>1 hour ago</td>
-                                            </tr>
+                                            <% recentActivity.users.forEach(user => { %>
+                                                <tr>
+                                                    <td><i class="bi bi-person-plus text-success"></i> New User</td>
+                                                    <td><%= user.username %></td>
+                                                    <td><%= new Date(user.createdAt).toLocaleDateString() %></td>
+                                                </tr>
+                                            <% }); %>
+                                            
+                                            <% recentActivity.tools.forEach(tool => { %>
+                                                <tr>
+                                                    <td><i class="bi bi-tools text-primary"></i> New Tool</td>
+                                                    <td><%= tool.name %></td>
+                                                    <td><%= new Date(tool.createdAt).toLocaleDateString() %></td>
+                                                </tr>
+                                            <% }); %>
+
+                                            <% recentActivity.notifications.forEach(notification => { %>
+                                                <tr>
+                                                    <td><i class="bi bi-bell text-warning"></i> Notification</td>
+                                                    <td><%= notification.message %></td>
+                                                    <td><%= new Date(notification.createdAt).toLocaleDateString() %></td>
+                                                </tr>
+                                            <% }); %>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">System Health</h5>
                                 <div class="mb-4">
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span>CPU Usage</span>
-                                        <span>65%</span>
-                                    </div>
+                                    <label class="form-label d-flex justify-content-between">
+                                        Database Status
+                                        <span class="text-success">Connected</span>
+                                    </label>
                                     <div class="progress">
-                                        <div class="progress-bar bg-primary" style="width: 65%"></div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
                                     </div>
                                 </div>
                                 <div class="mb-4">
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span>Memory Usage</span>
-                                        <span>45%</span>
-                                    </div>
+                                    <label class="form-label d-flex justify-content-between">
+                                        API Health
+                                        <span class="text-success">100%</span>
+                                    </label>
                                     <div class="progress">
-                                        <div class="progress-bar bg-success" style="width: 45%"></div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
                                     </div>
                                 </div>
                                 <div class="mb-4">
-                                    <div class="d-flex justify-content-between mb-1">
-                                        <span>Storage</span>
-                                        <span>82%</span>
-                                    </div>
+                                    <label class="form-label d-flex justify-content-between">
+                                        Server Load
+                                        <span class="text-success">Normal</span>
+                                    </label>
                                     <div class="progress">
-                                        <div class="progress-bar bg-warning" style="width: 82%"></div>
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 35%"></div>
                                     </div>
                                 </div>
                             </div>
