@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { createPortal } from 'react-dom';
 import { toast } from 'react-hot-toast';
@@ -20,6 +20,7 @@ import {
   BookmarkIcon as BookmarkIconSolid,
   StarIcon as StarIconSolid
 } from '@heroicons/react/24/solid';
+import PromptVariableManager from './PromptVariableManager';
 
 const EnhancedPromptModal = ({ 
   prompt, 
@@ -28,7 +29,6 @@ const EnhancedPromptModal = ({
   onLike, 
   onSave, 
   onRate,
-  onComment,
   onShare,
   onDownload,
   currentUser,
@@ -40,25 +40,34 @@ const EnhancedPromptModal = ({
   const [isLiked, setIsLiked] = useState(prompt?.isLiked || false);
   const [isSaved, setIsSaved] = useState(prompt?.isSaved || false);
   const [showComments, setShowComments] = useState(false);
+  const [variables, setVariables] = useState({});
+  const [processedContent, setProcessedContent] = useState('');
 
+  // Initialize state when prompt changes
   useEffect(() => {
     if (prompt) {
       setRating(prompt.rating || 0);
       setIsLiked(prompt.isLiked || false);
       setIsSaved(prompt.isSaved || false);
+      setProcessedContent(prompt.content || '');
     }
   }, [prompt]);
 
-  const handleCopy = async () => {
+  const handleVariablesChange = useCallback((newVariables, newContent) => {
+    setVariables(newVariables);
+    setProcessedContent(newContent);
+  }, []);
+
+  const handleCopy = useCallback(async () => {
     try {
-      await navigator.clipboard.writeText(prompt.content);
+      await navigator.clipboard.writeText(processedContent);
       setCopied(true);
       toast.success('Prompt copied to clipboard!');
       setTimeout(() => setCopied(false), 2000);
     } catch (error) {
       toast.error('Failed to copy prompt');
     }
-  };
+  }, [processedContent]);
 
   const handleDownload = () => {
     const element = document.createElement('a');
@@ -150,13 +159,14 @@ const EnhancedPromptModal = ({
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.95, y: 20 }}
           transition={{ duration: 0.2 }}
-          className="w-full max-w-3xl bg-gray-800 rounded-xl shadow-2xl relative mx-4 my-8"
+          className="w-full max-w-4xl bg-gray-800 rounded-xl shadow-2xl relative mx-4 my-8 max-h-[90vh] overflow-y-auto"
           onClick={e => e.stopPropagation()}
         >
           {isLoading && <LoadingSpinner />}
           {error && <ErrorDisplay message={error} />}
+
           {/* Header */}
-          <div className="flex justify-between items-start p-6 border-b border-gray-700">
+          <div className="flex justify-between items-start p-6 border-b border-gray-700 sticky top-0 bg-gray-800 z-10">
             <div>
               <h3 className="text-2xl font-semibold text-white mb-2">{prompt.title}</h3>
               <div className="flex items-center gap-4 text-sm text-gray-400">
@@ -179,12 +189,22 @@ const EnhancedPromptModal = ({
           </div>
 
           {/* Content */}
-          <div className="p-6 space-y-6">
-            {/* Main Content with Copy Button */}
+          <div className="p-6">
+            {/* Variable Inputs */}
+            <div className="mb-6">
+              <PromptVariableManager
+                content={prompt.content}
+                onVariablesChange={handleVariablesChange}
+                savedVariables={variables}
+                className="mb-6"
+              />
+            </div>
+
+            {/* Preview */}
             <div className="relative">
               <div className="bg-gray-900 rounded-xl p-6 pr-16 font-mono">
                 <pre className="text-gray-300 whitespace-pre-wrap text-sm leading-relaxed">
-                  {prompt.content}
+                  {processedContent}
                 </pre>
                 <button
                   onClick={handleCopy}
@@ -201,14 +221,14 @@ const EnhancedPromptModal = ({
             </div>
 
             {/* Description */}
-            <div>
+            <div className="mt-6">
               <h4 className="text-sm font-medium text-gray-400 mb-2">Description</h4>
               <p className="text-gray-300">{prompt.description}</p>
             </div>
 
             {/* Tags */}
             {prompt.tags && prompt.tags.length > 0 && (
-              <div>
+              <div className="mt-6">
                 <h4 className="text-sm font-medium text-gray-400 mb-2">Tags</h4>
                 <div className="flex flex-wrap gap-2">
                   {prompt.tags.map((tag, i) => (
@@ -225,7 +245,7 @@ const EnhancedPromptModal = ({
 
             {/* Metadata for AI Generated Prompts */}
             {prompt.metadata && (
-              <div>
+              <div className="mt-6">
                 <h4 className="text-sm font-medium text-gray-400 mb-2">
                   Generation Details
                 </h4>
