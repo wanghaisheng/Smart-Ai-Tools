@@ -7,8 +7,8 @@
 <body>
     <%- include('./partials/navbar.ejs') %>
 
-    <div class="container-fluid">
-        <div class="row">
+    <div class="container-fluid px-0">
+        <div class="row g-0">
             <%- include('./partials/sidebar.ejs', { active: 'dashboard' }) %>
 
             <main class="content">
@@ -22,9 +22,10 @@
                     </div>
                 <% } %>
 
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="card">
+                <!-- Stats Cards -->
+                <div class="row g-2">
+                    <div class="col-6 col-xl-3">
+                        <div class="card stat-card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Users</h5>
                                 <p class="card-text display-4"><%= stats.totalUsers %></p>
@@ -32,8 +33,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="card">
+                    <div class="col-6 col-xl-3">
+                        <div class="card stat-card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Tools</h5>
                                 <p class="card-text display-4"><%= stats.totalTools %></p>
@@ -41,8 +42,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="card">
+                    <div class="col-6 col-xl-3">
+                        <div class="card stat-card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Reviews</h5>
                                 <p class="card-text display-4"><%= stats.totalReviews %></p>
@@ -50,8 +51,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
-                        <div class="card">
+                    <div class="col-6 col-xl-3">
+                        <div class="card stat-card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Prompts</h5>
                                 <p class="card-text display-4"><%= stats.totalPrompts %></p>
@@ -61,13 +62,14 @@
                     </div>
                 </div>
 
-                <div class="row mt-4">
-                    <div class="col-md-8">
+                <!-- Activity and Health -->
+                <div class="row g-2 mt-2">
+                    <div class="col-12 col-lg-8">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">Recent Activity</h5>
                                 <div class="table-responsive">
-                                    <table class="table table-hover">
+                                    <table class="table">
                                         <thead>
                                             <tr>
                                                 <th>Type</th>
@@ -114,34 +116,34 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-12 col-lg-4">
                         <div class="card">
                             <div class="card-body">
                                 <h5 class="card-title">System Health</h5>
-                                <div class="mb-4">
+                                <div class="mb-3">
                                     <label class="form-label d-flex justify-content-between">
                                         Database Status
                                         <span class="text-success">Connected</span>
                                     </label>
-                                    <div class="progress">
+                                    <div class="progress" style="height: 8px;">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
                                     </div>
                                 </div>
-                                <div class="mb-4">
+                                <div class="mb-3">
                                     <label class="form-label d-flex justify-content-between">
                                         API Health
                                         <span class="text-success">100%</span>
                                     </label>
-                                    <div class="progress">
+                                    <div class="progress" style="height: 8px;">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
                                     </div>
                                 </div>
-                                <div class="mb-4">
+                                <div class="mb-3">
                                     <label class="form-label d-flex justify-content-between">
                                         Server Load
                                         <span class="text-success">Normal</span>
                                     </label>
-                                    <div class="progress">
+                                    <div class="progress" style="height: 8px;">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 35%"></div>
                                     </div>
                                 </div>

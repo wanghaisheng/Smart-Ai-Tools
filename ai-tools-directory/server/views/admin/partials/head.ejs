@@ -19,6 +19,8 @@
         color: var(--text-primary);
         font-family: 'Inter', sans-serif;
         transition: all 0.3s ease;
+        overflow-x: hidden;
+        width: 100%;
     }
 
     .sidebar {
@@ -83,7 +85,40 @@
 
     .content {
         margin-left: 250px;
-        padding: 80px 25px 20px;
+        padding: 80px 20px 20px;
+        width: calc(100% - 250px);
+        position: relative;
+        overflow-x: hidden;
+    }
+
+    @media (max-width: 768px) {
+        .content {
+            margin-left: 0;
+            padding: 70px 10px 10px;
+            width: 100%;
+        }
+        
+        .sidebar {
+            transform: translateX(-100%);
+            width: 100%;
+            max-width: 250px;
+        }
+        
+        .sidebar.show {
+            transform: translateX(0);
+        }
+    }
+
+    .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+        overflow-x: hidden;
+    }
+
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
     }
 
     .card {
@@ -91,47 +126,107 @@
         border: none;
         border-radius: 15px;
         transition: all 0.3s ease;
-        margin-bottom: 20px;
+        margin-bottom: 15px;
+        width: 100%;
     }
 
-    .card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    .stat-card {
+        min-height: 120px;
+    }
+
+    .stat-icon {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        font-size: 1.8rem;
+        opacity: 0.2;
+    }
+
+    .display-4 {
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 0;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    .table {
+        margin-bottom: 0;
+        white-space: nowrap;
     }
 
     .card-body {
-        padding: 25px;
+        padding: 15px;
     }
 
     .card-title {
         color: var(--text-secondary);
-        font-size: 0.9rem;
+        font-size: 0.85rem;
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: 0.5px;
+        margin-bottom: 10px;
     }
 
-    .btn-primary {
-        background-color: var(--accent-color);
-        border: none;
-        padding: 0.8rem 1.5rem;
+    /* Responsive Typography */
+    @media (max-width: 576px) {
+        .display-4 {
+            font-size: 1.75rem;
+        }
+        .h2 {
+            font-size: 1.25rem;
+        }
+        .card-title {
+            font-size: 0.75rem;
+        }
+        .table {
+            font-size: 0.85rem;
+        }
+    }
+
+    /* Avatar Circle */
+    .avatar-circle {
+        width: 40px;
+        height: 40px;
+        background: var(--accent-color);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
         font-weight: 600;
+    }
+
+    /* Badge Styles */
+    .badge {
+        padding: 0.5em 0.8em;
+        font-weight: 600;
+    }
+
+    /* List Group */
+    .list-group-item {
+        background-color: transparent;
+        border-color: var(--border-color);
+        color: var(--text-secondary);
+        padding: 1rem 1.5rem;
         transition: all 0.3s ease;
     }
 
-    .btn-primary:hover {
-        background-color: #5a4dbb;
-        transform: translateY(-2px);
+    .list-group-item:hover {
+        background-color: var(--hover-bg);
+        color: var(--text-primary);
     }
 
-    .btn-outline-primary {
-        border-color: var(--accent-color);
-        color: var(--accent-color);
-    }
-
-    .btn-outline-primary:hover {
+    .list-group-item.active {
         background-color: var(--accent-color);
         border-color: var(--accent-color);
+        color: white;
     }
 
     /* Form Controls */
@@ -189,48 +284,5 @@
     @keyframes fadeIn {
         from { opacity: 0; transform: translateY(20px); }
         to { opacity: 1; transform: translateY(0); }
-    }
-
-    .card {
-        animation: fadeIn 0.6s ease-out forwards;
-    }
-
-    /* Avatar Circle */
-    .avatar-circle {
-        width: 40px;
-        height: 40px;
-        background: var(--accent-color);
-        border-radius: 50%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: white;
-        font-weight: 600;
-    }
-
-    /* Badge Styles */
-    .badge {
-        padding: 0.5em 0.8em;
-        font-weight: 600;
-    }
-
-    /* List Group */
-    .list-group-item {
-        background-color: transparent;
-        border-color: var(--border-color);
-        color: var(--text-secondary);
-        padding: 1rem 1.5rem;
-        transition: all 0.3s ease;
-    }
-
-    .list-group-item:hover {
-        background-color: var(--hover-bg);
-        color: var(--text-primary);
-    }
-
-    .list-group-item.active {
-        background-color: var(--accent-color);
-        border-color: var(--accent-color);
-        color: white;
     }
 </style>
