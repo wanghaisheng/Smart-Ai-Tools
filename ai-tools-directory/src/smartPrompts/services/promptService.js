@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { api } from '../../utils/api';
 
-const BASE_URL = '/api/smart-prompts'; // Add /api prefix to match backend routes
+const BASE_URL = '/smart-prompts'; // Remove /api prefix since it's already added by the api utility
 
 const getAuthHeader = () => {
   const token = localStorage.getItem('token');
