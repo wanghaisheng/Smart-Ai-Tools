@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { api } from '../../utils/api';
 
-const BASE_URL = '/smart-prompts'; // Remove /api prefix since it's already in api.js
+const BASE_URL = '/api/smart-prompts'; // Add /api prefix to match backend routes
 
 const getAuthHeader = () => {
   const token = localStorage.getItem('token');
@@ -79,12 +79,30 @@ const updatePromptsVisibility = async () => {
 
 // Save a modified version of a prompt
 const saveModifiedPrompt = async (promptId, data) => {
+  console.log('saveModifiedPrompt called with:', { promptId, data });
+  
   try {
-    const response = await api.post(`${BASE_URL}/${promptId}/save-modified`, data, {
-      headers: getAuthHeader()
-    });
+    // Make sure we're sending the correct data structure
+    const payload = {
+      title: data.title,
+      content: data.content,
+      description: data.description,
+      category: data.category,
+      variables: data.variables || []
+    };
+
+    console.log('Sending payload:', payload);
+    // Use the correct endpoint format: /:id/save-modified
+    const response = await api.post(`/smart-prompts/${promptId}/save-modified`, payload);
+    console.log('saveModifiedPrompt response:', response.data);
     return response.data;
   } catch (error) {
+    console.error('Error in saveModifiedPrompt:', {
+      error,
+      status: error.response?.status,
+      message: error.response?.data?.message,
+      data: error.response?.data
+    });
     throw error;
   }
 };

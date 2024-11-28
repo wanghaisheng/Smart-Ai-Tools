@@ -398,12 +398,12 @@ export const updateUserPromptsVisibility = async (req, res) => {
 export const saveModifiedPrompt = async (req, res) => {
   try {
     const { id } = req.params;
-    const { title, content, variables } = req.body;
+    const { title, content, description, category, variables } = req.body;
 
     // Validate required fields
-    if (!title || !content) {
+    if (!title || !content || !description || !category) {
       return res.status(400).json({ 
-        message: 'Title and content are required' 
+        message: 'Title, content, description, and category are required' 
       });
     }
 
@@ -415,17 +415,24 @@ export const saveModifiedPrompt = async (req, res) => {
       });
     }
 
+    // Validate and format variables
+    const formattedVariables = variables?.map(variable => ({
+      name: variable.name,
+      description: variable.description || `Variable for ${variable.name}`,
+      defaultValue: variable.defaultValue || ''
+    })) || [];
+
     // Create new prompt object with modified data
     const modifiedPrompt = new SmartPrompt({
       title,
       content,
-      variables,
-      category: 'My Prompts',
+      description,
+      category,
+      variables: formattedVariables,
       creator: req.userId,
       originalPromptId: id,
       isModified: true,
       visibility: 'private',
-      description: originalPrompt.description,
       tags: originalPrompt.tags,
       createdAt: new Date()
     });

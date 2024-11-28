@@ -66,25 +66,54 @@ const EnhancedPromptModal = ({
   }, []);
 
   const handleSaveModified = async () => {
-    if (!saveTitle.trim()) {
-      toast.error('Please enter a title for your prompt');
+    if (!prompt) {
+      toast.error('No prompt available to save');
       return;
     }
 
+    console.log('Starting save process with:', {
+      promptId: prompt._id,
+      title: `${prompt.title} (Modified)`,
+      contentLength: processedContent.length,
+      variables
+    });
+
     try {
       setIsSaving(true);
-      await promptService.saveModifiedPrompt(prompt._id, {
-        title: saveTitle,
+      
+      // Format variables properly
+      const formattedVariables = Object.entries(variables).map(([name, value]) => ({
+        name,
+        description: `Variable for ${name}`,
+        defaultValue: value || ''
+      }));
+
+      const response = await promptService.saveModifiedPrompt(prompt._id, {
+        title: `${prompt.title} (Modified)`,
         content: processedContent,
-        variables
+        description: prompt.description || `Modified version of ${prompt.title}`,
+        category: prompt.category || 'Technical',
+        variables: formattedVariables
       });
 
-      toast.success('Prompt saved to My Prompts!');
-      setShowSaveDialog(false);
-      setSaveTitle('');
+      console.log('Save successful:', response);
+      toast.success('Prompt saved successfully!');
+      if (onClose) onClose(); // Close the modal after successful save
     } catch (error) {
-      console.error('Error saving modified prompt:', error);
-      toast.error(error.response?.data?.message || 'Failed to save prompt');
+      console.error('Error saving modified prompt:', {
+        error,
+        status: error.response?.status,
+        message: error.response?.data?.message,
+        data: error.response?.data
+      });
+      
+      // Show a more informative error message
+      const errorMessage = error.response?.data?.message 
+        || error.response?.data?.error 
+        || error.message 
+        || 'Failed to save prompt';
+      
+      toast.error(errorMessage);
     } finally {
       setIsSaving(false);
     }
@@ -313,12 +342,14 @@ const EnhancedPromptModal = ({
               
               {currentUser && (
                 <button
-                  onClick={() => setShowSaveDialog(true)}
-                  className="flex items-center gap-2 px-4 py-2 rounded bg-blue-600 hover:bg-blue-500 transition-colors"
-                  disabled={isLoading || !processedContent}
+                  onClick={handleSaveModified}
+                  disabled={isLoading || isSaving}
+                  className={`flex items-center gap-2 px-4 py-2 rounded bg-blue-600 hover:bg-blue-500 transition-colors ${
+                    (isLoading || isSaving) ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                 >
-                  <BookmarkIcon className="w-5 h-5" />
-                  Save Modified
+                  <DocumentDuplicateIcon className="w-5 h-5" />
+                  {isSaving ? 'Saving...' : 'Save Modified'}
                 </button>
               )}
             </div>
@@ -424,6 +455,18 @@ const EnhancedPromptModal = ({
               </div>
 
               <div className="flex items-center gap-4">
+                {/* Save Modified Button */}
+                <button
+                  onClick={handleSaveModified}
+                  disabled={isLoading || isSaving}
+                  className={`flex items-center gap-2 px-4 py-2 rounded bg-blue-600 hover:bg-blue-500 transition-colors ${
+                    (isLoading || isSaving) ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
+                >
+                  <DocumentDuplicateIcon className="w-5 h-5" />
+                  {isSaving ? 'Saving...' : 'Save Modified'}
+                </button>
+
                 {/* Rating */}
                 <div className="flex items-center gap-1">
                   {[1, 2, 3, 4, 5].map((star) => (
