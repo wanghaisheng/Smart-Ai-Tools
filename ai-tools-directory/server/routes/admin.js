@@ -225,58 +225,130 @@ router.get('/logout', (req, res) => {
 router.get('/users', isAdmin, async (req, res) => {
     try {
         const page = parseInt(req.query.page) || 1;
-        const limit = 10;
-        const skip = (page - 1) * limit;
-
-        // Build query based on search parameters
-        const query = {};
+        const limit = parseInt(req.query.limit) || 10;
         const search = req.query.search || '';
         const role = req.query.role || '';
         const status = req.query.status || '';
 
+        // Build query
+        const query = {};
         if (search) {
             query.$or = [
-                { username: { $regex: search, $options: 'i' } },
-                { email: { $regex: search, $options: 'i' } }
+                { username: new RegExp(search, 'i') },
+                { email: new RegExp(search, 'i') }
             ];
         }
         if (role) query.role = role;
         if (status) query.status = status;
 
-        // Execute query with pagination
-        const total = await User.countDocuments(query);
-        const users = await User.find(query)
-            .sort({ createdAt: -1 })
-            .skip(skip)
-            .limit(limit);
+        // Get user statistics
+        const today = new Date();
+        const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+        
+        const [
+            totalUsers,
+            activeUsers,
+            newUsersToday,
+            newUsersThisMonth,
+            userActivityStats,
+            monthlyActivity,
+            users,
+            total
+        ] = await Promise.all([
+            User.countDocuments(),
+            User.countDocuments({ status: 'active' }),
+            User.countDocuments({ createdAt: { $gte: new Date().setHours(0, 0, 0, 0) } }),
+            User.countDocuments({ createdAt: { $gte: lastMonth } }),
+            User.aggregate([
+                {
+                    $lookup: {
+                        from: 'reviews',
+                        localField: '_id',
+                        foreignField: 'user',
+                        as: 'reviews'
+                    }
+                },
+                {
+                    $lookup: {
+                        from: 'tools',
+                        localField: '_id',
+                        foreignField: 'creator',
+                        as: 'tools'
+                    }
+                },
+                {
+                    $project: {
+                        totalActions: {
+                            $add: [
+                                { $size: '$reviews' },
+                                { $size: '$tools' }
+                            ]
+                        }
+                    }
+                },
+                {
+                    $group: {
+                        _id: null,
+                        avgActivity: { $avg: '$totalActions' }
+                    }
+                }
+            ]),
+            User.aggregate([
+                {
+                    $group: {
+                        _id: {
+                            year: { $year: '$createdAt' },
+                            month: { $month: '$createdAt' }
+                        },
+                        count: { $sum: 1 }
+                    }
+                },
+                { $sort: { '_id.year': 1, '_id.month': 1 } },
+                { $limit: 12 }
+            ]),
+            User.find(query)
+                .sort({ createdAt: -1 })
+                .skip((page - 1) * limit)
+                .limit(limit),
+            User.countDocuments(query)
+        ]);
 
-        // Calculate pagination info
-        const pages = Math.ceil(total / limit);
+        // Calculate statistics
+        const userGrowthRate = ((newUsersThisMonth / totalUsers) * 100).toFixed(1);
+        const activeUserRate = ((activeUsers / totalUsers) * 100).toFixed(1);
+        const avgUserActivity = userActivityStats[0]?.avgActivity.toFixed(1) || '0.0';
+
+        // Process monthly activity data for chart
+        const activityData = monthlyActivity.map(item => ({
+            month: `${item._id.year}-${String(item._id.month).padStart(2, '0')}`,
+            users: item.count
+        }));
+
+        // Prepare pagination data
+        const pagination = {
+            current: page,
+            pages: Math.ceil(total / limit),
+            total
+        };
 
         res.render('admin/users', {
             users,
-            pagination: {
-                current: page,
-                pages,
-                total
-            },
+            pagination,
             search,
             query: req.query,
-            error: null
+            stats: {
+                totalUsers,
+                activeUsers,
+                newUsersToday,
+                userGrowthRate,
+                activeUserRate,
+                avgUserActivity
+            },
+            activityData
         });
     } catch (error) {
-        console.error('Users Page Error:', error);
-        res.render('admin/users', {
-            users: [],
-            pagination: {
-                current: 1,
-                pages: 1,
-                total: 0
-            },
-            search: '',
-            query: {},
-            error: 'Failed to load users'
-        });
+        console.error('Users Error:', error);
+        res.render('admin/users', { error: 'Failed to load users data' });
     }
 });
 
