@@ -33,46 +33,148 @@ router.get('/login', (req, res) => {
     res.render('admin/login');
 });
 
-// Admin dashboard
+// Dashboard route with enhanced analytics
 router.get('/dashboard', isAdmin, async (req, res) => {
     try {
+        const today = new Date();
+        const lastMonth = new Date(today.getFullYear(), today.getMonth() - 1, today.getDate());
+        const lastWeek = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+
+        // Fetch various statistics
         const [
             totalUsers,
+            newUsersToday,
+            newUsersThisWeek,
+            newUsersThisMonth,
+            activeUsers,
+            inactiveUsers,
             totalTools,
             totalReviews,
             totalPrompts,
-            recentUsers,
-            recentTools,
-            recentPrompts,
-            notifications
+            recentReviews,
+            usersByRole,
+            toolsByCategory,
+            monthlyUserGrowth,
+            topRatedTools
         ] = await Promise.all([
             User.countDocuments(),
+            User.countDocuments({ createdAt: { $gte: new Date().setHours(0, 0, 0, 0) } }),
+            User.countDocuments({ createdAt: { $gte: lastWeek } }),
+            User.countDocuments({ createdAt: { $gte: lastMonth } }),
+            User.countDocuments({ status: 'active' }),
+            User.countDocuments({ status: 'inactive' }),
             Tool.countDocuments(),
             Review.countDocuments(),
             SmartPrompt.countDocuments(),
-            User.find().sort({ createdAt: -1 }).limit(5),
-            Tool.find().sort({ createdAt: -1 }).limit(5),
-            SmartPrompt.find().sort({ createdAt: -1 }).limit(5),
-            Notification.find().sort({ createdAt: -1 }).limit(10)
+            Review.find()
+                .sort({ createdAt: -1 })
+                .limit(5)
+                .populate('user', 'username')
+                .populate('tool', 'name'),
+            User.aggregate([
+                { $group: { _id: '$role', count: { $sum: 1 } } }
+            ]),
+            Tool.aggregate([
+                { $group: { _id: '$category', count: { $sum: 1 } } }
+            ]),
+            User.aggregate([
+                {
+                    $group: {
+                        _id: {
+                            year: { $year: '$createdAt' },
+                            month: { $month: '$createdAt' }
+                        },
+                        count: { $sum: 1 }
+                    }
+                },
+                { $sort: { '_id.year': -1, '_id.month': -1 } },
+                { $limit: 12 }
+            ]),
+            Tool.aggregate([
+                {
+                    $lookup: {
+                        from: 'reviews',
+                        localField: '_id',
+                        foreignField: 'tool',
+                        as: 'reviews'
+                    }
+                },
+                {
+                    $project: {
+                        name: 1,
+                        category: 1,
+                        avgRating: {
+                            $cond: {
+                                if: { $eq: [{ $size: '$reviews' }, 0] },
+                                then: 0,
+                                else: { $avg: '$reviews.rating' }
+                            }
+                        },
+                        reviewCount: { $size: '$reviews' }
+                    }
+                },
+                { $sort: { avgRating: -1, reviewCount: -1 } },
+                { $limit: 5 }
+            ])
         ]);
+
+        // Calculate growth rates
+        const userGrowthRate = ((newUsersThisMonth / totalUsers) * 100).toFixed(1);
+        const activeUserRate = ((activeUsers / totalUsers) * 100).toFixed(1);
+
+        // Process monthly growth data for chart
+        const monthlyGrowthData = monthlyUserGrowth.reverse().map(item => ({
+            month: `${item._id.year}-${String(item._id.month).padStart(2, '0')}`,
+            users: item.count
+        }));
+
+        // Process category distribution
+        const categoryData = toolsByCategory.map(item => ({
+            category: item._id || 'Uncategorized',
+            count: item.count
+        }));
+
+        // Calculate system health metrics
+        const systemHealth = {
+            userEngagement: (activeUserRate > 70) ? 'good' : (activeUserRate > 40) ? 'moderate' : 'needs attention',
+            growthStatus: (userGrowthRate > 10) ? 'good' : (userGrowthRate > 5) ? 'moderate' : 'needs attention',
+            reviewActivity: (recentReviews.length > 0) ? 'active' : 'inactive'
+        };
 
         res.render('admin/dashboard', {
             stats: {
-                totalUsers,
-                totalTools,
-                totalReviews,
-                totalPrompts
+                users: {
+                    total: totalUsers,
+                    newToday: newUsersToday,
+                    newThisWeek: newUsersThisWeek,
+                    newThisMonth: newUsersThisMonth,
+                    active: activeUsers,
+                    inactive: inactiveUsers,
+                    growthRate: userGrowthRate,
+                    activeRate: activeUserRate,
+                    byRole: usersByRole
+                },
+                tools: {
+                    total: totalTools,
+                    byCategory: categoryData,
+                    topRated: topRatedTools
+                },
+                reviews: {
+                    total: totalReviews,
+                    recent: recentReviews
+                },
+                prompts: {
+                    total: totalPrompts
+                },
+                system: systemHealth
             },
-            recentActivity: {
-                users: recentUsers,
-                tools: recentTools,
-                prompts: recentPrompts,
-                notifications
+            charts: {
+                monthlyGrowth: monthlyGrowthData
             }
         });
     } catch (error) {
         console.error('Dashboard Error:', error);
-        res.status(500).render('admin/dashboard', { error: 'Failed to load dashboard data' });
+        res.render('admin/dashboard', { error: 'Failed to load dashboard data' });
     }
 });
 
