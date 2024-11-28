@@ -77,6 +77,18 @@ const updatePromptsVisibility = async () => {
   }
 };
 
+// Save a modified version of a prompt
+const saveModifiedPrompt = async (promptId, data) => {
+  try {
+    const response = await api.post(`${BASE_URL}/${promptId}/save-modified`, data, {
+      headers: getAuthHeader()
+    });
+    return response.data;
+  } catch (error) {
+    throw error;
+  }
+};
+
 export const promptService = {
   getPrompts,
   // Get a single prompt by ID
@@ -148,5 +160,6 @@ export const promptService = {
       throw error;
     }
   },
-  updatePromptsVisibility
+  updatePromptsVisibility,
+  saveModifiedPrompt
 };

@@ -13,7 +13,8 @@ import {
   ArrowDownTrayIcon,
   UserCircleIcon,
   CalendarDaysIcon,
-  ChatBubbleLeftIcon
+  ChatBubbleLeftIcon,
+  DocumentDuplicateIcon
 } from '@heroicons/react/24/outline';
 import {
   HeartIcon as HeartIconSolid,
@@ -21,6 +22,7 @@ import {
   StarIcon as StarIconSolid
 } from '@heroicons/react/24/solid';
 import PromptVariableManager from './PromptVariableManager';
+import { promptService } from '../services/promptService';
 
 const EnhancedPromptModal = ({ 
   prompt, 
@@ -42,6 +44,9 @@ const EnhancedPromptModal = ({
   const [showComments, setShowComments] = useState(false);
   const [variables, setVariables] = useState({});
   const [processedContent, setProcessedContent] = useState('');
+  const [showSaveDialog, setShowSaveDialog] = useState(false);
+  const [saveTitle, setSaveTitle] = useState('');
+  const [isSaving, setIsSaving] = useState(false);
 
   // Initialize state when prompt changes
   useEffect(() => {
@@ -50,6 +55,8 @@ const EnhancedPromptModal = ({
       setIsLiked(prompt.isLiked || false);
       setIsSaved(prompt.isSaved || false);
       setProcessedContent(prompt.content || '');
+      // Initialize save title with original title
+      setSaveTitle(`${prompt.title} (Modified)`);
     }
   }, [prompt]);
 
@@ -57,6 +64,31 @@ const EnhancedPromptModal = ({
     setVariables(newVariables);
     setProcessedContent(newContent);
   }, []);
+
+  const handleSaveModified = async () => {
+    if (!saveTitle.trim()) {
+      toast.error('Please enter a title for your prompt');
+      return;
+    }
+
+    try {
+      setIsSaving(true);
+      await promptService.saveModifiedPrompt(prompt._id, {
+        title: saveTitle,
+        content: processedContent,
+        variables
+      });
+
+      toast.success('Prompt saved to My Prompts!');
+      setShowSaveDialog(false);
+      setSaveTitle('');
+    } catch (error) {
+      console.error('Error saving modified prompt:', error);
+      toast.error(error.response?.data?.message || 'Failed to save prompt');
+    } finally {
+      setIsSaving(false);
+    }
+  };
 
   const handleCopy = useCallback(async () => {
     try {
@@ -143,6 +175,51 @@ const EnhancedPromptModal = ({
     </div>
   );
 
+  const SaveDialog = () => (
+    <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50" onClick={() => setShowSaveDialog(false)}>
+      <div className="bg-gray-800 p-6 rounded-lg w-full max-w-md" onClick={e => e.stopPropagation()}>
+        <div className="flex justify-between items-center mb-4">
+          <h3 className="text-xl font-semibold">Save Modified Prompt</h3>
+          <button onClick={() => setShowSaveDialog(false)} className="text-gray-400 hover:text-gray-300">
+            <XMarkIcon className="w-5 h-5" />
+          </button>
+        </div>
+        
+        <input
+          type="text"
+          placeholder="Enter prompt title"
+          value={saveTitle}
+          onChange={(e) => setSaveTitle(e.target.value)}
+          className="w-full p-2 rounded bg-gray-700 border border-gray-600 mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+
+        <div className="flex justify-end gap-2">
+          <button
+            onClick={() => setShowSaveDialog(false)}
+            className="px-4 py-2 rounded bg-gray-700 hover:bg-gray-600 transition-colors"
+            disabled={isSaving}
+          >
+            Cancel
+          </button>
+          <button
+            onClick={handleSaveModified}
+            className="px-4 py-2 rounded bg-blue-600 hover:bg-blue-500 transition-colors flex items-center gap-2"
+            disabled={isSaving}
+          >
+            {isSaving ? (
+              <>
+                <div className="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin" />
+                Saving...
+              </>
+            ) : (
+              'Save'
+            )}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+
   if (!isOpen || !prompt) return null;
 
   return createPortal(
@@ -218,6 +295,32 @@ const EnhancedPromptModal = ({
                   )}
                 </button>
               </div>
+            </div>
+
+            {/* Action Buttons */}
+            <div className="flex items-center gap-2 mt-4">
+              <button
+                onClick={handleCopy}
+                className="flex items-center gap-2 px-4 py-2 rounded bg-gray-700 hover:bg-gray-600 transition-colors"
+              >
+                {copied ? (
+                  <CheckIcon className="w-5 h-5" />
+                ) : (
+                  <DocumentDuplicateIcon className="w-5 h-5" />
+                )}
+                {copied ? 'Copied!' : 'Copy'}
+              </button>
+              
+              {currentUser && (
+                <button
+                  onClick={() => setShowSaveDialog(true)}
+                  className="flex items-center gap-2 px-4 py-2 rounded bg-blue-600 hover:bg-blue-500 transition-colors"
+                  disabled={isLoading || !processedContent}
+                >
+                  <BookmarkIcon className="w-5 h-5" />
+                  Save Modified
+                </button>
+              )}
             </div>
 
             {/* Description */}
@@ -382,6 +485,8 @@ const EnhancedPromptModal = ({
     </AnimatePresence>,
     document.body
   );
+
+  {showSaveDialog && <SaveDialog />}
 };
 
 export default EnhancedPromptModal;
