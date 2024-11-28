@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Smart Prompts Import Schema",
+  "description": "Schema for importing prompts in bulk",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["title", "content"],
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "Title of the prompt",
+        "minLength": 1,
+        "maxLength": 200
+      },
+      "content": {
+        "type": "string",
+        "description": "The actual prompt content with variables marked as {{variableName}}",
+        "minLength": 1
+      },
+      "description": {
+        "type": "string",
+        "description": "A brief description of what the prompt does",
+        "default": ""
+      },
+      "category": {
+        "type": "string",
+        "description": "Category of the prompt",
+        "enum": [
+          "Content Creation",
+          "Technical",
+          "Business",
+          "Creative",
+          "Education",
+          "Other"
+        ],
+        "default": "Other"
+      },
+      "visibility": {
+        "type": "string",
+        "description": "Visibility level of the prompt",
+        "enum": ["private", "public"],
+        "default": "private"
+      },
+      "variables": {
+        "type": "array",
+        "description": "List of variables used in the prompt",
+        "items": {
+          "type": "object",
+          "required": ["name"],
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "Name of the variable as used in the prompt content (without {{ }})",
+              "pattern": "^[a-zA-Z][a-zA-Z0-9_]*$"
+            },
+            "description": {
+              "type": "string",
+              "description": "Description of what the variable represents",
+              "default": ""
+            },
+            "defaultValue": {
+              "type": "string",
+              "description": "Default value for the variable",
+              "default": ""
+            }
+          }
+        },
+        "default": []
+      },
+      "tags": {
+        "type": "array",
+        "description": "Tags associated with the prompt",
+        "items": {
+          "type": "string"
+        },
+        "default": []
+      }
+    }
+  },
+  "examples": [
+    [
+      {
+        "title": "Blog Post Outline",
+        "content": "Create a detailed outline for a blog post about {{topic}} that targets {{audience}}",
+        "description": "Generates a structured outline for blog posts",
+        "category": "Content Creation",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The main topic of the blog post",
+            "defaultValue": "technology trends"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the blog post",
+            "defaultValue": "tech professionals"
+          }
+        ],
+        "tags": ["blog", "writing", "content"]
+      }
+    ]
+  ]
+}

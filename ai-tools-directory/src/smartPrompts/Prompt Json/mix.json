@@ -1,0 +1,184 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Enhanced AI Prompts with Roles",
+    "description": "A set of 10 enhanced prompts where AI is instructed to act in a specific role and use variables to generate results.",
+    "type": "array",
+    "items": [
+      {
+        "title": "SEO Blog Outline",
+        "content": "Generate a structured outline for a blog post about {{topic}} targeted at {{audience}}. Act as an SEO expert and include key SEO elements like headings (H1, H2, H3), keywords, and meta description. Focus on making the outline clear, keyword-optimized, and engaging.",
+        "description": "SEO-optimized blog outline for content writers",
+        "category": "Content Creation",
+        "visibility": "public",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "The main subject of the blog post",
+            "defaultValue": "digital marketing trends"
+          },
+          {
+            "name": "audience",
+            "description": "Target group for the blog post",
+            "defaultValue": "small business owners"
+          }
+        ],
+        "tags": ["SEO", "blog", "content creation"]
+      },
+      {
+        "title": "Social Media Caption Generator",
+        "content": "Create a catchy and engaging Instagram caption for a post about {{product}} aimed at {{target_audience}}. Act as a social media expert and focus on making the caption both fun and informative. Add a call to action at the end and ensure it fits within Instagram’s character limits.",
+        "description": "Social media caption for Instagram marketing",
+        "category": "Content Creation",
+        "visibility": "public",
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product or service being promoted",
+            "defaultValue": "fitness tracker"
+          },
+          {
+            "name": "target_audience",
+            "description": "Target audience for the product",
+            "defaultValue": "health-conscious millennials"
+          }
+        ],
+        "tags": ["social media", "Instagram", "marketing"]
+      },
+      {
+        "title": "Email Marketing Campaign Template",
+        "content": "Generate a persuasive email marketing campaign for a new product launch, focusing on {{product_name}}. Act as an expert marketer and include persuasive copy, a limited-time offer, and clear call-to-action buttons. Ensure the tone is engaging and sales-driven.",
+        "description": "Email marketing template for product launch",
+        "category": "Marketing",
+        "visibility": "public",
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "Name of the new product being launched",
+            "defaultValue": "smartphone"
+          }
+        ],
+        "tags": ["email marketing", "product launch", "sales"]
+      },
+      {
+        "title": "Sales Call Script",
+        "content": "Create a persuasive sales call script for selling {{product}} to {{prospective_customer}}. Act as a seasoned sales professional and make the script concise yet persuasive, including objection-handling responses. Focus on creating a friendly, confident, and effective tone.",
+        "description": "Sales call script for lead conversion",
+        "category": "Sales",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product being sold",
+            "defaultValue": "cloud storage solution"
+          },
+          {
+            "name": "prospective_customer",
+            "description": "The ideal customer persona for the product",
+            "defaultValue": "small business owners"
+          }
+        ],
+        "tags": ["sales", "call script", "conversion"]
+      },
+      {
+        "title": "Technical Troubleshooting Guide",
+        "content": "Generate a step-by-step troubleshooting guide for fixing issues related to {{software_name}}. Act as an experienced tech support agent and include detailed instructions, common error messages, and potential solutions. Make sure to format the guide clearly and in an easy-to-follow structure.",
+        "description": "Tech troubleshooting guide for software issues",
+        "category": "Technical",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "software_name",
+            "description": "The software experiencing issues",
+            "defaultValue": "Microsoft Word"
+          }
+        ],
+        "tags": ["technical support", "troubleshooting", "guide"]
+      },
+      {
+        "title": "Personalized Fitness Plan",
+        "content": "Create a personalized fitness plan for {{name}} who wants to achieve {{goal}}. Act as a certified fitness trainer and tailor the plan based on fitness levels, age, and personal preferences. Include a weekly workout schedule, diet suggestions, and progress tracking tips.",
+        "description": "Customized fitness plan based on individual goals",
+        "category": "Health & Wellness",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "name",
+            "description": "The name of the person seeking the fitness plan",
+            "defaultValue": "John Doe"
+          },
+          {
+            "name": "goal",
+            "description": "The fitness goal the person wants to achieve",
+            "defaultValue": "weight loss"
+          }
+        ],
+        "tags": ["fitness", "personalized plan", "health"]
+      },
+      {
+        "title": "Product Review Template",
+        "content": "Generate a product review for {{product_name}}. Act as a professional reviewer and focus on providing an honest, balanced review that includes pros, cons, and comparisons to other similar products in the market.",
+        "description": "Honest product review with pros and cons",
+        "category": "E-commerce",
+        "visibility": "public",
+        "variables": [
+          {
+            "name": "product_name",
+            "description": "The name of the product being reviewed",
+            "defaultValue": "Bluetooth headphones"
+          }
+        ],
+        "tags": ["product review", "e-commerce", "reviews"]
+      },
+      {
+        "title": "Customer Support Response",
+        "content": "Generate a polite and professional response to a customer complaint about {{product}}. Act as a customer support representative and apologize for the inconvenience. Offer a solution and express willingness to help further.",
+        "description": "Response to a customer complaint about a product",
+        "category": "Customer Support",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "product",
+            "description": "The product the complaint is about",
+            "defaultValue": "smartwatch"
+          }
+        ],
+        "tags": ["customer service", "support", "complaint"]
+      },
+      {
+        "title": "Marketing Campaign Plan",
+        "content": "Create a marketing campaign plan for {{campaign_name}} targeting {{audience}}. Act as a marketing strategist and provide an outline of campaign goals, strategies, tactics, and KPIs. Include digital, print, and social media components.",
+        "description": "Comprehensive marketing campaign plan",
+        "category": "Marketing",
+        "visibility": "public",
+        "variables": [
+          {
+            "name": "campaign_name",
+            "description": "The name of the marketing campaign",
+            "defaultValue": "summer sale"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the campaign",
+            "defaultValue": "millennial shoppers"
+          }
+        ],
+        "tags": ["marketing", "campaign", "strategy"]
+      },
+      {
+        "title": "Recipe for {{Dish}}",
+        "content": "Generate a recipe for {{Dish}}. Act as a chef and ensure the recipe is easy to follow, includes ingredients, step-by-step cooking instructions, and serving suggestions. Focus on making the recipe clear, precise, and delicious.",
+        "description": "Recipe creation for a specific dish",
+        "category": "Food & Beverage",
+        "visibility": "private",
+        "variables": [
+          {
+            "name": "Dish",
+            "description": "The name of the dish being prepared",
+            "defaultValue": "Spaghetti Bolognese"
+          }
+        ],
+        "tags": ["recipe", "cooking", "food"]
+      }
+    ]
+  }
+  
