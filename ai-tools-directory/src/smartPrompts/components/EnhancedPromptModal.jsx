@@ -29,7 +29,11 @@ const EnhancedPromptModal = ({
   onSave, 
   onRate,
   onComment,
-  currentUser 
+  onShare,
+  onDownload,
+  currentUser,
+  isLoading,
+  error 
 }) => {
   const [copied, setCopied] = useState(false);
   const [rating, setRating] = useState(prompt?.rating || 0);
@@ -118,6 +122,18 @@ const EnhancedPromptModal = ({
     }
   };
 
+  const LoadingSpinner = () => (
+    <div className="absolute inset-0 bg-gray-900/50 flex items-center justify-center z-50">
+      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
+    </div>
+  );
+
+  const ErrorDisplay = ({ message }) => (
+    <div className="bg-red-500/10 border border-red-500/20 rounded-lg p-4 mb-6">
+      <p className="text-red-400 text-sm">{message}</p>
+    </div>
+  );
+
   if (!isOpen || !prompt) return null;
 
   return createPortal(
@@ -137,6 +153,8 @@ const EnhancedPromptModal = ({
           className="w-full max-w-3xl bg-gray-800 rounded-xl shadow-2xl relative mx-4 my-8"
           onClick={e => e.stopPropagation()}
         >
+          {isLoading && <LoadingSpinner />}
+          {error && <ErrorDisplay message={error} />}
           {/* Header */}
           <div className="flex justify-between items-start p-6 border-b border-gray-700">
             <div>
@@ -240,7 +258,10 @@ const EnhancedPromptModal = ({
                 {/* Like Button */}
                 <button
                   onClick={handleLike}
-                  className="flex items-center gap-2 text-gray-400 hover:text-pink-500 transition-colors"
+                  disabled={isLoading}
+                  className={`flex items-center gap-2 text-gray-400 hover:text-pink-500 transition-colors ${
+                    isLoading ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                 >
                   {isLiked ? (
                     <HeartIconSolid className="w-6 h-6 text-pink-500" />
@@ -253,7 +274,10 @@ const EnhancedPromptModal = ({
                 {/* Save Button */}
                 <button
                   onClick={handleSave}
-                  className="flex items-center gap-2 text-gray-400 hover:text-blue-500 transition-colors"
+                  disabled={isLoading}
+                  className={`flex items-center gap-2 text-gray-400 hover:text-blue-500 transition-colors ${
+                    isLoading ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                 >
                   {isSaved ? (
                     <BookmarkIconSolid className="w-6 h-6 text-blue-500" />
@@ -266,7 +290,10 @@ const EnhancedPromptModal = ({
                 {/* Comment Button */}
                 <button
                   onClick={() => setShowComments(!showComments)}
-                  className="flex items-center gap-2 text-gray-400 hover:text-gray-300 transition-colors"
+                  disabled={isLoading}
+                  className={`flex items-center gap-2 text-gray-400 hover:text-gray-300 transition-colors ${
+                    isLoading ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                 >
                   <ChatBubbleLeftIcon className="w-6 h-6" />
                   <span>{prompt.comments?.length || 0}</span>
@@ -280,11 +307,12 @@ const EnhancedPromptModal = ({
                     <button
                       key={star}
                       onClick={() => handleRate(star)}
+                      disabled={isLoading}
                       className={`p-1 transition-colors ${
                         star <= rating
                           ? 'text-yellow-400'
                           : 'text-gray-600 hover:text-yellow-400'
-                      }`}
+                      } ${isLoading ? 'opacity-50 cursor-not-allowed' : ''}`}
                     >
                       {star <= rating ? (
                         <StarIconSolid className="w-5 h-5" />
@@ -298,7 +326,10 @@ const EnhancedPromptModal = ({
                 {/* Download Button */}
                 <button
                   onClick={handleDownload}
-                  className="p-2 text-gray-400 hover:text-gray-300 transition-colors"
+                  disabled={isLoading}
+                  className={`p-2 text-gray-400 hover:text-gray-300 transition-colors ${
+                    isLoading ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                   title="Download Prompt"
                 >
                   <ArrowDownTrayIcon className="w-6 h-6" />
@@ -307,7 +338,10 @@ const EnhancedPromptModal = ({
                 {/* Share Button */}
                 <button
                   onClick={handleShare}
-                  className="p-2 text-gray-400 hover:text-gray-300 transition-colors"
+                  disabled={isLoading}
+                  className={`p-2 text-gray-400 hover:text-gray-300 transition-colors ${
+                    isLoading ? 'opacity-50 cursor-not-allowed' : ''
+                  }`}
                   title="Share Prompt"
                 >
                   <ShareIcon className="w-6 h-6" />

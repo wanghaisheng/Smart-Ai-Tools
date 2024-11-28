@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import EnhancedPromptModal from './EnhancedPromptModal';
 import { motion } from 'framer-motion';
 import { 
@@ -30,8 +30,10 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
   const [isSaved, setIsSaved] = useState(false);
   const [likesCount, setLikesCount] = useState(prompt.likes?.length || 0);
   const [savesCount, setSavesCount] = useState(prompt.saves?.length || 0);
-  const isOwner = user && prompt.creator._id === user.id;
   const [showModal, setShowModal] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const isOwner = user && prompt.creator._id === user.id;
 
   // Animation variants
   const cardVariants = {
@@ -63,7 +65,142 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     }
   };
 
-  // Update like/save states when prompt or user changes
+  const handleLike = useCallback(async (e) => {
+    if (e) e.stopPropagation();
+    if (!user) {
+      toast.error('Please login to like prompts');
+      return;
+    }
+    
+    setIsLoading(true);
+    setError(null);
+    
+    try {
+      const response = await api.post(`/smart-prompts/${prompt._id}/like`, {});
+      const { likes, isLiked: newIsLiked } = response.data;
+      setIsLiked(newIsLiked);
+      setLikesCount(likes);
+      if (onUpdate) onUpdate(prompt._id);
+      
+      toast.success(newIsLiked ? 'Added to favorites!' : 'Removed from favorites');
+    } catch (error) {
+      console.error('Error liking prompt:', error);
+      setError('Failed to update like status');
+      toast.error('Failed to like prompt');
+    } finally {
+      setIsLoading(false);
+    }
+  }, [user, prompt._id, onUpdate]);
+
+  const handleSave = useCallback(async (e) => {
+    if (e) e.stopPropagation();
+    if (!user) {
+      toast.error('Please login to save prompts');
+      return;
+    }
+    
+    setIsLoading(true);
+    setError(null);
+    
+    try {
+      const response = await api.post(`/smart-prompts/${prompt._id}/save`, {});
+      const { saves, isSaved: newIsSaved } = response.data;
+      setIsSaved(newIsSaved);
+      setSavesCount(saves);
+      if (onUpdate) onUpdate(prompt._id);
+      
+      toast.success(newIsSaved ? 'Prompt saved!' : 'Prompt removed from saved');
+    } catch (error) {
+      console.error('Error saving prompt:', error);
+      setError('Failed to update save status');
+      toast.error('Failed to save prompt');
+    } finally {
+      setIsLoading(false);
+    }
+  }, [user, prompt._id, onUpdate]);
+
+  const handleRate = useCallback(async (rating) => {
+    if (!user) {
+      toast.error('Please login to rate prompts');
+      return;
+    }
+    
+    setIsLoading(true);
+    setError(null);
+    
+    try {
+      if (onRate) {
+        await onRate(prompt._id, rating);
+        toast.success('Rating updated successfully!');
+      }
+    } catch (error) {
+      console.error('Error rating prompt:', error);
+      setError('Failed to update rating');
+      toast.error('Failed to rate prompt');
+    } finally {
+      setIsLoading(false);
+    }
+  }, [user, prompt._id, onRate]);
+
+  const handleShare = useCallback(async () => {
+    try {
+      if (onShare) {
+        await onShare(prompt);
+        toast.success('Prompt shared successfully!');
+      }
+    } catch (error) {
+      console.error('Error sharing prompt:', error);
+      toast.error('Failed to share prompt');
+    }
+  }, [prompt, onShare]);
+
+  const handleDownload = useCallback(() => {
+    try {
+      const element = document.createElement('a');
+      const promptData = {
+        title: prompt.title,
+        content: prompt.content,
+        description: prompt.description,
+        tags: prompt.tags,
+        aiModels: prompt.aiModels,
+        metadata: prompt.metadata,
+        exportedAt: new Date().toISOString()
+      };
+      
+      const file = new Blob([JSON.stringify(promptData, null, 2)], {
+        type: 'application/json'
+      });
+      
+      element.href = URL.createObjectURL(file);
+      element.download = `${prompt.title.toLowerCase().replace(/\s+/g, '-')}.json`;
+      document.body.appendChild(element);
+      element.click();
+      document.body.removeChild(element);
+      
+      toast.success('Prompt downloaded successfully!');
+    } catch (error) {
+      console.error('Error downloading prompt:', error);
+      toast.error('Failed to download prompt');
+    }
+  }, [prompt]);
+
+  const handleCardClick = useCallback((e) => {
+    e.stopPropagation();
+    setShowModal(true);
+    if (onClick) onClick();
+  }, [onClick]);
+
+  const handleCloseModal = useCallback(() => {
+    setShowModal(false);
+  }, []);
+
+  // Reset error state when modal closes
+  useEffect(() => {
+    if (!showModal) {
+      setError(null);
+    }
+  }, [showModal]);
+
   useEffect(() => {
     if (user && prompt) {
       setIsLiked(prompt.likes?.includes(user.id));
@@ -72,58 +209,6 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
       setSavesCount(prompt.saves?.length || 0);
     }
   }, [prompt, user]);
-
-  const handleLike = async (e) => {
-    e.stopPropagation();
-    if (!user) {
-      toast.error('Please login to like prompts');
-      return;
-    }
-    try {
-      const response = await api.post(`/smart-prompts/${prompt._id}/like`, {});
-      const { likes, isLiked: newIsLiked } = response.data;
-      setIsLiked(newIsLiked);
-      setLikesCount(likes);
-      if (onUpdate) onUpdate(prompt._id);
-    } catch (error) {
-      console.error('Error liking prompt:', error);
-      toast.error('Failed to like prompt');
-    }
-  };
-
-  const handleSave = async (e) => {
-    e.stopPropagation();
-    if (!user) {
-      toast.error('Please login to save prompts');
-      return;
-    }
-    try {
-      const response = await api.post(`/smart-prompts/${prompt._id}/save`, {});
-      const { saves, isSaved: newIsSaved } = response.data;
-      setIsSaved(newIsSaved);
-      setSavesCount(saves);
-      if (onUpdate) onUpdate(prompt._id);
-    } catch (error) {
-      console.error('Error saving prompt:', error);
-      toast.error('Failed to save prompt');
-    }
-  };
-
-  const handleCardClick = (e) => {
-    e.stopPropagation();
-    setShowModal(true);
-    if (onClick) onClick();
-  };
-
-  const handleCloseModal = () => {
-    setShowModal(false);
-  };
-
-  const handleRate = async (rating) => {
-    if (onRate) {
-      await onRate(prompt._id, rating);
-    }
-  };
 
   return (
     <>
@@ -316,7 +401,11 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
         onLike={handleLike}
         onSave={handleSave}
         onRate={handleRate}
+        onShare={handleShare}
+        onDownload={handleDownload}
         currentUser={user}
+        isLoading={isLoading}
+        error={error}
       />
     </>
   );
