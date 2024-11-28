@@ -74,4 +74,19 @@ router.get('/logout', (req, res) => {
     res.redirect('/admin/login');
 });
 
+// Admin users page
+router.get('/users', isAdmin, (req, res) => {
+    res.render('admin/users');
+});
+
+// Admin analytics page
+router.get('/analytics', isAdmin, (req, res) => {
+    res.render('admin/analytics');
+});
+
+// Admin settings page
+router.get('/settings', isAdmin, (req, res) => {
+    res.render('admin/settings');
+});
+
 export default router;
