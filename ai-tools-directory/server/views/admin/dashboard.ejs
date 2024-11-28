@@ -23,7 +23,7 @@
                 <% } %>
 
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Users</h5>
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Tools</h5>
@@ -41,12 +41,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card">
                             <div class="card-body position-relative">
                                 <h5 class="card-title">Total Reviews</h5>
                                 <p class="card-text display-4"><%= stats.totalReviews %></p>
                                 <i class="bi bi-star-fill stat-icon"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body position-relative">
+                                <h5 class="card-title">Total Prompts</h5>
+                                <p class="card-text display-4"><%= stats.totalPrompts %></p>
+                                <i class="bi bi-chat-square-text-fill stat-icon"></i>
                             </div>
                         </div>
                     </div>
@@ -80,6 +89,14 @@
                                                     <td><i class="bi bi-tools text-primary"></i> New Tool</td>
                                                     <td><%= tool.name %></td>
                                                     <td><%= new Date(tool.createdAt).toLocaleDateString() %></td>
+                                                </tr>
+                                            <% }); %>
+
+                                            <% recentActivity.prompts.forEach(prompt => { %>
+                                                <tr>
+                                                    <td><i class="bi bi-chat-text text-info"></i> New Prompt</td>
+                                                    <td><%= prompt.title %></td>
+                                                    <td><%= new Date(prompt.createdAt).toLocaleDateString() %></td>
                                                 </tr>
                                             <% }); %>
 

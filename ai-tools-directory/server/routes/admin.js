@@ -8,6 +8,7 @@ import Review from '../models/Review.js';
 import ApiKey from '../models/ApiKey.js';
 import Category from '../models/Category.js';
 import Notification from '../models/Notification.js';
+import SmartPrompt from '../models/SmartPrompt.js';
 
 const router = express.Router();
 
@@ -39,15 +40,19 @@ router.get('/dashboard', isAdmin, async (req, res) => {
             totalUsers,
             totalTools,
             totalReviews,
+            totalPrompts,
             recentUsers,
             recentTools,
+            recentPrompts,
             notifications
         ] = await Promise.all([
             User.countDocuments(),
             Tool.countDocuments(),
             Review.countDocuments(),
+            SmartPrompt.countDocuments(),
             User.find().sort({ createdAt: -1 }).limit(5),
             Tool.find().sort({ createdAt: -1 }).limit(5),
+            SmartPrompt.find().sort({ createdAt: -1 }).limit(5),
             Notification.find().sort({ createdAt: -1 }).limit(10)
         ]);
 
@@ -55,11 +60,13 @@ router.get('/dashboard', isAdmin, async (req, res) => {
             stats: {
                 totalUsers,
                 totalTools,
-                totalReviews
+                totalReviews,
+                totalPrompts
             },
             recentActivity: {
                 users: recentUsers,
                 tools: recentTools,
+                prompts: recentPrompts,
                 notifications
             }
         });
