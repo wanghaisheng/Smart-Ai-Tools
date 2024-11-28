@@ -116,7 +116,9 @@
                 <div class="card mb-4">
                     <div class="card-body">
                         <h5 class="card-title">User Activity Trends</h5>
-                        <canvas id="userActivityChart" height="100"></canvas>
+                        <div style="height: 300px;">
+                            <canvas id="userActivityChart"></canvas>
+                        </div>
                     </div>
                 </div>
 
@@ -378,7 +380,8 @@
                 },
                 options: {
                     responsive: true,
-                    maintainAspectRatio: false,
+                    maintainAspectRatio: true,
+                    aspectRatio: 2.5,
                     plugins: {
                         legend: {
                             position: 'top'
@@ -393,6 +396,11 @@
                             beginAtZero: true,
                             ticks: {
                                 precision: 0
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
                             }
                         }
                     }
