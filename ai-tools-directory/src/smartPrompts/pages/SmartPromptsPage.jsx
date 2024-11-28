@@ -25,7 +25,7 @@ const TABS = [
 const SmartPromptsPage = () => {
   const { user, loading: authLoading } = useAuth();
   const isAuthenticated = !!user;
-  
+
   const [prompts, setPrompts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [showForm, setShowForm] = useState(false);
@@ -36,7 +36,7 @@ const SmartPromptsPage = () => {
     category: '',
     search: '',
     page: 1,
-    view: 'public' // Default to public view
+    view: 'my-prompts' // Changed default view to my-prompts
   });
   const [totalPages, setTotalPages] = useState(1);
   const [showBulkImport, setShowBulkImport] = useState(false);
@@ -54,12 +54,16 @@ const SmartPromptsPage = () => {
 
   const fetchPrompts = async () => {
     try {
-      console.log('Fetching prompts with filters:', filters);
+      console.log('Fetching prompts with filters:', {
+        ...filters,
+        view: activeTab,
+        userId: user?._id // Make sure we're using _id
+      });
       setLoading(true);
       const response = await promptService.getPrompts({
         ...filters,
         view: activeTab,
-        userId: user?.id // Only pass userId if it exists
+        userId: user?._id // Make sure we're using _id
       });
       console.log('Fetched prompts:', response);
       setPrompts(response.prompts || []);
@@ -80,7 +84,7 @@ const SmartPromptsPage = () => {
       return;
     }
     setActiveTab(tabId);
-    setFilters(prev => ({ ...prev, page: 1, view: tabId }));
+    setFilters(prev => ({ ...prev, page: 1, view: tabId })); // This is correct
   };
 
   const handleFilter = (e) => {
@@ -319,8 +323,7 @@ const SmartPromptsPage = () => {
             <button
               key={tab.id}
               onClick={() => handleTabChange(tab.id)}
-              className={`
-                px-4 py-2 text-sm font-medium rounded-md transition-colors duration-200
+              className={`px-4 py-2 text-sm font-medium rounded-md transition-colors duration-200
                 ${!isAuthenticated && ['my-prompts', 'favorites', 'shared'].includes(tab.id)
                   ? 'opacity-50 cursor-not-allowed'
                   : ''
@@ -428,7 +431,7 @@ const SmartPromptsPage = () => {
             {[...Array(totalPages)].map((_, i) => (
               <button
                 key={i}
-                onClick={() => setFilters(prev => ({ ...prev, page: i + 1 }))}
+                onClick={() => setFilters(prev => ({ ...prev, page: i + 1 }))} // This is correct
                 className={`relative inline-flex items-center px-4 py-2 border text-sm font-medium ${
                   filters.page === i + 1
                     ? 'z-10 bg-blue-900 border-blue-700 text-blue-100'

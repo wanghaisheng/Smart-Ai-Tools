@@ -22,6 +22,7 @@ const getPrompts = async ({ page = 1, limit = 12, search = '', category = '', vi
       case 'my-prompts':
         if (!userId) return { prompts: [], totalPages: 0, totalCount: 0 };
         queryParams.userId = userId;
+        queryParams.ownership = true; // Add this to indicate we want user's owned prompts
         break;
       case 'public':
         queryParams.visibility = 'public';

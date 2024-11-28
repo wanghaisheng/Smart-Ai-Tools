@@ -394,19 +394,22 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
         </div>
       </motion.div>
 
-      <EnhancedPromptModal
-        prompt={prompt}
-        isOpen={showModal}
-        onClose={handleCloseModal}
-        onLike={handleLike}
-        onSave={handleSave}
-        onRate={handleRate}
-        onShare={handleShare}
-        onDownload={handleDownload}
-        currentUser={user}
-        isLoading={isLoading}
-        error={error}
-      />
+      {showModal && (
+        <EnhancedPromptModal
+          prompt={prompt}
+          isOpen={showModal}
+          onClose={() => setShowModal(false)}
+          onLike={handleLike}
+          onSave={handleSave}
+          onRate={handleRate}
+          onShare={handleShare}
+          onUpdate={onUpdate}
+          onDownload={handleDownload}
+          currentUser={user}
+          isLoading={isLoading}
+          error={error}
+        />
+      )}
     </>
   );
 }

@@ -33,6 +33,7 @@ const EnhancedPromptModal = ({
   onRate,
   onShare,
   onDownload,
+  onUpdate,
   currentUser,
   isLoading,
   error 
@@ -98,6 +99,8 @@ const EnhancedPromptModal = ({
 
       console.log('Save successful:', response);
       toast.success('Prompt saved successfully!');
+      // Call onUpdate to refresh prompts list before closing
+      if (onUpdate) onUpdate();
       if (onClose) onClose(); // Close the modal after successful save
     } catch (error) {
       console.error('Error saving modified prompt:', {
