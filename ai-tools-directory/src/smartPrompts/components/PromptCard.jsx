@@ -211,14 +211,30 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
       setIsFollowing(response.isFollowing);
       setFollowersCount(response.followersCount);
       
+      if (prompt.creator) {
+        prompt.creator.followers = response.isFollowing 
+          ? [...(prompt.creator.followers || []), user.id]
+          : (prompt.creator.followers || []).filter(id => id !== user.id);
+      }
+      
+      if (onUpdate) onUpdate(prompt._id);
+      
       toast.success(response.isFollowing ? 'Following user!' : 'Unfollowed user');
     } catch (error) {
       console.error('Error following user:', error);
       setError('Failed to update follow status');
+      toast.error('Failed to update follow status');
     } finally {
       setIsLoading(false);
     }
-  }, [user, prompt.creator._id, followUser]);
+  }, [user, prompt.creator._id, followUser, onUpdate]);
+
+  useEffect(() => {
+    if (user && prompt.creator) {
+      setIsFollowing(prompt.creator.followers?.includes(user.id));
+      setFollowersCount(prompt.creator.followers?.length || 0);
+    }
+  }, [user, prompt.creator]);
 
   // Reset error state when modal closes
   useEffect(() => {

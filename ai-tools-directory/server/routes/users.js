@@ -141,4 +141,54 @@ router.get('/collections', authenticate, async (req, res) => {
   }
 });
 
+// Follow/Unfollow user
+router.post('/follow', authenticate, async (req, res) => {
+  try {
+    const { userId } = req.body;
+    if (!userId) {
+      return res.status(400).json({ message: 'User ID is required' });
+    }
+
+    // Get both users
+    const [currentUser, userToFollow] = await Promise.all([
+      User.findById(req.user.id),
+      User.findById(userId)
+    ]);
+
+    if (!userToFollow) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    if (userId === req.user.id) {
+      return res.status(400).json({ message: 'Cannot follow yourself' });
+    }
+
+    const isFollowing = currentUser.following.includes(userId);
+    
+    if (isFollowing) {
+      // Unfollow
+      currentUser.following = currentUser.following.filter(id => id.toString() !== userId);
+      userToFollow.followers = userToFollow.followers.filter(id => id.toString() !== req.user.id);
+    } else {
+      // Follow
+      currentUser.following.push(userId);
+      userToFollow.followers.push(req.user.id);
+    }
+
+    await Promise.all([
+      currentUser.save(),
+      userToFollow.save()
+    ]);
+
+    return res.status(200).json({
+      isFollowing: !isFollowing,
+      followersCount: userToFollow.followers.length,
+      followingCount: currentUser.following.length
+    });
+  } catch (error) {
+    console.error('Follow error:', error);
+    return res.status(500).json({ message: 'Internal server error' });
+  }
+});
+
 export default router;
