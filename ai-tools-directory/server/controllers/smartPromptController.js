@@ -219,7 +219,7 @@ export const toggleLike = async (req, res) => {
   try {
     console.log('toggleLike controller - Start:', {
       promptId: req.params.id,
-      userId: req.userId,
+      userId: req.user.id,
       headers: req.headers
     });
 
@@ -235,19 +235,20 @@ export const toggleLike = async (req, res) => {
       likesCount: prompt.likes?.length
     });
 
-    await prompt.toggleLike(req.userId);
-    await prompt.save();  // Explicitly save again to ensure persistence
+    // Toggle like and save in one atomic operation
+    await prompt.toggleLike(req.user.id);
+    await prompt.save();
 
-    console.log('toggleLike controller - After toggle:', {
+    console.log('toggleLike controller - After toggle and save:', {
       promptId: prompt._id,
       newLikes: prompt.likes,
       newLikesCount: prompt.likes.length,
-      isLiked: prompt.likes.includes(req.userId)
+      isLiked: prompt.likes.includes(req.user.id)
     });
     
     res.json({
       likes: prompt.likes.length,
-      isLiked: prompt.likes.includes(req.userId)
+      isLiked: prompt.likes.includes(req.user.id)
     });
   } catch (error) {
     console.error('toggleLike controller - Error:', error);
@@ -260,7 +261,7 @@ export const toggleSave = async (req, res) => {
   try {
     console.log('toggleSave controller - Start:', {
       promptId: req.params.id,
-      userId: req.userId,
+      userId: req.user.id,
       headers: req.headers
     });
 
@@ -276,19 +277,20 @@ export const toggleSave = async (req, res) => {
       savesCount: prompt.saves?.length
     });
 
-    await prompt.toggleSave(req.userId);
-    await prompt.save();  // Explicitly save again to ensure persistence
+    // Toggle save and save in one atomic operation
+    await prompt.toggleSave(req.user.id);
+    await prompt.save();
 
-    console.log('toggleSave controller - After toggle:', {
+    console.log('toggleSave controller - After toggle and save:', {
       promptId: prompt._id,
       newSaves: prompt.saves,
       newSavesCount: prompt.saves.length,
-      isSaved: prompt.saves.includes(req.userId)
+      isSaved: prompt.saves.includes(req.user.id)
     });
     
     res.json({
       saves: prompt.saves.length,
-      isSaved: prompt.saves.includes(req.userId)
+      isSaved: prompt.saves.includes(req.user.id)
     });
   } catch (error) {
     console.error('toggleSave controller - Error:', error);
