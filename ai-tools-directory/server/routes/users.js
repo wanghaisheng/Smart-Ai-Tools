@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import User from '../models/User.js';
 import Tool from '../models/Tool.js';
 import Review from '../models/Review.js';
@@ -8,13 +8,13 @@ import Collection from '../models/Collection.js';
 const router = express.Router();
 
 // Get user's dashboard stats
-router.get('/stats', auth, async (req, res) => {
+router.get('/stats', authenticate, async (req, res) => {
   try {
     const [favorites, reviews, submitted, collections] = await Promise.all([
-      Tool.countDocuments({ favoritedBy: req.userId }),
-      Review.countDocuments({ user: req.userId }),
-      Tool.countDocuments({ submittedBy: req.userId }),
-      Collection.countDocuments({ user: req.userId })
+      Tool.countDocuments({ favoritedBy: req.user.id }),
+      Review.countDocuments({ user: req.user.id }),
+      Tool.countDocuments({ submittedBy: req.user.id }),
+      Collection.countDocuments({ user: req.user.id })
     ]);
 
     res.json({
@@ -25,23 +25,23 @@ router.get('/stats', auth, async (req, res) => {
     });
   } catch (error) {
     console.error('Error fetching user stats:', error);
-    res.status(500).json({ message: 'Error fetching user stats' });
+    res.status(500).json({ message: 'Error fetching user statistics' });
   }
 });
 
 // Get user's recent activity
-router.get('/activity', auth, async (req, res) => {
+router.get('/activity', authenticate, async (req, res) => {
   try {
     const [favoriteActivity, reviewActivity, submittedActivity] = await Promise.all([
-      Tool.find({ favoritedBy: req.userId })
+      Tool.find({ favoritedBy: req.user.id })
         .sort('-updatedAt')
         .limit(5)
         .select('name updatedAt'),
-      Review.find({ user: req.userId })
+      Review.find({ user: req.user.id })
         .sort('-createdAt')
         .limit(5)
         .populate('tool', 'name'),
-      Tool.find({ submittedBy: req.userId })
+      Tool.find({ submittedBy: req.user.id })
         .sort('-createdAt')
         .limit(5)
         .select('name createdAt status')
@@ -76,10 +76,10 @@ router.get('/activity', auth, async (req, res) => {
 });
 
 // Get user profile
-router.get('/me', auth, async (req, res) => {
+router.get('/me', authenticate, async (req, res) => {
   try {
-    const user = await User.findById(req.userId)
-      .select('-password');
+    const user = await User.findById(req.user.id)
+      .select('-password -refreshToken');
     if (!user) {
       return res.status(404).json({ message: 'User not found' });
     }
@@ -91,10 +91,10 @@ router.get('/me', auth, async (req, res) => {
 });
 
 // Update user profile
-router.put('/me', auth, async (req, res) => {
+router.put('/me', authenticate, async (req, res) => {
   try {
     const { username, email, bio, avatar } = req.body;
-    const user = await User.findById(req.userId);
+    const user = await User.findById(req.user.id);
     
     if (!user) {
       return res.status(404).json({ message: 'User not found' });
@@ -114,16 +114,30 @@ router.put('/me', auth, async (req, res) => {
 });
 
 // Get user's favorite tools
-router.get('/favorites', auth, async (req, res) => {
+router.get('/favorites', authenticate, async (req, res) => {
   try {
     const tools = await Tool.find({
-      favoritedBy: req.userId,
+      favoritedBy: req.user.id,
       status: 'approved'
     }).sort('-createdAt');
     res.json(tools);
   } catch (error) {
     console.error('Error fetching favorite tools:', error);
     res.status(500).json({ message: 'Error fetching favorite tools' });
+  }
+});
+
+// Get user's collections
+router.get('/collections', authenticate, async (req, res) => {
+  try {
+    const collections = await Collection.find({ user: req.user.id })
+      .populate('tools')
+      .sort({ updatedAt: -1 });
+    
+    res.json(collections);
+  } catch (error) {
+    console.error('Error fetching collections:', error);
+    res.status(500).json({ message: 'Error fetching user collections' });
   }
 });
 

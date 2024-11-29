@@ -1,12 +1,12 @@
 import express from 'express';
-import { auth, optionalAuth } from '../middleware/auth.js';
+import { authenticate, optionalAuth } from '../middleware/auth.js';
 import Review from '../models/Review.js';
 import { body, validationResult } from 'express-validator';
 
 const router = express.Router();
 
 // Get user's reviews
-router.get('/user', auth, async (req, res) => {
+router.get('/user', authenticate, async (req, res) => {
   try {
     const reviews = await Review.find({ user: req.userId })
       .populate('tool', 'name image url')
@@ -21,7 +21,7 @@ router.get('/user', auth, async (req, res) => {
 });
 
 // Get user's reviews
-router.get('/user/me', auth, async (req, res) => {
+router.get('/user/me', authenticate, async (req, res) => {
   try {
     const reviews = await Review.find({ user: req.userId })
       .populate('tool')
@@ -57,7 +57,7 @@ router.get('/tool/:toolId', optionalAuth, async (req, res) => {
 
 // Create/Update review
 router.post('/tool/:toolId', [
-  auth,
+  authenticate,
   body('rating').isInt({ min: 1, max: 5 }).withMessage('Rating must be between 1 and 5'),
   body('content').trim().isLength({ min: 1, max: 1000 }).withMessage('Review must be between 1 and 1000 characters')
 ], async (req, res) => {
@@ -104,7 +104,7 @@ router.post('/tool/:toolId', [
 });
 
 // Delete review
-router.delete('/:reviewId', auth, async (req, res) => {
+router.delete('/:reviewId', authenticate, async (req, res) => {
   try {
     const review = await Review.findOne({
       _id: req.params.reviewId,
@@ -124,7 +124,7 @@ router.delete('/:reviewId', auth, async (req, res) => {
 });
 
 // Like/Unlike review
-router.post('/:reviewId/like', auth, async (req, res) => {
+router.post('/:reviewId/like', authenticate, async (req, res) => {
   try {
     const review = await Review.findById(req.params.reviewId);
     

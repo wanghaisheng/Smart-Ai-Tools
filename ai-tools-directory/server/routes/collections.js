@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import Collection from '../models/Collection.js';
 import Tool from '../models/Tool.js';
 import { body, validationResult } from 'express-validator';
@@ -7,7 +7,7 @@ import { body, validationResult } from 'express-validator';
 const router = express.Router();
 
 // Get all collections for the authenticated user
-router.get('/', auth, async (req, res) => {
+router.get('/', authenticate, async (req, res) => {
   try {
     const collections = await Collection.find({ user: req.userId })
       .populate('tools', 'name description image')
@@ -34,7 +34,7 @@ router.get('/public', async (req, res) => {
 });
 
 // Get a single collection by ID
-router.get('/:id', auth, async (req, res) => {
+router.get('/:id', authenticate, async (req, res) => {
   try {
     const collection = await Collection.findById(req.params.id)
       .populate('user', 'username avatar')
@@ -58,7 +58,7 @@ router.get('/:id', auth, async (req, res) => {
 
 // Create a new collection
 router.post('/', [
-  auth,
+  authenticate,
   body('name').trim().isLength({ min: 1, max: 100 }).withMessage('Name must be between 1 and 100 characters'),
   body('description').optional().trim().isLength({ max: 500 }).withMessage('Description cannot exceed 500 characters'),
   body('isPublic').optional().isBoolean().withMessage('isPublic must be a boolean value'),
@@ -91,7 +91,7 @@ router.post('/', [
 
 // Update a collection
 router.put('/:id', [
-  auth,
+  authenticate,
   body('name').optional().trim().isLength({ min: 1, max: 100 }).withMessage('Name must be between 1 and 100 characters'),
   body('description').optional().trim().isLength({ max: 500 }).withMessage('Description cannot exceed 500 characters'),
   body('isPublic').optional().isBoolean().withMessage('isPublic must be a boolean value'),
@@ -128,7 +128,7 @@ router.put('/:id', [
 });
 
 // Delete a collection
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', authenticate, async (req, res) => {
   try {
     const collection = await Collection.findOne({
       _id: req.params.id,
@@ -149,7 +149,7 @@ router.delete('/:id', auth, async (req, res) => {
 
 // Add tool to collection
 router.post('/:id/tools', [
-  auth,
+  authenticate,
   body('toolId').trim().notEmpty().withMessage('Tool ID is required')
 ], async (req, res) => {
   try {
@@ -189,7 +189,7 @@ router.post('/:id/tools', [
 });
 
 // Remove tool from collection
-router.delete('/:id/tools/:toolId', auth, async (req, res) => {
+router.delete('/:id/tools/:toolId', authenticate, async (req, res) => {
   try {
     const collection = await Collection.findOne({
       _id: req.params.id,
@@ -217,7 +217,7 @@ router.delete('/:id/tools/:toolId', auth, async (req, res) => {
 
 // Add tools to a collection
 router.post('/:id/add', [
-  auth,
+  authenticate,
   body('tools').isArray().withMessage('Tools must be an array'),
 ], async (req, res) => {
   try {
@@ -260,7 +260,7 @@ router.post('/:id/add', [
 
 // Remove tools from a collection
 router.post('/:id/remove', [
-  auth,
+  authenticate,
   body('tools').isArray().withMessage('Tools must be an array'),
 ], async (req, res) => {
   try {

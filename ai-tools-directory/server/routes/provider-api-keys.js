@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import ProviderApiKey from '../models/ProviderApiKey.js';
 import { body, param, validationResult } from 'express-validator';
 import axios from 'axios';
@@ -7,7 +7,7 @@ import axios from 'axios';
 const router = express.Router();
 
 // Get all provider API keys for the authenticated user
-router.get('/', auth, async (req, res) => {
+router.get('/', authenticate, async (req, res) => {
   try {
     const apiKeys = await ProviderApiKey.find({ user: req.userId })
       .select('-apiKey') // Don't send the encrypted key
@@ -33,7 +33,7 @@ router.get('/', auth, async (req, res) => {
 
 // Save or update a provider API key
 router.post('/:provider', [
-  auth,
+  authenticate,
   param('provider').isIn(ProviderApiKey.schema.path('provider').enumValues),
   body('apiKey').trim().notEmpty().withMessage('API key is required'),
 ], async (req, res) => {
@@ -91,7 +91,7 @@ router.post('/:provider', [
 
 // Test an API key
 router.post('/:provider/test', [
-  auth,
+  authenticate,
   param('provider').isIn(ProviderApiKey.schema.path('provider').enumValues),
 ], async (req, res) => {
   try {
@@ -122,7 +122,7 @@ router.post('/:provider/test', [
 
 // Toggle provider enabled status
 router.patch('/:provider/toggle', [
-  auth,
+  authenticate,
   param('provider').isIn(ProviderApiKey.schema.path('provider').enumValues),
 ], async (req, res) => {
   try {
@@ -149,7 +149,7 @@ router.patch('/:provider/toggle', [
 
 // Toggle model enabled status
 router.patch('/:provider/models/:modelName/toggle', [
-  auth,
+  authenticate,
   param('provider').isIn(ProviderApiKey.schema.path('provider').enumValues),
 ], async (req, res) => {
   try {
@@ -180,7 +180,7 @@ router.patch('/:provider/models/:modelName/toggle', [
 
 // Delete a provider API key
 router.delete('/:provider', [
-  auth,
+  authenticate,
   param('provider').isIn(ProviderApiKey.schema.path('provider').enumValues),
 ], async (req, res) => {
   try {

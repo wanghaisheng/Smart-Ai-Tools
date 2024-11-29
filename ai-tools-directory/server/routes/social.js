@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import SocialProfile from '../models/SocialProfile.js';
 import User from '../models/User.js';
 import Comment from '../models/Comment.js';
@@ -25,7 +25,7 @@ router.get('/profile/:userId', async (req, res) => {
 });
 
 // Update user profile
-router.put('/profile', auth, async (req, res) => {
+router.put('/profile', authenticate, async (req, res) => {
   try {
     let profile = await SocialProfile.findOne({ user: req.user.id });
     
@@ -46,7 +46,7 @@ router.put('/profile', auth, async (req, res) => {
 });
 
 // Follow user
-router.post('/follow/:userId', auth, async (req, res) => {
+router.post('/follow/:userId', authenticate, async (req, res) => {
   try {
     if (req.user.id === req.params.userId) {
       return res.status(400).json({ message: 'Cannot follow yourself' });
@@ -75,7 +75,7 @@ router.post('/follow/:userId', auth, async (req, res) => {
 });
 
 // Unfollow user
-router.post('/unfollow/:userId', auth, async (req, res) => {
+router.post('/unfollow/:userId', authenticate, async (req, res) => {
   try {
     const profile = await SocialProfile.findOne({ user: req.user.id });
     const targetProfile = await SocialProfile.findOne({ user: req.params.userId });
@@ -93,7 +93,7 @@ router.post('/unfollow/:userId', auth, async (req, res) => {
 });
 
 // Add comment to prompt
-router.post('/prompts/:promptId/comments', auth, async (req, res) => {
+router.post('/prompts/:promptId/comments', authenticate, async (req, res) => {
   try {
     const comment = new Comment({
       prompt: req.params.promptId,
@@ -128,7 +128,7 @@ router.get('/prompts/:promptId/comments', async (req, res) => {
 });
 
 // Add reply to comment
-router.post('/comments/:commentId/replies', auth, async (req, res) => {
+router.post('/comments/:commentId/replies', authenticate, async (req, res) => {
   try {
     const comment = await Comment.findById(req.params.commentId);
     
@@ -150,7 +150,7 @@ router.post('/comments/:commentId/replies', auth, async (req, res) => {
 });
 
 // Like/unlike comment
-router.post('/comments/:commentId/like', auth, async (req, res) => {
+router.post('/comments/:commentId/like', authenticate, async (req, res) => {
   try {
     const comment = await Comment.findById(req.params.commentId);
     

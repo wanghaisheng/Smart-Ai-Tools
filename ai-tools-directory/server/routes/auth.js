@@ -4,7 +4,7 @@ import jwt from 'jsonwebtoken';
 import { body, validationResult } from 'express-validator';
 import User from '../models/User.js';
 import UserProfile from '../models/UserProfile.js';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 
 const router = express.Router();
 
@@ -172,7 +172,7 @@ router.post('/login', [
 });
 
 // Refresh Token
-router.post('/refresh', auth, async (req, res) => {
+router.post('/refresh', authenticate, async (req, res) => {
   try {
     const user = await User.findById(req.userId);
     if (!user) {
@@ -195,19 +195,19 @@ router.post('/refresh', auth, async (req, res) => {
 });
 
 // Logout
-router.post('/logout', auth, async (req, res) => {
+router.post('/logout', authenticate, async (req, res) => {
   try {
     // Clear refresh token
-    const user = await User.findById(req.userId);
+    const user = await User.findById(req.user.id);
     if (user) {
       user.refreshToken = null;
       await user.save();
     }
-
+    
     res.json({ message: 'Logged out successfully' });
   } catch (error) {
     console.error('Logout error:', error);
-    res.status(500).json({ message: 'Server error' });
+    res.status(500).json({ message: 'Error during logout' });
   }
 });
 

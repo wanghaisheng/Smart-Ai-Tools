@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import Tool from '../models/Tool.js';
 import { scrapeWebsiteData } from '../services/websiteScraper.js';
 
@@ -37,9 +37,9 @@ const buildSort = (sortParam = '-createdAt') => {
 };
 
 // Get user's submitted tools
-router.get('/submitted', auth, async (req, res) => {
+router.get('/submitted', authenticate, async (req, res) => {
   try {
-    const tools = await Tool.find({ submittedBy: req.userId })
+    const tools = await Tool.find({ submittedBy: req.user.id })
       .sort({ createdAt: -1 })
       .populate('category', 'name')
       .lean();
@@ -100,7 +100,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // Scrape website data for a tool
-router.post('/:id/scrape', auth, async (req, res) => {
+router.post('/:id/scrape', authenticate, async (req, res) => {
   try {
     const tool = await Tool.findById(req.params.id);
     if (!tool) {
@@ -142,7 +142,7 @@ router.post('/:id/scrape', auth, async (req, res) => {
 });
 
 // Submit a new tool
-router.post('/', auth, async (req, res) => {
+router.post('/', authenticate, async (req, res) => {
   try {
     const {
       name,
@@ -164,7 +164,7 @@ router.post('/', auth, async (req, res) => {
       features,
       tags: tags || [],
       image,
-      submittedBy: req.userId,
+      submittedBy: req.user.id,
       status: 'pending'
     });
     
@@ -177,11 +177,11 @@ router.post('/', auth, async (req, res) => {
 });
 
 // Update a tool
-router.put('/:id', auth, async (req, res) => {
+router.put('/:id', authenticate, async (req, res) => {
   try {
     const tool = await Tool.findOne({
       _id: req.params.id,
-      submittedBy: req.userId
+      submittedBy: req.user.id
     });
     
     if (!tool) {
@@ -220,11 +220,11 @@ router.put('/:id', auth, async (req, res) => {
 });
 
 // Delete a tool
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', authenticate, async (req, res) => {
   try {
     const tool = await Tool.findOneAndDelete({
       _id: req.params.id,
-      submittedBy: req.userId
+      submittedBy: req.user.id
     });
     
     if (!tool) {

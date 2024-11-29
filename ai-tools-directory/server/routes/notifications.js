@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import Notification from '../models/Notification.js';
 import User from '../models/User.js';
 import { body, validationResult } from 'express-validator';
@@ -7,7 +7,7 @@ import { body, validationResult } from 'express-validator';
 const router = express.Router();
 
 // Get all notifications for the authenticated user
-router.get('/', auth, async (req, res) => {
+router.get('/', authenticate, async (req, res) => {
   try {
     const notifications = await Notification.find({ user: req.userId })
       .sort({ createdAt: -1 })
@@ -22,7 +22,7 @@ router.get('/', auth, async (req, res) => {
 });
 
 // Get notification settings for the user
-router.get('/settings', auth, async (req, res) => {
+router.get('/settings', authenticate, async (req, res) => {
   try {
     const user = await User.findById(req.userId).select('notificationSettings');
     if (!user) {
@@ -42,7 +42,7 @@ router.get('/settings', auth, async (req, res) => {
 
 // Update notification settings
 router.put('/settings', [
-  auth,
+  authenticate,
   body('emailNotifications').isBoolean().withMessage('emailNotifications must be a boolean'),
   body('toolUpdates').isBoolean().withMessage('toolUpdates must be a boolean'),
   body('newFeatures').isBoolean().withMessage('newFeatures must be a boolean'),
@@ -72,7 +72,7 @@ router.put('/settings', [
 });
 
 // Mark a notification as read
-router.put('/:id/read', auth, async (req, res) => {
+router.put('/:id/read', authenticate, async (req, res) => {
   try {
     const notification = await Notification.findOneAndUpdate(
       { _id: req.params.id, user: req.userId },
@@ -92,7 +92,7 @@ router.put('/:id/read', auth, async (req, res) => {
 });
 
 // Mark all notifications as read
-router.put('/read-all', auth, async (req, res) => {
+router.put('/read-all', authenticate, async (req, res) => {
   try {
     const result = await Notification.updateMany(
       { user: req.userId, read: false },
@@ -110,7 +110,7 @@ router.put('/read-all', auth, async (req, res) => {
 });
 
 // Delete a notification
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', authenticate, async (req, res) => {
   try {
     const notification = await Notification.findOneAndDelete({
       _id: req.params.id,
