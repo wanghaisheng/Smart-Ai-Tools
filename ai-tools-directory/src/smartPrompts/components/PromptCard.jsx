@@ -25,9 +25,11 @@ import toast from 'react-hot-toast';
 import { useAuth } from '../../contexts/AuthContext';
 
 const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onClick }) => {
-  const { user } = useAuth();
+  const { user, followUser } = useAuth();
   const [isLiked, setIsLiked] = useState(false);
   const [isSaved, setIsSaved] = useState(false);
+  const [isFollowing, setIsFollowing] = useState(false);
+  const [followersCount, setFollowersCount] = useState(prompt.creator.followers?.length || 0);
   const [likesCount, setLikesCount] = useState(prompt.likes?.length || 0);
   const [savesCount, setSavesCount] = useState(prompt.saves?.length || 0);
   const [showModal, setShowModal] = useState(false);
@@ -194,6 +196,30 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     setShowModal(false);
   }, []);
 
+  const handleFollow = useCallback(async (e) => {
+    if (e) e.stopPropagation();
+    if (!user) {
+      toast.error('Please login to follow users');
+      return;
+    }
+    
+    setIsLoading(true);
+    setError(null);
+    
+    try {
+      const response = await followUser(prompt.creator._id);
+      setIsFollowing(response.isFollowing);
+      setFollowersCount(response.followersCount);
+      
+      toast.success(response.isFollowing ? 'Following user!' : 'Unfollowed user');
+    } catch (error) {
+      console.error('Error following user:', error);
+      setError('Failed to update follow status');
+    } finally {
+      setIsLoading(false);
+    }
+  }, [user, prompt.creator._id, followUser]);
+
   // Reset error state when modal closes
   useEffect(() => {
     if (!showModal) {
@@ -205,8 +231,10 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
     if (user && prompt) {
       setIsLiked(prompt.likes?.includes(user.id));
       setIsSaved(prompt.saves?.includes(user.id));
+      setIsFollowing(prompt.creator.followers?.includes(user.id));
       setLikesCount(prompt.likes?.length || 0);
       setSavesCount(prompt.saves?.length || 0);
+      setFollowersCount(prompt.creator.followers?.length || 0);
     }
   }, [prompt, user]);
 
@@ -247,10 +275,23 @@ const PromptCard = ({ prompt, onRate, onShare, onEdit, onDelete, onUpdate, onCli
                 </span>
 
                 {/* Creator Info */}
-                <span className="flex items-center text-gray-400 text-sm">
+                <div className="flex items-center space-x-2">
                   <UserCircleIcon className="h-4 w-4 mr-1.5" />
-                  {prompt.creator.username}
-                </span>
+                  <span className="flex items-center text-gray-400 text-sm">{prompt.creator.username}</span>
+                  {user && user.id !== prompt.creator._id && (
+                    <button
+                      onClick={handleFollow}
+                      disabled={isLoading}
+                      className={`ml-2 px-3 py-1 text-sm rounded-full transition-colors ${
+                        isFollowing
+                          ? 'bg-blue-100 text-blue-600 hover:bg-blue-200'
+                          : 'bg-blue-600 text-white hover:bg-blue-700'
+                      }`}
+                    >
+                      {isFollowing ? 'Following' : 'Follow'}
+                    </button>
+                  )}
+                </div>
 
                 {/* Date */}
                 <span className="flex items-center text-gray-500 text-sm">

@@ -108,6 +108,18 @@ export function AuthProvider({ children }) {
     window.location.href = '/login';
   };
 
+  const followUser = async (userId) => {
+    try {
+      const response = await api.post('/api/users/follow', { userId });
+      await fetchUser(); // Refresh user data
+      return response.data;
+    } catch (error) {
+      console.error('Follow error:', error);
+      toast.error(error.response?.data?.message || 'Failed to follow user');
+      throw error;
+    }
+  };
+
   const value = {
     user,
     loading,
@@ -115,6 +127,7 @@ export function AuthProvider({ children }) {
     login,
     register,
     logout,
+    followUser,
     isAuthenticated: !!user,
   };
 
