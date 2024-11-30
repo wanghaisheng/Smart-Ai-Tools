@@ -38,14 +38,25 @@ class SmartPromptsUI {
       this.container.innerHTML = `
         <div class="smart-prompts-wrapper">
           <div class="smart-prompts-sidebar">
-            <div class="smart-prompts-header">
-              Smart Prompts
+            <div class="smart-prompts-header flex justify-between items-center">
+              <div class="flex items-center gap-2">
+                <span class="text-token-text-primary">Smart Prompts</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <button class="h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 10.8954 3.89543 10 5 10C6.10457 10 7 10.8954 7 12C7 13.1046 6.10457 14 5 14C3.89543 14 3 13.1046 3 12Z" fill="currentColor"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12Z" fill="currentColor"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M17 12C17 10.8954 17.8954 10 19 10C20.1046 10 21 10.8954 21 12C21 13.1046 20.1046 14 19 14C17.8954 14 17 13.1046 17 12Z" fill="currentColor"></path>
+                  </svg>
+                </button>
+              </div>
             </div>
             <div class="smart-prompts-content">
-              <div class="mb-7 hidden text-center lg:block">
+              <div class="mb-7 text-center">
                 <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
-                  <h1>What can I help with?</h1>
-                  <h1 class="result-streaming absolute left-full transition-opacity" style="opacity: 0;">
+                  <h1 class="text-token-text-primary">What can I help with?</h1>
+                  <h1 class="result-streaming absolute left-full transition-opacity text-token-text-primary" style="opacity: 0;">
                     <span></span>
                   </h1>
                 </div>
@@ -111,14 +122,25 @@ class SmartPromptsUI {
     const contentHtml = `
       <div class="smart-prompts-wrapper">
         <div class="smart-prompts-sidebar">
-          <div class="smart-prompts-header">
-            Smart Prompts
+          <div class="smart-prompts-header flex justify-between items-center">
+            <div class="flex items-center gap-2">
+              <span class="text-token-text-primary">Smart Prompts</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <button class="h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 10.8954 3.89543 10 5 10C6.10457 10 7 10.8954 7 12C7 13.1046 6.10457 14 5 14C3.89543 14 3 13.1046 3 12Z" fill="currentColor"></path>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12Z" fill="currentColor"></path>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M17 12C17 10.8954 17.8954 10 19 10C20.1046 10 21 10.8954 21 12C21 13.1046 20.1046 14 19 14C17.8954 14 17 13.1046 17 12Z" fill="currentColor"></path>
+                </svg>
+              </button>
+            </div>
           </div>
           <div class="smart-prompts-content">
-            <div class="mb-7 hidden text-center lg:block">
+            <div class="mb-7 text-center">
               <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
-                <h1>What can I help with?</h1>
-                <h1 class="result-streaming absolute left-full transition-opacity" style="opacity: 0;">
+                <h1 class="text-token-text-primary">What can I help with?</h1>
+                <h1 class="result-streaming absolute left-full transition-opacity text-token-text-primary" style="opacity: 0;">
                   <span></span>
                 </h1>
               </div>
