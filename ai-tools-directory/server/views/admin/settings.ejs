@@ -176,14 +176,15 @@
                                             <div class="mb-4">
                                                 <label class="form-label">API Key</label>
                                                 <div class="input-group">
-                                                    <input type="text" class="form-control" value="sk_test_51H3dJ9K2J5N8bQzX" readonly>
-                                                    <button class="btn btn-outline-secondary" type="button">
+                                                    <input type="text" class="form-control" value="<%= stripePublicKey %>" readonly>
+                                                    <button class="btn btn-outline-secondary copy-btn" type="button" data-bs-toggle="tooltip" title="Copy API Key">
                                                         <i class="bi bi-clipboard"></i>
                                                     </button>
                                                     <button class="btn btn-outline-secondary" type="button">
                                                         <i class="bi bi-arrow-repeat"></i>
                                                     </button>
                                                 </div>
+                                                <small class="text-muted">This is your publishable key. Your secret key is securely stored on the server.</small>
                                             </div>
                                             <div class="mb-4">
                                                 <label class="form-label">Webhook URL</label>
