@@ -1,39 +1,32 @@
 {
   "manifest_version": 3,
-  "name": "Smart AI Prompts",
-  "version": "1.0.0",
-  "description": "Enhance your AI interactions with smart prompt management",
+  "name": "Smart Prompts",
+  "version": "1.0",
+  "description": "AI Prompt Management for ChatGPT",
   "permissions": [
     "storage",
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
-    "http://localhost:5000/*",
-    "https://chat.openai.com/*",
-    "https://chatgpt.com/*"
+    "http://localhost:*/*",
+    "*://chatgpt.com/*"
   ],
   "background": {
     "service_worker": "src/background.js"
   },
   "content_scripts": [
     {
-      "matches": [
-        "https://chat.openai.com/*",
-        "https://chatgpt.com/*"
-      ],
-      "js": ["src/content.js"],
+      "matches": ["*://chatgpt.com/*"],
       "css": ["src/styles.css"],
-      "run_at": "document_idle"
+      "js": ["src/content.js"],
+      "run_at": "document_end",
+      "all_frames": false
     }
   ],
   "web_accessible_resources": [
     {
       "resources": ["src/*"],
-      "matches": [
-        "https://chat.openai.com/*",
-        "https://chatgpt.com/*"
-      ]
+      "matches": ["*://chatgpt.com/*"]
     }
   ],
   "icons": {

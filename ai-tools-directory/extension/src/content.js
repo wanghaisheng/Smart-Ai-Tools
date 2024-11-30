@@ -39,66 +39,13 @@ class SmartPromptsUI {
       this.container.className = 'smart-prompts-extension-container';
       rootContainer.appendChild(this.container);
       
-      // If not authenticated, show login form
-      if (!this.isAuthenticated) {
-        this.showAuthForm();
-        return;
-      }
+      // Initial render
+      await this.updateUI();
       
-      // Create the wrapper structure for authenticated users
-      this.container.innerHTML = `
-        <div class="smart-prompts-wrapper">
-          <div class="smart-prompts-header">
-            <h1>Smart Prompts</h1>
-            <button class="action-button" id="logout-btn">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M9 21H5a2 2 0 01-2-2V5a2 2 0 012-2h4" />
-                <polyline points="16 17 21 12 16 7" />
-                <line x1="21" y1="12" x2="9" y2="12" />
-              </svg>
-            </button>
-          </div>
-          
-          <div class="smart-prompts-content">
-            <input 
-              type="text" 
-              class="search-input" 
-              placeholder="Search prompts..." 
-              value="${this.searchQuery}"
-            />
-            
-            <div class="tabs-container">
-              <button class="tab-button ${this.activeTab === 'all' ? 'active' : ''}" data-tab="all">
-                All Prompts
-              </button>
-              <button class="tab-button ${this.activeTab === 'my-prompts' ? 'active' : ''}" data-tab="my-prompts" ${!this.isAuthenticated ? 'disabled' : ''}>
-                My Prompts
-              </button>
-              <button class="tab-button ${this.activeTab === 'public' ? 'active' : ''}" data-tab="public">
-                Public Prompts
-              </button>
-              <button class="tab-button ${this.activeTab === 'favorites' ? 'active' : ''}" data-tab="favorites" ${!this.isAuthenticated ? 'disabled' : ''}>
-                Favorites
-              </button>
-            </div>
-            
-            ${this.isLoading ? this.renderLoading() : this.renderPrompts()}
-          </div>
-        </div>
-      `;
-      
-      // Add event listeners
+      // Attach event listeners
       this.attachEventListeners();
       
-      console.log('Initial render complete');
-      
-      // Load settings
-      const savedSettings = await chrome.storage.local.get('smartPromptsSettings');
-      if (savedSettings.smartPromptsSettings) {
-        this.settings = { ...this.settings, ...savedSettings.smartPromptsSettings };
-      }
-      
-      // Add resize observer to adjust layout
+      // Add resize observer
       this.setupResizeObserver();
       
       // Mark as initialized
@@ -222,91 +169,134 @@ class SmartPromptsUI {
   }
 
   async sendRequest(url, options = {}) {
-    try {
-      const response = await chrome.runtime.sendMessage({
+    console.log('Sending request to:', url, 'with options:', options);
+    
+    return new Promise((resolve, reject) => {
+      chrome.runtime.sendMessage({
         type: 'API_REQUEST',
         url,
         ...options
+      }, response => {
+        if (chrome.runtime.lastError) {
+          console.error('Chrome runtime error:', chrome.runtime.lastError);
+          reject(new Error(chrome.runtime.lastError.message));
+          return;
+        }
+        
+        console.log('Received response:', response);
+        
+        if (!response || !response.success) {
+          console.error('Request failed:', response?.error || 'Unknown error');
+          reject(new Error(response?.error || 'Request failed'));
+          return;
+        }
+        
+        resolve(response.data);
+      });
+    });
+  }
+
+  async fetchPrompts() {
+    try {
+      console.log('Fetching prompts for tab:', this.activeTab);
+      this.isLoading = true;
+      this.updateUI();
+
+      const queryParams = new URLSearchParams({
+        page: this.currentPage,
+        limit: this.settings.promptsPerPage,
+        search: this.searchQuery,
+        view: this.activeTab
       });
 
-      if (!response.success) {
-        throw new Error(response.error || 'Request failed');
+      console.log('Query params:', queryParams.toString());
+
+      const headers = {};
+      if (this.authToken) {
+        headers['Authorization'] = `Bearer ${this.authToken}`;
       }
 
-      return response.data;
+      const data = await this.sendRequest(`${SMART_PROMPTS_API}?${queryParams}`, {
+        method: 'GET',
+        headers,
+        credentials: 'include'
+      });
+
+      console.log('Received prompts:', data);
+
+      this.prompts = data.prompts || [];
+      this.totalPages = data.totalPages || 1;
+      
     } catch (error) {
-      console.error('Request error:', error);
-      throw error;
+      console.error('Error fetching prompts:', error);
+      this.prompts = [];
+      this.totalPages = 1;
+      
+      // Show user-friendly error message
+      this.showToast(
+        'Failed to fetch prompts. Please try again later.',
+        'error'
+      );
+    } finally {
+      this.isLoading = false;
+      this.updateUI();
     }
   }
 
   attachEventListeners() {
-    // Delegate event handling to the container
-    this.container.addEventListener('click', async (e) => {
-      const target = e.target.closest('[data-tab], [data-action], [data-page], #logout-btn');
-      if (!target) return;
-
-      // Handle tab switching
-      const tabId = target.dataset.tab;
-      if (tabId) {
-        if (tabId === this.activeTab) return;
+    console.log('Attaching event listeners...');
+    
+    // Event delegation for tab switching
+    const tabsContainer = this.container.querySelector('.tabs-container');
+    if (tabsContainer) {
+      tabsContainer.addEventListener('click', async (e) => {
+        const tabButton = e.target.closest('.tab-button');
+        if (!tabButton) return;
         
-        if (['my-prompts', 'favorites'].includes(tabId) && !this.isAuthenticated) {
-          this.showAuthForm();
+        console.log('Tab clicked:', tabButton.dataset.tab);
+        
+        // Don't process disabled tabs
+        if (tabButton.hasAttribute('disabled')) {
+          this.showToast('Please login to access this feature', 'warning');
           return;
         }
-
-        this.activeTab = tabId;
-        this.currentPage = 1;
-        await this.fetchPrompts();
-        return;
-      }
-
-      // Handle actions (favorite, copy)
-      const action = target.dataset.action;
-      if (action) {
-        const promptCard = target.closest('.prompt-card');
-        if (!promptCard) return;
         
-        const promptId = promptCard.dataset.promptId;
-        
-        if (action === 'favorite') {
-          if (!this.isAuthenticated) {
-            this.showAuthForm();
-            return;
-          }
-          await this.toggleFavorite(promptId);
-        } else if (action === 'copy') {
-          await this.copyPrompt(promptId);
-        }
-        return;
-      }
-
-      // Handle pagination
-      const page = target.dataset.page;
-      if (page) {
-        const pageNum = parseInt(page);
-        if (pageNum !== this.currentPage) {
-          this.currentPage = pageNum;
+        const newTab = tabButton.dataset.tab;
+        if (newTab && newTab !== this.activeTab) {
+          this.activeTab = newTab;
+          // Update active tab UI
+          tabsContainer.querySelectorAll('.tab-button').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.tab === newTab);
+          });
           await this.fetchPrompts();
         }
-        return;
-      }
+      });
+    }
 
-      // Handle logout
-      if (target.id === 'logout-btn') {
-        await this.handleLogout();
-      }
-    });
+    // Search input handling with debouncing
+    const searchInput = this.container.querySelector('.search-input');
+    if (searchInput) {
+      const debouncedSearch = this.debounce(async () => {
+        console.log('Search query:', searchInput.value);
+        this.searchQuery = searchInput.value;
+        await this.fetchPrompts();
+      }, 500);
 
-    // Handle search input
-    this.container.addEventListener('input', this.debounce(async (e) => {
-      if (!e.target.matches('.search-input')) return;
-      
-      this.searchQuery = e.target.value;
-      this.currentPage = 1;
-      await this.fetchPrompts();
-    }, 300));
+      searchInput.addEventListener('input', () => {
+        debouncedSearch();
+      });
+    }
+
+    // Logout button
+    const logoutBtn = this.container.querySelector('#logout-btn');
+    if (logoutBtn) {
+      logoutBtn.addEventListener('click', () => {
+        console.log('Logout clicked');
+        this.handleLogout();
+      });
+    }
+
+    console.log('Event listeners attached');
   }
 
   renderLoading() {
@@ -434,40 +424,6 @@ class SmartPromptsUI {
     });
   }
 
-  async fetchPrompts() {
-    try {
-      this.isLoading = true;
-      this.updateUI();
-
-      const queryParams = new URLSearchParams({
-        page: this.currentPage,
-        limit: this.settings.promptsPerPage,
-        search: this.searchQuery,
-        view: this.activeTab
-      });
-
-      const response = await fetch(`${SMART_PROMPTS_API}?${queryParams}`, {
-        headers: this.authToken ? {
-          'Authorization': `Bearer ${this.authToken}`
-        } : {}
-      });
-
-      if (!response.ok) throw new Error('Failed to fetch prompts');
-
-      const data = await response.json();
-      this.prompts = data.prompts;
-      this.totalPages = data.totalPages;
-      
-    } catch (error) {
-      console.error('Error fetching prompts:', error);
-      this.prompts = [];
-      this.totalPages = 1;
-    } finally {
-      this.isLoading = false;
-      this.updateUI();
-    }
-  }
-
   async toggleFavorite(promptId) {
     if (!this.isAuthenticated) {
       this.showAuthForm();
@@ -475,18 +431,18 @@ class SmartPromptsUI {
     }
 
     try {
-      const response = await fetch(`${SMART_PROMPTS_API}/${promptId}/favorite`, {
+      await this.sendRequest(`${SMART_PROMPTS_API}/${promptId}/favorite`, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${this.authToken}`
         }
       });
 
-      if (!response.ok) throw new Error('Failed to toggle favorite');
-
       await this.fetchPrompts();
+      this.showToast('Prompt favorite status updated!');
     } catch (error) {
       console.error('Error toggling favorite:', error);
+      this.showToast('Failed to update favorite status', 'error');
     }
   }
 
@@ -564,7 +520,60 @@ class SmartPromptsUI {
   }
 
   updateUI() {
-    this.render();
+    if (!this.container) return;
+    
+    // Update the entire container content
+    this.container.innerHTML = `
+      <div class="smart-prompts-wrapper">
+        <div class="smart-prompts-header">
+          <h1>Smart Prompts</h1>
+          ${this.isAuthenticated ? `
+            <button class="action-button" id="logout-btn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M9 21H5a2 2 0 01-2-2V5a2 2 0 012-2h4" />
+                <polyline points="16 17 21 12 16 7" />
+                <line x1="21" y1="12" x2="9" y2="12" />
+              </svg>
+            </button>
+          ` : ''}
+        </div>
+        
+        <div class="smart-prompts-content">
+          <input 
+            type="text" 
+            class="search-input" 
+            placeholder="Search prompts..." 
+            value="${this.searchQuery}"
+          />
+          
+          <div class="tabs-container">
+            <button class="tab-button ${this.activeTab === 'all' ? 'active' : ''}" data-tab="all">
+              All Prompts
+            </button>
+            <button class="tab-button ${this.activeTab === 'my-prompts' ? 'active' : ''}" 
+                    data-tab="my-prompts" 
+                    ${!this.isAuthenticated ? 'disabled' : ''}>
+              My Prompts
+            </button>
+            <button class="tab-button ${this.activeTab === 'public' ? 'active' : ''}" data-tab="public">
+              Public Prompts
+            </button>
+            <button class="tab-button ${this.activeTab === 'favorites' ? 'active' : ''}" 
+                    data-tab="favorites"
+                    ${!this.isAuthenticated ? 'disabled' : ''}>
+              Favorites
+            </button>
+          </div>
+          
+          <div class="prompts-section">
+            ${this.isLoading ? this.renderLoading() : this.renderPrompts()}
+          </div>
+        </div>
+      </div>
+    `;
+    
+    // Re-attach event listeners after updating UI
+    this.attachEventListeners();
   }
 
   waitForElement(selector, timeout = 10000) {
@@ -599,7 +608,31 @@ class SmartPromptsUI {
   }
 }
 
-// Initialize the UI
-console.log('Starting Smart Prompts initialization');
-const smartPrompts = new SmartPromptsUI();
-smartPrompts.initialize().catch(console.error);
+// Debug log to verify script injection
+console.log('Smart Prompts content script loaded on chatgpt.com');
+
+// Wait for the chat interface to be ready
+function waitForChatInterface() {
+  // ChatGPT interface selectors
+  const mainContent = document.querySelector('[class*="react-scroll"]') || 
+                     document.querySelector('[class*="conversation-container"]') ||
+                     document.querySelector('main');
+                     
+  if (mainContent) {
+    console.log('Chat interface found, initializing Smart Prompts...');
+    const smartPrompts = new SmartPromptsUI();
+    smartPrompts.initialize().catch(error => {
+      console.error('Failed to initialize Smart Prompts:', error);
+    });
+  } else {
+    console.log('Chat interface not found, retrying in 1s...');
+    setTimeout(waitForChatInterface, 1000);
+  }
+}
+
+// Start the initialization process when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', waitForChatInterface);
+} else {
+  waitForChatInterface();
+}
