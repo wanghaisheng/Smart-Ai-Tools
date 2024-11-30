@@ -353,7 +353,7 @@ class SmartPromptsUI {
     modalHeader.innerHTML = `
       <h2>${prompt.title || 'Untitled Prompt'}</h2>
       <button class="close-modal-btn">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M6 18L18 6M6 6l12 12"></path>
         </svg>
       </button>
@@ -379,6 +379,7 @@ class SmartPromptsUI {
             class="variable-input" 
             placeholder="Enter ${name.toLowerCase()}"
             value="${data.value || ''}"
+            autocomplete="off"
           >
         `;
         variablesContent.appendChild(variableInput);
@@ -466,7 +467,7 @@ class SmartPromptsUI {
           
           const previewContent = this.replaceVariables(prompt.content, updatedVariables);
           modalContainer.querySelector('.preview-content').textContent = previewContent;
-        }, 300);
+        }, 150); // Reduced debounce time for faster feedback
       });
     });
     
