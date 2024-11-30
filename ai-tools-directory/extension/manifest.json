@@ -1,17 +1,21 @@
 {
   "manifest_version": 3,
-  "name": "Smart Prompts for ChatGPT",
-  "version": "1.0",
-  "description": "Inject Smart Prompts directly into ChatGPT interface",
+  "name": "Smart AI Prompts",
+  "version": "1.0.0",
+  "description": "Enhance your AI interactions with smart prompt management",
   "permissions": [
     "storage",
-    "activeTab"
+    "activeTab",
+    "scripting"
   ],
   "host_permissions": [
-    "http://localhost:5173/*",
+    "http://localhost:5000/*",
     "https://chat.openai.com/*",
     "https://chatgpt.com/*"
   ],
+  "background": {
+    "service_worker": "src/background.js"
+  },
   "content_scripts": [
     {
       "matches": [
@@ -33,6 +37,8 @@
     }
   ],
   "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   }

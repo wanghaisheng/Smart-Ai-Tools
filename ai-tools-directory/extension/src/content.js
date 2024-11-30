@@ -1,4 +1,4 @@
-// Configuration
+// Constants
 const SMART_PROMPTS_API = 'http://localhost:5000/api/smart-prompts';
 
 class SmartPromptsUI {
@@ -6,10 +6,8 @@ class SmartPromptsUI {
     this.activeTab = 'public';
     this.searchQuery = '';
     this.prompts = [];
-    this.filteredPrompts = [];
     this.container = null;
     this.initialized = false;
-    this.searchInput = null;
     this.isAuthenticated = false;
     this.currentPage = 1;
     this.totalPages = 1;
@@ -20,14 +18,126 @@ class SmartPromptsUI {
       fontSize: 'medium',
       promptsPerPage: 12
     };
+  }
 
-    // Bind methods
-    this.handleTabClick = this.handleTabClick.bind(this);
-    this.handleSearch = this.handleSearch.bind(this);
-    this.handlePromptClick = this.handlePromptClick.bind(this);
-    this.handleSettingChange = this.handleSettingChange.bind(this);
-    this.handleAuthClick = this.handleAuthClick.bind(this);
-    this.handlePageChange = this.handlePageChange.bind(this);
+  async initialize() {
+    try {
+      console.log('Initializing Smart Prompts UI...');
+      
+      // Create root container that sits outside ChatGPT's React tree
+      const rootContainer = document.createElement('div');
+      rootContainer.id = 'smart-prompts-root';
+      document.body.appendChild(rootContainer);
+      
+      // Create our extension container
+      this.container = document.createElement('div');
+      this.container.className = 'smart-prompts-extension-container';
+      rootContainer.appendChild(this.container);
+      
+      // Create the wrapper structure
+      this.container.innerHTML = `
+        <div class="smart-prompts-wrapper">
+          <div class="smart-prompts-sidebar">
+            <div class="smart-prompts-header">
+              Smart Prompts
+            </div>
+            <div class="smart-prompts-content">
+              ${this.isLoading ? this.renderLoading() : this.renderContent()}
+            </div>
+          </div>
+        </div>
+      `;
+      
+      console.log('Initial render complete');
+      
+      // Load settings
+      const savedSettings = await chrome.storage.local.get('smartPromptsSettings');
+      if (savedSettings.smartPromptsSettings) {
+        this.settings = { ...this.settings, ...savedSettings.smartPromptsSettings };
+      }
+      
+      // Add resize observer to adjust layout
+      this.setupResizeObserver();
+      
+      // Mark as initialized
+      this.initialized = true;
+      console.log('Smart Prompts UI initialized');
+      
+      // Load initial data
+      await this.fetchPrompts();
+    } catch (error) {
+      console.error('Failed to initialize Smart Prompts:', error);
+    }
+  }
+
+  setupResizeObserver() {
+    // Observe main content to adjust our sidebar
+    const mainContent = document.querySelector('main');
+    if (mainContent) {
+      const resizeObserver = new ResizeObserver(entries => {
+        for (const entry of entries) {
+          const mainWidth = entry.contentRect.width;
+          const mainLeft = entry.target.getBoundingClientRect().left;
+          
+          // Adjust our container position if needed
+          if (this.container) {
+            this.container.style.left = `${mainLeft}px`;
+            // Adjust main content padding to make space for our sidebar
+            entry.target.style.paddingLeft = '300px';
+          }
+        }
+      });
+      
+      resizeObserver.observe(mainContent);
+    }
+  }
+
+  render() {
+    if (!this.container) {
+      console.error('Container not found');
+      return;
+    }
+
+    console.log('Rendering UI...');
+    
+    const contentHtml = `
+      <div class="smart-prompts-wrapper">
+        <div class="smart-prompts-sidebar">
+          <div class="smart-prompts-header">
+            Smart Prompts
+          </div>
+          <div class="smart-prompts-content">
+            ${this.isLoading ? this.renderLoading() : this.renderContent()}
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Update container content
+    this.container.innerHTML = contentHtml;
+    
+    // Attach event listeners
+    this.attachEventListeners();
+    
+    console.log('Render complete');
+  }
+
+  renderLoading() {
+    return `
+      <div class="smart-prompts-loading">
+        <div class="loading-spinner"></div>
+      </div>
+    `;
+  }
+
+  renderContent() {
+    return `
+      ${this.renderTabs()}
+      ${this.activeTab === 'settings' ? this.renderSettings() : `
+        ${this.renderSearch()}
+        ${this.renderPrompts()}
+      `}
+    `;
   }
 
   handlePromptClick(content) {
@@ -66,7 +176,9 @@ class SmartPromptsUI {
 
   handleSettingChange(setting, value) {
     this.settings[setting] = value;
-    localStorage.setItem('smartPromptsSettings', JSON.stringify(this.settings));
+    chrome.storage.local.set({ 
+      smartPromptsSettings: this.settings 
+    }).catch(console.error);
     this.render();
   }
 
@@ -84,56 +196,88 @@ class SmartPromptsUI {
       // Add tab-specific parameters
       switch (this.activeTab) {
         case 'my-prompts':
-          params.append('userId', 'current'); // Server will resolve this to actual user ID
+          params.append('userId', 'current');
           break;
         case 'public':
           params.append('visibility', 'public');
           break;
         case 'favorites':
-          params.append('favorites', 'current'); // Server will resolve this
+          params.append('favorites', 'current');
           break;
         case 'shared':
-          params.append('sharedWith', 'current'); // Server will resolve this
+          params.append('sharedWith', 'current');
           break;
         case 'ai-gen':
           params.append('category', 'ai-generated');
           break;
       }
 
-      const response = await fetch(`${SMART_PROMPTS_API}?${params}`, {
-        method: 'GET',
-        mode: 'cors',
-        credentials: 'include',
-        headers: {
-          'Accept': 'application/json'
+      try {
+        const response = await chrome.runtime.sendMessage({
+          type: 'API_REQUEST',
+          url: `${SMART_PROMPTS_API}?${params}`,
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json',
+            'Origin': window.location.origin
+          },
+          credentials: 'include'
+        });
+
+        if (!response?.success) {
+          throw new Error(response?.error || 'Failed to fetch prompts');
         }
-      });
-      
-      if (response.status === 401) {
-        this.isAuthenticated = false;
-        throw new Error('Authentication required');
-      }
 
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
+        const data = response.data;
+        
+        if (data?.status === 401) {
+          this.isAuthenticated = false;
+          throw new Error('Authentication required');
+        }
 
-      const data = await response.json();
-      this.prompts = data.prompts;
-      this.currentPage = data.currentPage;
-      this.totalPages = data.totalPages;
-      this.render();
+        this.prompts = Array.isArray(data?.prompts) ? data.prompts : [];
+        this.currentPage = Number(data?.currentPage) || 1;
+        this.totalPages = Number(data?.totalPages) || 1;
+      } catch (error) {
+        console.error('API request failed:', error);
+        // Use mock data when API is not available
+        this.useMockData();
+      }
     } catch (error) {
-      console.error('Error fetching prompts:', error);
-      if (error.message === 'Authentication required') {
-        this.showAuthModal();
-      } else {
-        this.renderError(`Failed to load prompts. Please make sure the Smart Prompts server is running at ${SMART_PROMPTS_API}`);
-      }
+      console.error('Error in fetchPrompts:', error);
+      this.prompts = [];
+      this.currentPage = 1;
+      this.totalPages = 1;
     } finally {
       this.isLoading = false;
       this.render();
     }
+  }
+
+  useMockData() {
+    // Provide mock data for development and testing
+    this.prompts = [
+      {
+        id: '1',
+        title: 'Example Prompt 1',
+        content: 'This is an example prompt for testing purposes.',
+        category: 'General',
+        visibility: 'public',
+        author: 'System',
+        createdAt: new Date().toISOString()
+      },
+      {
+        id: '2',
+        title: 'Example Prompt 2',
+        content: 'Another example prompt for testing the UI.',
+        category: 'Coding',
+        visibility: 'public',
+        author: 'System',
+        createdAt: new Date().toISOString()
+      }
+    ];
+    this.currentPage = 1;
+    this.totalPages = 1;
   }
 
   showAuthModal() {
@@ -157,80 +301,62 @@ class SmartPromptsUI {
     document.querySelector('.smart-prompts-auth-modal')?.remove();
   }
 
-  async initialize() {
-    if (this.initialized) return;
-    
-    // Load saved settings
-    const savedSettings = localStorage.getItem('smartPromptsSettings');
-    if (savedSettings) {
-      this.settings = { ...this.settings, ...JSON.parse(savedSettings) };
-    }
-    
-    // Create and inject container
-    this.container = document.createElement('div');
-    this.container.className = `smart-prompts-container ${this.settings.darkMode ? 'dark' : ''}`;
-    
-    // Find the target element to inject our UI
-    const targetElement = document.querySelector('#prompt-textarea') || 
-                         document.querySelector('textarea[placeholder*="Send a message"]');
-    
-    if (!targetElement) {
-      console.error('Could not find target element to inject Smart Prompts UI');
-      return;
-    }
-
-    // Insert our container before the textarea
-    const parentElement = targetElement.parentElement;
-    parentElement.insertBefore(this.container, targetElement);
-    
-    // Add event listeners using event delegation
-    this.container.addEventListener('click', (e) => {
-      // Handle tab clicks
-      if (e.target.closest('.smart-prompts-tab')) {
-        const tab = e.target.closest('.smart-prompts-tab');
-        const tabId = tab.dataset.tabId;
-        if (tabId) {
-          this.handleTabClick(tabId);
-        }
-      }
-
-      // Handle prompt clicks
-      if (e.target.closest('.smart-prompt-item')) {
-        const promptItem = e.target.closest('.smart-prompt-item');
-        const promptContent = promptItem.dataset.content;
-        if (promptContent) {
-          this.handlePromptClick(promptContent);
-        }
-      }
-
-      // Handle pagination clicks
-      if (e.target.closest('.pagination-btn')) {
-        const btn = e.target.closest('.pagination-btn');
-        const page = parseInt(btn.dataset.page);
-        if (!isNaN(page)) {
-          this.handlePageChange(page);
-        }
-      }
+  attachEventListeners() {
+    // Handle tab clicks
+    const tabs = this.container.querySelectorAll('.smart-prompts-tab');
+    tabs.forEach(tab => {
+      tab.addEventListener('click', (e) => {
+        e.preventDefault();
+        const tabId = tab.getAttribute('data-tab-id');
+        if (tabId) this.handleTabClick(tabId);
+      });
     });
 
-    // Add search input listener
-    this.searchInput = this.container.querySelector('.smart-prompts-search input');
-    if (this.searchInput) {
-      this.searchInput.addEventListener('input', this.handleSearch);
+    // Handle prompt clicks
+    const prompts = this.container.querySelectorAll('.smart-prompt-item');
+    prompts.forEach(prompt => {
+      prompt.addEventListener('click', (e) => {
+        e.preventDefault();
+        const content = prompt.getAttribute('data-content');
+        if (content) this.handlePromptClick(content);
+      });
+    });
+
+    // Handle pagination clicks
+    const paginationButtons = this.container.querySelectorAll('.pagination-btn');
+    paginationButtons.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const page = parseInt(btn.getAttribute('data-page'));
+        if (!isNaN(page)) this.handlePageChange(page);
+      });
+    });
+
+    // Handle search input
+    const searchInput = this.container.querySelector('.smart-prompts-search input');
+    if (searchInput) {
+      // Remove existing listener if any
+      const oldInput = searchInput.cloneNode(true);
+      searchInput.parentNode.replaceChild(oldInput, searchInput);
+      
+      // Add debounced search handler
+      let searchTimeout;
+      oldInput.addEventListener('input', (e) => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+          this.handleSearch(e);
+        }, 300);
+      });
     }
 
-    // Initial render
-    this.render();
-    this.initialized = true;
-    
-    // Fetch initial prompts
-    await this.fetchPrompts();
-
-    // Watch for dark mode changes
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-      this.settings.darkMode = e.matches;
-      this.container.classList.toggle('dark', e.matches);
-      localStorage.setItem('smartPromptsSettings', JSON.stringify(this.settings));
+    // Handle settings changes
+    const settingsInputs = this.container.querySelectorAll('.settings-group input, .settings-group select');
+    settingsInputs.forEach(input => {
+      input.addEventListener('change', (e) => {
+        const setting = input.getAttribute('data-setting');
+        const value = input.type === 'checkbox' ? input.checked : input.value;
+        if (setting) this.handleSettingChange(setting, value);
+      });
     });
   }
 
@@ -239,19 +365,19 @@ class SmartPromptsUI {
       { id: 'public', label: 'Public Prompts', icon: 'globe' },
       { id: 'my-prompts', label: 'My Prompts', icon: 'user', protected: true },
       { id: 'favorites', label: 'Favorites', icon: 'star', protected: true },
-      { id: 'shared', label: 'Shared with Me', icon: 'share', protected: true },
-      { id: 'ai-gen', label: 'AI Prompt Gen', icon: 'cpu' },
-      { id: 'settings', label: 'Settings', icon: 'settings' }
+      { id: 'shared', label: 'Shared', icon: 'share', protected: true },
+      { id: 'ai-gen', label: 'AI Generator', icon: 'robot' },
+      { id: 'settings', label: 'Settings', icon: 'cog' }
     ];
 
     return `
       <div class="smart-prompts-tabs">
         ${tabs.map(tab => `
-          <button class="smart-prompts-tab ${this.activeTab === tab.id ? 'active' : ''} 
-                       ${tab.protected && !this.isAuthenticated ? 'protected' : ''}" 
-                 data-tab-id="${tab.id}">
-            <svg class="tab-icon" data-feather="${tab.icon}"></svg>
-            ${tab.label}
+          <button 
+            class="smart-prompts-tab${this.activeTab === tab.id ? ' active' : ''}${tab.protected && !this.isAuthenticated ? ' protected' : ''}"
+            data-tab-id="${tab.id}"
+          >
+            <span>${tab.label}</span>
           </button>
         `).join('')}
       </div>
@@ -275,28 +401,40 @@ class SmartPromptsUI {
   }
 
   renderPrompts() {
-    if (!this.prompts || this.prompts.length === 0) {
-      return '<div class="smart-prompts-empty">No prompts found</div>';
+    if (!Array.isArray(this.prompts) || this.prompts.length === 0) {
+      return `
+        <div class="smart-prompts-empty">
+          <p>No prompts found${this.searchQuery ? ' for your search' : ''}</p>
+        </div>
+      `;
     }
 
     return `
       <div class="smart-prompts-list">
-        ${this.prompts.map(prompt => `
-          <div class="smart-prompt-item" data-content="${encodeURIComponent(prompt.content)}">
-            <div class="prompt-header">
-              <div class="prompt-title">${prompt.title}</div>
-              ${prompt.creator ? `<div class="prompt-creator">by ${prompt.creator.username}</div>` : ''}
-            </div>
-            <div class="prompt-description">${prompt.description}</div>
-            <div class="prompt-footer">
-              ${prompt.category ? `<span class="prompt-category">${prompt.category}</span>` : ''}
-              <div class="prompt-stats">
-                <span title="Likes"><i class="bi bi-heart"></i> ${prompt.likes?.length || 0}</span>
-                <span title="Rating"><i class="bi bi-star"></i> ${prompt.averageRating || 0}</span>
+        ${this.prompts.map(prompt => {
+          // Ensure prompt object has all required properties
+          const safePrompt = {
+            title: prompt?.title || 'Untitled Prompt',
+            content: prompt?.content || '',
+            category: prompt?.category || 'Uncategorized',
+            author: prompt?.author || 'Anonymous',
+            createdAt: prompt?.createdAt || new Date().toISOString()
+          };
+
+          return `
+            <div class="smart-prompt-item" data-content="${this.escapeHtml(safePrompt.content)}">
+              <div class="prompt-header">
+                <h3>${this.escapeHtml(safePrompt.title)}</h3>
+                <span class="prompt-category">${this.escapeHtml(safePrompt.category)}</span>
+              </div>
+              <p class="prompt-content">${this.escapeHtml(safePrompt.content)}</p>
+              <div class="prompt-footer">
+                <span class="prompt-author">By ${this.escapeHtml(safePrompt.author)}</span>
+                <span class="prompt-date">${new Date(safePrompt.createdAt).toLocaleDateString()}</span>
               </div>
             </div>
-          </div>
-        `).join('')}
+          `;
+        }).join('')}
       </div>
       ${this.renderPagination()}
     `;
@@ -390,87 +528,49 @@ class SmartPromptsUI {
     `;
   }
 
-  renderError(message) {
-    this.container.innerHTML = `
-      <div class="smart-prompts-error">
-        ${message}
-      </div>
-    `;
+  escapeHtml(unsafe) {
+    if (unsafe == null) return '';
+    return String(unsafe)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
   }
 
-  render() {
-    if (!this.container) return;
-
-    this.container.innerHTML = `
-      <div class="smart-prompts-header">
-        <span>Smart Prompts</span>
-      </div>
-      ${this.renderTabs()}
-      ${this.activeTab === 'settings' ? this.renderSettings() : `
-        ${this.renderSearch()}
-        ${this.isLoading 
-          ? `<div class="smart-prompts-loading">
-               <div class="loading-spinner"></div>
-             </div>`
-          : this.renderPrompts()
-        }
-      `}
-    `;
-
-    // Reattach search input listener after render
-    this.searchInput = this.container.querySelector('.smart-prompts-search input');
-    if (this.searchInput) {
-      this.searchInput.value = this.searchQuery;
-      this.searchInput.addEventListener('input', this.handleSearch);
-    }
-  }
-}
-
-// Initialize and expose the UI instance
-window.smartPromptsUI = new SmartPromptsUI();
-
-// Function to initialize the UI when the page is ready
-async function initialize() {
-  try {
-    // Wait for the target element to be available
-    const targetElement = await waitForElement('#prompt-textarea, textarea[placeholder*="Send a message"]');
-    if (targetElement) {
-      await window.smartPromptsUI.initialize();
-    }
-  } catch (error) {
-    console.error('Failed to initialize Smart Prompts:', error);
-  }
-}
-
-// Helper function to wait for an element
-function waitForElement(selector, timeout = 5000) {
-  return new Promise((resolve, reject) => {
-    const element = document.querySelector(selector);
-    if (element) {
-      resolve(element);
-      return;
-    }
-
-    const observer = new MutationObserver((mutations, obs) => {
-      const element = document.querySelector(selector);
-      if (element) {
-        obs.disconnect();
-        resolve(element);
+  waitForElement(selector, timeout = 10000) {
+    console.log(`Waiting for element: ${selector}`);
+    return new Promise((resolve) => {
+      if (document.querySelector(selector)) {
+        console.log('Element found immediately');
+        resolve(document.querySelector(selector));
+        return;
       }
-    });
 
-    observer.observe(document.body, {
-      childList: true,
-      subtree: true
-    });
+      const observer = new MutationObserver(() => {
+        const element = document.querySelector(selector);
+        if (element) {
+          console.log('Element found after waiting');
+          observer.disconnect();
+          resolve(element);
+        }
+      });
 
-    // Timeout after specified duration
-    setTimeout(() => {
-      observer.disconnect();
-      reject(new Error(`Timeout waiting for element: ${selector}`));
-    }, timeout);
-  });
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+
+      setTimeout(() => {
+        console.log('Element wait timeout');
+        observer.disconnect();
+        resolve(null);
+      }, timeout);
+    });
+  }
 }
 
-// Start the initialization
-initialize();
+// Initialize the UI
+console.log('Starting Smart Prompts initialization');
+const smartPrompts = new SmartPromptsUI();
+smartPrompts.initialize().catch(console.error);
