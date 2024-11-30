@@ -287,6 +287,51 @@ class SmartPromptsUI {
       });
     }
 
+    // Pagination event delegation
+    const promptsSection = this.container.querySelector('.prompts-section');
+    if (promptsSection) {
+      promptsSection.addEventListener('click', async (e) => {
+        // Handle pagination clicks
+        const paginationBtn = e.target.closest('.pagination-btn');
+        if (paginationBtn && !paginationBtn.disabled) {
+          const action = paginationBtn.dataset.action;
+          if (action === 'prev') {
+            this.currentPage = Math.max(1, this.currentPage - 1);
+          } else if (action === 'next') {
+            this.currentPage = Math.min(this.totalPages, this.currentPage + 1);
+          }
+          await this.fetchPrompts();
+          return;
+        }
+
+        // Handle prompt card clicks
+        const promptCard = e.target.closest('.prompt-card');
+        if (promptCard) {
+          const viewButton = e.target.closest('.view-button');
+          const favoriteButton = e.target.closest('.action-button.favorite');
+          
+          if (viewButton) {
+            const promptId = viewButton.dataset.promptId;
+            const prompt = this.prompts.find(p => p._id === promptId);
+            if (prompt) {
+              this.renderPromptModal(prompt);
+            }
+          } else if (favoriteButton) {
+            const promptId = favoriteButton.dataset.promptId;
+            await this.toggleFavorite(promptId);
+          } else {
+            // Clicking anywhere else on the card opens the modal
+            const viewButton = promptCard.querySelector('.view-button');
+            const promptId = viewButton?.dataset.promptId;
+            const prompt = this.prompts.find(p => p._id === promptId);
+            if (prompt) {
+              this.renderPromptModal(prompt);
+            }
+          }
+        }
+      });
+    }
+
     // Logout button
     const logoutBtn = this.container.querySelector('#logout-btn');
     if (logoutBtn) {
@@ -295,18 +340,6 @@ class SmartPromptsUI {
         this.handleLogout();
       });
     }
-
-    // Prompt view button
-    const viewButtons = this.container.querySelectorAll('.view-button');
-    viewButtons.forEach(button => {
-      button.addEventListener('click', async () => {
-        const promptId = button.dataset.promptId;
-        const prompt = this.prompts.find(p => p._id === promptId);
-        if (prompt) {
-          this.renderPromptModal(prompt);
-        }
-      });
-    });
 
     console.log('Event listeners attached');
   }
@@ -597,22 +630,18 @@ class SmartPromptsUI {
 
     return `
       <div class="pagination">
-        <button class="pagination-btn" 
-                onclick="window.smartPromptsUI.handlePageChange(1)"
-                ${this.currentPage === 1 ? 'disabled' : ''}>
-          «
+        <button class="pagination-btn" data-action="prev" ${this.currentPage === 1 ? 'disabled' : ''}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M15 18l-6-6 6-6"/>
+          </svg>
         </button>
-        ${Array.from({ length: this.totalPages }, (_, i) => i + 1)
-          .map(page => `
-            <button class="pagination-btn ${page === this.currentPage ? 'active' : ''}"
-                    onclick="window.smartPromptsUI.handlePageChange(${page})">
-              ${page}
-            </button>
-          `).join('')}
-        <button class="pagination-btn"
-                onclick="window.smartPromptsUI.handlePageChange(${this.totalPages})"
-                ${this.currentPage === this.totalPages ? 'disabled' : ''}>
-          »
+        
+        <span class="pagination-info">${this.currentPage} / ${this.totalPages}</span>
+        
+        <button class="pagination-btn" data-action="next" ${this.currentPage === this.totalPages ? 'disabled' : ''}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M9 18l6-6-6-6"/>
+          </svg>
         </button>
       </div>
     `;
