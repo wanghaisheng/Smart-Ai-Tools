@@ -296,6 +296,18 @@ class SmartPromptsUI {
       });
     }
 
+    // Prompt view button
+    const viewButtons = this.container.querySelectorAll('.view-button');
+    viewButtons.forEach(button => {
+      button.addEventListener('click', async () => {
+        const promptId = button.dataset.promptId;
+        const prompt = this.prompts.find(p => p._id === promptId);
+        if (prompt) {
+          this.renderPromptModal(prompt);
+        }
+      });
+    });
+
     console.log('Event listeners attached');
   }
 
@@ -303,31 +315,137 @@ class SmartPromptsUI {
     return '<div class="loading-spinner"></div>';
   }
 
+  renderPromptModal(prompt) {
+    // Create modal container
+    const modalContainer = document.createElement('div');
+    modalContainer.className = 'smart-prompts-modal';
+    
+    modalContainer.innerHTML = `
+      <div class="modal-overlay"></div>
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>${this.escapeHtml(prompt.title)}</h2>
+          <button class="close-modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="prompt-meta">
+            <p>By ${this.escapeHtml(prompt.author?.username || 'Anonymous')}</p>
+            <p>Created on ${this.formatDate(prompt.createdAt)}</p>
+          </div>
+          
+          <p class="prompt-description">${this.escapeHtml(prompt.description)}</p>
+          
+          ${prompt.tags?.length ? `
+            <div class="prompt-tags">
+              ${prompt.tags.map(tag => `
+                <span class="prompt-tag">${this.escapeHtml(tag)}</span>
+              `).join('')}
+            </div>
+          ` : ''}
+          
+          <div class="prompt-content">${this.escapeHtml(prompt.content)}</div>
+        </div>
+        <div class="modal-footer">
+          <button class="modal-btn secondary favorite-btn">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="${prompt.favorites?.includes(this.userId) ? 'currentColor' : 'none'}" stroke="currentColor">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+            Favorite
+          </button>
+          <button class="modal-btn secondary share-btn">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor">
+              <path d="M15 8a3 3 0 100-6 3 3 0 000 6zM5 12a3 3 0 100-6 3 3 0 000 6zM15 16a3 3 0 100-6 3 3 0 000 6z"/>
+              <path d="M7.5 10.5l5-3M7.5 13.5l5 3"/>
+            </svg>
+            Share
+          </button>
+          <button class="modal-btn primary copy-btn">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor">
+              <path d="M8 3H5a2 2 0 00-2 2v9m0 0h3m-3 0v-9m0 9h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1"/>
+            </svg>
+            Copy Prompt
+          </button>
+        </div>
+      </div>
+    `;
+
+    // Add to body
+    document.body.appendChild(modalContainer);
+
+    // Add event listeners
+    const closeBtn = modalContainer.querySelector('.close-modal');
+    const overlay = modalContainer.querySelector('.modal-overlay');
+    const copyBtn = modalContainer.querySelector('.copy-btn');
+    const favoriteBtn = modalContainer.querySelector('.favorite-btn');
+    const shareBtn = modalContainer.querySelector('.share-btn');
+
+    const closeModal = () => modalContainer.remove();
+
+    closeBtn.addEventListener('click', closeModal);
+    overlay.addEventListener('click', closeModal);
+
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(prompt.content);
+        this.showToast('Prompt copied to clipboard!', 'success');
+      } catch (error) {
+        this.showToast('Failed to copy prompt', 'error');
+      }
+    });
+
+    favoriteBtn.addEventListener('click', async () => {
+      if (!this.isAuthenticated) {
+        this.showToast('Please login to favorite prompts', 'warning');
+        return;
+      }
+      await this.toggleFavorite(prompt._id);
+      const isFavorited = prompt.favorites?.includes(this.userId);
+      favoriteBtn.querySelector('svg').setAttribute('fill', isFavorited ? 'none' : 'currentColor');
+    });
+
+    shareBtn.addEventListener('click', async () => {
+      try {
+        const shareUrl = `${window.location.origin}/prompt/${prompt._id}`;
+        await navigator.clipboard.writeText(shareUrl);
+        this.showToast('Share link copied to clipboard!', 'success');
+      } catch (error) {
+        this.showToast('Failed to copy share link', 'error');
+      }
+    });
+
+    // Close on escape key
+    const handleEscape = (e) => {
+      if (e.key === 'Escape') {
+        closeModal();
+        document.removeEventListener('keydown', handleEscape);
+      }
+    };
+    document.addEventListener('keydown', handleEscape);
+  }
+
   renderPrompts() {
-    if (this.prompts.length === 0) {
+    if (this.isLoading) {
+      return this.renderLoading();
+    }
+
+    if (!this.prompts.length) {
       return this.renderEmptyState();
     }
 
     return `
       <div class="prompts-grid">
         ${this.prompts.map(prompt => `
-          <div class="prompt-card" data-prompt-id="${prompt._id}">
+          <div class="prompt-card">
             <div class="prompt-card-header">
               <div>
                 <h3 class="prompt-title">${this.escapeHtml(prompt.title)}</h3>
                 <p class="prompt-author">By ${this.escapeHtml(prompt.author?.username || 'Anonymous')}</p>
               </div>
               <div class="prompt-actions">
-                ${this.isAuthenticated ? `
-                  <button class="action-button favorite ${prompt.favorites?.includes(this.userId) ? 'active' : ''}" data-action="favorite">
-                    <svg width="16" height="16" viewBox="0 0 20 20" fill="currentColor">
-                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
-                    </svg>
-                  </button>
-                ` : ''}
-                <button class="action-button" data-action="copy">
-                  <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M8 3H5a2 2 0 00-2 2v9m0 0h3m-3 0v-9m0 9h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M5 7h14M5 12h14M5 17h7"/>
+                <button class="action-button favorite ${prompt.favorites?.includes(this.userId) ? 'active' : ''}" 
+                        data-prompt-id="${prompt._id}">
+                  <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
                   </svg>
                 </button>
               </div>
@@ -345,11 +463,7 @@ class SmartPromptsUI {
             
             <div class="prompt-footer">
               <span>${this.formatDate(prompt.createdAt)}</span>
-              <div>
-                <span>${prompt.likes?.length || 0} likes</span>
-                <span class="mx-2">•</span>
-                <span>${prompt.saves?.length || 0} saves</span>
-              </div>
+              <button class="view-button" data-prompt-id="${prompt._id}">View Details</button>
             </div>
           </div>
         `).join('')}
