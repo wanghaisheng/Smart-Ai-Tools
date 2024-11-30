@@ -12,13 +12,14 @@
   position: fixed;
   top: 0;
   right: 0;
-  width: 260px;
+  width: 400px;
   height: 100vh;
   z-index: 2001;
   background: var(--color-bg-primary, rgb(32, 33, 35));
   border-left: 1px solid rgba(255, 255, 255, 0.2);
   overflow: hidden;
   pointer-events: auto;
+  margin-right: 0;
 }
 
 .smart-prompts-wrapper {
@@ -95,7 +96,7 @@
 @media (max-width: 768px) {
   .smart-prompts-extension-container {
     width: 100%;
-    max-width: 260px;
+    max-width: 286px;
   }
 }
 

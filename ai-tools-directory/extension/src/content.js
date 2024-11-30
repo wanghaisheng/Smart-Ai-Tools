@@ -102,11 +102,11 @@ class SmartPromptsUI {
           if (this.container) {
             // Remove any left positioning
             this.container.style.left = '';
-            // Add right positioning
-            this.container.style.right = `${mainRight}px`;
+            // Add right positioning with no gap
+            this.container.style.right = '0px';
             // Adjust main content padding to make space for our sidebar
             entry.target.style.paddingLeft = '';
-            entry.target.style.paddingRight = '300px';
+            entry.target.style.paddingRight = '326px'; // Increased to match new width (286px) plus some spacing
           }
         }
       });
