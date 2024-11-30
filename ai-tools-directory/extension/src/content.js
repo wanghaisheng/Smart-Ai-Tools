@@ -96,13 +96,17 @@ class SmartPromptsUI {
       const resizeObserver = new ResizeObserver(entries => {
         for (const entry of entries) {
           const mainWidth = entry.contentRect.width;
-          const mainLeft = entry.target.getBoundingClientRect().left;
+          const mainRight = window.innerWidth - (entry.target.getBoundingClientRect().left + entry.contentRect.width);
           
           // Adjust our container position if needed
           if (this.container) {
-            this.container.style.left = `${mainLeft}px`;
+            // Remove any left positioning
+            this.container.style.left = '';
+            // Add right positioning
+            this.container.style.right = `${mainRight}px`;
             // Adjust main content padding to make space for our sidebar
-            entry.target.style.paddingLeft = '300px';
+            entry.target.style.paddingLeft = '';
+            entry.target.style.paddingRight = '300px';
           }
         }
       });
