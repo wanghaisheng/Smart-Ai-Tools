@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import ApiKey from '../models/ApiKey.js';
 import { body, validationResult } from 'express-validator';
 import crypto from 'crypto';
@@ -7,7 +7,7 @@ import crypto from 'crypto';
 const router = express.Router();
 
 // Get all API keys for the authenticated user
-router.get('/', auth, async (req, res) => {
+router.get('/', authenticate, async (req, res) => {
   try {
     const apiKeys = await ApiKey.find({ user: req.userId })
       .select('-token') // Don't send tokens in the list
@@ -22,7 +22,7 @@ router.get('/', auth, async (req, res) => {
 
 // Create a new API key
 router.post('/', [
-  auth,
+  authenticate,
   body('name').trim().notEmpty().withMessage('Name is required')
     .isLength({ min: 1, max: 100 }).withMessage('Name must be between 1 and 100 characters'),
 ], async (req, res) => {
@@ -63,7 +63,7 @@ router.post('/', [
 });
 
 // Delete an API key
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', authenticate, async (req, res) => {
   try {
     if (!req.params.id.match(/^[0-9a-fA-F]{24}$/)) {
       return res.status(400).json({ message: 'Invalid API key ID' });

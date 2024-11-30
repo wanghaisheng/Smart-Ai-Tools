@@ -1,0 +1,194 @@
+{
+  "prompts": [
+    {
+      "title": "Guest Post Pitch Generator",
+      "content": "Act like an experienced SEO content writer. Write a guest post pitch for the topic {{topic}}. The pitch should include:\n1. A catchy and engaging introduction\n2. Brief overview of the topic and why it's relevant to the target audience\n3. Benefits of publishing the guest post for the host website\n4. A personalized, friendly, and professional tone\n5. A call to action for collaboration\n\nTarget audience: {{audience}}\nTone: {{tone}}",
+      "description": "Generate a compelling guest post pitch that blends SEO principles with persuasive, engaging content.",
+      "category": "Content Creation",
+      "subcategory": "SEO Content Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "The topic of the guest post",
+          "defaultValue": "SEO strategies for 2024"
+        },
+        {
+          "name": "audience",
+          "description": "The target audience for the guest post",
+          "defaultValue": "digital marketers"
+        },
+        {
+          "name": "tone",
+          "description": "The writing tone (e.g., professional, friendly, casual)",
+          "defaultValue": "friendly"
+        }
+      ],
+      "tags": ["SEO", "guest post", "content marketing"]
+    },
+    {
+      "title": "Audio Submission Guidelines",
+      "content": "Act like a content moderator and write clear guidelines for users submitting audio content on {{platform}}. The guidelines should include:\n1. **Acceptable Audio Content**:\n- Audio should be relevant to the platform’s focus.\n- Content should be original and not infringe on copyrights.\n\n2. **Prohibited Content**:\n- No hate speech, offensive language, or discriminatory remarks.\n- No explicit, graphic, or NSFW content.\n- No illegal content (e.g., pirated material, drugs, or violence).\n\n3. **Audio Quality**:\n- Submissions should have clear, audible sound without background noise.\n- Audio should be in an acceptable format (e.g., MP3, WAV).\n\n4. **File Size and Length**:\n- Audio files should not exceed {{fileSizeLimit}} MB.\n- Each submission should be no longer than {{maxLength}} minutes.\n\n5. **Copyright and Ownership**:\n- You must have full rights to the content you submit.\n- Ensure you have permission to use any third-party music, sound effects, or other media.\n\n6. **Respect for Privacy**:\n- Do not include sensitive or personal information unless you have permission.\n- Avoid sharing any private conversations without consent.\n\n7. **Moderation Process**:\n- All submissions are subject to review.\n- Inappropriate content may be removed, and accounts could be suspended.\n\nPlease ensure your audio submission follows these guidelines to maintain a positive and respectful community.\n\nTarget Audience: {{audience}}\nTone: {{tone}}",
+      "description": "Create user-friendly, concise guidelines for audio content submissions on a digital platform.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Audio Submissions",
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The platform where users are submitting audio content",
+          "defaultValue": "VoiceHub"
+        },
+        {
+          "name": "fileSizeLimit",
+          "description": "Maximum file size allowed for audio submissions",
+          "defaultValue": "10"
+        },
+        {
+          "name": "maxLength",
+          "description": "Maximum length allowed for each audio submission",
+          "defaultValue": "30"
+        },
+        {
+          "name": "audience",
+          "description": "The target audience for the platform's content",
+          "defaultValue": "general users"
+        },
+        {
+          "name": "tone",
+          "description": "The tone of the guidelines (e.g., friendly, professional, informative)",
+          "defaultValue": "professional"
+        }
+      ],
+      "tags": ["content moderation", "audio submissions", "platform guidelines"]
+    },
+    {
+      "title": "Link Submission Guidelines",
+      "content": "Act as a content moderator and create clear guidelines for users submitting links on {{platform}}. The guidelines should include:\n1. **Acceptable Links**:\n- Links must be relevant to the platform’s topic.\n- Submissions should lead to credible, reputable websites.\n\n2. **Prohibited Links**:\n- No links to spammy, malicious, or harmful websites.\n- No affiliate or promotional links unless explicitly allowed.\n- No links to adult, violent, or illegal content.\n\n3. **Link Quality**:\n- Links should be working and not broken.\n- URLs should be clean and not redirect to unwanted pages.\n\n4. **Copyright and Ownership**:\n- Ensure you have the right to share the linked content.\n- Do not submit links to copyrighted material without permission.\n\n5. **Respect for Privacy**:\n- Do not submit links to content that invades privacy or shares private information.\n- Avoid linking to websites that collect or sell personal data without user consent.\n\n6. **Moderation Process**:\n- All submitted links will be reviewed for compliance with these guidelines.\n- Violations may result in content removal or account suspension.\n\nPlease follow these guidelines to contribute responsibly to our community.\n\nTarget Audience: {{audience}}\nTone: {{tone}}",
+      "description": "Create user-friendly and informative guidelines for submitting links on a digital platform.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Link Submissions",
+      "variables": [
+        {
+          "name": "platform",
+          "description": "The platform where users are submitting links",
+          "defaultValue": "ShareHub"
+        },
+        {
+          "name": "audience",
+          "description": "The target audience for the platform",
+          "defaultValue": "general users"
+        },
+        {
+          "name": "tone",
+          "description": "The tone of the guidelines (e.g., professional, friendly, clear)",
+          "defaultValue": "professional"
+        }
+      ],
+      "tags": ["content moderation", "link submission", "platform guidelines"]
+    },
+    {
+      "title": "Professional Article Writer",
+      "content": "Act as a professional article writer and create a comprehensive article about {{topic}} that includes:\n\n1. Engaging headline\n2. Strong introduction\n3. Well-researched main points\n4. Expert quotes and statistics\n5. Real-world examples\n6. Actionable conclusions\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}\nStyle: {{style}}",
+      "description": "Generate professional, well-researched articles with expert insights",
+      "category": "Content Creation",
+      "subcategory": "Article Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Main topic of the article",
+          "defaultValue": "emerging technology trends"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "industry professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., authoritative, analytical, conversational)",
+          "defaultValue": "authoritative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the article",
+          "defaultValue": "2000 words"
+        },
+        {
+          "name": "style",
+          "description": "Writing style (e.g., journalistic, academic, narrative)",
+          "defaultValue": "journalistic"
+        }
+      ],
+      "tags": ["article writing", "professional content", "research"]
+    },
+    {
+      "title": "Technical Content Writer",
+      "content": "Act as a technical content writer and create detailed documentation for {{subject}} that includes:\n\n1. Technical overview\n2. Step-by-step instructions\n3. Code examples or technical specifications\n4. Best practices\n5. Troubleshooting guide\n6. Reference materials\n\nExpertise level: {{level}}\nFormat: {{format}}\nInclude diagrams: {{diagrams}}\nTechnical depth: {{depth}}",
+      "description": "Generate technical documentation and guides",
+      "category": "Content Creation",
+      "subcategory": "Technical Writing",
+      "variables": [
+        {
+          "name": "subject",
+          "description": "Technical topic to document",
+          "defaultValue": "API integration"
+        },
+        {
+          "name": "level",
+          "description": "Target expertise level",
+          "defaultValue": "intermediate"
+        },
+        {
+          "name": "format",
+          "description": "Documentation format",
+          "defaultValue": "markdown"
+        },
+        {
+          "name": "diagrams",
+          "description": "Whether to include diagram placeholders",
+          "defaultValue": "yes"
+        },
+        {
+          "name": "depth",
+          "description": "Level of technical detail",
+          "defaultValue": "comprehensive"
+        }
+      ],
+      "tags": ["technical writing", "documentation", "technical content"]
+    },
+    {
+      "title": "White Paper Writer",
+      "content": "Act as a white paper writer and create an authoritative document about {{topic}} that includes:\n\n1. Executive summary\n2. Problem statement\n3. Background research\n4. Proposed solution\n5. Implementation details\n6. Case studies\n7. ROI analysis\n8. Recommendations\n\nIndustry: {{industry}}\nTarget readers: {{audience}}\nLength: {{length}}\nFocus: {{focus}}",
+      "description": "Generate professional white papers with research and analysis",
+      "category": "Content Creation",
+      "subcategory": "White Papers",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "White paper topic",
+          "defaultValue": "blockchain in supply chain"
+        },
+        {
+          "name": "industry",
+          "description": "Target industry",
+          "defaultValue": "logistics"
+        },
+        {
+          "name": "audience",
+          "description": "Target readers",
+          "defaultValue": "C-level executives"
+        },
+        {
+          "name": "length",
+          "description": "Document length",
+          "defaultValue": "5000 words"
+        },
+        {
+          "name": "focus",
+          "description": "Primary focus (e.g., technical, business, hybrid)",
+          "defaultValue": "business impact"
+        }
+      ],
+      "tags": ["white paper", "technical document", "business document"]
+    }
+  ]
+}

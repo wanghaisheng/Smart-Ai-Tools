@@ -1,0 +1,379 @@
+{
+  "prompts": [
+    {
+      "title": "Blog Post Generator",
+      "content": "Act like a professional content strategist. Write a comprehensive blog post about {{topic}} that includes:\n1. Engaging introduction\n2. Key points and analysis\n3. Relevant examples\n4. Expert insights\n5. Actionable takeaways\n6. Compelling conclusion\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate well-structured, SEO-friendly blog posts on any topic, acting as a content strategist",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Main topic of the blog post",
+          "defaultValue": "digital transformation"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, casual, academic)",
+          "defaultValue": "professional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1000 words"
+        }
+      ],
+      "tags": ["blog", "content writing", "SEO"]
+    },
+    {
+      "title": "How-to Guide Blog Post",
+      "content": "Act like a technical expert in {{field}}. Write a step-by-step blog post on how to {{process}} using {{tools}}. Include clear instructions, tips, and visuals if necessary.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a how-to guide with expert advice and clear instructions",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "field",
+          "description": "Field of expertise",
+          "defaultValue": "data science"
+        },
+        {
+          "name": "process",
+          "description": "The process being explained",
+          "defaultValue": "analyze large datasets"
+        },
+        {
+          "name": "tools",
+          "description": "The tools used in the process",
+          "defaultValue": "Python"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "tech enthusiasts"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, casual, instructional)",
+          "defaultValue": "instructional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        }
+      ],
+      "tags": ["how-to", "guide", "blog"]
+    },
+    {
+      "title": "Listicle Blog Post",
+      "content": "Act like a digital marketing expert. Write a listicle blog post titled 'Top {{number}} ways to {{action}}'. Include engaging bullet points, relevant examples, and actionable tips.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a listicle blog post with actionable points from a marketing perspective",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "number",
+          "description": "Number of ways",
+          "defaultValue": "10"
+        },
+        {
+          "name": "action",
+          "description": "Action being performed",
+          "defaultValue": "boost your website's traffic"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "small business owners"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., informative, fun, serious)",
+          "defaultValue": "informative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["listicle", "blog", "content writing"]
+    },
+    {
+      "title": "Expert Roundup Blog Post",
+      "content": "Act like a seasoned journalist. Write a blog post that compiles expert opinions on {{topic}}. Include at least {{number}} expert quotes or insights. Provide context and analysis for each expert's point of view.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a roundup blog post with expert insights, written like a journalist",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Main topic of the blog post",
+          "defaultValue": "AI in healthcare"
+        },
+        {
+          "name": "number",
+          "description": "Number of experts to feature",
+          "defaultValue": "5"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "healthcare professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, casual, journalistic)",
+          "defaultValue": "journalistic"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "2000 words"
+        }
+      ],
+      "tags": ["expert roundup", "blog", "content writing"]
+    },
+    {
+      "title": "Case Study Blog Post",
+      "content": "Act like a business consultant. Write a detailed case study about {{company}}'s success with {{strategy}}. Include background, challenges, solutions, results, and lessons learned.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a detailed case study blog post with professional analysis",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "company",
+          "description": "Name of the company featured",
+          "defaultValue": "XYZ Corp"
+        },
+        {
+          "name": "strategy",
+          "description": "The strategy being analyzed",
+          "defaultValue": "digital marketing"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business owners"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., analytical, storytelling)",
+          "defaultValue": "analytical"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "2500 words"
+        }
+      ],
+      "tags": ["case study", "business blog", "content writing"]
+    },
+    {
+      "title": "How-to Blog Post with Visuals",
+      "content": "Act like a professional graphic designer. Write a detailed blog post on how to {{process}} using {{tools}}. Include step-by-step instructions and insert relevant visuals (e.g., screenshots, diagrams).\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post with visuals for easier understanding, in the style of a graphic designer",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "process",
+          "description": "The process being explained",
+          "defaultValue": "create a logo"
+        },
+        {
+          "name": "tools",
+          "description": "The tools used in the process",
+          "defaultValue": "Adobe Illustrator"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "design students"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., instructional, casual)",
+          "defaultValue": "instructional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["how-to", "blog", "content writing"]
+    },
+    {
+      "title": "Interview-style Blog Post",
+      "content": "Act like a seasoned interviewer. Write a blog post that features an interview with an expert in {{industry}}. The post should include direct quotes, analysis of the answers, and relevant context.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post in an interview format, acting as an interviewer",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "industry",
+          "description": "Industry being discussed",
+          "defaultValue": "finance"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "financial advisors"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, casual, journalistic)",
+          "defaultValue": "journalistic"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["interview", "blog", "content writing"]
+    },
+    {
+      "title": "Opinion Piece Blog Post",
+      "content": "Act like an experienced thought leader. Write a blog post expressing your opinion on {{topic}}. Support your argument with facts, data, and relevant examples. Provide a clear conclusion.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate an opinion piece with supporting evidence, acting as a thought leader",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Topic of the opinion piece",
+          "defaultValue": "remote work"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "HR managers"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., persuasive, assertive)",
+          "defaultValue": "persuasive"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        }
+      ],
+      "tags": ["opinion", "blog", "content writing"]
+    },
+    {
+      "title": "Tech Blogger",
+      "content": "Act as a tech blogger and write an engaging blog post about {{technology}}. Include:\n\n1. Latest developments and trends\n2. Real-world applications\n3. Technical analysis\n4. Industry impact\n5. Future predictions\n6. Expert opinions\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}\nTechnical depth: {{depth}}",
+      "description": "Generate tech-focused blog posts with expert analysis",
+      "category": "Content Creation",
+      "subcategory": "Tech Blogging",
+      "variables": [
+        {
+          "name": "technology",
+          "description": "Technology topic to write about",
+          "defaultValue": "artificial intelligence"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "tech enthusiasts"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., informative, enthusiastic, analytical)",
+          "defaultValue": "informative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        },
+        {
+          "name": "depth",
+          "description": "Level of technical detail",
+          "defaultValue": "intermediate"
+        }
+      ],
+      "tags": ["tech blog", "technology", "analysis"]
+    },
+    {
+      "title": "Food Blogger",
+      "content": "Act as a food blogger and create a detailed blog post about {{recipe}}. Include:\n\n1. Recipe story and background\n2. Ingredients list\n3. Step-by-step instructions\n4. Cooking tips and tricks\n5. Serving suggestions\n6. Food photography tips\n7. Nutritional information\n\nCuisine type: {{cuisine}}\nDietary restrictions: {{dietary}}\nCooking time: {{time}}\nDifficulty level: {{difficulty}}",
+      "description": "Generate engaging food blog posts with recipes and tips",
+      "category": "Content Creation",
+      "subcategory": "Food Blogging",
+      "variables": [
+        {
+          "name": "recipe",
+          "description": "Recipe name or dish",
+          "defaultValue": "homemade pasta"
+        },
+        {
+          "name": "cuisine",
+          "description": "Type of cuisine",
+          "defaultValue": "Italian"
+        },
+        {
+          "name": "dietary",
+          "description": "Dietary restrictions",
+          "defaultValue": "vegetarian"
+        },
+        {
+          "name": "time",
+          "description": "Total cooking time",
+          "defaultValue": "45 minutes"
+        },
+        {
+          "name": "difficulty",
+          "description": "Recipe difficulty level",
+          "defaultValue": "intermediate"
+        }
+      ],
+      "tags": ["food blog", "recipes", "cooking"]
+    },
+    {
+      "title": "Travel Blogger",
+      "content": "Act as a travel blogger and write an immersive blog post about {{destination}}. Include:\n\n1. Personal experiences\n2. Must-see attractions\n3. Local culture and customs\n4. Travel tips and advice\n5. Accommodation options\n6. Food recommendations\n7. Transportation guide\n8. Budget considerations\n\nTravel style: {{style}}\nSeason: {{season}}\nDuration: {{duration}}\nBudget level: {{budget}}",
+      "description": "Generate engaging travel blog posts with practical tips",
+      "category": "Content Creation",
+      "subcategory": "Travel Blogging",
+      "variables": [
+        {
+          "name": "destination",
+          "description": "Travel destination",
+          "defaultValue": "Tokyo, Japan"
+        },
+        {
+          "name": "style",
+          "description": "Travel style",
+          "defaultValue": "backpacking"
+        },
+        {
+          "name": "season",
+          "description": "Travel season",
+          "defaultValue": "spring"
+        },
+        {
+          "name": "duration",
+          "description": "Trip duration",
+          "defaultValue": "7 days"
+        },
+        {
+          "name": "budget",
+          "description": "Budget level",
+          "defaultValue": "mid-range"
+        }
+      ],
+      "tags": ["travel blog", "travel tips", "destinations"]
+    }
+  ]
+}

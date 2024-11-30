@@ -1,12 +1,12 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import UserProfile from '../models/UserProfile.js';
 import User from '../models/User.js';
 
 const router = express.Router();
 
 // Get user profile
-router.get('/me', auth, async (req, res) => {
+router.get('/me', authenticate, async (req, res) => {
   try {
     let profile = await UserProfile.findOne({ user: req.userId })
       .populate('user', 'username email')
@@ -38,7 +38,7 @@ router.get('/me', auth, async (req, res) => {
 });
 
 // Update profile
-router.patch('/me', auth, async (req, res) => {
+router.patch('/me', authenticate, async (req, res) => {
   try {
     const { bio, avatar } = req.body;
     const profile = await UserProfile.findOne({ user: req.userId });
@@ -59,7 +59,7 @@ router.patch('/me', auth, async (req, res) => {
 });
 
 // Add tool to history
-router.post('/history/:toolId', auth, async (req, res) => {
+router.post('/history/:toolId', authenticate, async (req, res) => {
   try {
     const profile = await UserProfile.findOne({ user: req.userId });
     const toolId = req.params.toolId;
@@ -84,7 +84,7 @@ router.post('/history/:toolId', auth, async (req, res) => {
 });
 
 // Add/Update note for a tool
-router.post('/notes/:toolId', auth, async (req, res) => {
+router.post('/notes/:toolId', authenticate, async (req, res) => {
   try {
     const profile = await UserProfile.findOne({ user: req.userId });
     const { content } = req.body;
@@ -113,7 +113,7 @@ router.post('/notes/:toolId', auth, async (req, res) => {
 });
 
 // Delete note for a tool
-router.delete('/notes/:toolId', auth, async (req, res) => {
+router.delete('/notes/:toolId', authenticate, async (req, res) => {
   try {
     const profile = await UserProfile.findOne({ user: req.userId });
     const toolId = req.params.toolId;

@@ -1,0 +1,334 @@
+{
+  "prompts": [
+    {
+      "title": "Case Study Blog Post",
+      "content": "Act like a case study researcher. Write a blog post that explores a successful implementation of {{action}} by {{company}}. Include detailed background, challenges faced, solution applied, and results achieved.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post based on a detailed case study of a successful business initiative",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "action",
+          "description": "Action being discussed",
+          "defaultValue": "AI adoption"
+        },
+        {
+          "name": "company",
+          "description": "Company featured in the case study",
+          "defaultValue": "Tech Corp"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business leaders"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., analytical, formal)",
+          "defaultValue": "analytical"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["case study", "business", "blog"]
+    },
+    {
+      "title": "Tutorial Blog Post with Visuals",
+      "content": "Act like an expert tutorial creator. Write a blog post that provides a step-by-step tutorial on how to {{action}}. Include visuals or screenshots where necessary and a summary of key takeaways.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate an instructional blog post with visuals and clear, easy-to-follow steps",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "action",
+          "description": "Action or task being explained",
+          "defaultValue": "set up an online store"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "e-commerce entrepreneurs"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., instructional, encouraging)",
+          "defaultValue": "instructional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1800 words"
+        }
+      ],
+      "tags": ["tutorial", "how-to", "blog"]
+    },
+    {
+      "title": "Listicle Blog Post",
+      "content": "Act like a content strategist. Write a listicle blog post about the top {{number}} tips for {{topic}}. Include detailed descriptions and actionable advice for each tip.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post in the listicle format with actionable tips and advice",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "number",
+          "description": "Number of tips or items in the list",
+          "defaultValue": "10"
+        },
+        {
+          "name": "topic",
+          "description": "Topic of the listicle",
+          "defaultValue": "productivity"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "entrepreneurs"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., casual, informative)",
+          "defaultValue": "informative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1200 words"
+        }
+      ],
+      "tags": ["listicle", "tips", "blog"]
+    },
+    {
+      "title": "Event Recap Blog Post",
+      "content": "Act like an event journalist. Write a blog post recapping the main highlights of the {{event}}. Include key speeches, announcements, and takeaways.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post that provides a recap of an event with key highlights and insights",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "event",
+          "description": "Event being recapped",
+          "defaultValue": "tech conference 2024"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "industry professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., formal, engaging)",
+          "defaultValue": "engaging"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1000 words"
+        }
+      ],
+      "tags": ["event recap", "highlights", "blog"]
+    },
+    {
+      "title": "Expert Roundup Blog Post",
+      "content": "Act like a content curator. Write a blog post featuring insights from experts on the topic {{topic}}. Include quotes, opinions, and predictions from at least five different professionals.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post featuring expert opinions and insights on a specific topic",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Topic being discussed",
+          "defaultValue": "future of AI"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "technology enthusiasts"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., authoritative, collaborative)",
+          "defaultValue": "authoritative"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["expert roundup", "interview", "blog"]
+    },
+    {
+      "title": "Year-in-Review Blog Post",
+      "content": "Act like a news analyst. Write a blog post reviewing the most significant events in the {{industry}} industry for the past year. Include major achievements, challenges, and predictions for the next year.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post that reviews the highlights of a specific industry over the past year",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "industry",
+          "description": "Industry being reviewed",
+          "defaultValue": "e-commerce"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., analytical, retrospective)",
+          "defaultValue": "retrospective"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "2000 words"
+        }
+      ],
+      "tags": ["year-in-review", "industry trends", "blog"]
+    },
+    {
+      "title": "Interview Blog Post",
+      "content": "Act like an experienced interviewer. Write a blog post based on an interview with {{interviewee}} on the topic {{topic}}. Include key questions and the interviewee’s responses in a structured format.\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate a blog post based on an interview, highlighting key insights and quotes",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "interviewee",
+          "description": "Person being interviewed",
+          "defaultValue": "CEO of TechCorp"
+        },
+        {
+          "name": "topic",
+          "description": "Topic of the interview",
+          "defaultValue": "future of AI in business"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., conversational, journalistic)",
+          "defaultValue": "conversational"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1500 words"
+        }
+      ],
+      "tags": ["interview", "blog", "content writing"]
+    },
+    {
+      "title": "Parenting Blogger",
+      "content": "Act as a parenting blogger and write an informative post about {{topic}}. Include:\n\n1. Expert parenting advice\n2. Child development insights\n3. Practical tips\n4. Common challenges\n5. Solutions and strategies\n6. Age-appropriate recommendations\n\nChild age group: {{ageGroup}}\nParenting style: {{style}}\nSpecific concerns: {{concerns}}\nResources needed: {{resources}}",
+      "description": "Generate parenting blog posts with expert advice and practical solutions",
+      "category": "Content Creation",
+      "subcategory": "Parenting Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Parenting topic to write about",
+          "defaultValue": "sleep training"
+        },
+        {
+          "name": "ageGroup",
+          "description": "Target age group",
+          "defaultValue": "toddlers"
+        },
+        {
+          "name": "style",
+          "description": "Parenting style",
+          "defaultValue": "gentle parenting"
+        },
+        {
+          "name": "concerns",
+          "description": "Specific parenting concerns",
+          "defaultValue": "bedtime resistance"
+        },
+        {
+          "name": "resources",
+          "description": "Required resources or tools",
+          "defaultValue": "bedtime routine chart"
+        }
+      ],
+      "tags": ["parenting", "child development", "family"]
+    },
+    {
+      "title": "Pet Care Blogger",
+      "content": "Act as a pet care blogger and create an informative post about {{topic}}. Include:\n\n1. Pet health tips\n2. Behavioral advice\n3. Training techniques\n4. Nutrition guidance\n5. Common issues\n6. Expert recommendations\n\nPet type: {{petType}}\nAge: {{age}}\nCare level: {{careLevel}}\nSpecial needs: {{specialNeeds}}",
+      "description": "Generate pet care blog posts with expert advice and practical tips",
+      "category": "Content Creation",
+      "subcategory": "Pet Care Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Pet care topic to write about",
+          "defaultValue": "house training"
+        },
+        {
+          "name": "petType",
+          "description": "Type of pet",
+          "defaultValue": "dog"
+        },
+        {
+          "name": "age",
+          "description": "Pet age group",
+          "defaultValue": "puppy"
+        },
+        {
+          "name": "careLevel",
+          "description": "Level of care required",
+          "defaultValue": "basic"
+        },
+        {
+          "name": "specialNeeds",
+          "description": "Special care requirements",
+          "defaultValue": "none"
+        }
+      ],
+      "tags": ["pet care", "animal health", "pet training"]
+    },
+    {
+      "title": "Home Improvement Blogger",
+      "content": "Act as a home improvement blogger and write a detailed post about {{topic}}. Include:\n\n1. Step-by-step instructions\n2. Required materials\n3. Tool recommendations\n4. Safety precautions\n5. Cost estimates\n6. Time requirements\n7. Professional tips\n\nSkill level: {{skillLevel}}\nProject scope: {{scope}}\nBudget range: {{budget}}\nTime frame: {{timeFrame}}",
+      "description": "Generate home improvement blog posts with detailed instructions and tips",
+      "category": "Content Creation",
+      "subcategory": "Home Improvement Blogging",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Home improvement topic",
+          "defaultValue": "bathroom renovation"
+        },
+        {
+          "name": "skillLevel",
+          "description": "Required skill level",
+          "defaultValue": "intermediate"
+        },
+        {
+          "name": "scope",
+          "description": "Project scope",
+          "defaultValue": "full renovation"
+        },
+        {
+          "name": "budget",
+          "description": "Budget range",
+          "defaultValue": "moderate"
+        },
+        {
+          "name": "timeFrame",
+          "description": "Estimated time frame",
+          "defaultValue": "2 weeks"
+        }
+      ],
+      "tags": ["home improvement", "DIY", "renovation"]
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+{
+    "prompts": [
+      {
+        "title": "Product Ad Copy Generator",
+        "content": "Create 3 compelling ad copy variations for {{productName}}. Each variation should include:\n1. Attention-grabbing opening\n2. Clear product benefits\n3. Emotional appeal\n4. Strong call-to-action\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Generate high-converting, persuasive ad copy for any product, focusing on key selling points and audience appeal.",
+        "category": "Advertising",
+        "subcategory": "Ad Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "Smartphone X"
+          },
+          {
+            "name": "audience",
+            "description": "The target audience",
+            "defaultValue": "tech enthusiasts"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the ad",
+            "defaultValue": "serious"
+          },
+          {
+            "name": "language",
+            "description": "Language of the ad",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["advertising", "ad copy", "product promotion"]
+      },
+      {
+        "title": "Service Ad Copy Generator",
+        "content": "Create 3 engaging ad copy variations for {{serviceName}}. Include the following:\n1. Hook that grabs attention\n2. Unique value proposition\n3. Call to action that compels immediate response\n4. Brief mention of customer testimonials or proof (if applicable)\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft persuasive ads for services, highlighting what makes the offering stand out and encouraging conversions.",
+        "category": "Advertising",
+        "subcategory": "Ad Copywriting",
+        "variables": [
+          {
+            "name": "serviceName",
+            "description": "Name of the service",
+            "defaultValue": "24/7 IT Support"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic",
+            "defaultValue": "small business owners"
+          },
+          {
+            "name": "tone",
+            "description": "The ad's tone",
+            "defaultValue": "professional"
+          },
+          {
+            "name": "language",
+            "description": "Language of the ad",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["service promotion", "ad copy", "business"]
+      },
+      {
+        "title": "Campaign Ad Copy Generator",
+        "content": "Generate 3 different ad copy variations for a marketing campaign promoting {{campaignName}}. Each ad should contain:\n1. A catchy headline that hooks the audience\n2. Explanation of campaign objectives and benefits\n3. Strong emotional appeal or urgency\n4. A clear call to action to get involved or purchase\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create ad copy for any type of campaign, with clear messaging and a focus on driving action.",
+        "category": "Advertising",
+        "subcategory": "Campaign Promotion",
+        "variables": [
+          {
+            "name": "campaignName",
+            "description": "Name of the campaign",
+            "defaultValue": "Save the Planet Initiative"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the campaign",
+            "defaultValue": "eco-conscious consumers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the campaign",
+            "defaultValue": "urgent"
+          },
+          {
+            "name": "language",
+            "description": "Language of the ad",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["campaign", "marketing", "ad copy"]
+      },
+      {
+        "title": "Event Ad Copy Generator",
+        "content": "Generate 3 ad copy variations to promote an upcoming event {{eventName}}. Each ad should include:\n1. A strong hook to attract attention\n2. Key event details (date, location, highlights)\n3. Urgency or exclusivity factor\n4. A persuasive call to action\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft persuasive ad copy for promoting events, focusing on key details and creating urgency for the target audience.",
+        "category": "Advertising",
+        "subcategory": "Event Promotion",
+        "variables": [
+          {
+            "name": "eventName",
+            "description": "Name of the event",
+            "defaultValue": "Annual Tech Expo"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the event",
+            "defaultValue": "tech professionals"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the ad",
+            "defaultValue": "excited"
+          },
+          {
+            "name": "language",
+            "description": "Language of the ad",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["event promotion", "advertising", "ad copy"]
+      },
+      {
+        "title": "Seasonal Promotion Ad Copy Generator",
+        "content": "Create 3 ad copy variations for the seasonal promotion of {{productName}}. Each ad should include:\n1. A festive or season-related hook\n2. Highlight of the promotion (discounts, offers)\n3. Emotional appeal (e.g., making the holiday season special)\n4. A call to action that drives urgency\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Generate compelling ad copy for seasonal promotions, creating excitement and urgency for the offer.",
+        "category": "Advertising",
+        "subcategory": "Seasonal Promotions",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "Winter Jackets"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic",
+            "defaultValue": "holiday shoppers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the ad",
+            "defaultValue": "festive"
+          },
+          {
+            "name": "language",
+            "description": "Language of the ad",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["seasonal promotion", "advertising", "ad copy"]
+      },
+      {
+        "title": "Brand Tagline Generator",
+        "content": "Create a memorable tagline for {{brandName}} that includes:\n1. A catchy phrase\n2. Emotional appeal or connection\n3. Emphasis on unique value or key offering\n4. Short and impactful\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Generate creative and memorable taglines that capture the essence of a brand and resonate with the target audience.",
+        "category": "Advertising",
+        "subcategory": "Taglines",
+        "variables": [
+          {
+            "name": "brandName",
+            "description": "Name of the brand or company",
+            "defaultValue": "TechInnovators"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic for the brand",
+            "defaultValue": "tech enthusiasts"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "innovative"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["advertising", "branding", "tagline"]
+      },
+      {
+        "title": "Product Tagline Generator",
+        "content": "Craft a tagline for {{productName}} that:\n1. Clearly communicates product benefits\n2. Creates a sense of urgency or desire\n3. Aligns with the product's personality and target market\n4. Is short and memorable\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create impactful taglines for products, designed to grab attention and drive interest or sales.",
+        "category": "Advertising",
+        "subcategory": "Product Taglines",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "Smartphone X"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic for the product",
+            "defaultValue": "tech-savvy millennials"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "excited"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["advertising", "product marketing", "tagline"]
+      },
+      {
+        "title": "Service Tagline Generator",
+        "content": "Generate a concise and persuasive tagline for {{serviceName}} that:\n1. Highlights the core benefit of the service\n2. Creates an emotional connection with the audience\n3. Is easy to remember\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write taglines for services that focus on unique value propositions and resonate with target customers.",
+        "category": "Advertising",
+        "subcategory": "Service Taglines",
+        "variables": [
+          {
+            "name": "serviceName",
+            "description": "Name of the service",
+            "defaultValue": "Premium Consulting"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the service",
+            "defaultValue": "entrepreneurs and business owners"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "professional"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["service marketing", "branding", "tagline"]
+      },
+      {
+        "title": "Campaign Tagline Generator",
+        "content": "Create a catchy and impactful tagline for the {{campaignName}} campaign that:\n1. Reflects the core message of the campaign\n2. Creates a sense of urgency or importance\n3. Appeals to the target audience's values\n4. Is short and memorable\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft taglines for campaigns that effectively capture the essence of the initiative and encourage action.",
+        "category": "Advertising",
+        "subcategory": "Campaign Taglines",
+        "variables": [
+          {
+            "name": "campaignName",
+            "description": "Name of the campaign",
+            "defaultValue": "Save the Earth"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the campaign",
+            "defaultValue": "eco-conscious individuals"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "urgent"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["campaign", "advertising", "tagline"]
+      },
+      {
+        "title": "Seasonal Tagline Generator",
+        "content": "Generate a memorable seasonal tagline for {{productName}} during the {{season}} that:\n1. Ties into the seasonal mood or holiday theme\n2. Creates urgency or excitement for limited-time offers\n3. Focuses on benefits that resonate with the season\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write seasonal taglines for products or services that capture the essence of the time of year and encourage immediate action.",
+        "category": "Advertising",
+        "subcategory": "Seasonal Taglines",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "Winter Jackets"
+          },
+          {
+            "name": "season",
+            "description": "Season or holiday event",
+            "defaultValue": "Christmas"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic for the product",
+            "defaultValue": "holiday shoppers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "festive"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["seasonal promotion", "advertising", "tagline"]
+      },
+      {
+        "title": "Book Slogan Generator",
+        "content": "Craft a catchy and persuasive tagline for the book titled {{bookTitle}} that:\n1. Reflects the core theme or message of the book\n2. Evokes curiosity or emotion\n3. Is memorable and concise\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create persuasive and engaging taglines for books that capture the essence and emotional appeal of the story.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "bookTitle",
+            "description": "Title of the book or novel",
+            "defaultValue": "The Silent Night"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic for the book",
+            "defaultValue": "fiction readers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the tagline",
+            "defaultValue": "intriguing"
+          },
+          {
+            "name": "language",
+            "description": "Language of the tagline",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["book marketing", "slogan writing", "tagline"]
+      },
+      {
+        "title": "Novel Slogan Generator",
+        "content": "Create a memorable slogan for the novel {{bookTitle}} that:\n1. Captures the essence of the storyline\n2. Appeals to the reader's emotions\n3. Promotes the book's unique qualities\n4. Is concise and impactful\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft persuasive slogans that resonate with potential readers and reflect the unique selling points of the novel.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "bookTitle",
+            "description": "Name of the novel",
+            "defaultValue": "Whispers in the Dark"
+          },
+          {
+            "name": "audience",
+            "description": "Target demographic for the novel",
+            "defaultValue": "young adult fiction lovers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the slogan",
+            "defaultValue": "mysterious"
+          },
+          {
+            "name": "language",
+            "description": "Language of the slogan",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["novel marketing", "slogan writing", "book promotion"]
+      },
+      {
+        "title": "Campaign Slogan Generator",
+        "content": "Generate a persuasive slogan for the campaign {{campaignName}} that:\n1. Clearly conveys the campaign's mission\n2. Sparks interest or calls for action\n3. Appeals emotionally to the audience\n4. Is short, catchy, and impactful\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create compelling campaign slogans designed to influence audience behavior and support campaign goals.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "campaignName",
+            "description": "Name of the campaign",
+            "defaultValue": "Save Our Oceans"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the campaign",
+            "defaultValue": "environmentally conscious individuals"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the slogan",
+            "defaultValue": "urgent"
+          },
+          {
+            "name": "language",
+            "description": "Language of the slogan",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["campaign marketing", "persuasive writing", "slogan"]
+      },
+      {
+        "title": "Product Slogan Generator",
+        "content": "Create a slogan for the product {{productName}} that:\n1. Highlights the product's main benefits\n2. Evokes a desire to own or use the product\n3. Is simple, catchy, and memorable\n4. Aligns with the brand’s voice and values\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write persuasive slogans that compel customers to take action and purchase a product.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "EcoSmart Water Bottle"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the product",
+            "defaultValue": "eco-conscious consumers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the slogan",
+            "defaultValue": "inspirational"
+          },
+          {
+            "name": "language",
+            "description": "Language of the slogan",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["product marketing", "advertising", "slogan"]
+      },
+      {
+        "title": "Brand Slogan Generator",
+        "content": "Create a compelling and memorable slogan for the brand {{brandName}} that:\n1. Reflects the brand's core values\n2. Communicates the brand's promise or mission\n3. Is catchy and memorable\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Develop brand slogans that clearly convey the company’s identity and resonate with its target audience.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "brandName",
+            "description": "Name of the brand",
+            "defaultValue": "NatureCo"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the brand",
+            "defaultValue": "sustainability-focused consumers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the slogan",
+            "defaultValue": "positive"
+          },
+          {
+            "name": "language",
+            "description": "Language of the slogan",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["brand marketing", "advertising", "slogan"]
+      },
+      {
+        "title": "School Motto Generator",
+        "content": "Create a memorable and persuasive motto for the school {{schoolName}} that:\n1. Reflects the institution’s core values and mission\n2. Inspires students and the school community\n3. Is concise and impactful\n4. Encourages academic and personal growth\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create inspiring mottos for schools that reflect the institution’s values and motivate students to excel.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "schoolName",
+            "description": "Name of the school or institution",
+            "defaultValue": "Greenfield Academy"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the motto (e.g., students, parents, faculty)",
+            "defaultValue": "students and educators"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the motto (e.g., inspiring, motivating, thoughtful)",
+            "defaultValue": "motivating"
+          },
+          {
+            "name": "language",
+            "description": "Language of the motto",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["school marketing", "education slogans", "motto"]
+      },
+      {
+        "title": "Institution Motto Generator",
+        "content": "Create an impactful motto for the institution {{institutionName}} that:\n1. Emphasizes the institution's purpose\n2. Encourages success, growth, and achievement\n3. Stands out and is easy to remember\n4. Unifies the community with a common vision\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft meaningful mottos that clearly communicate the mission and vision of the institution.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "institutionName",
+            "description": "Name of the institution (e.g., university, college)",
+            "defaultValue": "Riverside University"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the motto (e.g., students, alumni, faculty)",
+            "defaultValue": "students and faculty"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the motto",
+            "defaultValue": "inspirational"
+          },
+          {
+            "name": "language",
+            "description": "Language of the motto",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["institutional marketing", "education slogans", "motto"]
+      },
+      {
+        "title": "University Motto Generator",
+        "content": "Write a powerful and inspiring motto for {{universityName}} that:\n1. Aligns with the university's academic excellence and values\n2. Inspires students and faculty towards achievement\n3. Is succinct and memorable\n4. Reflects the institution’s commitment to personal growth\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create impactful university mottos that motivate students and faculty, while reflecting the institution's culture.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "universityName",
+            "description": "Name of the university",
+            "defaultValue": "Summit University"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the motto",
+            "defaultValue": "students, faculty, and alumni"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the motto",
+            "defaultValue": "empowering"
+          },
+          {
+            "name": "language",
+            "description": "Language of the motto",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["university marketing", "education slogans", "motto"]
+      },
+      {
+        "title": "College Motto Generator",
+        "content": "Generate a memorable motto for the college {{collegeName}} that:\n1. Reflects the institution's vision and mission\n2. Inspires students to reach their full potential\n3. Is simple, yet profound\n4. Resonates with the community’s values\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write catchy and motivational mottos for colleges that reflect academic dedication and community spirit.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "collegeName",
+            "description": "Name of the college",
+            "defaultValue": "Bright Horizon College"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the motto",
+            "defaultValue": "students and staff"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the motto",
+            "defaultValue": "inspirational"
+          },
+          {
+            "name": "language",
+            "description": "Language of the motto",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["college marketing", "education slogans", "motto"]
+      },
+      {
+        "title": "School Vision Motto Generator",
+        "content": "Create a motto for the school {{schoolName}} that:\n1. Reflects the school’s vision and core values\n2. Motivates students and the broader community\n3. Is short and memorable\n4. Serves as a guiding statement for future generations\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft concise mottos that align with a school's vision and inspire its community.",
+        "category": "Advertising",
+        "subcategory": "Slogans",
+        "variables": [
+          {
+            "name": "schoolName",
+            "description": "Name of the school",
+            "defaultValue": "Oakwood High"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the motto",
+            "defaultValue": "students and faculty"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the motto",
+            "defaultValue": "inspiring"
+          },
+          {
+            "name": "language",
+            "description": "Language of the motto",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["school marketing", "education slogans", "motto"]
+      },
+      {
+        "title": "Product Back in Stock Email",
+        "content": "Write a persuasive and direct email informing customers that {{productName}} is back in stock.\n\n1. Greeting: Address the customer directly, thanking them for their patience.\n2. Main Body: Announce the product’s return, highlighting its key features and benefits.\n3. Urgency: Encourage the customer to act quickly, as stock may be limited.\n4. Call to Action: Provide a clear next step, such as clicking a link to purchase.\n5. Closing: Thank them again and provide any relevant customer service contact information.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create email copy that effectively informs customers when a product is back in stock, encouraging them to make a purchase.",
+        "category": "Email Marketing",
+        "subcategory": "Email Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product that is back in stock",
+            "defaultValue": "Premium Headphones"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the email (e.g., existing customers, new subscribers)",
+            "defaultValue": "loyal customers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the email (e.g., friendly, formal, enthusiastic)",
+            "defaultValue": "friendly"
+          },
+          {
+            "name": "language",
+            "description": "Language of the email",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["email marketing", "product announcement", "email copywriting"]
+      },
+      {
+        "title": "Product Restock Notification Email",
+        "content": "Write a friendly and engaging email notifying customers that {{productName}} is now back in stock.\n\n1. Opening: Acknowledge customers’ previous interest in the product.\n2. Body: Emphasize the product’s key features and value.\n3. Call to Action: Encourage immediate purchase with a limited-time offer or stock scarcity.\n4. Closing: Invite customers to contact customer service for further assistance or inquiries.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Craft a personalized email that informs customers a product is back in stock, with a compelling call to action.",
+        "category": "Email Marketing",
+        "subcategory": "Email Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product that has returned to stock",
+            "defaultValue": "Bluetooth Earbuds"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the email (e.g., previous customers, new visitors)",
+            "defaultValue": "repeat customers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the email (e.g., warm, enthusiastic, professional)",
+            "defaultValue": "enthusiastic"
+          },
+          {
+            "name": "language",
+            "description": "Language of the email",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["email marketing", "restock alert", "customer engagement"]
+      },
+      {
+        "title": "Back in Stock - Act Now Email",
+        "content": "Create an urgent and direct email informing customers that {{productName}} is available again.\n\n1. Subject Line: Create a catchy and attention-grabbing subject.\n2. Body: State clearly that the product is back in stock and emphasize scarcity or high demand.\n3. Highlight Benefits: Reinforce why customers should buy now.\n4. Call to Action: Direct customers to buy now with an easy link.\n5. Closing: Add a sense of urgency or limited availability.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write an email that creates urgency around a product restock, motivating customers to buy immediately.",
+        "category": "Email Marketing",
+        "subcategory": "Email Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product that is back in stock",
+            "defaultValue": "Wireless Charger"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the email (e.g., potential buyers, previous customers)",
+            "defaultValue": "email subscribers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the email (e.g., urgent, persuasive, action-oriented)",
+            "defaultValue": "urgent"
+          },
+          {
+            "name": "language",
+            "description": "Language of the email",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["email marketing", "urgent restock", "call to action"]
+      },
+      {
+        "title": "Back in Stock Email with Special Offer",
+        "content": "Write an email notifying customers that {{productName}} is back in stock with a special offer.\n\n1. Introduction: Thank customers for their patience and excitement.\n2. Announcement: Clearly state that the product is now available.\n3. Offer: Introduce a special discount, bonus, or incentive for purchasing.\n4. Call to Action: Provide a direct link to the product page and encourage action.\n5. Closing: Remind customers of the limited-time offer and thank them for their continued support.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create a compelling email offering a product back in stock with an additional special offer to motivate sales.",
+        "category": "Email Marketing",
+        "subcategory": "Email Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product that is now back in stock",
+            "defaultValue": "Smartwatch"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the email (e.g., previous customers, new buyers)",
+            "defaultValue": "first-time buyers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the email (e.g., friendly, promotional, persuasive)",
+            "defaultValue": "promotional"
+          },
+          {
+            "name": "language",
+            "description": "Language of the email",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["email marketing", "promotion", "special offer"]
+      },
+      {
+        "title": "Restocked and Ready for You Email",
+        "content": "Write a personalized email informing customers that {{productName}} is back in stock and ready for immediate shipping.\n\n1. Personalization: Address the customer by name and mention their past interest in the product.\n2. Announcement: Highlight that the product is now available and ready for purchase.\n3. Features: Remind the customer of the benefits or unique qualities of the product.\n4. Call to Action: Direct them to the product page to make a quick purchase.\n5. Closing: Thank the customer for their loyalty and invite them to reach out for any questions.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write a personalized email that effectively informs customers a product is restocked, encouraging them to act quickly.",
+        "category": "Email Marketing",
+        "subcategory": "Email Copywriting",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product that is now available again",
+            "defaultValue": "Electric Toothbrush"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the email (e.g., existing customers, repeat buyers)",
+            "defaultValue": "returning customers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the email (e.g., warm, personalized, friendly)",
+            "defaultValue": "personalized"
+          },
+          {
+            "name": "language",
+            "description": "Language of the email",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["email marketing", "personalized emails", "product restock"]
+      },
+      {
+        "title": "FAQ Section for Product",
+        "content": "Create a clear and informative FAQ section for {{productName}}.\n\n1. Question: What is {{productName}}?\n   Answer: Provide a concise explanation of the product's key features and uses.\n2. Question: How do I use {{productName}}?\n   Answer: Detail the basic usage instructions for the product.\n3. Question: What are the benefits of using {{productName}}?\n   Answer: Highlight the main advantages and value for the user.\n4. Question: Is there a warranty on {{productName}}?\n   Answer: Specify the warranty information, including coverage and duration.\n5. Question: How do I return {{productName}}?\n   Answer: Provide return instructions and the process for returns.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Draft an informative FAQ section for a specific product, covering the most common customer queries.",
+        "category": "Content Writing",
+        "subcategory": "FAQ Writing",
+        "variables": [
+          {
+            "name": "productName",
+            "description": "Name of the product",
+            "defaultValue": "Smartphone"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ section",
+            "defaultValue": "potential customers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the FAQ (e.g., formal, casual, friendly)",
+            "defaultValue": "informative"
+          },
+          {
+            "name": "language",
+            "description": "Language of the FAQ section",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["FAQ", "product information", "customer service"]
+      },
+      {
+        "title": "FAQ Section for Service",
+        "content": "Write a detailed FAQ section for the service {{serviceName}}.\n\n1. Question: What is {{serviceName}}?\n   Answer: Provide a clear description of the service.\n2. Question: How does {{serviceName}} work?\n   Answer: Explain the process or steps involved in using the service.\n3. Question: What is the cost of {{serviceName}}?\n   Answer: State the pricing structure for the service.\n4. Question: Can I cancel {{serviceName}} anytime?\n   Answer: Describe the cancellation policy, if applicable.\n5. Question: How do I contact support for {{serviceName}}?\n   Answer: Provide contact details or methods for customer support.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create a helpful FAQ section for a service, addressing common questions and concerns.",
+        "category": "Content Writing",
+        "subcategory": "FAQ Writing",
+        "variables": [
+          {
+            "name": "serviceName",
+            "description": "Name of the service",
+            "defaultValue": "Cloud Storage"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ section",
+            "defaultValue": "current users"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the FAQ (e.g., professional, friendly, casual)",
+            "defaultValue": "friendly"
+          },
+          {
+            "name": "language",
+            "description": "Language of the FAQ section",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["FAQ", "service information", "customer support"]
+      },
+      {
+        "title": "FAQ Section for Software",
+        "content": "Write a FAQ section for the software product {{softwareName}}.\n\n1. Question: What is {{softwareName}}?\n   Answer: Describe the software, its main functionality, and use cases.\n2. Question: How do I install {{softwareName}}?\n   Answer: Provide step-by-step installation instructions.\n3. Question: Is there a free trial available for {{softwareName}}?\n   Answer: Explain the availability and length of any free trials.\n4. Question: How do I upgrade my subscription for {{softwareName}}?\n   Answer: Outline the process for upgrading to a higher tier.\n5. Question: Can I get support for {{softwareName}}?\n   Answer: Provide contact information for customer support or troubleshooting.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Create an informative FAQ section for a software product, addressing common questions users may have.",
+        "category": "Content Writing",
+        "subcategory": "FAQ Writing",
+        "variables": [
+          {
+            "name": "softwareName",
+            "description": "Name of the software",
+            "defaultValue": "Photo Editor Pro"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ section",
+            "defaultValue": "software users"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the FAQ (e.g., technical, professional, casual)",
+            "defaultValue": "technical"
+          },
+          {
+            "name": "language",
+            "description": "Language of the FAQ section",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["FAQ", "software support", "user guide"]
+      },
+      {
+        "title": "FAQ Section for Online Course",
+        "content": "Create a FAQ section for an online course titled {{courseTitle}}.\n\n1. Question: What is {{courseTitle}}?\n   Answer: Provide a concise description of the course content and objectives.\n2. Question: How do I enroll in {{courseTitle}}?\n   Answer: Explain the enrollment process, including any prerequisites.\n3. Question: What will I learn in {{courseTitle}}?\n   Answer: List the key skills or knowledge areas covered in the course.\n4. Question: Is there a certification upon completion of {{courseTitle}}?\n   Answer: Specify whether the course offers certification and details of it.\n5. Question: How do I contact the instructor of {{courseTitle}}?\n   Answer: Provide contact details or instructions for reaching out to the instructor.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write an FAQ section for an online course, answering common questions related to course content and enrollment.",
+        "category": "Content Writing",
+        "subcategory": "FAQ Writing",
+        "variables": [
+          {
+            "name": "courseTitle",
+            "description": "Name of the course",
+            "defaultValue": "Digital Marketing Mastery"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ section",
+            "defaultValue": "prospective students"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the FAQ (e.g., motivational, informative, welcoming)",
+            "defaultValue": "welcoming"
+          },
+          {
+            "name": "language",
+            "description": "Language of the FAQ section",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["FAQ", "online course", "education"]
+      },
+      {
+        "title": "FAQ Section for E-commerce Website",
+        "content": "Write a FAQ section for the e-commerce website {{websiteName}}.\n\n1. Question: How do I place an order on {{websiteName}}?\n   Answer: Provide the steps for ordering on the site, from selection to checkout.\n2. Question: What payment methods are accepted on {{websiteName}}?\n   Answer: List the available payment options.\n3. Question: How do I track my order from {{websiteName}}?\n   Answer: Explain how customers can track their orders after purchase.\n4. Question: How can I return an item from {{websiteName}}?\n   Answer: Provide the return policy and instructions.\n5. Question: Do you offer international shipping on {{websiteName}}?\n   Answer: Clarify if international shipping is available and any relevant details.\n\nTarget Audience: {{audience}}\nTone: {{tone}}\nLanguage: {{language}}",
+        "description": "Write an FAQ section for an e-commerce website, covering common customer questions related to ordering, payment, and returns.",
+        "category": "Content Writing",
+        "subcategory": "FAQ Writing",
+        "variables": [
+          {
+            "name": "websiteName",
+            "description": "Name of the e-commerce website",
+            "defaultValue": "Tech Gear Online"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ section",
+            "defaultValue": "online shoppers"
+          },
+          {
+            "name": "tone",
+            "description": "Tone of the FAQ (e.g., casual, customer-friendly, professional)",
+            "defaultValue": "customer-friendly"
+          },
+          {
+            "name": "language",
+            "description": "Language of the FAQ section",
+            "defaultValue": "English"
+          }
+        ],
+        "tags": ["FAQ", "e-commerce", "customer service"]
+      }
+    ]
+  }
+              

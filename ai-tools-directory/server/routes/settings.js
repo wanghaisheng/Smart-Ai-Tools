@@ -1,11 +1,11 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import ProviderApiKey from '../models/ProviderApiKey.js';
 
 const router = express.Router();
 
 // Get available AI models from configured API keys
-router.get('/available-models', auth, async (req, res) => {
+router.get('/available-models', authenticate, async (req, res) => {
   try {
     // Get all enabled provider API keys for the user
     const providerKeys = await ProviderApiKey.find({

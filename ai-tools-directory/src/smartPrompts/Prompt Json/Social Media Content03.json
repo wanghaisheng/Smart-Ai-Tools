@@ -1,0 +1,699 @@
+{
+  "prompts": [
+    {
+      "title": "Boost Your Productivity Today",
+      "content": "Tired of feeling overwhelmed? **{{productName}}** helps you stay focused and productive, no matter your task. Get started and unlock your full potential today!\n\n💡 **Key Features**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\n**Start Now** and feel the difference!\n\n#Productivity #Focus #StayOnTrack",
+      "description": "Create engaging social media content for productivity tools",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "The name of the productivity tool",
+          "defaultValue": "FocusMate"
+        },
+        {
+          "name": "feature1",
+          "description": "First key feature of the product",
+          "defaultValue": "Task reminders"
+        },
+        {
+          "name": "feature2",
+          "description": "Second key feature of the product",
+          "defaultValue": "Pomodoro timer"
+        },
+        {
+          "name": "feature3",
+          "description": "Third key feature of the product",
+          "defaultValue": "Easy-to-use interface"
+        }
+      ],
+      "tags": ["social media", "productivity", "focus"]
+    },
+    {
+      "title": "Monday Motivation",
+      "content": "It’s a new week, time for new goals! 🚀 With **{{productName}}**, achieve more than you ever thought possible. Ready to start?\n\n💪 **What You Get**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Get Started** and crush your goals!\n\n#MondayMotivation #GoalSetting #Productivity",
+      "description": "Create engaging social media content for motivational posts",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "The name of the product",
+          "defaultValue": "GoalSetter"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit of the product",
+          "defaultValue": "Track your progress"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit of the product",
+          "defaultValue": "Set achievable goals"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit of the product",
+          "defaultValue": "Stay motivated"
+        }
+      ],
+      "tags": ["motivational", "goal setting", "productivity"]
+    },
+    {
+      "title": "Unleash Your Creativity",
+      "content": "Spark your creativity with **{{productName}}** and bring your ideas to life! ✨\n\n🎨 **Why You'll Love It**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\n**Start Creating** now and let your imagination soar!\n\n#Creativity #Design #Innovation",
+      "description": "Create engaging social media content for creative tools",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Name of the creative tool",
+          "defaultValue": "CreativeSuite"
+        },
+        {
+          "name": "feature1",
+          "description": "First key feature of the tool",
+          "defaultValue": "Drag-and-drop functionality"
+        },
+        {
+          "name": "feature2",
+          "description": "Second key feature of the tool",
+          "defaultValue": "Pre-designed templates"
+        },
+        {
+          "name": "feature3",
+          "description": "Third key feature of the tool",
+          "defaultValue": "Collaborative tools"
+        }
+      ],
+      "tags": ["creativity", "design", "innovation"]
+    },
+    {
+      "title": "Health is Wealth",
+      "content": "Take control of your health with **{{productName}}**. 💪 Perfect for anyone looking to lead a healthier life!\n\n🍎 **Top Features**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\n**Order Now** and feel the difference!\n\n#HealthGoals #FitnessJourney #Wellness",
+      "description": "Create engaging social media content for health products",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Health product name",
+          "defaultValue": "FitTrack"
+        },
+        {
+          "name": "feature1",
+          "description": "First feature of the product",
+          "defaultValue": "Custom meal plans"
+        },
+        {
+          "name": "feature2",
+          "description": "Second feature of the product",
+          "defaultValue": "Exercise tracking"
+        },
+        {
+          "name": "feature3",
+          "description": "Third feature of the product",
+          "defaultValue": "Personalized coaching"
+        }
+      ],
+      "tags": ["health", "wellness", "fitness"]
+    },
+    {
+      "title": "Join the Movement",
+      "content": "Thousands of users are already enjoying **{{productName}}** – don’t miss out!\n\n🚀 **Join us** for:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Sign Up Today** and be part of something big!\n\n#Movement #JoinUs #Innovation",
+      "description": "Create engaging social media content for community-building",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Name of the product or service",
+          "defaultValue": "RevolutionApp"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit of joining",
+          "defaultValue": "Exclusive features"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit of joining",
+          "defaultValue": "Early access to updates"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit of joining",
+          "defaultValue": "Community support"
+        }
+      ],
+      "tags": ["community", "movement", "innovation"]
+    },
+    {
+      "title": "Transform Your Workflow",
+      "content": "Streamline your process with **{{productName}}** and get things done faster!\n\n⚡ **Key Benefits**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Start Using** it today and experience the change!\n\n#ProductivityHacks #Efficiency #TimeManagement",
+      "description": "Create engaging social media content for workflow optimization",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Workflow product name",
+          "defaultValue": "StreamlinePro"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit of using the product",
+          "defaultValue": "Faster task completion"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit of using the product",
+          "defaultValue": "Improved time management"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit of using the product",
+          "defaultValue": "Increased team collaboration"
+        }
+      ],
+      "tags": ["workflow", "efficiency", "productivity"]
+    },
+    {
+      "title": "Save Big This Week",
+      "content": "This week only, **{{productName}}** is available at a **{{discountPercentage}}%** discount! 💸 Don’t miss out!\n\n🛍️ **What You’ll Save**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Shop Now** and grab the deal!\n\n#Sale #Discount #Savings",
+      "description": "Create engaging social media content for sales and discounts",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Product name",
+          "defaultValue": "TechGadget"
+        },
+        {
+          "name": "discountPercentage",
+          "description": "Discount percentage",
+          "defaultValue": "30"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit of the deal",
+          "defaultValue": "Free shipping"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit of the deal",
+          "defaultValue": "Bonus accessories"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit of the deal",
+          "defaultValue": "Exclusive add-ons"
+        }
+      ],
+      "tags": ["sale", "discount", "shopping"]
+    },
+    {
+      "title": "Experience the Future of Tech",
+      "content": "Step into the future with **{{productName}}** and explore the next generation of tech.\n\n🌐 **Features You’ll Love**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\n**Order Now** to stay ahead of the curve!\n\n#TechInnovation #FutureIsNow #CuttingEdge",
+      "description": "Create engaging social media content for tech products",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Name of the tech product",
+          "defaultValue": "NextGenPhone"
+        },
+        {
+          "name": "feature1",
+          "description": "First feature of the tech product",
+          "defaultValue": "5G speed"
+        },
+        {
+          "name": "feature2",
+          "description": "Second feature of the tech product",
+          "defaultValue": "AI-powered assistant"
+        },
+        {
+          "name": "feature3",
+          "description": "Third feature of the tech product",
+          "defaultValue": "Stunning display"
+        }
+      ],
+      "tags": ["tech", "innovation", "gadgets"]
+    },
+    {
+      "title": "Master Your Skill",
+      "content": "Unlock your full potential with **{{productName}}**. Learn and grow at your own pace.\n\n📚 **Why You’ll Benefit**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\n**Start Learning** today and upgrade your skills!\n\n#Learning #SelfImprovement #SkillGrowth",
+      "description": "Create engaging social media content for skill-learning products",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Skill-learning product name",
+          "defaultValue": "SkillMaster"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit of using the product",
+          "defaultValue": "Personalized learning paths"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit of using the product",
+          "defaultValue": "Expert instructors"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit of using the product",
+          "defaultValue": "Real-world projects"
+        }
+      ],
+      "tags": ["learning", "skill development", "education"]
+    },
+    {
+      "title": "Social Media Campaign Strategy",
+      "content": "Create a comprehensive social media campaign strategy for {{brand}} focusing on {{objective}}. Include:\n\n1. Campaign Goals:\n- Primary objectives\n- Key performance indicators (KPIs)\n- Target metrics\n\n2. Target Audience Analysis:\n- Demographics\n- Interests\n- Online behavior patterns\n\n3. Platform Strategy:\n- Platform selection rationale\n- Platform-specific content approach\n- Posting schedule\n\n4. Content Plan:\n- Content themes\n- Content types\n- Content calendar\n\n5. Engagement Strategy:\n- Community management approach\n- Response guidelines\n- Hashtag strategy\n\n6. Budget Allocation:\n- Paid promotion strategy\n- Resource allocation\n- ROI targets\n\nBrand Voice: {{brandVoice}}\nCampaign Duration: {{duration}}",
+      "description": "Generate detailed social media campaign strategies with clear objectives and actionable plans",
+      "category": "Social Media",
+      "subcategory": "Campaign Planning",
+      "variables": [
+        {
+          "name": "brand",
+          "description": "Brand or company name",
+          "defaultValue": "Example Brand"
+        },
+        {
+          "name": "objective",
+          "description": "Primary campaign objective",
+          "defaultValue": "brand awareness"
+        },
+        {
+          "name": "brandVoice",
+          "description": "Brand tone and personality",
+          "defaultValue": "professional yet friendly"
+        },
+        {
+          "name": "duration",
+          "description": "Campaign duration",
+          "defaultValue": "3 months"
+        }
+      ],
+      "tags": ["social media", "campaign", "strategy", "marketing"]
+    },
+    {
+      "title": "Viral Content Creator",
+      "content": "Create viral-worthy content for {{platform}} that will engage and inspire sharing. Include:\n\n1. Hook:\n- Attention-grabbing opening\n- Emotional trigger points\n- Curiosity elements\n\n2. Content Structure:\n- Story arc\n- Key message\n- Call-to-action\n\n3. Viral Elements:\n- Shareability factors\n- Trending topics integration\n- Engagement hooks\n\nTarget Emotion: {{emotion}}\nContent Type: {{contentType}}\nTrending Topic: {{trendingTopic}}",
+      "description": "Generate viral-worthy content optimized for maximum social media engagement and sharing",
+      "category": "Social Media",
+      "subcategory": "Content Creation",
+      "variables": [
+        {
+          "name": "platform",
+          "description": "Target social media platform",
+          "defaultValue": "TikTok"
+        },
+        {
+          "name": "emotion",
+          "description": "Primary emotion to evoke",
+          "defaultValue": "joy"
+        },
+        {
+          "name": "contentType",
+          "description": "Type of content to create",
+          "defaultValue": "video"
+        },
+        {
+          "name": "trendingTopic",
+          "description": "Current trending topic to leverage",
+          "defaultValue": "sustainability"
+        }
+      ],
+      "tags": ["viral", "social media", "content creation", "trending"]
+    },
+    {
+      "title": "Social Media Crisis Response",
+      "content": "Generate a crisis response strategy for {{situation}} on social media platforms. Include:\n\n1. Initial Response:\n- Acknowledgment statement\n- Immediate actions\n- Stakeholder communication\n\n2. Communication Plan:\n- Message points\n- Platform-specific responses\n- Timing strategy\n\n3. Recovery Strategy:\n- Follow-up communications\n- Brand reputation management\n- Community rebuilding\n\nTone: {{tone}}\nUrgency Level: {{urgencyLevel}}\nStakeholders: {{stakeholders}}",
+      "description": "Create professional crisis response strategies for social media incidents",
+      "category": "Social Media",
+      "subcategory": "Crisis Management",
+      "variables": [
+        {
+          "name": "situation",
+          "description": "Crisis situation description",
+          "defaultValue": "product quality issue"
+        },
+        {
+          "name": "tone",
+          "description": "Communication tone",
+          "defaultValue": "sincere and professional"
+        },
+        {
+          "name": "urgencyLevel",
+          "description": "Level of crisis urgency",
+          "defaultValue": "high"
+        },
+        {
+          "name": "stakeholders",
+          "description": "Key stakeholders to address",
+          "defaultValue": "customers, employees, investors"
+        }
+      ],
+      "tags": ["crisis management", "social media", "communication", "PR"]
+    },
+    {
+      "title": "How to Stay Productive",
+      "content": "Feeling overwhelmed? Here’s how to stay productive in a busy world. 🧵👇\n\n1/ Set clear goals: Define your priorities.\n2/ Break tasks into smaller chunks: Makes them more manageable.\n3/ Eliminate distractions: Focus is key!\n\nWith **{{productName}}**, you can boost your productivity instantly.\n#Productivity #Focus #TimeManagement",
+      "description": "Create engaging Twitter thread about productivity tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Product name",
+          "defaultValue": "TaskMaster"
+        }
+      ],
+      "tags": ["productivity", "time management", "focus"]
+    },
+    {
+      "title": "Boost Your Health in 5 Simple Steps",
+      "content": "Ready to take your health to the next level? 🧵👇\n\n1/ Drink more water: Stay hydrated!\n2/ Eat balanced meals: Give your body the nutrients it needs.\n3/ Exercise regularly: Boost energy and mood.\n4/ Sleep well: Recovery is key.\n5/ Stress less: Take time to relax.\n\n**{{productName}}** helps you make healthier choices easier.\n#HealthTips #Wellness #HealthyLiving",
+      "description": "Create engaging Twitter thread about health tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Health product name",
+          "defaultValue": "FitTrack"
+        }
+      ],
+      "tags": ["health", "wellness", "fitness"]
+    },
+    {
+      "title": "The Best Way to Learn Anything Faster",
+      "content": "Want to speed up your learning process? 🧵👇\n\n1/ Focus on the basics: Start with the fundamentals.\n2/ Practice regularly: Consistency is key.\n3/ Test yourself: Self-assess to track progress.\n4/ Take breaks: Don’t burn out.\n5/ Teach others: Reinforce your learning.\n\n**{{productName}}** makes learning fast and fun.\n#Learning #StudyTips #SkillBuilding",
+      "description": "Create engaging Twitter thread about learning tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Learning product name",
+          "defaultValue": "SkillBoost"
+        }
+      ],
+      "tags": ["learning", "education", "study tips"]
+    },
+    {
+      "title": "How to Start Your Business",
+      "content": "Thinking about starting a business? 🧵👇\n\n1/ Identify your niche: Focus on a specific market.\n2/ Build a solid plan: Outline your strategy and goals.\n3/ Secure funding: Explore options like loans or investors.\n4/ Create a website: Establish your online presence.\n5/ Market your business: Get the word out.\n\nWith **{{productName}}**, you can easily launch your business.\n#Entrepreneurship #BusinessTips #Startup",
+      "description": "Create engaging Twitter thread about entrepreneurship and business tips",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Business launch tool name",
+          "defaultValue": "StartUpKit"
+        }
+      ],
+      "tags": ["business", "startup", "entrepreneurship"]
+    },
+    {
+      "title": "How to Improve Your Time Management",
+      "content": "Struggling with time management? 🧵👇\n\n1/ Prioritize tasks: Focus on the most important.\n2/ Break tasks down: Small steps are easier to tackle.\n3/ Set deadlines: Push yourself to stay on track.\n4/ Eliminate distractions: Turn off notifications.\n5/ Use productivity tools: Stay organized.\n\n**{{productName}}** makes time management effortless.\n#TimeManagement #Productivity #Efficiency",
+      "description": "Create engaging Twitter thread about time management tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Productivity tool name",
+          "defaultValue": "TimeMaster"
+        }
+      ],
+      "tags": ["time management", "productivity", "efficiency"]
+    },
+    {
+      "title": "The Secret to a Successful Morning",
+      "content": "Want to have a successful morning? 🧵👇\n\n1/ Wake up early: Start your day with energy.\n2/ Hydrate: Drink water as soon as you wake up.\n3/ Move your body: A little exercise goes a long way.\n4/ Eat a healthy breakfast: Fuel for the day ahead.\n5/ Plan your day: Know what you need to accomplish.\n\nWith **{{productName}}**, mornings are better.\n#MorningRoutine #Success #Productivity",
+      "description": "Create engaging Twitter thread about morning routine tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Product name",
+          "defaultValue": "MorningBoost"
+        }
+      ],
+      "tags": ["morning routine", "productivity", "success"]
+    },
+    {
+      "title": "How to Build Your Dream Home",
+      "content": "Building your dream home? 🧵👇\n\n1/ Define your needs: Make a list of your must-haves.\n2/ Plan your budget: Know how much you can spend.\n3/ Hire a team: Get the right architects and contractors.\n4/ Choose the right location: Location is key.\n5/ Design with function in mind: Comfort is a priority.\n\n**{{productName}}** helps with home planning.\n#HomeDesign #DreamHome #RealEstate",
+      "description": "Create engaging Twitter thread about home building tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Home design product name",
+          "defaultValue": "DreamHomeApp"
+        }
+      ],
+      "tags": ["home design", "real estate", "dream home"]
+    },
+    {
+      "title": "How to Save Money Effectively",
+      "content": "Want to save money? 🧵👇\n\n1/ Track your expenses: Know where your money is going.\n2/ Set a budget: Keep yourself in check.\n3/ Save for emergencies: Life happens.\n4/ Avoid impulse buys: Plan your purchases.\n5/ Look for deals: Take advantage of discounts.\n\n**{{productName}}** helps you manage your money.\n#MoneyManagement #SavingTips #Budgeting",
+      "description": "Create engaging Twitter thread about money management tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Financial product name",
+          "defaultValue": "MoneySaver"
+        }
+      ],
+      "tags": ["money management", "saving tips", "budgeting"]
+    },
+    {
+      "title": "How to Achieve Your Fitness Goals",
+      "content": "Ready to crush your fitness goals? 🧵👇\n\n1/ Set specific, measurable goals.\n2/ Track your progress: Keep an eye on your improvements.\n3/ Mix up your workouts: Keep things interesting.\n4/ Stay consistent: Consistency is key.\n5/ Fuel your body: Eat properly to support your goals.\n\n**{{productName}}** helps you stay on track.\n#FitnessGoals #Workout #Health",
+      "description": "Create engaging Twitter thread about fitness tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Fitness product name",
+          "defaultValue": "FitTrack"
+        }
+      ],
+      "tags": ["fitness", "workout", "health"]
+    },
+    {
+      "title": "How to Build Better Habits",
+      "content": "Looking to improve your habits? 🧵👇\n\n1/ Start small: Begin with manageable steps.\n2/ Set clear intentions: Know why you want to change.\n3/ Track your progress: Celebrate small wins.\n4/ Be patient: Habits take time to form.\n5/ Stay consistent: Keep going even when it’s tough.\n\n**{{productName}}** supports habit-building.\n#HabitBuilding #SelfImprovement #Growth",
+      "description": "Create engaging Twitter thread about habit-building tips and strategies",
+      "category": "Social Media",
+      "subcategory": "Twitter Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Habit-building product name",
+          "defaultValue": "HabitMaster"
+        }
+      ],
+      "tags": ["habit building", "self improvement", "growth"]
+    },
+    {
+      "title": "Start Your Day with a Smile",
+      "content": "Good morning! ☀️ Kickstart your day with positivity and **{{productName}}**.\n\n💫 **Feel the Difference**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\nStart your day right! 💪 #MorningVibes #PositiveStart #Productivity",
+      "description": "Create engaging Instagram caption for morning motivation posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Product name",
+          "defaultValue": "EnergyBoost"
+        },
+        {
+          "name": "feature1",
+          "description": "First feature",
+          "defaultValue": "Instant energy"
+        },
+        {
+          "name": "feature2",
+          "description": "Second feature",
+          "defaultValue": "Natural ingredients"
+        },
+        {
+          "name": "feature3",
+          "description": "Third feature",
+          "defaultValue": "Long-lasting effects"
+        }
+      ],
+      "tags": ["morning", "positive", "productivity"]
+    },
+    {
+      "title": "Your Dream Body Awaits",
+      "content": "It's time to achieve your dream body! 💪 Try **{{productName}}** and take your fitness journey to the next level.\n\n🏋️ **What’s Included**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\nLet’s make those goals happen! 🌟 #FitnessJourney #HealthyLiving #BodyGoals",
+      "description": "Create engaging Instagram caption for fitness posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Fitness product name",
+          "defaultValue": "BodySculpt"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit",
+          "defaultValue": "Boosts metabolism"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit",
+          "defaultValue": "Increases muscle tone"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit",
+          "defaultValue": "Improves endurance"
+        }
+      ],
+      "tags": ["fitness", "health", "goals"]
+    },
+    {
+      "title": "Get Inspired Daily",
+      "content": "Need a daily dose of inspiration? 🌟 Follow **{{productName}}** and get the motivation you need to succeed.\n\n🔥 **Features**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\nStart your transformation today! 💥 #DailyInspiration #Motivation #SuccessMindset",
+      "description": "Create engaging Instagram caption for inspirational posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Inspiration product name",
+          "defaultValue": "InspireMe"
+        },
+        {
+          "name": "feature1",
+          "description": "First feature",
+          "defaultValue": "Daily motivational quotes"
+        },
+        {
+          "name": "feature2",
+          "description": "Second feature",
+          "defaultValue": "Success stories"
+        },
+        {
+          "name": "feature3",
+          "description": "Third feature",
+          "defaultValue": "Mindfulness exercises"
+        }
+      ],
+      "tags": ["inspiration", "motivation", "success"]
+    },
+    {
+      "title": "Level Up Your Style",
+      "content": "Fashion is all about confidence. 🖤 **{{productName}}** helps you create looks that speak to your personality.\n\n✨ **Key Features**:\n- {{feature1}}\n- {{feature2}}\n- {{feature3}}\n\nLet’s make your style unforgettable! #FashionGoals #StyleInspiration #Confidence",
+      "description": "Create engaging Instagram caption for fashion posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Fashion brand/product name",
+          "defaultValue": "ChicStyles"
+        },
+        {
+          "name": "feature1",
+          "description": "First feature of the brand/product",
+          "defaultValue": "High-quality fabric"
+        },
+        {
+          "name": "feature2",
+          "description": "Second feature",
+          "defaultValue": "Trendy designs"
+        },
+        {
+          "name": "feature3",
+          "description": "Third feature",
+          "defaultValue": "Comfortable fit"
+        }
+      ],
+      "tags": ["fashion", "style", "confidence"]
+    },
+    {
+      "title": "Transform Your Home",
+      "content": "Make your home a haven with **{{productName}}**. 🏡 Upgrade your living space today.\n\n✨ **What We Offer**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\nGet the look you’ve always wanted! #HomeDecor #InteriorDesign #CozyVibes",
+      "description": "Create engaging Instagram caption for home decor posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Home decor product name",
+          "defaultValue": "HomeHaven"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit",
+          "defaultValue": "Modern designs"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit",
+          "defaultValue": "Affordable prices"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit",
+          "defaultValue": "Sustainable materials"
+        }
+      ],
+      "tags": ["home decor", "interior design", "cozy vibes"]
+    },
+    {
+      "title": "Healthy Eating Starts Here",
+      "content": "Fuel your body the right way with **{{productName}}**. 🥗 Eat healthy, feel great!\n\n🍏 **Key Benefits**:\n- {{benefit1}}\n- {{benefit2}}\n- {{benefit3}}\n\nReady to eat better? Let’s get started! #HealthyEating #Nutrition #Wellness",
+      "description": "Create engaging Instagram caption for healthy eating posts",
+      "category": "Social Media",
+      "subcategory": "Instagram Content",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Healthy eating product name",
+          "defaultValue": "GreenBites"
+        },
+        {
+          "name": "benefit1",
+          "description": "First benefit",
+          "defaultValue": "Organic ingredients"
+        },
+        {
+          "name": "benefit2",
+          "description": "Second benefit",
+          "defaultValue": "Balanced nutrition"
+        },
+        {
+          "name": "benefit3",
+          "description": "Third benefit",
+          "defaultValue": "No added sugars"
+        }
+      ],
+      "tags": ["health", "nutrition", "wellness"]
+    }
+  ]
+}

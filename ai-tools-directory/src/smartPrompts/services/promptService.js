@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { api } from '../../utils/api';
 
-const BASE_URL = '/smart-prompts'; // Remove /api prefix since it's already in api.js
+const BASE_URL = '/smart-prompts'; // Remove /api prefix since it's already added by the api utility
 
 const getAuthHeader = () => {
   const token = localStorage.getItem('token');
@@ -22,6 +22,7 @@ const getPrompts = async ({ page = 1, limit = 12, search = '', category = '', vi
       case 'my-prompts':
         if (!userId) return { prompts: [], totalPages: 0, totalCount: 0 };
         queryParams.userId = userId;
+        queryParams.ownership = true; // Add this to indicate we want user's owned prompts
         break;
       case 'public':
         queryParams.visibility = 'public';
@@ -73,6 +74,36 @@ const updatePromptsVisibility = async () => {
     return response.data;
   } catch (error) {
     console.error('Error updating prompts visibility:', error);
+    throw error;
+  }
+};
+
+// Save a modified version of a prompt
+const saveModifiedPrompt = async (promptId, data) => {
+  console.log('saveModifiedPrompt called with:', { promptId, data });
+  
+  try {
+    // Make sure we're sending the correct data structure
+    const payload = {
+      title: data.title,
+      content: data.content,
+      description: data.description,
+      category: data.category,
+      variables: data.variables || []
+    };
+
+    console.log('Sending payload:', payload);
+    // Use the correct endpoint format: /:id/save-modified
+    const response = await api.post(`/smart-prompts/${promptId}/save-modified`, payload);
+    console.log('saveModifiedPrompt response:', response.data);
+    return response.data;
+  } catch (error) {
+    console.error('Error in saveModifiedPrompt:', {
+      error,
+      status: error.response?.status,
+      message: error.response?.data?.message,
+      data: error.response?.data
+    });
     throw error;
   }
 };
@@ -148,5 +179,6 @@ export const promptService = {
       throw error;
     }
   },
-  updatePromptsVisibility
+  updatePromptsVisibility,
+  saveModifiedPrompt
 };

@@ -219,7 +219,7 @@ export const toggleLike = async (req, res) => {
   try {
     console.log('toggleLike controller - Start:', {
       promptId: req.params.id,
-      userId: req.userId,
+      userId: req.user.id,
       headers: req.headers
     });
 
@@ -235,19 +235,20 @@ export const toggleLike = async (req, res) => {
       likesCount: prompt.likes?.length
     });
 
-    await prompt.toggleLike(req.userId);
-    await prompt.save();  // Explicitly save again to ensure persistence
+    // Toggle like and save in one atomic operation
+    await prompt.toggleLike(req.user.id);
+    await prompt.save();
 
-    console.log('toggleLike controller - After toggle:', {
+    console.log('toggleLike controller - After toggle and save:', {
       promptId: prompt._id,
       newLikes: prompt.likes,
       newLikesCount: prompt.likes.length,
-      isLiked: prompt.likes.includes(req.userId)
+      isLiked: prompt.likes.includes(req.user.id)
     });
     
     res.json({
       likes: prompt.likes.length,
-      isLiked: prompt.likes.includes(req.userId)
+      isLiked: prompt.likes.includes(req.user.id)
     });
   } catch (error) {
     console.error('toggleLike controller - Error:', error);
@@ -260,7 +261,7 @@ export const toggleSave = async (req, res) => {
   try {
     console.log('toggleSave controller - Start:', {
       promptId: req.params.id,
-      userId: req.userId,
+      userId: req.user.id,
       headers: req.headers
     });
 
@@ -276,19 +277,20 @@ export const toggleSave = async (req, res) => {
       savesCount: prompt.saves?.length
     });
 
-    await prompt.toggleSave(req.userId);
-    await prompt.save();  // Explicitly save again to ensure persistence
+    // Toggle save and save in one atomic operation
+    await prompt.toggleSave(req.user.id);
+    await prompt.save();
 
-    console.log('toggleSave controller - After toggle:', {
+    console.log('toggleSave controller - After toggle and save:', {
       promptId: prompt._id,
       newSaves: prompt.saves,
       newSavesCount: prompt.saves.length,
-      isSaved: prompt.saves.includes(req.userId)
+      isSaved: prompt.saves.includes(req.user.id)
     });
     
     res.json({
       saves: prompt.saves.length,
-      isSaved: prompt.saves.includes(req.userId)
+      isSaved: prompt.saves.includes(req.user.id)
     });
   } catch (error) {
     console.error('toggleSave controller - Error:', error);
@@ -391,5 +393,75 @@ export const updateUserPromptsVisibility = async (req, res) => {
   } catch (error) {
     console.error('Error updating prompt visibility:', error);
     res.status(500).json({ message: 'Error updating prompt visibility' });
+  }
+};
+
+// Save a modified version of a prompt with variables
+export const saveModifiedPrompt = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { title, content, description, category, variables } = req.body;
+
+    // Validate required fields
+    if (!title || !content || !description || !category) {
+      return res.status(400).json({ 
+        message: 'Title, content, description, and category are required' 
+      });
+    }
+
+    // Get the original prompt
+    const originalPrompt = await SmartPrompt.findById(id);
+    if (!originalPrompt) {
+      return res.status(404).json({ 
+        message: 'Original prompt not found' 
+      });
+    }
+
+    // Validate and format variables
+    const formattedVariables = variables?.map(variable => ({
+      name: variable.name,
+      description: variable.description || `Variable for ${variable.name}`,
+      defaultValue: variable.defaultValue || ''
+    })) || [];
+
+    // Create new prompt object with modified data
+    const modifiedPrompt = new SmartPrompt({
+      title,
+      content,
+      description,
+      category,
+      variables: formattedVariables,
+      creator: req.userId,
+      originalPromptId: id,
+      isModified: true,
+      visibility: 'private',
+      tags: originalPrompt.tags,
+      createdAt: new Date()
+    });
+
+    // Save the modified prompt
+    await modifiedPrompt.save();
+
+    // Add to user's prompts collection
+    await User.findByIdAndUpdate(
+      req.userId,
+      { 
+        $addToSet: { 
+          myPrompts: modifiedPrompt._id 
+        } 
+      }
+    );
+
+    res.status(201).json({
+      message: 'Modified prompt saved successfully',
+      prompt: modifiedPrompt
+    });
+
+  } catch (error) {
+    console.error('Error saving modified prompt:', error);
+    res.status(500).json({ 
+      message: 'Error saving modified prompt',
+      error: error.message 
+    });
   }
 };

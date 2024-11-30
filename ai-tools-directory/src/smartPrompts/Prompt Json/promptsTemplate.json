@@ -1,0 +1,114 @@
+{
+  "prompts": [
+    {
+      "title": "Blog Post Generator",
+      "content": "Write a comprehensive blog post about {{topic}} that includes:\n1. Engaging introduction\n2. Key points and analysis\n3. Relevant examples\n4. Expert insights\n5. Actionable takeaways\n6. Compelling conclusion\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+      "description": "Generate well-structured, SEO-friendly blog posts on any topic",
+      "category": "Content Creation",
+      "subcategory": "Blog Writing",
+      "variables": [
+        {
+          "name": "topic",
+          "description": "Main topic of the blog post",
+          "defaultValue": "digital transformation"
+        },
+        {
+          "name": "audience",
+          "description": "Target audience for the content",
+          "defaultValue": "business professionals"
+        },
+        {
+          "name": "tone",
+          "description": "Writing tone (e.g., professional, casual, academic)",
+          "defaultValue": "professional"
+        },
+        {
+          "name": "wordCount",
+          "description": "Desired length of the blog post",
+          "defaultValue": "1000 words"
+        }
+      ],
+      "tags": ["blog", "content writing", "SEO"]
+    },
+    {
+      "title": "Social Media Campaign Strategy",
+      "content": "Create a comprehensive social media campaign strategy for {{brand}} to promote {{product}}.\n\n1. Campaign Objectives:\n- Primary goal: {{goal}}\n- Target metrics\n- Timeline\n\n2. Target Audience Analysis:\n- Demographics\n- Interests\n- Pain points\n\n3. Platform Strategy:\n- Platform selection\n- Content types\n- Posting schedule\n\n4. Content Themes:\n- Key messages\n- Hashtag strategy\n- Visual guidelines\n\n5. Engagement Plan:\n- Community management\n- Influencer collaboration\n- User-generated content\n\n6. Budget Allocation:\n- Paid promotion\n- Content creation\n- Tools and resources\n\n7. Measurement & KPIs:\n- Success metrics\n- Tracking methods\n- Reporting schedule",
+      "description": "Develop a detailed social media campaign strategy with clear objectives and actionable steps",
+      "category": "Marketing",
+      "subcategory": "Social Media Marketing",
+      "variables": [
+        {
+          "name": "brand",
+          "description": "Company or brand name",
+          "defaultValue": "Brand Name"
+        },
+        {
+          "name": "product",
+          "description": "Product or service being promoted",
+          "defaultValue": "New Product Launch"
+        },
+        {
+          "name": "goal",
+          "description": "Primary campaign objective",
+          "defaultValue": "increase brand awareness"
+        }
+      ],
+      "tags": ["social media", "marketing", "campaign"]
+    },
+    {
+      "title": "Technical Documentation Template",
+      "content": "Create detailed technical documentation for {{system}} that includes:\n\n1. System Overview:\n- Purpose and scope\n- Architecture diagram\n- Key components\n\n2. Technical Specifications:\n- Hardware requirements\n- Software dependencies\n- API endpoints\n- Database schema\n\n3. Installation Guide:\n- Prerequisites\n- Step-by-step setup\n- Configuration options\n- Environment variables\n\n4. Usage Instructions:\n- Basic operations\n- Advanced features\n- Code examples\n- Best practices\n\n5. Troubleshooting:\n- Common issues\n- Error messages\n- Resolution steps\n- Support contacts\n\n6. Security Considerations:\n- Authentication\n- Authorization\n- Data protection\n- Compliance requirements",
+      "description": "Generate comprehensive technical documentation for software systems",
+      "category": "Technical",
+      "subcategory": "Documentation",
+      "variables": [
+        {
+          "name": "system",
+          "description": "Name of the system or software",
+          "defaultValue": "Web Application"
+        }
+      ],
+      "tags": ["documentation", "technical writing", "software"]
+    },
+    {
+      "title": "Business Plan Generator",
+      "content": "Create a detailed business plan for {{businessName}} in the {{industry}} industry.\n\n1. Executive Summary:\n- Business concept\n- Mission and vision\n- Key objectives\n\n2. Market Analysis:\n- Industry overview\n- Target market\n- Competitor analysis\n- Market opportunities\n\n3. Business Model:\n- Products/Services\n- Revenue streams\n- Pricing strategy\n- Distribution channels\n\n4. Marketing Strategy:\n- Brand positioning\n- Marketing channels\n- Customer acquisition\n- Sales process\n\n5. Operations Plan:\n- Location and facilities\n- Equipment and technology\n- Supply chain\n- Quality control\n\n6. Management Team:\n- Key personnel\n- Organizational structure\n- Advisory board\n\n7. Financial Projections:\n- Startup costs\n- Revenue forecast\n- Cash flow analysis\n- Break-even analysis\n\n8. Risk Analysis:\n- Potential challenges\n- Mitigation strategies\n- Contingency plans",
+      "description": "Generate comprehensive business plans for startups and existing businesses",
+      "category": "Business",
+      "subcategory": "Business Plans",
+      "variables": [
+        {
+          "name": "businessName",
+          "description": "Name of the business",
+          "defaultValue": "New Venture"
+        },
+        {
+          "name": "industry",
+          "description": "Industry sector",
+          "defaultValue": "Technology"
+        }
+      ],
+      "tags": ["business plan", "startup", "entrepreneurship"]
+    },
+    {
+      "title": "E-commerce Product Description",
+      "content": "Create a compelling product description for {{productName}} that includes:\n\n1. Product Overview:\n- Key features\n- Main benefits\n- Unique selling points\n\n2. Technical Specifications:\n- Dimensions: {{dimensions}}\n- Materials\n- Colors/variants\n\n3. Use Cases:\n- Primary applications\n- Target users\n- Scenarios\n\n4. Benefits:\n- Problem-solving features\n- Value proposition\n- Competitive advantages\n\n5. Care Instructions:\n- Maintenance tips\n- Cleaning guidelines\n- Storage recommendations",
+      "description": "Generate persuasive product descriptions for e-commerce listings",
+      "category": "E-commerce",
+      "subcategory": "Product Descriptions",
+      "variables": [
+        {
+          "name": "productName",
+          "description": "Name of the product",
+          "defaultValue": "Premium Product"
+        },
+        {
+          "name": "dimensions",
+          "description": "Product dimensions",
+          "defaultValue": "10x10x10 inches"
+        }
+      ],
+      "tags": ["e-commerce", "product listing", "copywriting"]
+    }
+  ]
+}

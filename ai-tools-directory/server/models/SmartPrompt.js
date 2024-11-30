@@ -17,7 +17,37 @@ const smartPromptSchema = new mongoose.Schema({
   category: {
     type: String,
     required: true,
-    enum: ['Content Creation', 'Technical', 'Business', 'Creative', 'Education', 'Other'],
+    enum: [
+      'Content Creation',
+      'Marketing',
+      'Business',
+      'Education',
+      'Creative Writing',
+      'Technical',
+      'Health & Wellness',
+      'Personal Development',
+      'Finance',
+      'Legal',
+      'Social Media',
+      'Sales',
+      'Human Resources',
+      'Travel',
+      'E-commerce',
+      'Customer Support',
+      'Real Estate',
+      'Event Planning',
+      'News & Media',
+      'Science & Research',
+      'Gaming',
+      'Technology',
+      'Food & Beverage',
+      'Non-profit & Charity',
+      'Retail'
+    ],
+  },
+  subcategory: {
+    type: String,
+    trim: true,
   },
   tags: [{
     type: String,
@@ -149,7 +179,7 @@ smartPromptSchema.methods.toggleLike = async function(userId) {
     this.likes.push(userId);
   } else {
     console.log('toggleLike - Removing like');
-    this.likes.splice(index, 1);
+    this.likes = this.likes.filter(id => id.toString() !== userIdStr);
   }
   
   console.log('toggleLike - After update:', {
@@ -159,7 +189,8 @@ smartPromptSchema.methods.toggleLike = async function(userId) {
     newLikesCount: this.likes.length
   });
 
-  return this.save();
+  // Save is called in the controller, no need to save here
+  return this;
 };
 
 // Method to toggle save
@@ -179,7 +210,7 @@ smartPromptSchema.methods.toggleSave = async function(userId) {
     this.saves.push(userId);
   } else {
     console.log('toggleSave - Removing save');
-    this.saves.splice(index, 1);
+    this.saves = this.saves.filter(id => id.toString() !== userIdStr);
   }
   
   console.log('toggleSave - After update:', {
@@ -189,7 +220,8 @@ smartPromptSchema.methods.toggleSave = async function(userId) {
     newSavesCount: this.saves.length
   });
 
-  return this.save();
+  // Save is called in the controller, no need to save here
+  return this;
 };
 
 const SmartPrompt = mongoose.model('SmartPrompt', smartPromptSchema);

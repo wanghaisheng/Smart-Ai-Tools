@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Blog Post Outline Generator",
+    "content": "Create a detailed outline for a blog post about {{topic}} that targets {{audience}}. Include the following sections:\n1. Introduction\n2. Key Points\n3. Supporting Details\n4. Conclusion",
+    "description": "Generates a structured outline for blog posts with key sections",
+    "category": "Content Creation",
+    "subcategory": "Blog Writing",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "topic",
+        "description": "The main topic of the blog post",
+        "defaultValue": "technology trends"
+      },
+      {
+        "name": "audience",
+        "description": "Target audience for the blog post",
+        "defaultValue": "tech professionals"
+      }
+    ],
+    "tags": ["blog", "writing", "content"]
+  },
+  {
+    "title": "Code Review Checklist",
+    "content": "Create a comprehensive code review checklist for {{language}} that covers: \n1. Code quality\n2. Performance\n3. Security\n4. Documentation\n5. Testing\n\nConsider best practices and common pitfalls specific to {{language}}.",
+    "description": "Generates a detailed code review checklist customized for specific programming languages",
+    "category": "Technical",
+    "subcategory": "Code Generation",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "language",
+        "description": "Programming language for the code review",
+        "defaultValue": "JavaScript"
+      }
+    ],
+    "tags": ["code review", "programming", "best practices"]
+  },
+  {
+    "title": "Marketing Email Template",
+    "content": "Write a compelling marketing email for {{product}} targeting {{customerSegment}}. The email should highlight the following benefits: {{benefits}}. Include a clear call-to-action.",
+    "description": "Template for creating marketing emails with customizable elements",
+    "category": "Marketing",
+    "subcategory": "Email Marketing",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "product",
+        "description": "Product or service being marketed",
+        "defaultValue": "software solution"
+      },
+      {
+        "name": "customerSegment",
+        "description": "Target customer segment",
+        "defaultValue": "small business owners"
+      },
+      {
+        "name": "benefits",
+        "description": "Key benefits to highlight",
+        "defaultValue": "time savings, cost reduction, ease of use"
+      }
+    ],
+    "tags": ["marketing", "email", "business"]
+  },
+  {
+    "title": "Sales Script Generator",
+    "content": "Create a persuasive sales script for {{product}} that highlights its key benefits and addresses common customer objections. Include: \n1. Opening hook\n2. Value proposition\n3. Key benefits\n4. Objection handling\n5. Call to action",
+    "description": "Generates professional sales scripts tailored to specific products or services",
+    "category": "Sales",
+    "subcategory": "Sales Scripts",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "product",
+        "description": "Product or service being sold",
+        "defaultValue": "Software Solution"
+      }
+    ],
+    "tags": ["sales", "business", "script"]
+  },
+  {
+    "title": "Technical Support Guide",
+    "content": "Create a step-by-step troubleshooting guide for {{issue}} that includes: \n1. Initial diagnosis\n2. Common causes\n3. Solution steps\n4. Prevention tips\n5. Escalation criteria",
+    "description": "Generates technical support guides for common issues",
+    "category": "Customer Support",
+    "subcategory": "Helpdesk",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "issue",
+        "description": "Technical issue to troubleshoot",
+        "defaultValue": "Network Connectivity"
+      }
+    ],
+    "tags": ["technical support", "technology", "guide"]
+  },
+  {
+    "title": "Fitness Plan Creator",
+    "content": "Create a {{duration}} fitness plan for {{goal}} that includes: \n1. Weekly workout schedule\n2. Exercise descriptions\n3. Progress tracking\n4. Nutrition tips\n5. Safety guidelines",
+    "description": "Generates personalized fitness plans based on specific goals",
+    "category": "Health & Wellness",
+    "subcategory": "Fitness",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "duration",
+        "description": "Length of the fitness plan",
+        "defaultValue": "4-week"
+      },
+      {
+        "name": "goal",
+        "description": "Fitness goal (e.g., weight loss, muscle gain)",
+        "defaultValue": "weight loss"
+      }
+    ],
+    "tags": ["fitness", "health", "wellness"]
+  },
+  {
+    "title": "Product Review Generator",
+    "content": "Create a detailed review for {{product}} covering: \n1. Key features\n2. Pros and cons\n3. User experience\n4. Value for money\n5. Final verdict",
+    "description": "Generates comprehensive product reviews",
+    "category": "E-commerce",
+    "subcategory": "Product Reviews",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "product",
+        "description": "Product to review",
+        "defaultValue": "Smartphone"
+      }
+    ],
+    "tags": ["review", "technology", "product"]
+  },
+  {
+    "title": "Customer Service Response",
+    "content": "Create a professional response to a {{situation}} that: \n1. Shows empathy\n2. Addresses the issue\n3. Provides solution\n4. Maintains brand voice\n5. Includes follow-up",
+    "description": "Generates customer service responses for various situations",
+    "category": "Customer Support",
+    "subcategory": "Live Chat Scripts",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "situation",
+        "description": "Customer service situation to address",
+        "defaultValue": "Product complaint"
+      }
+    ],
+    "tags": ["customer service", "business", "support"]
+  },
+  {
+    "title": "Marketing Campaign Planner",
+    "content": "Create a marketing campaign plan for {{campaign_name}} targeting {{audience}}. Include goals, strategies, and KPIs.",
+    "description": "Marketing campaign plan generator",
+    "category": "Marketing",
+    "subcategory": "Campaign Planning",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "campaign_name",
+        "description": "Campaign name",
+        "defaultValue": "Summer Sale"
+      },
+      {
+        "name": "audience",
+        "description": "Target audience",
+        "defaultValue": "young professionals"
+      }
+    ],
+    "tags": ["marketing", "campaign", "strategy"]
+  },
+  {
+    "title": "Recipe Generator",
+    "content": "Create a recipe for {{dish}} that includes: \n1. Ingredients list\n2. Step-by-step instructions\n3. Cooking time\n4. Serving size\n5. Nutritional info",
+    "description": "Generates detailed recipes with instructions",
+    "category": "Food & Beverage",
+    "subcategory": "Recipe Creation",
+    "visibility": "private",
+    "variables": [
+      {
+        "name": "dish",
+        "description": "Dish to create recipe for",
+        "defaultValue": "Pasta dish"
+      }
+    ],
+    "tags": ["cooking", "recipe", "food"]
+  }
+]

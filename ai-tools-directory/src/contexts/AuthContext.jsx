@@ -116,6 +116,18 @@ export function AuthProvider({ children }) {
     register,
     logout,
     isAuthenticated: !!user,
+    followUser: async (userId) => {
+      try {
+        // Remove the /api prefix since it's already in the baseURL
+        const response = await api.post('/users/follow', { userId });
+        await fetchUser(); // Refresh user data
+        return response.data;
+      } catch (error) {
+        console.error('Follow error:', error);
+        toast.error(error.response?.data?.message || 'Failed to follow user');
+        throw error;
+      }
+    }
   };
 
   return (

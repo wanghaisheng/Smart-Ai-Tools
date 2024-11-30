@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./partials/head.ejs') %>
+    <title>Analytics - Admin Portal</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <%- include('./partials/navbar.ejs') %>
+
+    <div class="container-fluid">
+        <div class="row">
+            <%- include('./partials/sidebar.ejs', { active: 'analytics' }) %>
+
+            <main class="content">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+                    <h1 class="h2">Analytics Dashboard</h1>
+                    <div class="btn-group">
+                        <button class="btn btn-outline-primary active">Day</button>
+                        <button class="btn btn-outline-primary">Week</button>
+                        <button class="btn btn-outline-primary">Month</button>
+                        <button class="btn btn-outline-primary">Year</button>
+                    </div>
+                </div>
+
+                <!-- Overview Cards -->
+                <div class="row g-4 mb-4">
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center mb-2">
+                                    <h6 class="card-title mb-0">Total Visits</h6>
+                                    <div class="card-icon text-primary">
+                                        <i class="bi bi-eye-fill"></i>
+                                    </div>
+                                </div>
+                                <h3 class="mb-2">24,512</h3>
+                                <div class="text-success small">
+                                    <i class="bi bi-arrow-up"></i> 12.5% increase
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center mb-2">
+                                    <h6 class="card-title mb-0">Unique Users</h6>
+                                    <div class="card-icon text-success">
+                                        <i class="bi bi-person-fill"></i>
+                                    </div>
+                                </div>
+                                <h3 class="mb-2">8,741</h3>
+                                <div class="text-success small">
+                                    <i class="bi bi-arrow-up"></i> 8.2% increase
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center mb-2">
+                                    <h6 class="card-title mb-0">Avg. Session</h6>
+                                    <div class="card-icon text-warning">
+                                        <i class="bi bi-clock-fill"></i>
+                                    </div>
+                                </div>
+                                <h3 class="mb-2">4m 32s</h3>
+                                <div class="text-danger small">
+                                    <i class="bi bi-arrow-down"></i> 1.8% decrease
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center mb-2">
+                                    <h6 class="card-title mb-0">Bounce Rate</h6>
+                                    <div class="card-icon text-danger">
+                                        <i class="bi bi-arrow-repeat"></i>
+                                    </div>
+                                </div>
+                                <h3 class="mb-2">32.14%</h3>
+                                <div class="text-success small">
+                                    <i class="bi bi-arrow-up"></i> 2.4% improvement
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts -->
+                <div class="row g-4">
+                    <div class="col-md-8">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Traffic Overview</h5>
+                                <canvas id="trafficChart" height="300"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">User Demographics</h5>
+                                <canvas id="demographicsChart" height="300"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Traffic Sources -->
+                <div class="card mt-4">
+                    <div class="card-body">
+                        <h5 class="card-title">Traffic Sources</h5>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Source</th>
+                                        <th>Users</th>
+                                        <th>Sessions</th>
+                                        <th>Bounce Rate</th>
+                                        <th>Avg. Session</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-google me-2"></i>
+                                            Google
+                                        </td>
+                                        <td>4,582</td>
+                                        <td>6,155</td>
+                                        <td>27.4%</td>
+                                        <td>4m 12s</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-facebook me-2"></i>
+                                            Facebook
+                                        </td>
+                                        <td>2,458</td>
+                                        <td>3,869</td>
+                                        <td>32.8%</td>
+                                        <td>3m 45s</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-twitter me-2"></i>
+                                            Twitter
+                                        </td>
+                                        <td>1,258</td>
+                                        <td>2,037</td>
+                                        <td>35.2%</td>
+                                        <td>2m 58s</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        // Traffic Chart
+        const trafficCtx = document.getElementById('trafficChart').getContext('2d');
+        new Chart(trafficCtx, {
+            type: 'line',
+            data: {
+                labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
+                datasets: [{
+                    label: 'Users',
+                    data: [4500, 5200, 4800, 5900, 6500, 7200],
+                    borderColor: '#6c5dd3',
+                    tension: 0.4,
+                    fill: false
+                }, {
+                    label: 'Sessions',
+                    data: [5200, 6100, 5500, 6800, 7500, 8300],
+                    borderColor: '#4caf50',
+                    tension: 0.4,
+                    fill: false
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.1)'
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.1)'
+                        }
+                    }
+                }
+            }
+        });
+
+        // Demographics Chart
+        const demographicsCtx = document.getElementById('demographicsChart').getContext('2d');
+        new Chart(demographicsCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['18-24', '25-34', '35-44', '45-54', '55+'],
+                datasets: [{
+                    data: [25, 35, 20, 15, 5],
+                    backgroundColor: [
+                        '#6c5dd3',
+                        '#4caf50',
+                        '#ffa726',
+                        '#ef5350',
+                        '#42a5f5'
+                    ]
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

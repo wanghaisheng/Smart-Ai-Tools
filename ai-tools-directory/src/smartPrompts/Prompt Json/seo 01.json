@@ -1,0 +1,150 @@
+{
+    "prompts": [
+      {
+        "title": "SEO Blog Post Generator",
+        "content": "Act like an experienced SEO content writer. Write a comprehensive blog post about {{topic}} with a focus on SEO optimization. The post should include:\n1. Engaging introduction\n2. Keyword-rich headings\n3. Well-researched content that provides value\n4. Internal and external links to improve SEO\n5. A compelling conclusion with a call to action\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate an SEO-optimized blog post with keyword integration and SEO-friendly structure",
+        "category": "Content Creation",
+        "subcategory": "SEO Content Writing",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "Topic of the blog post",
+            "defaultValue": "SEO trends 2024"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "digital marketers"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., conversational, professional)",
+            "defaultValue": "conversational"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the blog post",
+            "defaultValue": "1200 words"
+          }
+        ],
+        "tags": ["SEO", "blog writing", "content marketing"]
+      },
+      {
+        "title": "SEO Product Description Generator",
+        "content": "Act like an SEO expert. Write a product description for {{product}} that incorporates SEO best practices. Ensure the content includes:\n1. Clear and concise product features\n2. Keywords integrated naturally\n3. Benefits and value propositions for the user\n4. Call to action\n\nTarget audience: {{audience}}\nTone: {{tone}}",
+        "description": "Generate SEO-friendly product descriptions that drive traffic and conversions",
+        "category": "Content Creation",
+        "subcategory": "SEO Content Writing",
+        "variables": [
+          {
+            "name": "product",
+            "description": "Name of the product",
+            "defaultValue": "Smartphone X"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "tech enthusiasts"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., persuasive, casual)",
+            "defaultValue": "persuasive"
+          }
+        ],
+        "tags": ["SEO", "e-commerce", "product descriptions"]
+      },
+      {
+        "title": "SEO Landing Page Content",
+        "content": "Act like an SEO content specialist. Write landing page content for {{service}} that targets the keywords {{keyword}}. The page should include:\n1. A compelling headline\n2. Benefits of the service\n3. SEO-optimized calls to action\n4. Engaging content with keyword-rich subheadings\n5. A persuasive conclusion\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate optimized landing page content that drives conversions and improves SEO",
+        "category": "Content Creation",
+        "subcategory": "SEO Content Writing",
+        "variables": [
+          {
+            "name": "service",
+            "description": "Service being offered",
+            "defaultValue": "web development"
+          },
+          {
+            "name": "keyword",
+            "description": "Primary keyword for SEO optimization",
+            "defaultValue": "web development services"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the landing page",
+            "defaultValue": "small business owners"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., persuasive, professional)",
+            "defaultValue": "persuasive"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the landing page content",
+            "defaultValue": "800 words"
+          }
+        ],
+        "tags": ["SEO", "landing page", "conversion optimization"]
+      },
+      {
+        "title": "SEO Newsletter Introduction",
+        "content": "Act like an SEO content writer. Write an introduction for a monthly newsletter about {{newsletterTopic}}. The introduction should:\n1. Hook the reader with an engaging opening\n2. Introduce the topic of the newsletter\n3. Include SEO-friendly keywords naturally\n4. Encourage readers to continue reading\n\nTarget audience: {{audience}}\nTone: {{tone}}",
+        "description": "Create an SEO-optimized introduction for a monthly newsletter that engages readers",
+        "category": "Content Creation",
+        "subcategory": "SEO Content Writing",
+        "variables": [
+          {
+            "name": "newsletterTopic",
+            "description": "Topic of the newsletter",
+            "defaultValue": "SEO strategies for 2024"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the content",
+            "defaultValue": "digital marketers"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., informal, friendly)",
+            "defaultValue": "informal"
+          }
+        ],
+        "tags": ["SEO", "newsletter", "content writing"]
+      },
+      {
+        "title": "SEO FAQ Page Content",
+        "content": "Act like an SEO content expert. Write content for a Frequently Asked Questions (FAQ) page on {{topic}}. Include the following:\n1. A clear and concise question format\n2. Optimized answers that naturally integrate keywords\n3. Helpful and informative content that addresses common user queries\n4. SEO-friendly formatting with proper headings and subheadings\n\nTarget audience: {{audience}}\nTone: {{tone}}\nWord count: {{wordCount}}",
+        "description": "Generate SEO-optimized FAQ page content to improve user engagement and search rankings",
+        "category": "Content Creation",
+        "subcategory": "SEO Content Writing",
+        "variables": [
+          {
+            "name": "topic",
+            "description": "Topic for the FAQ page",
+            "defaultValue": "on-page SEO"
+          },
+          {
+            "name": "audience",
+            "description": "Target audience for the FAQ page",
+            "defaultValue": "SEO beginners"
+          },
+          {
+            "name": "tone",
+            "description": "Writing tone (e.g., informative, friendly)",
+            "defaultValue": "informative"
+          },
+          {
+            "name": "wordCount",
+            "description": "Desired length of the FAQ page content",
+            "defaultValue": "1000 words"
+          }
+        ],
+        "tags": ["SEO", "FAQ", "content writing"]
+      }
+    ]
+  }
+  

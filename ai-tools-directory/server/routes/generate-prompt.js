@@ -1,5 +1,5 @@
 import express from 'express';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 import ProviderApiKey from '../models/ProviderApiKey.js';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import { OpenAI } from 'openai';
@@ -66,7 +66,7 @@ function getLengthPrompt(length) {
   return lengths[length] || lengths.moderate;
 }
 
-router.post('/', auth, async (req, res) => {
+router.post('/', authenticate, async (req, res) => {
   const { topic, model, type, tone, length, temperature = 0.7 } = req.body;
   console.log('Generate prompt request:', { userId: req.userId, topic, model, type, tone, length });
 

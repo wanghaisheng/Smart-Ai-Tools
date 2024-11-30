@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./partials/head.ejs') %>
+    <title>Dashboard - Admin Portal</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <%- include('./partials/navbar.ejs') %>
+
+    <div class="container-fluid px-0">
+        <div class="row g-0">
+            <%- include('./partials/sidebar.ejs', { active: 'dashboard' }) %>
+
+            <main class="content">
+                <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+                    <h1 class="h2">Dashboard</h1>
+                    <div class="btn-toolbar mb-2 mb-md-0">
+                        <div class="btn-group me-2">
+                            <button type="button" class="btn btn-sm btn-outline-primary" onclick="exportDashboardData()">
+                                <i class="bi bi-download me-1"></i>Export
+                            </button>
+                            <button type="button" class="btn btn-sm btn-outline-secondary" onclick="refreshDashboard()">
+                                <i class="bi bi-arrow-clockwise me-1"></i>Refresh
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <% if (typeof error !== 'undefined') { %>
+                    <div class="alert alert-danger" role="alert">
+                        <%= error %>
+                    </div>
+                <% } %>
+
+                <!-- System Health Overview -->
+                <div class="row g-3 mb-4">
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted">User Engagement</h6>
+                                <div class="d-flex align-items-center">
+                                    <div class="display-4 me-3">
+                                        <%= stats.users.activeRate %>%
+                                    </div>
+                                    <div>
+                                        <div class="fs-5 fw-bold text-<%= stats.system.userEngagement === 'good' ? 'success' : (stats.system.userEngagement === 'moderate' ? 'warning' : 'danger') %>">
+                                            <%= stats.system.userEngagement.charAt(0).toUpperCase() + stats.system.userEngagement.slice(1) %>
+                                        </div>
+                                        <small class="text-muted">Active Users</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted">Growth Rate</h6>
+                                <div class="d-flex align-items-center">
+                                    <div class="display-4 me-3">
+                                        <%= stats.users.growthRate %>%
+                                    </div>
+                                    <div>
+                                        <div class="fs-5 fw-bold text-<%= stats.system.growthStatus === 'good' ? 'success' : (stats.system.growthStatus === 'moderate' ? 'warning' : 'danger') %>">
+                                            <%= stats.system.growthStatus.charAt(0).toUpperCase() + stats.system.growthStatus.slice(1) %>
+                                        </div>
+                                        <small class="text-muted">Monthly Growth</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted">Review Activity</h6>
+                                <div class="d-flex align-items-center">
+                                    <div class="display-4 me-3">
+                                        <%= stats.reviews.total %>
+                                    </div>
+                                    <div>
+                                        <div class="fs-5 fw-bold text-<%= stats.system.reviewActivity === 'active' ? 'success' : 'warning' %>">
+                                            <%= stats.system.reviewActivity.charAt(0).toUpperCase() + stats.system.reviewActivity.slice(1) %>
+                                        </div>
+                                        <small class="text-muted">Total Reviews</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Statistics Overview -->
+                <div class="row g-3 mb-4">
+                    <div class="col-md-3">
+                        <div class="card bg-primary text-white">
+                            <div class="card-body">
+                                <h6 class="card-subtitle">Total Users</h6>
+                                <div class="display-6 my-2"><%= stats.users.total %></div>
+                                <small>
+                                    <span class="text-white-50">New Today:</span>
+                                    <strong>+<%= stats.users.newToday %></strong>
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-success text-white">
+                            <div class="card-body">
+                                <h6 class="card-subtitle">Total Tools</h6>
+                                <div class="display-6 my-2"><%= stats.tools.total %></div>
+                                <small>
+                                    <span class="text-white-50">Categories:</span>
+                                    <strong><%= stats.tools.byCategory.length %></strong>
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-info text-white">
+                            <div class="card-body">
+                                <h6 class="card-subtitle">Total Reviews</h6>
+                                <div class="display-6 my-2"><%= stats.reviews.total %></div>
+                                <small>
+                                    <span class="text-white-50">Recent:</span>
+                                    <strong><%= stats.reviews.recent.length %></strong>
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card bg-warning text-white">
+                            <div class="card-body">
+                                <h6 class="card-subtitle">Total Prompts</h6>
+                                <div class="display-6 my-2"><%= stats.prompts.total %></div>
+                                <small>
+                                    <span class="text-white-50">Active:</span>
+                                    <strong>All</strong>
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Row -->
+                <div class="row g-3 mb-4">
+                    <div class="col-md-8">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title">User Growth Trend</h5>
+                                <canvas id="userGrowthChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title">Tool Categories</h5>
+                                <canvas id="categoryChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Recent Activity and Top Tools -->
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title">Recent Reviews</h5>
+                                <div class="list-group list-group-flush">
+                                    <% stats.reviews.recent.forEach(review => { %>
+                                        <div class="list-group-item px-0">
+                                            <div class="d-flex w-100 justify-content-between">
+                                                <h6 class="mb-1"><%= review.tool.name %></h6>
+                                                <small class="text-muted">
+                                                    <%= new Date(review.createdAt).toLocaleDateString() %>
+                                                </small>
+                                            </div>
+                                            <p class="mb-1">by <%= review.user.username %></p>
+                                        </div>
+                                    <% }); %>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <h5 class="card-title">Top Rated Tools</h5>
+                                <div class="list-group list-group-flush">
+                                    <% stats.tools.topRated.forEach(tool => { %>
+                                        <div class="list-group-item px-0">
+                                            <div class="d-flex w-100 justify-content-between">
+                                                <h6 class="mb-1"><%= tool.name %></h6>
+                                                <small class="text-muted">
+                                                    <%= tool.reviewCount %> reviews
+                                                </small>
+                                            </div>
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div class="btn-group">
+                                                    <a href="/tools/<%= tool._id %>" class="btn btn-sm btn-outline-secondary">View</a>
+                                                </div>
+                                                <small class="text-muted">
+                                                    <%= (tool.avgRating !== null && tool.avgRating !== undefined) ? tool.avgRating.toFixed(1) : '0.0' %> / 5.0
+                                                </small>
+                                            </div>
+                                            <div class="d-flex align-items-center">
+                                                <div class="text-warning me-2">
+                                                    <% for(let i = 0; i < 5; i++) { %>
+                                                        <i class="bi bi-star<%= i < Math.round(tool.avgRating) ? '-fill' : '' %>"></i>
+                                                    <% } %>
+                                                </div>
+                                                <small class="text-muted">
+                                                    <%= tool.avgRating.toFixed(1) %> / 5.0
+                                                </small>
+                                            </div>
+                                        </div>
+                                    <% }); %>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        // Initialize charts when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            // User Growth Chart
+            const growthCtx = document.getElementById('userGrowthChart').getContext('2d');
+            const monthlyGrowth = JSON.parse('<%- JSON.stringify(charts.monthlyGrowth) %>');
+            
+            new Chart(growthCtx, {
+                type: 'line',
+                data: {
+                    labels: monthlyGrowth.map(item => item.month),
+                    datasets: [{
+                        label: 'New Users',
+                        data: monthlyGrowth.map(item => item.users),
+                        borderColor: 'rgb(75, 192, 192)',
+                        tension: 0.1,
+                        fill: false
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+
+            // Category Distribution Chart
+            const categoryCtx = document.getElementById('categoryChart').getContext('2d');
+            const categoryData = JSON.parse('<%- JSON.stringify(stats.tools.byCategory) %>');
+            
+            new Chart(categoryCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: categoryData.map(item => item.category),
+                    datasets: [{
+                        data: categoryData.map(item => item.count),
+                        backgroundColor: [
+                            'rgb(255, 99, 132)',
+                            'rgb(54, 162, 235)',
+                            'rgb(255, 205, 86)',
+                            'rgb(75, 192, 192)',
+                            'rgb(153, 102, 255)'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right'
+                        }
+                    }
+                }
+            });
+        });
+
+        // Dashboard Functions
+        async function refreshDashboard() {
+            window.location.reload();
+        }
+
+        async function exportDashboardData() {
+            const timestamp = new Date().toISOString().split('T')[0];
+            const dashboardData = JSON.parse('<%- JSON.stringify({ stats, charts }) %>');
+            const data = {
+                exportDate: timestamp,
+                ...dashboardData
+            };
+
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `dashboard-export-${timestamp}.json`;
+            a.click();
+            window.URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

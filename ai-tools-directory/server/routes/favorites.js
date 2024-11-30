@@ -1,11 +1,11 @@
 import express from 'express';
 import Tool from '../models/Tool.js';
-import { auth } from '../middleware/auth.js';
+import { authenticate } from '../middleware/auth.js';
 
 const router = express.Router();
 
 // Toggle favorite status of a tool
-router.post('/toggle/:toolId', auth, async (req, res) => {
+router.post('/toggle/:toolId', authenticate, async (req, res) => {
   try {
     const tool = await Tool.findById(req.params.toolId);
     if (!tool) {
@@ -35,7 +35,7 @@ router.post('/toggle/:toolId', auth, async (req, res) => {
 });
 
 // Get user's favorite tools
-router.get('/my', auth, async (req, res) => {
+router.get('/my', authenticate, async (req, res) => {
   try {
     const tools = await Tool.find({
       favoritedBy: req.userId,
@@ -49,7 +49,7 @@ router.get('/my', auth, async (req, res) => {
 });
 
 // Check if a tool is favorited by the user
-router.get('/check/:toolId', auth, async (req, res) => {
+router.get('/check/:toolId', authenticate, async (req, res) => {
   try {
     const tool = await Tool.findById(req.params.toolId);
     if (!tool) {
