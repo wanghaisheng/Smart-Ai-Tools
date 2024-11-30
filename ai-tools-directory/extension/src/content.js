@@ -42,6 +42,14 @@ class SmartPromptsUI {
               Smart Prompts
             </div>
             <div class="smart-prompts-content">
+              <div class="mb-7 hidden text-center lg:block">
+                <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
+                  <h1>What can I help with?</h1>
+                  <h1 class="result-streaming absolute left-full transition-opacity" style="opacity: 0;">
+                    <span></span>
+                  </h1>
+                </div>
+              </div>
               ${this.isLoading ? this.renderLoading() : this.renderContent()}
             </div>
           </div>
@@ -107,6 +115,14 @@ class SmartPromptsUI {
             Smart Prompts
           </div>
           <div class="smart-prompts-content">
+            <div class="mb-7 hidden text-center lg:block">
+              <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
+                <h1>What can I help with?</h1>
+                <h1 class="result-streaming absolute left-full transition-opacity" style="opacity: 0;">
+                  <span></span>
+                </h1>
+              </div>
+            </div>
             ${this.isLoading ? this.renderLoading() : this.renderContent()}
           </div>
         </div>
