@@ -315,112 +315,211 @@ class SmartPromptsUI {
     return '<div class="loading-spinner"></div>';
   }
 
+  parsePromptVariables(content) {
+    if (!content) return {};
+    const regex = /{([^{}]+)}/g;
+    const vars = {};
+    let match;
+
+    while ((match = regex.exec(content)) !== null) {
+      const name = match[1].trim();
+      vars[name] = {
+        value: '',
+        description: `Enter value for ${name}`
+      };
+    }
+
+    return vars;
+  }
+
+  replaceVariables(content, variables) {
+    let result = content;
+    Object.entries(variables).forEach(([name, data]) => {
+      result = result.replace(new RegExp(`{${name}}`, 'g'), data.value);
+    });
+    return result;
+  }
+
   renderPromptModal(prompt) {
-    // Create modal container
     const modalContainer = document.createElement('div');
-    modalContainer.className = 'smart-prompts-modal';
+    modalContainer.className = 'prompt-modal-container';
     
-    modalContainer.innerHTML = `
-      <div class="modal-overlay"></div>
-      <div class="modal-content">
-        <div class="modal-header">
-          <h2>${this.escapeHtml(prompt.title)}</h2>
-          <button class="close-modal">&times;</button>
-        </div>
-        <div class="modal-body">
-          <div class="prompt-meta">
-            <p>By ${this.escapeHtml(prompt.author?.username || 'Anonymous')}</p>
-            <p>Created on ${this.formatDate(prompt.createdAt)}</p>
-          </div>
-          
-          <p class="prompt-description">${this.escapeHtml(prompt.description)}</p>
-          
-          ${prompt.tags?.length ? `
-            <div class="prompt-tags">
-              ${prompt.tags.map(tag => `
-                <span class="prompt-tag">${this.escapeHtml(tag)}</span>
-              `).join('')}
-            </div>
-          ` : ''}
-          
-          <div class="prompt-content">${this.escapeHtml(prompt.content)}</div>
-        </div>
-        <div class="modal-footer">
-          <button class="modal-btn secondary favorite-btn">
-            <svg width="16" height="16" viewBox="0 0 20 20" fill="${prompt.favorites?.includes(this.userId) ? 'currentColor' : 'none'}" stroke="currentColor">
-              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
-            </svg>
-            Favorite
-          </button>
-          <button class="modal-btn secondary share-btn">
-            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor">
-              <path d="M15 8a3 3 0 100-6 3 3 0 000 6zM5 12a3 3 0 100-6 3 3 0 000 6zM15 16a3 3 0 100-6 3 3 0 000 6z"/>
-              <path d="M7.5 10.5l5-3M7.5 13.5l5 3"/>
-            </svg>
-            Share
-          </button>
-          <button class="modal-btn primary copy-btn">
-            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor">
-              <path d="M8 3H5a2 2 0 00-2 2v9m0 0h3m-3 0v-9m0 9h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1"/>
-            </svg>
-            Copy Prompt
-          </button>
-        </div>
-      </div>
+    const modalContent = document.createElement('div');
+    modalContent.className = 'prompt-modal-content';
+    
+    // Modal header
+    const modalHeader = document.createElement('div');
+    modalHeader.className = 'prompt-modal-header';
+    modalHeader.innerHTML = `
+      <h2>${prompt.title || 'Untitled Prompt'}</h2>
+      <button class="close-modal-btn">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
     `;
-
-    // Add to body
+    
+    // Variables section
+    const variables = this.parsePromptVariables(prompt.content);
+    const variablesSection = document.createElement('div');
+    variablesSection.className = 'prompt-variables-section';
+    
+    if (Object.keys(variables).length > 0) {
+      const variablesContent = document.createElement('div');
+      variablesContent.className = 'variables-content';
+      
+      Object.entries(variables).forEach(([name, data]) => {
+        const variableInput = document.createElement('div');
+        variableInput.className = 'variable-input-group';
+        variableInput.innerHTML = `
+          <label for="${name}">${name}</label>
+          <input 
+            type="text" 
+            id="${name}" 
+            class="variable-input" 
+            placeholder="Enter ${name.toLowerCase()}"
+            value="${data.value || ''}"
+          >
+        `;
+        variablesContent.appendChild(variableInput);
+      });
+      
+      variablesSection.appendChild(variablesContent);
+    }
+    
+    // Preview section
+    const previewSection = document.createElement('div');
+    previewSection.className = 'prompt-preview-section';
+    previewSection.innerHTML = `
+      <h3>Preview</h3>
+      <div class="preview-content">${prompt.content}</div>
+    `;
+    
+    // Modal footer
+    const modalFooter = document.createElement('div');
+    modalFooter.className = 'prompt-modal-footer';
+    modalFooter.innerHTML = `
+      <div class="action-buttons">
+        <button class="favorite-btn ${prompt.isFavorited ? 'active' : ''}" title="Add to favorites">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="${prompt.isFavorited ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
+            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+          </svg>
+        </button>
+        <button class="share-btn" title="Share prompt">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+            <polyline points="16 6 12 2 8 6"></polyline>
+            <line x1="12" y1="2" x2="12" y2="15"></line>
+          </svg>
+        </button>
+      </div>
+      <button class="copy-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path>
+          <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
+        </svg>
+        Copy
+      </button>
+    `;
+    
+    // Append all sections
+    modalContent.appendChild(modalHeader);
+    if (Object.keys(variables).length > 0) {
+      modalContent.appendChild(variablesSection);
+    }
+    modalContent.appendChild(previewSection);
+    modalContent.appendChild(modalFooter);
+    modalContainer.appendChild(modalContent);
     document.body.appendChild(modalContainer);
-
-    // Add event listeners
-    const closeBtn = modalContainer.querySelector('.close-modal');
-    const overlay = modalContainer.querySelector('.modal-overlay');
-    const copyBtn = modalContainer.querySelector('.copy-btn');
-    const favoriteBtn = modalContainer.querySelector('.favorite-btn');
-    const shareBtn = modalContainer.querySelector('.share-btn');
-
+    
+    // Event Listeners
     const closeModal = () => modalContainer.remove();
-
-    closeBtn.addEventListener('click', closeModal);
-    overlay.addEventListener('click', closeModal);
-
-    copyBtn.addEventListener('click', async () => {
+    
+    modalContainer.querySelector('.close-modal-btn').addEventListener('click', closeModal);
+    modalContainer.addEventListener('click', (e) => {
+      if (e.target === modalContainer) {
+        closeModal();
+      }
+    });
+    
+    // Handle escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeModal();
+      }
+    });
+    
+    // Variable input handling with debounce
+    let debounceTimeout;
+    const variableInputs = modalContainer.querySelectorAll('.variable-input');
+    variableInputs.forEach(input => {
+      input.addEventListener('input', () => {
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => {
+          const updatedVariables = {};
+          variableInputs.forEach(input => {
+            updatedVariables[input.id] = {
+              value: input.value,
+              description: variables[input.id].description
+            };
+          });
+          
+          const previewContent = this.replaceVariables(prompt.content, updatedVariables);
+          modalContainer.querySelector('.preview-content').textContent = previewContent;
+        }, 300);
+      });
+    });
+    
+    // Copy button handling
+    modalContainer.querySelector('.copy-btn').addEventListener('click', async () => {
+      const previewContent = modalContainer.querySelector('.preview-content').textContent;
       try {
-        await navigator.clipboard.writeText(prompt.content);
-        this.showToast('Prompt copied to clipboard!', 'success');
+        await navigator.clipboard.writeText(previewContent);
+        this.showToast('Copied to clipboard!');
+        
+        // Update button text temporarily
+        const copyBtn = modalContainer.querySelector('.copy-btn');
+        const originalContent = copyBtn.innerHTML;
+        copyBtn.innerHTML = `
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M20 6L9 17l-5-5"></path>
+          </svg>
+          Copied!
+        `;
+        setTimeout(() => {
+          copyBtn.innerHTML = originalContent;
+        }, 2000);
       } catch (error) {
-        this.showToast('Failed to copy prompt', 'error');
+        this.showToast('Failed to copy to clipboard', 'error');
       }
     });
-
-    favoriteBtn.addEventListener('click', async () => {
-      if (!this.isAuthenticated) {
-        this.showToast('Please login to favorite prompts', 'warning');
-        return;
-      }
-      await this.toggleFavorite(prompt._id);
-      const isFavorited = prompt.favorites?.includes(this.userId);
-      favoriteBtn.querySelector('svg').setAttribute('fill', isFavorited ? 'none' : 'currentColor');
-    });
-
-    shareBtn.addEventListener('click', async () => {
+    
+    // Favorite button handling
+    modalContainer.querySelector('.favorite-btn').addEventListener('click', async (e) => {
+      const button = e.currentTarget;
       try {
-        const shareUrl = `${window.location.origin}/prompt/${prompt._id}`;
+        const response = await this.toggleFavorite(prompt.id);
+        if (response.success) {
+          button.classList.toggle('active');
+          const isFavorited = button.classList.contains('active');
+          button.querySelector('svg').setAttribute('fill', isFavorited ? 'currentColor' : 'none');
+          this.showToast(isFavorited ? 'Added to favorites!' : 'Removed from favorites');
+        }
+      } catch (error) {
+        this.showToast('Failed to update favorite status', 'error');
+      }
+    });
+    
+    // Share button handling
+    modalContainer.querySelector('.share-btn').addEventListener('click', async () => {
+      try {
+        const shareUrl = `${window.location.origin}/prompt/${prompt.id}`;
         await navigator.clipboard.writeText(shareUrl);
-        this.showToast('Share link copied to clipboard!', 'success');
+        this.showToast('Share link copied to clipboard!');
       } catch (error) {
         this.showToast('Failed to copy share link', 'error');
       }
     });
-
-    // Close on escape key
-    const handleEscape = (e) => {
-      if (e.key === 'Escape') {
-        closeModal();
-        document.removeEventListener('keydown', handleEscape);
-      }
-    };
-    document.addEventListener('keydown', handleEscape);
   }
 
   renderPrompts() {
