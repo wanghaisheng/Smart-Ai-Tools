@@ -13,13 +13,22 @@ router.get('/', async (req, res) => {
     res.json(categories);
   } catch (error) {
     console.error('Error fetching categories:', error);
-    res.status(500).json({ message: 'Error fetching categories' });
+    res.status(500).json({ 
+      message: 'Error fetching categories',
+      error: error.message 
+    });
   }
 });
 
 // Get all unique categories with tool counts from Tools collection
 router.get('/all', async (req, res) => {
   try {
+    // First check if we can connect to the database
+    const dbStatus = await Tool.db.db.admin().ping();
+    if (!dbStatus) {
+      throw new Error('Database connection failed');
+    }
+
     // Get all categories with their counts
     const categoryStats = await Tool.aggregate([
       { $match: { status: 'approved' } },
@@ -39,10 +48,20 @@ router.get('/all', async (req, res) => {
       { $sort: { category: 1 } }
     ]);
 
+    // If no categories found, return empty array instead of error
+    if (!categoryStats || categoryStats.length === 0) {
+      return res.json([]);
+    }
+
     res.json(categoryStats);
   } catch (error) {
     console.error('Error fetching categories from tools:', error);
-    res.status(500).json({ message: 'Error fetching categories' });
+    // Send more detailed error message
+    res.status(500).json({ 
+      message: 'Error fetching categories',
+      error: error.message,
+      details: 'Database connection or query failed'
+    });
   }
 });
 
@@ -56,7 +75,10 @@ router.get('/:id', async (req, res) => {
     res.json(category);
   } catch (error) {
     console.error('Error fetching category:', error);
-    res.status(500).json({ message: 'Error fetching category' });
+    res.status(500).json({ 
+      message: 'Error fetching category',
+      error: error.message 
+    });
   }
 });
 
@@ -70,7 +92,10 @@ router.get('/:id/tools-count', async (req, res) => {
     res.json({ count: category.toolCount });
   } catch (error) {
     console.error('Error fetching category tools count:', error);
-    res.status(500).json({ message: 'Error fetching category tools count' });
+    res.status(500).json({ 
+      message: 'Error fetching category tools count',
+      error: error.message 
+    });
   }
 });
 
