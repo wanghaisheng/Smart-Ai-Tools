@@ -46,23 +46,44 @@ dotenv.config();
 const app = express();
 
 // CORS configuration
-app.use(cors({
-  origin: '*', // Allow all origins during testing
-  credentials: true,
+const corsOptions = {
+  origin: function (origin, callback) {
+    const allowedOrigins = [
+      'http://localhost:5173',
+      'http://127.0.0.1:5173',
+      'https://5a955861-0833-4fa6-b0d5-523efe7779c1.e1-us-east-azure.choreoapps.dev',
+      'https://smart-ai-tools.vercel.app'
+    ];
+    
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      console.log('Origin blocked by CORS:', origin);
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
-  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept', 'Origin']
-}));
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With', 'Accept', 'Origin'],
+  credentials: true,
+  optionsSuccessStatus: 204
+};
 
-// Security headers
+app.use(cors(corsOptions));
+
+// Additional headers for CORS
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', '*');
+  const origin = req.headers.origin;
+  if (corsOptions.origin(origin, () => {})) {
+    res.header('Access-Control-Allow-Origin', origin);
+  }
   res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS');
   res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With, Accept, Origin');
   res.header('Access-Control-Allow-Credentials', 'true');
   
   // Handle preflight requests
   if (req.method === 'OPTIONS') {
-    return res.status(200).end();
+    return res.status(204).end();
   }
   next();
 });
@@ -80,8 +101,11 @@ app.set('views', path.join(__dirname, 'views'));
 mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  serverSelectionTimeoutMS: 5000, // Add timeout of 5 seconds
-  socketTimeoutMS: 45000, // Close sockets after 45 seconds of inactivity
+  serverSelectionTimeoutMS: 10000, // Increase timeout to 10 seconds
+  socketTimeoutMS: 45000,
+  connectTimeoutMS: 10000,
+  retryWrites: true,
+  w: 'majority'
 })
 .then(() => {
   console.log('MongoDB connected successfully');
@@ -90,7 +114,10 @@ mongoose.connect(process.env.MONGODB_URI, {
 })
 .catch(err => {
   console.error('MongoDB connection error:', err);
-  process.exit(1); // Exit if we can't connect to database
+  // Don't exit process immediately in production
+  if (process.env.NODE_ENV !== 'production') {
+    process.exit(1);
+  }
 });
 
 // Handle MongoDB connection errors
@@ -126,6 +153,26 @@ app.use('/api/generate-prompt', generatePromptRoutes);
 // Admin routes
 app.use('/admin', adminRoutes);
 
+// Debug endpoints
+app.get('/api/debug/ping', (req, res) => {
+  res.json({ 
+    message: 'Server is running',
+    environment: process.env.NODE_ENV,
+    timestamp: new Date().toISOString(),
+    headers: req.headers,
+    origin: req.get('origin')
+  });
+});
+
+app.get('/api/debug/cors-test', (req, res) => {
+  res.json({ 
+    message: 'CORS is working',
+    origin: req.get('origin'),
+    method: req.method,
+    headers: req.headers
+  });
+});
+
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, '../client/dist')));
@@ -136,25 +183,53 @@ if (process.env.NODE_ENV === 'production') {
 
 // Error handling middleware
 app.use((err, req, res, next) => {
-  console.error('Server Error:', {
-    message: err.message,
-    stack: err.stack,
-    path: req.path,
-    method: req.method,
-    body: req.body,
-    query: req.query
-  });
-  
-  res.status(500).json({ 
-    message: 'Something went wrong!',
-    error: process.env.NODE_ENV === 'development' ? err.message : undefined
+  console.error('Global error handler:', err);
+  res.status(err.status || 500).json({
+    message: err.message || 'Internal Server Error',
+    error: process.env.NODE_ENV === 'development' ? err : {}
   });
 });
 
 const PORT = process.env.PORT || 5000;
+let server;
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+const startServer = () => {
+  server = app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+    console.log('Environment:', process.env.NODE_ENV);
+    console.log('MongoDB URI:', process.env.MONGODB_URI?.substring(0, 20) + '...');
+    console.log('Client URL:', process.env.CLIENT_URL);
+  });
+
+  // Handle server errors
+  server.on('error', (error) => {
+    console.error('Server error:', error);
+    if (error.code === 'EADDRINUSE') {
+      console.log('Port is busy, retrying in 1 second...');
+      setTimeout(() => {
+        server.close();
+        startServer();
+      }, 1000);
+    }
+  });
+};
+
+// Graceful shutdown
+process.on('SIGTERM', () => {
+  console.log('SIGTERM received. Shutting down gracefully...');
+  server?.close(() => {
+    console.log('Server closed');
+    mongoose.connection.close(false, () => {
+      console.log('MongoDB connection closed');
+      process.exit(0);
+    });
+  });
+});
+
+// Start server after MongoDB connects
+mongoose.connection.once('open', () => {
+  console.log('MongoDB connection established successfully');
+  startServer();
 });
 
 export default app;
