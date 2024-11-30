@@ -1,5 +1,6 @@
 // Constants
 const SMART_PROMPTS_API = 'http://localhost:5000/api/smart-prompts';
+const AUTH_API = 'http://localhost:5000/api/auth';
 
 class SmartPromptsUI {
   constructor() {
@@ -9,6 +10,7 @@ class SmartPromptsUI {
     this.container = null;
     this.initialized = false;
     this.isAuthenticated = false;
+    this.authToken = null;
     this.currentPage = 1;
     this.totalPages = 1;
     this.isLoading = false;
@@ -24,6 +26,9 @@ class SmartPromptsUI {
     try {
       console.log('Initializing Smart Prompts UI...');
       
+      // Check authentication status
+      await this.checkAuthStatus();
+      
       // Create root container that sits outside ChatGPT's React tree
       const rootContainer = document.createElement('div');
       rootContainer.id = 'smart-prompts-root';
@@ -34,7 +39,13 @@ class SmartPromptsUI {
       this.container.className = 'smart-prompts-extension-container';
       rootContainer.appendChild(this.container);
       
-      // Create the wrapper structure
+      // If not authenticated, show login form
+      if (!this.isAuthenticated) {
+        this.showAuthForm();
+        return;
+      }
+      
+      // Create the wrapper structure for authenticated users
       this.container.innerHTML = `
         <div class="smart-prompts-wrapper">
           <div class="smart-prompts-sidebar">
@@ -43,29 +54,22 @@ class SmartPromptsUI {
                 <span class="text-token-text-primary">Smart Prompts</span>
               </div>
               <div class="flex items-center gap-2">
-                <button class="h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
+                <button class="logout-btn h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md">
-                    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 10.8954 3.89543 10 5 10C6.10457 10 7 10.8954 7 12C7 13.1046 6.10457 14 5 14C3.89543 14 3 13.1046 3 12Z" fill="currentColor"></path>
-                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12Z" fill="currentColor"></path>
-                    <path fill-rule="evenodd" clip-rule="evenodd" d="M17 12C17 10.8954 17.8954 10 19 10C20.1046 10 21 10.8954 21 12C21 13.1046 20.1046 14 19 14C17.8954 14 17 13.1046 17 12Z" fill="currentColor"></path>
+                    <path d="M16 17L21 12M21 12L16 7M21 12H9M9 3H7.8C6.11984 3 5.27976 3 4.63803 3.32698C4.07354 3.6146 3.6146 4.07354 3.32698 4.63803C3 5.27976 3 6.11984 3 7.8V16.2C3 17.8802 3 18.7202 3.32698 19.362C3.6146 19.9265 4.07354 20.3854 4.63803 20.673C5.27976 21 6.11984 21 7.8 21H9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                   </svg>
                 </button>
               </div>
             </div>
             <div class="smart-prompts-content">
-              <div class="mb-7 text-center">
-                <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
-                  <h1 class="text-token-text-primary">What can I help with?</h1>
-                  <h1 class="result-streaming absolute left-full transition-opacity text-token-text-primary" style="opacity: 0;">
-                    <span></span>
-                  </h1>
-                </div>
-              </div>
               ${this.isLoading ? this.renderLoading() : this.renderContent()}
             </div>
           </div>
         </div>
       `;
+      
+      // Add event listeners
+      this.attachEventListeners();
       
       console.log('Initial render complete');
       
@@ -89,261 +93,155 @@ class SmartPromptsUI {
     }
   }
 
-  setupResizeObserver() {
-    // Observe main content to adjust our sidebar
-    const mainContent = document.querySelector('main');
-    if (mainContent) {
-      const resizeObserver = new ResizeObserver(entries => {
-        for (const entry of entries) {
-          const mainWidth = entry.contentRect.width;
-          const mainRight = window.innerWidth - (entry.target.getBoundingClientRect().left + entry.contentRect.width);
-          
-          // Adjust our container position if needed
-          if (this.container) {
-            // Remove any left positioning
-            this.container.style.left = '';
-            // Add right positioning with no gap
-            this.container.style.right = '0px';
-            // Adjust main content padding to make space for our sidebar
-            entry.target.style.paddingLeft = '';
-            entry.target.style.paddingRight = '326px'; // Increased to match new width (286px) plus some spacing
-          }
-        }
-      });
-      
-      resizeObserver.observe(mainContent);
+  async checkAuthStatus() {
+    try {
+      // Check if we have a token in storage
+      const auth = await chrome.storage.local.get('smartPromptsAuth');
+      if (auth.smartPromptsAuth?.token) {
+        this.authToken = auth.smartPromptsAuth.token;
+        this.isAuthenticated = true;
+      }
+    } catch (error) {
+      console.error('Error checking auth status:', error);
+      this.isAuthenticated = false;
     }
   }
 
-  render() {
-    if (!this.container) {
-      console.error('Container not found');
-      return;
-    }
-
-    console.log('Rendering UI...');
-    
-    const contentHtml = `
+  showAuthForm() {
+    this.container.innerHTML = `
       <div class="smart-prompts-wrapper">
         <div class="smart-prompts-sidebar">
           <div class="smart-prompts-header flex justify-between items-center">
             <div class="flex items-center gap-2">
               <span class="text-token-text-primary">Smart Prompts</span>
             </div>
-            <div class="flex items-center gap-2">
-              <button class="h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md">
-                  <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 10.8954 3.89543 10 5 10C6.10457 10 7 10.8954 7 12C7 13.1046 6.10457 14 5 14C3.89543 14 3 13.1046 3 12Z" fill="currentColor"></path>
-                  <path fill-rule="evenodd" clip-rule="evenodd" d="M10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12Z" fill="currentColor"></path>
-                  <path fill-rule="evenodd" clip-rule="evenodd" d="M17 12C17 10.8954 17.8954 10 19 10C20.1046 10 21 10.8954 21 12C21 13.1046 20.1046 14 19 14C17.8954 14 17 13.1046 17 12Z" fill="currentColor"></path>
-                </svg>
-              </button>
-            </div>
           </div>
           <div class="smart-prompts-content">
-            <div class="mb-7 text-center">
-              <div class="relative inline-flex justify-center text-center text-2xl font-semibold leading-9">
-                <h1 class="text-token-text-primary">What can I help with?</h1>
-                <h1 class="result-streaming absolute left-full transition-opacity text-token-text-primary" style="opacity: 0;">
-                  <span></span>
-                </h1>
-              </div>
+            <div class="auth-form p-4">
+              <h2 class="text-xl font-semibold mb-4 text-center">Login or Register</h2>
+              <form id="authForm" class="space-y-4">
+                <div class="mb-4">
+                  <input type="email" id="email" placeholder="Email" required
+                    class="w-full p-2 rounded bg-gray-700 text-white border border-gray-600 focus:border-blue-500 focus:outline-none">
+                </div>
+                <div class="mb-4">
+                  <input type="password" id="password" placeholder="Password" required
+                    class="w-full p-2 rounded bg-gray-700 text-white border border-gray-600 focus:border-blue-500 focus:outline-none">
+                </div>
+                <div class="mb-4" id="registerFields" style="display: none;">
+                  <input type="text" id="username" placeholder="Username"
+                    class="w-full p-2 rounded bg-gray-700 text-white border border-gray-600 focus:border-blue-500 focus:outline-none">
+                </div>
+                <div class="flex justify-between mb-4">
+                  <button type="button" id="toggleAuth" class="text-blue-500 hover:text-blue-400">
+                    Create Account
+                  </button>
+                </div>
+                <button type="submit" id="submitAuth" 
+                  class="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700 transition-colors">
+                  Login
+                </button>
+              </form>
+              <div id="authError" class="mt-4 text-red-500 text-center hidden"></div>
             </div>
-            ${this.isLoading ? this.renderLoading() : this.renderContent()}
           </div>
         </div>
       </div>
     `;
 
-    // Update container content
-    this.container.innerHTML = contentHtml;
-    
-    // Attach event listeners
-    this.attachEventListeners();
-    
-    console.log('Render complete');
+    // Add auth form event listeners
+    this.attachAuthEventListeners();
   }
 
-  renderLoading() {
-    return `
-      <div class="smart-prompts-loading">
-        <div class="loading-spinner"></div>
-      </div>
-    `;
-  }
+  attachAuthEventListeners() {
+    const form = document.getElementById('authForm');
+    const toggleBtn = document.getElementById('toggleAuth');
+    const submitBtn = document.getElementById('submitAuth');
+    const registerFields = document.getElementById('registerFields');
+    let isLoginMode = true;
 
-  renderContent() {
-    return `
-      ${this.renderTabs()}
-      ${this.activeTab === 'settings' ? this.renderSettings() : `
-        ${this.renderSearch()}
-        ${this.renderPrompts()}
-      `}
-    `;
-  }
+    toggleBtn.addEventListener('click', () => {
+      isLoginMode = !isLoginMode;
+      registerFields.style.display = isLoginMode ? 'none' : 'block';
+      toggleBtn.textContent = isLoginMode ? 'Create Account' : 'Back to Login';
+      submitBtn.textContent = isLoginMode ? 'Login' : 'Register';
+    });
 
-  handlePromptClick(content) {
-    const textarea = document.querySelector('#prompt-textarea') || 
-                    document.querySelector('textarea[placeholder*="Send a message"]');
-    
-    if (textarea) {
-      textarea.value = content;
-      textarea.dispatchEvent(new Event('input', { bubbles: true }));
-      textarea.focus();
-    }
-  }
-
-  async handleTabClick(tabId) {
-    // Check authentication for protected tabs
-    if (!this.isAuthenticated && ['my-prompts', 'favorites', 'shared'].includes(tabId)) {
-      this.showAuthModal();
-      return;
-    }
-    
-    this.activeTab = tabId;
-    this.currentPage = 1; // Reset to first page when changing tabs
-    await this.fetchPrompts();
-  }
-
-  async handlePageChange(page) {
-    this.currentPage = page;
-    await this.fetchPrompts();
-  }
-
-  async handleSearch(event) {
-    this.searchQuery = event.target.value;
-    this.currentPage = 1; // Reset to first page when searching
-    await this.fetchPrompts();
-  }
-
-  handleSettingChange(setting, value) {
-    this.settings[setting] = value;
-    chrome.storage.local.set({ 
-      smartPromptsSettings: this.settings 
-    }).catch(console.error);
-    this.render();
-  }
-
-  async fetchPrompts() {
-    try {
-      this.isLoading = true;
-      this.render();
-
-      let params = new URLSearchParams({
-        page: this.currentPage,
-        limit: this.settings.promptsPerPage,
-        search: this.searchQuery
-      });
-
-      // Add tab-specific parameters
-      switch (this.activeTab) {
-        case 'my-prompts':
-          params.append('userId', 'current');
-          break;
-        case 'public':
-          params.append('visibility', 'public');
-          break;
-        case 'favorites':
-          params.append('favorites', 'current');
-          break;
-        case 'shared':
-          params.append('sharedWith', 'current');
-          break;
-        case 'ai-gen':
-          params.append('category', 'ai-generated');
-          break;
-      }
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = document.getElementById('email').value;
+      const password = document.getElementById('password').value;
+      const username = document.getElementById('username')?.value;
+      const errorDiv = document.getElementById('authError');
 
       try {
-        const response = await chrome.runtime.sendMessage({
-          type: 'API_REQUEST',
-          url: `${SMART_PROMPTS_API}?${params}`,
-          method: 'GET',
+        const endpoint = isLoginMode ? '/login' : '/register';
+        const data = await this.sendRequest(AUTH_API + endpoint, {
+          method: 'POST',
           headers: {
-            'Accept': 'application/json',
-            'Origin': window.location.origin
+            'Content-Type': 'application/json',
           },
-          credentials: 'include'
+          body: isLoginMode ? { email, password } : { email, password, username }
         });
 
-        if (!response?.success) {
-          throw new Error(response?.error || 'Failed to fetch prompts');
-        }
+        // Store auth token
+        await chrome.storage.local.set({
+          smartPromptsAuth: {
+            token: data.token,
+            user: data.user
+          }
+        });
 
-        const data = response.data;
-        
-        if (data?.status === 401) {
-          this.isAuthenticated = false;
-          throw new Error('Authentication required');
-        }
+        this.authToken = data.token;
+        this.isAuthenticated = true;
 
-        this.prompts = Array.isArray(data?.prompts) ? data.prompts : [];
-        this.currentPage = Number(data?.currentPage) || 1;
-        this.totalPages = Number(data?.totalPages) || 1;
+        // Reinitialize the UI
+        this.initialize();
       } catch (error) {
-        console.error('API request failed:', error);
-        // Use mock data when API is not available
-        this.useMockData();
+        console.error('Auth error:', error);
+        errorDiv.textContent = error.message;
+        errorDiv.classList.remove('hidden');
       }
+    });
+  }
+
+  async sendRequest(url, options = {}) {
+    try {
+      const response = await chrome.runtime.sendMessage({
+        type: 'API_REQUEST',
+        url,
+        ...options
+      });
+
+      if (!response.success) {
+        throw new Error(response.error || 'Request failed');
+      }
+
+      return response.data;
     } catch (error) {
-      console.error('Error in fetchPrompts:', error);
-      this.prompts = [];
-      this.currentPage = 1;
-      this.totalPages = 1;
-    } finally {
-      this.isLoading = false;
-      this.render();
+      console.error('Request error:', error);
+      throw error;
     }
-  }
-
-  useMockData() {
-    // Provide mock data for development and testing
-    this.prompts = [
-      {
-        id: '1',
-        title: 'Example Prompt 1',
-        content: 'This is an example prompt for testing purposes.',
-        category: 'General',
-        visibility: 'public',
-        author: 'System',
-        createdAt: new Date().toISOString()
-      },
-      {
-        id: '2',
-        title: 'Example Prompt 2',
-        content: 'Another example prompt for testing the UI.',
-        category: 'Coding',
-        visibility: 'public',
-        author: 'System',
-        createdAt: new Date().toISOString()
-      }
-    ];
-    this.currentPage = 1;
-    this.totalPages = 1;
-  }
-
-  showAuthModal() {
-    // Implementation of authentication modal
-    const modal = document.createElement('div');
-    modal.className = 'smart-prompts-auth-modal';
-    modal.innerHTML = `
-      <div class="modal-content">
-        <h2>Authentication Required</h2>
-        <p>Please log in to access this feature.</p>
-        <button onclick="window.smartPromptsUI.handleAuthClick()">Log In</button>
-      </div>
-    `;
-    document.body.appendChild(modal);
-  }
-
-  handleAuthClick() {
-    // Implement authentication logic here
-    // For now, we'll just simulate authentication
-    this.isAuthenticated = true;
-    document.querySelector('.smart-prompts-auth-modal')?.remove();
   }
 
   attachEventListeners() {
+    // Add logout button listener
+    const logoutBtn = this.container.querySelector('.logout-btn');
+    if (logoutBtn) {
+      logoutBtn.addEventListener('click', async () => {
+        try {
+          // Clear auth data
+          await chrome.storage.local.remove('smartPromptsAuth');
+          this.authToken = null;
+          this.isAuthenticated = false;
+          // Show login form
+          this.showAuthForm();
+        } catch (error) {
+          console.error('Logout error:', error);
+        }
+      });
+    }
+
     // Handle tab clicks
     const tabs = this.container.querySelectorAll('.smart-prompts-tab');
     tabs.forEach(tab => {
@@ -400,6 +298,216 @@ class SmartPromptsUI {
         if (setting) this.handleSettingChange(setting, value);
       });
     });
+  }
+
+  render() {
+    if (!this.container) {
+      console.error('Container not found');
+      return;
+    }
+
+    console.log('Rendering UI...');
+    
+    const contentHtml = `
+      <div class="smart-prompts-wrapper">
+        <div class="smart-prompts-sidebar">
+          <div class="smart-prompts-header flex justify-between items-center">
+            <div class="flex items-center gap-2">
+              <span class="text-token-text-primary">Smart Prompts</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <button class="logout-btn h-8 w-8 flex items-center justify-center rounded-lg hover:bg-token-sidebar-surface-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md">
+                  <path d="M16 17L21 12M21 12L16 7M21 12H9M9 3H7.8C6.11984 3 5.27976 3 4.63803 3.32698C4.07354 3.6146 3.6146 4.07354 3.32698 4.63803C3 5.27976 3 6.11984 3 7.8V16.2C3 17.8802 3 18.7202 3.32698 19.362C3.6146 19.9265 4.07354 20.3854 4.63803 20.673C5.27976 21 6.11984 21 7.8 21H9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="smart-prompts-content">
+            ${this.isLoading ? this.renderLoading() : this.renderContent()}
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Update container content
+    this.container.innerHTML = contentHtml;
+    
+    // Attach event listeners
+    this.attachEventListeners();
+    
+    console.log('Render complete');
+  }
+
+  renderLoading() {
+    return `
+      <div class="smart-prompts-loading">
+        <div class="loading-spinner"></div>
+      </div>
+    `;
+  }
+
+  renderContent() {
+    return `
+      ${this.renderTabs()}
+      ${this.activeTab === 'settings' ? this.renderSettings() : `
+        ${this.renderSearch()}
+        ${this.renderPrompts()}
+      `}
+    `;
+  }
+
+  handlePromptClick(content) {
+    const textarea = document.querySelector('#prompt-textarea') || 
+                    document.querySelector('textarea[placeholder*="Send a message"]');
+    
+    if (textarea) {
+      textarea.value = content;
+      textarea.dispatchEvent(new Event('input', { bubbles: true }));
+      textarea.focus();
+    }
+  }
+
+  async handleTabClick(tabId) {
+    // Check authentication for protected tabs
+    if (!this.isAuthenticated && ['my-prompts', 'favorites', 'shared'].includes(tabId)) {
+      this.showAuthForm();
+      return;
+    }
+    
+    this.activeTab = tabId;
+    this.currentPage = 1; // Reset to first page when changing tabs
+    await this.fetchPrompts();
+  }
+
+  async handlePageChange(page) {
+    this.currentPage = page;
+    await this.fetchPrompts();
+  }
+
+  async handleSearch(event) {
+    this.searchQuery = event.target.value;
+    this.currentPage = 1; // Reset to first page when searching
+    await this.fetchPrompts();
+  }
+
+  handleSettingChange(setting, value) {
+    this.settings[setting] = value;
+    chrome.storage.local.set({ 
+      smartPromptsSettings: this.settings 
+    }).catch(console.error);
+    this.render();
+  }
+
+  async fetchPrompts() {
+    if (!this.isAuthenticated) return;
+    
+    try {
+      this.isLoading = true;
+      this.render();
+
+      let params = new URLSearchParams({
+        page: this.currentPage,
+        limit: this.settings.promptsPerPage,
+        tab: this.activeTab
+      });
+
+      if (this.searchQuery) {
+        params.append('search', this.searchQuery);
+      }
+
+      const data = await this.sendRequest(SMART_PROMPTS_API + '?' + params, {
+        headers: {
+          'Authorization': `Bearer ${this.authToken}`
+        }
+      });
+
+      this.prompts = data.prompts || [];
+      this.totalPages = data.totalPages || 1;
+      this.render();
+    } catch (error) {
+      console.error('Error fetching prompts:', error);
+      if (error.message.includes('401')) {
+        this.isAuthenticated = false;
+        this.showAuthForm();
+      }
+    } finally {
+      this.isLoading = false;
+      this.render();
+    }
+  }
+
+  useMockData() {
+    // Provide mock data for development and testing
+    this.prompts = [
+      {
+        id: '1',
+        title: 'Example Prompt 1',
+        content: 'This is an example prompt for testing purposes.',
+        category: 'General',
+        visibility: 'public',
+        author: 'System',
+        createdAt: new Date().toISOString()
+      },
+      {
+        id: '2',
+        title: 'Example Prompt 2',
+        content: 'Another example prompt for testing the UI.',
+        category: 'Coding',
+        visibility: 'public',
+        author: 'System',
+        createdAt: new Date().toISOString()
+      }
+    ];
+    this.currentPage = 1;
+    this.totalPages = 1;
+  }
+
+  showAuthModal() {
+    // Implementation of authentication modal
+    const modal = document.createElement('div');
+    modal.className = 'smart-prompts-auth-modal';
+    modal.innerHTML = `
+      <div class="modal-content">
+        <h2>Authentication Required</h2>
+        <p>Please log in to access this feature.</p>
+        <button onclick="window.smartPromptsUI.handleAuthClick()">Log In</button>
+      </div>
+    `;
+    document.body.appendChild(modal);
+  }
+
+  handleAuthClick() {
+    // Implement authentication logic here
+    // For now, we'll just simulate authentication
+    this.isAuthenticated = true;
+    document.querySelector('.smart-prompts-auth-modal')?.remove();
+  }
+
+  setupResizeObserver() {
+    // Observe main content to adjust our sidebar
+    const mainContent = document.querySelector('main');
+    if (mainContent) {
+      const resizeObserver = new ResizeObserver(entries => {
+        for (const entry of entries) {
+          const mainWidth = entry.contentRect.width;
+          const mainRight = window.innerWidth - (entry.target.getBoundingClientRect().left + entry.contentRect.width);
+          
+          // Adjust our container position if needed
+          if (this.container) {
+            // Remove any left positioning
+            this.container.style.left = '';
+            // Add right positioning with no gap
+            this.container.style.right = '0px';
+            // Adjust main content padding to make space for our sidebar
+            entry.target.style.paddingLeft = '';
+            entry.target.style.paddingRight = '326px'; // Increased to match new width (286px) plus some spacing
+          }
+        }
+      });
+      
+      resizeObserver.observe(mainContent);
+    }
   }
 
   renderTabs() {
